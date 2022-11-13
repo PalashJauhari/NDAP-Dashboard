@@ -1,7 +1,0 @@
-{
-    "masterlayout":{"masterlayout-heading":{"text-align":"center"},
-                    "masterlayout-selection-tabs":{"text-align":"center","vertical-align": "middle",
-                                                   "height":"35px"},
-                    "masterlayout-dynamic-layout":{}
-                   }
-}
