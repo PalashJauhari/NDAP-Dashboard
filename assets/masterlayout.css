@@ -1,0 +1,31 @@
+.masterlayout-selection-tabs-children {
+    color: black;
+    border-radius: 6px;
+    border-radius: 6px;
+    padding: 12px !important;
+    font-family: "system-ui";
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.jsx-3201076643.tab.masterlayout-selection-tabs-children{
+    background-color: #575a689c;
+}
+
+.masterlayout-selection-tabs-children--selected {
+    color: black;
+    border-radius: 6px;
+    border-radius: 6px;
+    padding: 12px !important;
+    font-family: "system-ui";
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.jsx-3201076643.tab.masterlayout-selection-tabs-children.tab--selected {
+    background-color: #161c369c;
+}
+

@@ -8,10 +8,10 @@ from dash import Dash, html, dcc
 from masterlayout import masterlayout
 
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css',"/assets/masterlayout.css"]
 app = Dash(__name__,external_stylesheets=external_stylesheets)
 app.layout = masterlayout()
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run_server()
