@@ -6,7 +6,7 @@ from dash import Dash, html, dcc, Input, Output
 from masterlayout import masterLayout
 from populationcensus import populationcensusLayout
 
-def initialDisplay(value_selected_tab):
+def initialDisplay(DataReader,inputDict,value_selected_tab):
 
     """
     This function renders UI when new tab is selected
@@ -14,16 +14,16 @@ def initialDisplay(value_selected_tab):
     """
 
     if value_selected_tab=="population_census":
-        return populationcensusLayout()
+        return populationcensusLayout(DataReader,inputDict)
 
     if value_selected_tab=="socio_economic_condition":
-        return populationcensusLayout()
+        pass
 
     if value_selected_tab=="education":
-        return populationcensusLayout()
+        pass
 
     if value_selected_tab=="health":
-        return populationcensusLayout()
+        pass
     
-    if value_selected_tab=="employment":
-        return populationcensusLayout()
+    if inputDict["value_selected_tab"]=="employment":
+        pass

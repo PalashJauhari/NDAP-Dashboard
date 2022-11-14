@@ -6,13 +6,16 @@
     border-radius: 15px;
     display: inline-block;
     position: absolute;
+    overflow-y: scroll;
 }
 
 #populationcensus-all_states-dropdown{
     padding:5px 10px 5px 10px;
     font-weight: bold
 }
-
+#populationcensus-all_states-graph_div{
+    height:1000px;
+}
 
 #populationcensus-aggregated_metrics {
     border:2px solid black;

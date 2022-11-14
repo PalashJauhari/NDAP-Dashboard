@@ -30,6 +30,5 @@ def masterLayout():
     dynamic_layout = html.Div([],id="masterlayout-dynamic-layout")
     layout = html.Div([heading,selection_tabs,dynamic_layout],id="final-layout")
 
-
     return layout
 

@@ -3,19 +3,18 @@
     justify-content: center;
     font-weight: bold;
     font-size: x-large;
-    background-color: #1a286e9c;
+    background-color:#6b7edb9c;
     border: 2px solid black;
     border-radius: 15px;
     height: 40px;
     color:black
-
 }
 
 #masterlayout-selection-tabs-parent {
     margin-top: 1px;
     border: 2px solid black;
     border-radius: 12px;
-    background-color: #bec8fa9c;
+    background-color: #cfa02a9c;
 }
 .masterlayout-selection-tabs-children {
     border-radius: 12px;
@@ -29,13 +28,13 @@
 
 .jsx-3201076643.tab.masterlayout-selection-tabs-children{
     color: black;
-    background-color: #0512509c;
+    background-color: #cfa02a9c;
 }
 
 .masterlayout-selection-tabs-children--selected {
     border-radius: 18px;
     font-family: "system-ui";
-    display: flex !important;
+    display: flex;
     align-items: center;
     justify-content: center;
     font-weight: bold;
@@ -43,6 +42,7 @@
 }
 .jsx-3201076643.tab.masterlayout-selection-tabs-children.tab--selected {
     color: white;
-    background-color: #18285a;
+    background-color:#583002;
+    border-color: #583002;
 }
 
