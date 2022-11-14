@@ -1,31 +1,48 @@
+#masterlayout-heading{
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: #1a286e9c;
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 40px;
+    color:black
+
+}
+
+#masterlayout-selection-tabs-parent {
+    margin-top: 1px;
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: #bec8fa9c;
+}
 .masterlayout-selection-tabs-children {
-    color: black;
-    border-radius: 6px;
-    border-radius: 6px;
-    padding: 12px !important;
+    border-radius: 12px;
     font-family: "system-ui";
     display: flex !important;
     align-items: center;
     justify-content: center;
     font-weight: bold;
+    height: 50px;
 }
 
 .jsx-3201076643.tab.masterlayout-selection-tabs-children{
-    background-color: #575a689c;
+    color: black;
+    background-color: #0512509c;
 }
 
 .masterlayout-selection-tabs-children--selected {
-    color: black;
-    border-radius: 6px;
-    border-radius: 6px;
-    padding: 12px !important;
+    border-radius: 18px;
     font-family: "system-ui";
     display: flex !important;
     align-items: center;
     justify-content: center;
     font-weight: bold;
+    height: 50px;
 }
 .jsx-3201076643.tab.masterlayout-selection-tabs-children.tab--selected {
-    background-color: #161c369c;
+    color: white;
+    background-color: #18285a;
 }
 

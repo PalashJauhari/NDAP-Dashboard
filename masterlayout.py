@@ -6,21 +6,17 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from dash import Dash, html, dcc
 
-def masterlayout():
+def masterLayout():
 
     """
     This function return master layout of dashboard.
     
     """
 
-    # Read Style JSON
-    f = open('styles.json')
-    style_dict = json.load(f)
-    style_dict = style_dict["masterlayout"]
+ 
 
 
-    heading = html.Div([html.H4("Socio Economic Status of Indian States")],
-                       style=style_dict["masterlayout-heading"],
+    heading = html.Div(["Social and Economic Indicators of Indian States"],
                        id="masterlayout-heading")
 
     selection_tabs = html.Div(dcc.Tabs(id="masterlayout-selection-tabs-parent", value='population_census', 
@@ -32,7 +28,7 @@ def masterlayout():
                                        id="masterlayout-selection-tabs")
 
     dynamic_layout = html.Div([],id="masterlayout-dynamic-layout")
-    layout = html.Div([heading,selection_tabs,dynamic_layout])
+    layout = html.Div([heading,selection_tabs,dynamic_layout],id="final-layout")
 
 
     return layout
