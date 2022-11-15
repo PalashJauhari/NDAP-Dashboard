@@ -1,4 +1,5 @@
 {
+    "value_selected_tab":"population_census",
     "population_census":{"value_all_states_metric_dropdown":"population"},
     "socio_economic_condition":{},
     "education":{},
