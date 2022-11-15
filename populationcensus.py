@@ -21,7 +21,7 @@ def populationcensusLayout(DataReader,inputDict):
     all_states_metric_dropdown = dcc.Dropdown(options=[{'label': 'Population', 'value': 'population'},
                                                        {'label': 'Caste Distribution', 'value': 'caste_distribution'},
                                                        {'label': 'Literacy', 'value': 'literacy'},
-                                                       {'label': 'Working', 'value': 'employment'}],
+                                                       {'label': 'Working Population', 'value': 'employment'}],
                                                        value=inputDict["value_all_states_metric_dropdown"],
                                                        id="populationcensus-all_states-dropdown",
                                                        maxHeight=125)
@@ -91,36 +91,75 @@ def populationcensusLayout(DataReader,inputDict):
     state_wise_metric_dropdown = dcc.Dropdown(options=[{'label': 'Population', 'value': 'population'},
                                                        {'label': 'Caste Distribution', 'value': 'caste_distribution'},
                                                        {'label': 'Literacy', 'value': 'literacy'},
-                                                       {'label': 'Employment', 'value': 'employment'}],
+                                                       {'label': 'Working Population', 'value': 'employment'}],
                                                       value='population',
                                             id="populationcensus_state_wise_metric_dropdown",
                                             maxHeight=125)
 
 
-    #fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
-
+  
     if inputDict["value_populationcensus_state_wise_metric_dropdown"]=="population":
 
         df = df.sort_values("Population",ascending=True)
         df_state = df[df["State"]==inputDict["value_populationcensus_state_wise_state_dropdown"]]
 
-        labels = ["Male Population","Female Population"]
+        labels = ["Male","Female"]
         values = [df_state['Male population'].values[0],df_state['Female population'].values[0]]
 
         fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
         fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
 
         fig_bottom = go.Figure(go.Bar(x=[labels[0]],y=[values[0]],orientation='v',name="Male"))
-        fig_bottom.add_trace(go.Bar(x=[labels[1]],y=[values[1]],orientation='h',name='Female'))
+        fig_bottom.add_trace(go.Bar(x=[labels[1]],y=[values[1]],orientation='v',name='Female'))
         fig_bottom.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+
+    if inputDict["value_populationcensus_state_wise_metric_dropdown"]=='caste_distribution':
+
+        df = df.sort_values("Population",ascending=True)
+        df_state = df[df["State"]==inputDict["value_populationcensus_state_wise_state_dropdown"]]
+
+        labels = ["Gen/OBCs & Others","SCs","STs"]
+        values = [df_state["Gen/OBCs & Others"].values[0],
+                  df_state['Scheduled caste population'].values[0],
+                  df_state['Scheduled tribe population'].values[0]]
+
+        fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
+        fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
+
+        
+        x_caste = ["Gen/OBCs & Others","SCs","STs"]
+
+        y_male = [df_state["Male Gen/OBCs & Others %"].values[0],
+                  df_state['Male scheduled caste population %'].values[0],
+                  df_state['Male scheduled tribe population %'].values[0]]
+        y_female = [df_state["Female Gen/OBCs & Others %"].values[0],
+                  df_state['Female scheduled caste population %'].values[0],
+                  df_state['Female scheduled tribe population %'].values[0]]
+        
+        
+        y_male_country_mean = [np.mean(df["Male Gen/OBCs & Others %"]),
+                               np.mean(df['Male scheduled caste population %']),
+                               np.mean(df['Male scheduled tribe population %'])]
+
+        y_female_country_mean = [np.mean(df["Female Gen/OBCs & Others %"]),
+                                 np.mean(df['Female scheduled caste population %']),
+                                 np.mean(df['Female scheduled tribe population %'])]
+
+        fig_bottom = go.Figure()
+        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_male,name='Male'))
+        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_male_country_mean,name='Mean Male'))
+        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_female,name='Female'))
+        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_female_country_mean,name='Mean Female'))
+        fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+
     
     graph_figure_top = dcc.Graph(figure=fig_top)
     graph_figure_bottom = dcc.Graph(figure=fig_bottom)
-    graph_div_top = html.Div([graph_figure_top],id="populationcensus-aggregated_metrics-graph_div_top")
-    graph_div_bottom = html.Div([graph_figure_bottom],id="populationcensus-aggregated_metrics-graph_div_bottom")
+    graph_div_top = html.Div([graph_figure_top],id="populationcensus_state_wise_metrics_graph_div_top")
+    graph_div_bottom = html.Div([graph_figure_bottom],id="populationcensus_state_wise_metrics_graph_div_bottom")
 
-    aggregated_metrics = html.Div([state_wise_state_dropdown,state_wise_metric_dropdown ,
+    state_wise_metrics = html.Div([state_wise_state_dropdown,state_wise_metric_dropdown ,
                                    graph_div_top,graph_div_bottom ],
-                                   id="populationcensus-aggregated_metrics")
+                                   id="populationcensus_state_wise_metrics")
 
-    return html.Div([all_states,aggregated_metrics])
+    return html.Div([all_states, state_wise_metrics])

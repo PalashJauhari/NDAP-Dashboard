@@ -38,8 +38,8 @@ def renderFunction(value_selected_tab ):
 @app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
               [Input(component_id='masterlayout-selection-tabs-parent', component_property='value'),
               Input(component_id='populationcensus-all_states-dropdown', component_property='value'),
-              Input(component_id='populationcensus-state_wise_state-dropdown', component_property='value'),
-              Input(component_id='populationcensus-state_wise_metric-dropdown', component_property='value')])
+              Input(component_id='populationcensus_state_wise_state_dropdown', component_property='value'),
+              Input(component_id='populationcensus_state_wise_metric_dropdown', component_property='value')])
 
 def renderFunction1(value_selected_tab,value_all_metric_states_dropdown,
                    value_populationcensus_state_wise_state_dropdown,
