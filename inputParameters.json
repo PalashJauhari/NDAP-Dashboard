@@ -1,7 +1,10 @@
 {
     "value_selected_tab":"population_census",
-    "population_census":{"value_all_states_metric_dropdown":"population"},
-    "socio_economic_condition":{},
+    "population_census":{"value_all_states_metric_dropdown":"population",
+                         "value_populationcensus_state_wise_state_dropdown":"Maharashtra",
+                         "value_populationcensus_state_wise_metric_dropdown":"population"},
+    
+                         "socio_economic_condition":{},
     "education":{},
     "health":{},
     "employment":{}

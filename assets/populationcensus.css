@@ -29,7 +29,7 @@
     
 }
 
-#populationcensus-state_wise_state-dropdown{
+#populationcensus_state_wise_state_dropdown{
 
     padding: 5px 10px 5px 10px;
     width: 48%;
@@ -38,11 +38,25 @@
     font-weight: bold
 }
 
-#populationcensus-state_wise_metric-dropdown{
+#populationcensus_state_wise_metric_dropdown{
     padding: 5px 10px 5px 10px;
     width: 48%;
     position: absolute;
     display: inline-block;
     font-weight: bold;
     margin-left: 325px;
+}
+
+#populationcensus-aggregated_metrics-graph_div_top{
+    display: block;
+    position:absolute;
+    height: 225px;
+    margin-top:50px;
+}
+
+#populationcensus-aggregated_metrics-graph_div_bottom{
+    display: block;
+    position:absolute;
+    height: 225px;
+    margin-top:300px;
 }

@@ -85,7 +85,7 @@ def populationcensusLayout(DataReader,inputDict):
     state_wise_state_dropdown = dcc.Dropdown(options=[{'label': 'Madhya Pradesh', 'value': 'Madhya Pradesh'},
                                                       {'label': 'Maharashtra', 'value': 'Maharashtra'}],
                                                       value='Maharashtra',
-                                            id="populationcensus-state_wise_state-dropdown",
+                                            id="populationcensus_state_wise_state_dropdown",
                                             maxHeight=125)
 
     state_wise_metric_dropdown = dcc.Dropdown(options=[{'label': 'Population', 'value': 'population'},
@@ -93,12 +93,34 @@ def populationcensusLayout(DataReader,inputDict):
                                                        {'label': 'Literacy', 'value': 'literacy'},
                                                        {'label': 'Employment', 'value': 'employment'}],
                                                       value='population',
-                                            id="populationcensus-state_wise_metric-dropdown",
+                                            id="populationcensus_state_wise_metric_dropdown",
                                             maxHeight=125)
+
+
+    #fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
+
+    if inputDict["value_populationcensus_state_wise_metric_dropdown"]=="population":
+
+        df = df.sort_values("Population",ascending=True)
+        df_state = df[df["State"]==inputDict["value_populationcensus_state_wise_state_dropdown"]]
+
+        labels = ["Male Population","Female Population"]
+        values = [df_state['Male population'].values[0],df_state['Female population'].values[0]]
+
+        fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
+        fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
+
+        fig_bottom = go.Figure(go.Bar(x=[labels[0]],y=[values[0]],orientation='v',name="Male"))
+        fig_bottom.add_trace(go.Bar(x=[labels[1]],y=[values[1]],orientation='h',name='Female'))
+        fig_bottom.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
     
-    
-    aggregated_metrics = html.Div([state_wise_state_dropdown,state_wise_metric_dropdown ],
+    graph_figure_top = dcc.Graph(figure=fig_top)
+    graph_figure_bottom = dcc.Graph(figure=fig_bottom)
+    graph_div_top = html.Div([graph_figure_top],id="populationcensus-aggregated_metrics-graph_div_top")
+    graph_div_bottom = html.Div([graph_figure_bottom],id="populationcensus-aggregated_metrics-graph_div_bottom")
+
+    aggregated_metrics = html.Div([state_wise_state_dropdown,state_wise_metric_dropdown ,
+                                   graph_div_top,graph_div_bottom ],
                                    id="populationcensus-aggregated_metrics")
-    #genderwise_metrics = html.Div([],id="populationcensus-genderwise_metrics")
 
     return html.Div([all_states,aggregated_metrics])
