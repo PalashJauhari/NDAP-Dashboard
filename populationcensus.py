@@ -33,7 +33,8 @@ def populationcensusLayout(DataReader,inputDict):
         y = list(df["State"].values)
         fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=list(df["Population %"].values),
                                textposition='inside',marker=dict(color=x,colorscale='turbo')))
-        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),height=1000)
+        fig.update_layout(title={"text":"<b>Total Population : {} M</b>".format(int(np.sum(df["Population"])/1e6))},
+                          margin=dict(l=0, r=0, t=25, b=0),height=1000)
         fig.add_vline(x=np.mean(df['Population']), line_width=3, line_dash="dash", line_color="black")
 
     if inputDict["value_all_states_metric_dropdown"]=='caste_distribution':
@@ -120,9 +121,10 @@ def populationcensusLayout(DataReader,inputDict):
         fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
         fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
 
-        fig_bottom = go.Figure(go.Bar(x=[labels[0]],y=[values[0]],orientation='v',name="Male"))
-        fig_bottom.add_trace(go.Bar(x=[labels[1]],y=[values[1]],orientation='v',name='Female'))
+        fig_bottom = go.Figure(go.Bar(x=[labels[0]],y=[values[0]],orientation='v',text="Male",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=[labels[1]],y=[values[1]],orientation='v',text="Female",textposition='inside'))
         fig_bottom.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
 
     if inputDict["value_populationcensus_state_wise_metric_dropdown"]=='caste_distribution':
 
@@ -153,10 +155,11 @@ def populationcensusLayout(DataReader,inputDict):
                           np.mean(df['Scheduled tribe population %'])]
 
         fig_bottom = go.Figure()
-        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_male,name='Male'))
-        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_female,name='Female'))
-        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_country_mean,name='Indian Average'))
+        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_male,text="Male",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_female,text="Female",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=x_caste,y=y_country_mean,text="Average",textposition='inside'))
         fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
 
 
     if inputDict["value_populationcensus_state_wise_metric_dropdown"]=='literacy':
@@ -185,10 +188,11 @@ def populationcensusLayout(DataReader,inputDict):
 
         
         fig_bottom = go.Figure()
-        fig_bottom.add_trace(go.Bar(x=x_literacy,y=y_male,name='Male'))
-        fig_bottom.add_trace(go.Bar(x=x_literacy,y=y_female,name='Female'))
-        fig_bottom.add_trace(go.Bar(x=x_literacy,y=y_country_mean,name='Indian Average'))
+        fig_bottom.add_trace(go.Bar(x=x_literacy,y=y_male,text="Male",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=x_literacy,y=y_female,text="Female",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=x_literacy,y=y_country_mean,text="Average",textposition='inside'))
         fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
 
     if inputDict["value_populationcensus_state_wise_metric_dropdown"]=='employment':
 
@@ -214,10 +218,11 @@ def populationcensusLayout(DataReader,inputDict):
         fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
         
         fig_bottom = go.Figure()
-        fig_bottom.add_trace(go.Bar(x=x_working,y=y_male,name='Male'))
-        fig_bottom.add_trace(go.Bar(x=x_working,y=y_female,name='Female'))
-        fig_bottom.add_trace(go.Bar(x=x_working,y=y_country_mean,name='Indian Average'))
+        fig_bottom.add_trace(go.Bar(x=x_working,y=y_male,text="Male",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=x_working,y=y_female,text="Female",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=x_working,y=y_country_mean,text="Average",textposition='inside'))
         fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
     
 
     graph_figure_top = dcc.Graph(figure=fig_top)
