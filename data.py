@@ -9,6 +9,9 @@ class DataReader():
     def extractPopulationCensusData(self):
 
         df = pd.read_csv(self.data_folder_location+"/State_Population_Census.csv")
+
+        df['Population %'] = 100*df['Population']/(np.sum(df['Population']))
+        df['Population %']=df['Population %'].apply(lambda x : str(np.round(x,1))+" %")
         
         # Caste
         
@@ -25,16 +28,18 @@ class DataReader():
         df["Female Gen/OBCs & Others"] = df['Female population']-df['Female scheduled caste population ']-df['Female scheduled tribe population ']
         
         df["Gen/OBCs & Others %"] =  100 - df['Scheduled caste population %'] - df['Scheduled tribe population %'] 
-        df["Male Gen/OBCs & Others %"] = 100-df['Male scheduled caste population %'] -df['Male scheduled tribe population %'] 
-        df["Female Gen/OBCs & Others %"] = 100-df['Female scheduled caste population %']-df['Female scheduled tribe population %'] 
+        df["Male Gen/OBCs & Others %"] = 100 - df['Male scheduled caste population %'] - df['Male scheduled tribe population %'] 
+        df["Female Gen/OBCs & Others %"] = 100 - df['Female scheduled caste population %'] - df['Female scheduled tribe population %'] 
 
-
+        #df['Scheduled caste population %'] = df['Scheduled caste population %'].apply(lambda x : np.round(x,1))
+        #df['Scheduled tribe population %'] = df['Scheduled tribe population %'].apply(lambda x : np.round(x,1))
+        #df["Gen/OBCs & Others %"] = df["Gen/OBCs & Others %"].apply(lambda x : np.round(x,1))
         
         # Literacy
 
         df['Illiterate population'] = df['Population'] - df['Literate population ']
         df['Illiterate population %'] = 100*df['Illiterate population'] /(1+ df['Population'])
-        df['Literate population %'] = 100-df['Illiterate population %']
+        df['Literate population %'] = 100 - df['Illiterate population %']
 
         df['Male illiterate population %'] = 100*df['Male illiterate population ']/(1+df['Male population'])
         df['Female illiterate population %'] = 100*df['Female illiterate population ']/(1+df['Female population'])

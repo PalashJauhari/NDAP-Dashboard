@@ -31,8 +31,10 @@ def populationcensusLayout(DataReader,inputDict):
         df = df.sort_values("Population",ascending=True)
         x = list(df["Population"].values)
         y = list(df["State"].values)
-        fig = go.Figure(go.Bar(x=x,y=y,orientation='h',marker=dict(color=x,colorscale='turbo')))
+        fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=list(df["Population %"].values),
+                               textposition='inside',marker=dict(color=x,colorscale='turbo')))
         fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),height=1000)
+        fig.add_vline(x=np.mean(df['Population']), line_width=3, line_dash="dash", line_color="black")
 
     if inputDict["value_all_states_metric_dropdown"]=='caste_distribution':
 
@@ -46,9 +48,13 @@ def populationcensusLayout(DataReader,inputDict):
         x3 = list(df['Scheduled tribe population %'].values)
         y3 = list(df["State"].values)
 
-        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name="Gen/OBCs"))
-        fig.add_trace(go.Bar(x=x2,y=y2,orientation='h',name='SCs'))
-        fig.add_trace(go.Bar(x=x3,y=y3,orientation='h',name='STs'))
+        text1 = [str(np.round(i,1))+" %" for i in list(df["Gen/OBCs & Others %"].values)]
+        text2 = [str(np.round(i,1))+" %" for i in list(df['Scheduled caste population %'].values)]
+        text3 = [str(np.round(i,1))+" %" for i in list(df['Scheduled tribe population %'].values)]
+
+        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name="Gen/OBCs",text=text1,textposition='inside'))
+        fig.add_trace(go.Bar(x=x2,y=y2,orientation='h',name='SCs',text=text2,textposition='inside'))
+        fig.add_trace(go.Bar(x=x3,y=y3,orientation='h',name='STs',text=text3,textposition='inside'))
         fig.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),height=1000)
     
     if inputDict["value_all_states_metric_dropdown"]=='literacy':
@@ -60,8 +66,10 @@ def populationcensusLayout(DataReader,inputDict):
         x2 = list(df['Illiterate population %'].values)
         y2 = list(df["State"].values)
 
-        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name="Literate"))
-        fig.add_trace(go.Bar(x=x2,y=y2,orientation='h',name='Illiterate'))
+        text1 = [str(np.round(i,1))+" %" for i in list(df['Literate population %'].values)]
+        text2 = [str(np.round(i,1))+" %" for i in list(df['Illiterate population %'].values)]
+        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name="Literate",text=text1,textposition='inside'))
+        fig.add_trace(go.Bar(x=x2,y=y2,orientation='h',name='Illiterate',text=text2,textposition='inside'))
         fig.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),height=1000)
 
     if inputDict["value_all_states_metric_dropdown"]=='employment':
@@ -72,8 +80,10 @@ def populationcensusLayout(DataReader,inputDict):
         x2 = list(df['Non Working population %'].values)
         y2 = list(df["State"].values)
 
-        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name="Working"))
-        fig.add_trace(go.Bar(x=x2,y=y2,orientation='h',name='Non-Working'))
+        text1 = [str(np.round(i,1))+" %" for i in list(df['Working population %'].values)]
+        text2 = [str(np.round(i,1))+" %" for i in list(df['Non Working population %'].values)]
+        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name="Working",text=text1,textposition='inside'))
+        fig.add_trace(go.Bar(x=x2,y=y2,orientation='h',name='Non Working',text=text2,textposition='inside'))
         fig.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),height=1000)
 
     graph_figure = dcc.Graph(figure=fig)  
