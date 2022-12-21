@@ -153,47 +153,151 @@ def socioeconomicLayout(DataReader,inputDict):
     state_wise_metric_dropdown = dcc.Dropdown(options=[{'label': 'Homeless Households', 'value': 'homeless_household'},
                                                        {'label': 'Electricity and Sanitisation', 'value': 'electricity_toilets'},
                                                        {'label': 'Cooking Gas', 'value': 'cooking_gas'},
-                                                       {'label': 'Bank Accounts', 'value': 'bank_account'}],
+                                                       {'label': 'Bank Accounts', 'value': 'banking'},
+                                                       {'label': 'Gini Coefficient', 'value': 'gini'}],
                                                       value=inputDict["value_socioeconomic_state_wise_metric_dropdown"],
                                             id="socioeconomic_state_wise_metric_dropdown",
                                             maxHeight=175)
+
 
     if inputDict["value_socioeconomic_state_wise_metric_dropdown"]=='homeless_household':
 
         df = df_household.copy()
         df_state = df[df["State"]==inputDict["value_socioeconomic_state_wise_state_dropdown"]]
+
         df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
         df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
         df_state_all = df_state[df_state["Residence_Type"]=="All"]
 
         labels = ["Normal Households %","Institutional Households %","Houseless Households %"]
-        values = [df_state["Normal Households %"].values[0],
-                  df_state["Institutional Households %"].values[0],
-                  df_state["Houseless Households %"].values[0]]
+
+        values,y_urban,y_rural,y_country_mean = [],[],[],[]
+        for i in labels:
+            values.append(df_state_all[i].values[0])
+            y_urban.append(df_state_urban[i].values[0])
+            y_rural.append(df_state_rural[i].values[0])
+            y_country_mean.append(np.mean(df_state_all[i]))
 
         fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
         fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
 
-        
-        x = ["Normal Households %","Institutional Households %","Houseless Households %"]
+        fig_bottom = go.Figure()
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_urban,text="Urban",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_rural,text="Rural",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_country_mean,text="Average",textposition='inside'))
+        fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
 
-        y_urban = [df_state_urban["Normal Households %"].values[0],
-                   df_state_urban["Institutional Households %"].values[0],
-                   df_state_urban["Houseless Households %"].values[0]]
-        
-        y_rural = [df_state_rural["Normal Households %"].values[0],
-                   df_state_rural["Institutional Households %"].values[0],
-                   df_state_rural["Houseless Households %"].values[0]]
-        
-        
-        y_country_mean = [np.mean(df_state_all["Normal Households %"]),
-                          np.mean(df_state_all["Institutional Households %"]),
-                          np.mean(df_state_all["Houseless Households %"])]
+
+    if inputDict["value_socioeconomic_state_wise_metric_dropdown"]=='electricity_toilets':
+
+        df = df_electricity_toilets.copy()
+        df_state = df[df["State"]==inputDict["value_socioeconomic_state_wise_state_dropdown"]]
+
+        df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
+        df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
+        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+
+        labels = ["Electricity & Toilets %","Only Electricity %","Only Toilets %","None %"]
+
+        values,y_urban,y_rural,y_country_mean = [],[],[],[]
+        for i in labels:
+            values.append(df_state_all[i].values[0])
+            y_urban.append(df_state_urban[i].values[0])
+            y_rural.append(df_state_rural[i].values[0])
+            y_country_mean.append(np.mean(df_state_all[i]))
+
+        fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
+        fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
 
         fig_bottom = go.Figure()
-        fig_bottom.add_trace(go.Bar(x=x,y=y_urban,text="Male",textposition='inside'))
-        fig_bottom.add_trace(go.Bar(x=x,y=y_rural,text="Female",textposition='inside'))
-        fig_bottom.add_trace(go.Bar(x=x,y=y_country_mean,text="Average",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_urban,text="Urban",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_rural,text="Rural",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_country_mean,text="Average",textposition='inside'))
+        fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
+
+    if inputDict["value_socioeconomic_state_wise_metric_dropdown"]=='cooking_gas':
+
+        df = df_cooking_gas.copy()
+        df_state = df[df["State"]==inputDict["value_socioeconomic_state_wise_state_dropdown"]]
+
+        df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
+        df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
+        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+
+        labels = ['Gas Cylinder %','Cowdung/Coal/Wood %','Kerosene %','Others %']
+
+        values,y_urban,y_rural,y_country_mean = [],[],[],[]
+        for i in labels:
+            values.append(df_state_all[i].values[0])
+            y_urban.append(df_state_urban[i].values[0])
+            y_rural.append(df_state_rural[i].values[0])
+            y_country_mean.append(np.mean(df_state_all[i]))
+
+        fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
+        fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
+
+        fig_bottom = go.Figure()
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_urban,text="Urban",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_rural,text="Rural",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_country_mean,text="Average",textposition='inside'))
+        fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
+
+    if inputDict["value_socioeconomic_state_wise_metric_dropdown"]=='banking':
+        
+        df = df_banking.copy()
+
+        df_state = df[df["State"]==inputDict["value_socioeconomic_state_wise_state_dropdown"]]
+
+        df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
+        df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
+        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        labels = ['Bank Account %','Post Office Account %','No Deposit Account %']
+
+        values,y_urban,y_rural,y_country_mean = [],[],[],[]
+        for i in labels:
+            values.append(df_state_all[i].values[0])
+            y_urban.append(df_state_urban[i].values[0])
+            y_rural.append(df_state_rural[i].values[0])
+            y_country_mean.append(np.mean(df_state_all[i]))
+
+        fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
+        fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
+
+        fig_bottom = go.Figure()
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_urban,text="Urban",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_rural,text="Rural",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_country_mean,text="Average",textposition='inside'))
+        fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
+
+    if inputDict["value_socioeconomic_state_wise_metric_dropdown"]=='gini':
+
+        df = df_gini.copy()
+        df_state = df[df["State"]==inputDict["value_socioeconomic_state_wise_state_dropdown"]]
+
+        df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
+        df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
+        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+
+        labels = ["Gini's coefficient"]
+
+        values,y_urban,y_rural,y_country_mean = [],[],[],[]
+        for i in labels:
+            values.append(df_state_all[i].values[0])
+            y_urban.append(df_state_urban[i].values[0])
+            y_rural.append(df_state_rural[i].values[0])
+            y_country_mean.append(np.mean(df_state_all[i]))
+
+        fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
+        fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
+
+        fig_bottom = go.Figure()
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_urban,text="Urban",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_rural,text="Rural",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=labels,y=y_country_mean,text="Average",textposition='inside'))
         fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
         fig_bottom.update_layout(showlegend=False)
     

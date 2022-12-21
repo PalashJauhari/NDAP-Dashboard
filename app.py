@@ -26,6 +26,7 @@ DataReader = DataReader()
 # This is the input json file used to pass intput to callback functions.
 f = open("inputParameters.json")
 inputParameter  = json.load(f)
+inputParameter_default = inputParameter.copy()
 
 
 
@@ -33,6 +34,7 @@ inputParameter  = json.load(f)
               [Input(component_id='masterlayout-selection-tabs-parent', component_property='value')])
 
 def renderFunction(value_selected_tab):
+    #inputParameter = inputParameter_default.copy()
     inputParameter["value_selected_tab"] = value_selected_tab
     return UIDisplay(DataReader,inputParameter)
 
@@ -71,7 +73,5 @@ def renderFunction2(value_all_metric_states_dropdown,
     return UIDisplay(DataReader,inputParameter)
 
 
-
-    
 if __name__ == "__main__":
     app.run_server()
