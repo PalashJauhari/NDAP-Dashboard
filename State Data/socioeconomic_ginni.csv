@@ -1,6 +1,6 @@
 State,Residence_Type,Gini’s coefficient
-Jammu And Kashmir,Rural,0.482
-Jammu And Kashmir,Urban,0.59
+J & K,Rural,0.482
+J & K,Urban,0.59
 Himachal Pradesh,Rural,0.588
 Himachal Pradesh,Urban,0.651
 Punjab,Rural,0.737
@@ -63,11 +63,11 @@ Tamil Nadu,Rural,0.572
 Tamil Nadu,Urban,0.736
 Puducherry,Rural,0.81
 Puducherry,Urban,0.672
-Andaman And Nicobar Islands,Rural,0.579
-Andaman And Nicobar Islands,Urban,0.648
+Andaman,Rural,0.579
+Andaman,Urban,0.648
 Telangana,Rural,0.534
 Telangana,Urban,0.709
 Ladakh,Rural,0.482
 Ladakh,Urban,0.59
-The Dadra And Nagar Haveli And Daman And Diu,Rural,0.4449545026
-The Dadra And Nagar Haveli And Daman And Diu,Urban,0.7224806268
+Daman,Rural,0.444954503
+Daman,Urban,0.722480627

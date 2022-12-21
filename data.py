@@ -4,10 +4,12 @@ import numpy as np
 class DataReader():
 
     def __init__(self):
+
         self.data_folder_location = "State Data"
 
     def extractSocioEconomicData(self):
 
+        # Read Raw Data Frames
         df_household = pd.read_csv(self.data_folder_location+"/socioeconomic_household.csv")
         df_electricity_toilets = pd.read_csv(self.data_folder_location+"/socioeconomic_electricity_toilets.csv")
         df_banking = pd.read_csv(self.data_folder_location+"/socioeconomic_banking.csv")
@@ -59,6 +61,14 @@ class DataReader():
         df_banking_mean["Residence_Type"]="All"
         df_banking = pd.concat([df_banking,df_banking_mean],axis=0)
 
+        #Ginni
+        # combine rural and urban
+        df_ginni_mean = df_ginni.drop(columns="Residence_Type").groupby("State").mean().reset_index()
+        df_ginni_mean["Residence_Type"]="All"
+        df_ginni = pd.concat([df_ginni,df_ginni_mean])
+
+
+        return df_household,df_electricity_toilets,df_cooking_gas,df_banking,df_ginni 
 
     
     def extractPopulationCensusData(self):

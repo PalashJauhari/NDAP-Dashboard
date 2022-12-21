@@ -16,12 +16,14 @@ from callbacks import UIDisplay
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css',"/assets/masterlayout.css"]
 app = DashProxy(__name__,external_stylesheets=external_stylesheets,transforms=[MultiplexerTransform()],
                 prevent_initial_callbacks=False)
+
+# Master Layout
 app.layout = masterLayout()
 
 # Import data reader module
 DataReader = DataReader()
 
-# This is the input json file
+# This is the input json file used to pass intput to callback functions.
 f = open("inputParameters.json")
 inputParameter  = json.load(f)
 

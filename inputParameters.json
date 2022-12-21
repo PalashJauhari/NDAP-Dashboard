@@ -4,7 +4,10 @@
                          "value_populationcensus_state_wise_state_dropdown":"Maharashtra",
                          "value_populationcensus_state_wise_metric_dropdown":"population"},
     
-    "socio_economic_condition":{},
+    "socio_economic_condition":{"value_all_states_metric_dropdown":"homeless_household",
+                                "value_socioeconomic_state_wise_state_dropdown":"Maharashtra",
+                                "value_socioeconomic_state_wise_metric_dropdown":"homeless_household"},
+    
     "education":{},
     "health":{},
     "employment":{}
