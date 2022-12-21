@@ -158,7 +158,53 @@ def socioeconomicLayout(DataReader,inputDict):
                                             id="socioeconomic_state_wise_metric_dropdown",
                                             maxHeight=175)
 
-    state_wise_metrics = html.Div([state_wise_state_dropdown,state_wise_metric_dropdown],
+    if inputDict["value_socioeconomic_state_wise_metric_dropdown"]=='homeless_household':
+
+        df = df_household.copy()
+        df_state = df[df["State"]==inputDict["value_socioeconomic_state_wise_state_dropdown"]]
+        df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
+        df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
+        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+
+        labels = ["Normal Households %","Institutional Households %","Houseless Households %"]
+        values = [df_state["Normal Households %"].values[0],
+                  df_state["Institutional Households %"].values[0],
+                  df_state["Houseless Households %"].values[0]]
+
+        fig_top = go.Figure(data=[go.Pie(labels=labels, values=values)])
+        fig_top.update_layout(margin=dict(l=5, r=0, t=25, b=0),width=660,height=225)
+
+        
+        x = ["Normal Households %","Institutional Households %","Houseless Households %"]
+
+        y_urban = [df_state_urban["Normal Households %"].values[0],
+                   df_state_urban["Institutional Households %"].values[0],
+                   df_state_urban["Houseless Households %"].values[0]]
+        
+        y_rural = [df_state_rural["Normal Households %"].values[0],
+                   df_state_rural["Institutional Households %"].values[0],
+                   df_state_rural["Houseless Households %"].values[0]]
+        
+        
+        y_country_mean = [np.mean(df_state_all["Normal Households %"]),
+                          np.mean(df_state_all["Institutional Households %"]),
+                          np.mean(df_state_all["Houseless Households %"])]
+
+        fig_bottom = go.Figure()
+        fig_bottom.add_trace(go.Bar(x=x,y=y_urban,text="Male",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=x,y=y_rural,text="Female",textposition='inside'))
+        fig_bottom.add_trace(go.Bar(x=x,y=y_country_mean,text="Average",textposition='inside'))
+        fig_bottom.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=225)
+        fig_bottom.update_layout(showlegend=False)
+    
+    
+    graph_figure_top = dcc.Graph(figure=fig_top)
+    graph_figure_bottom = dcc.Graph(figure=fig_bottom)
+    graph_div_top = html.Div([graph_figure_top],id="socioeconomic_state_wise_metrics_graph_div_top")
+    graph_div_bottom = html.Div([graph_figure_bottom],id="socioeconomic_state_wise_metrics_graph_div_bottom")
+
+    state_wise_metrics = html.Div([state_wise_state_dropdown,state_wise_metric_dropdown ,
+                                   graph_div_top,graph_div_bottom ],
                                    id="socioeconomic_state_wise_metrics")
     
     
