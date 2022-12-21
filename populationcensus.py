@@ -24,7 +24,7 @@ def populationcensusLayout(DataReader,inputDict):
                                                        {'label': 'Working Population', 'value': 'employment'}],
                                                        value=inputDict["value_all_states_metric_dropdown"],
                                                        id="populationcensus-all_states-dropdown",
-                                                       maxHeight=125)
+                                                       maxHeight=175)
     
     if inputDict["value_all_states_metric_dropdown"]=='population':
         
@@ -98,7 +98,7 @@ def populationcensusLayout(DataReader,inputDict):
     state_wise_state_dropdown = dcc.Dropdown(options=state_list,
                                              value=inputDict["value_populationcensus_state_wise_state_dropdown"],
                                             id="populationcensus_state_wise_state_dropdown",
-                                            maxHeight=125)
+                                            maxHeight=175)
 
     state_wise_metric_dropdown = dcc.Dropdown(options=[{'label': 'Population', 'value': 'population'},
                                                        {'label': 'Caste Distribution', 'value': 'caste_distribution'},
@@ -106,7 +106,7 @@ def populationcensusLayout(DataReader,inputDict):
                                                        {'label': 'Working Population', 'value': 'employment'}],
                                                       value=inputDict["value_populationcensus_state_wise_metric_dropdown"],
                                             id="populationcensus_state_wise_metric_dropdown",
-                                            maxHeight=125)
+                                            maxHeight=175)
 
 
   

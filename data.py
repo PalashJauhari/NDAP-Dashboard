@@ -66,6 +66,7 @@ class DataReader():
         df_ginni_mean = df_ginni.drop(columns="Residence_Type").groupby("State").mean().reset_index()
         df_ginni_mean["Residence_Type"]="All"
         df_ginni = pd.concat([df_ginni,df_ginni_mean])
+        df_ginni["Gini's coefficient"]=df_ginni["Gini's coefficient"].apply(lambda x : np.round(x,2))
 
 
         return df_household,df_electricity_toilets,df_cooking_gas,df_banking,df_ginni 
