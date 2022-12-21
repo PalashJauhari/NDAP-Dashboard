@@ -4,7 +4,7 @@
                          "value_populationcensus_state_wise_state_dropdown":"Maharashtra",
                          "value_populationcensus_state_wise_metric_dropdown":"population"},
     
-                         "socio_economic_condition":{},
+    "socio_economic_condition":{},
     "education":{},
     "health":{},
     "employment":{}

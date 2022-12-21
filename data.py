@@ -5,6 +5,61 @@ class DataReader():
 
     def __init__(self):
         self.data_folder_location = "State Data"
+
+    def extractSocioEconomicData(self):
+
+        df_household = pd.read_csv(self.data_folder_location+"/socioeconomic_household.csv")
+        df_electricity_toilets = pd.read_csv(self.data_folder_location+"/socioeconomic_electricity_toilets.csv")
+        df_banking = pd.read_csv(self.data_folder_location+"/socioeconomic_banking.csv")
+        df_cooking_gas = pd.read_csv(self.data_folder_location+"/socioeconomic_cooking_gas.csv")
+        df_ginni = pd.read_csv(self.data_folder_location+"/socioeconomic_ginni.csv")
+
+        # Households
+        # combine rural and urban
+        df_household_sum = df_household.drop(columns="Residence_Type").groupby("State").sum()
+        df_household_sum = df_household_sum.reset_index()
+        df_household_sum["Residence_Type"] = "All"
+        df_household = pd.concat([df_household,df_household_sum],axis=0)
+        df_household = df_household.reset_index().drop(columns="index")
+        
+        df_household["Normal Households %"] = 100*df_household["Normal Households"]/df_household["Households"] 
+        df_household["Institutional Households %"] = 100*df_household["Institutional Households"]/df_household["Households"] 
+        df_household["Houseless Households %"] = 100 - df_household["Institutional Households %"] - df_household["Normal Households %"]
+
+        # Electricity and Toilets
+        # combine rural and urban
+        df_electricity_toilets.rename(columns = {'Households with electricity and latrine facility':"Electricity & Toilets",
+                                         'Households without electricity and latrine facility':"None",
+                                         'Households with electricity facility':"Only Electricity",
+                                         'Households with latrine facility':"Only Toilets"},inplace=True)
+        
+        df_electricity_toilets_sum = df_electricity_toilets.drop(columns="Residence_Type").groupby("State").sum().reset_index()
+        df_electricity_toilets_sum["Residence_Type"] = "All"
+        df_electricity_toilets = pd.concat([df_electricity_toilets,df_electricity_toilets_sum ],axis=0)
+        
+        df_electricity_toilets["Electricity & Toilets %"] = 100*df_electricity_toilets["Electricity & Toilets"]/df_electricity_toilets['Number of households']
+        df_electricity_toilets["Only Electricity %"] = 100*df_electricity_toilets["Only Electricity"]/df_electricity_toilets['Number of households']
+        df_electricity_toilets["Only Toilets %"] = 100*df_electricity_toilets["Only Toilets"]/df_electricity_toilets['Number of households']
+        df_electricity_toilets["None %"] = 100-df_electricity_toilets["Electricity & Toilets %"]-df_electricity_toilets["Only Electricity %"]-df_electricity_toilets["Only Toilets %"]
+
+        # Cooking Gas
+        # combine rural and urban
+        df_cooking_gas_sum = df_cooking_gas.drop(columns = "Residence_Type").groupby("State").sum().reset_index()
+        df_cooking_gas_sum["Residence_Type"] = "All"
+        df_cooking_gas = pd.concat([df_cooking_gas,df_cooking_gas_sum],axis=0)
+        
+        df_cooking_gas['Cowdung/Coal/Wood %'] = 100*df_cooking_gas['Cowdung/Coal/Wood']/df_cooking_gas['Number of households']
+        df_cooking_gas['Kerosene %'] = 100*df_cooking_gas['Kerosene']/df_cooking_gas['Number of households']
+        df_cooking_gas['Gas Cylinder %'] = 100*df_cooking_gas['Gas Cylinder']/df_cooking_gas['Number of households']
+        df_cooking_gas['Others %'] = 100 - df_cooking_gas['Cowdung/Coal/Wood %'] - df_cooking_gas['Kerosene %'] - df_cooking_gas['Gas Cylinder %']
+
+        # Banking
+        # combine rural and urban
+        df_banking_mean = df_banking.drop(columns="Residence_Type").groupby("State").mean().reset_index()
+        df_banking_mean["Residence_Type"]="All"
+        df_banking = pd.concat([df_banking,df_banking_mean],axis=0)
+
+
     
     def extractPopulationCensusData(self):
 

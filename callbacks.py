@@ -7,7 +7,7 @@ from dash_extensions.enrich import Output, DashProxy, Input, MultiplexerTransfor
 from masterlayout import masterLayout
 from populationcensus import populationcensusLayout
 
-def initialDisplay(DataReader,inputDict):
+def UIDisplay(DataReader,inputDict):
 
     """
     This function renders UI when new tab is selected

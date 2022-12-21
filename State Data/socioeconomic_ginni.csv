@@ -1,0 +1,73 @@
+State,Residence_Type,Gini’s coefficient
+Jammu And Kashmir,Rural,0.482
+Jammu And Kashmir,Urban,0.59
+Himachal Pradesh,Rural,0.588
+Himachal Pradesh,Urban,0.651
+Punjab,Rural,0.737
+Punjab,Urban,0.686
+Chandigarh,Rural,0.753
+Chandigarh,Urban,0.805
+Uttarakhand,Rural,0.565
+Uttarakhand,Urban,0.606
+Haryana,Rural,0.646
+Haryana,Urban,0.739
+Delhi,Rural,0.56
+Delhi,Urban,0.701
+Rajasthan,Rural,0.56
+Rajasthan,Urban,0.639
+Uttar Pradesh,Rural,0.55
+Uttar Pradesh,Urban,0.69
+Bihar,Rural,0.603
+Bihar,Urban,0.634
+Sikkim,Rural,0.517
+Sikkim,Urban,0.813
+Arunachal Pradesh,Rural,0.594
+Arunachal Pradesh,Urban,0.523
+Nagaland,Rural,0.374
+Nagaland,Urban,0.455
+Manipur,Rural,0.476
+Manipur,Urban,0.492
+Mizoram,Rural,0.512
+Mizoram,Urban,0.626
+Tripura,Rural,0.478
+Tripura,Urban,0.603
+Meghalaya,Rural,0.572
+Meghalaya,Urban,0.72
+Assam,Rural,0.522
+Assam,Urban,0.707
+West Bengal,Rural,0.546
+West Bengal,Urban,0.73
+Jharkhand,Rural,0.541
+Jharkhand,Urban,0.615
+Odisha,Rural,0.499
+Odisha,Urban,0.666
+Chhattisgarh,Rural,0.559
+Chhattisgarh,Urban,0.669
+Madhya Pradesh,Rural,0.66
+Madhya Pradesh,Urban,0.733
+Gujarat,Rural,0.66
+Gujarat,Urban,0.667
+Maharashtra,Rural,0.614
+Maharashtra,Urban,0.777
+Andhra Pradesh,Rural,0.593
+Andhra Pradesh,Urban,0.751
+Karnataka,Rural,0.534
+Karnataka,Urban,0.709
+Goa,Rural,0.518
+Goa,Urban,0.669
+Lakshadweep,Rural,0.608
+Lakshadweep,Urban,0.457
+Kerala,Rural,0.602
+Kerala,Urban,0.622
+Tamil Nadu,Rural,0.572
+Tamil Nadu,Urban,0.736
+Puducherry,Rural,0.81
+Puducherry,Urban,0.672
+Andaman And Nicobar Islands,Rural,0.579
+Andaman And Nicobar Islands,Urban,0.648
+Telangana,Rural,0.534
+Telangana,Urban,0.709
+Ladakh,Rural,0.482
+Ladakh,Urban,0.59
+The Dadra And Nagar Haveli And Daman And Diu,Rural,0.4449545026
+The Dadra And Nagar Haveli And Daman And Diu,Urban,0.7224806268
