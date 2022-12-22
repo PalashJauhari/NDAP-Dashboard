@@ -53,14 +53,14 @@ def educationLayout(DataReader,inputDict):
            {"label": html.Div(
                 [
                     html.Img(src="assets/paticipation.png", height=30),
-                    html.Div("Participation", style={'font-size': 15, 'padding-left': 10}),
+                    html.Div("Student Participation", style={"font-weight":"bold",'font-size': 18, 'padding-left': 10}),
                 ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
             ), "value":'participation'},
           
            {"label": html.Div(
                 [
                     html.Img(src="assets/infrastructure.jpg", height=30),
-                    html.Div("Infrastructure", style={'font-size': 15, 'padding-left': 10}),
+                    html.Div("Infrastructure", style={"font-weight":"bold",'font-size': 18, 'padding-left': 10}),
                 ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
             ), "value":'infrastructure'},
            
@@ -68,7 +68,7 @@ def educationLayout(DataReader,inputDict):
            {"label": html.Div(
                 [
                     html.Img(src="assets/faculty.png", height=30),
-                    html.Div("Faculty", style={'font-size': 15, 'padding-left': 10}),
+                    html.Div("Faculty", style={"font-weight":"bold",'font-size': 18, 'padding-left': 10}),
                 ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
             ), "value" : 'faculty'}],
             

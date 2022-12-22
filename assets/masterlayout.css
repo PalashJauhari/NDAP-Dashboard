@@ -1,3 +1,26 @@
+::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #a8a4a4;
+    border-radius: 8px; 
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(66, 67, 73);
+    border-radius: 8px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(42, 42, 44); 
+  }
+  
 #masterlayout-heading{
     text-align: center;
     justify-content: center;
