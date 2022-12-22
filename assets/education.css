@@ -1,0 +1,87 @@
+
+#education-all_states {
+    border:2px solid black;
+    width: 664px;
+    height: 485px;
+    margin-top: 5px;
+    border-radius: 15px;
+    display: inline-block;
+    position: absolute;
+    overflow-y: scroll;
+}
+
+
+#education_all_states_selection_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#education_all_states_metric_dropdown{
+    padding:5px 10px 5px 10px;
+    font-weight: bold;
+    display: inline-block;
+    width:250px
+}
+#education_all_states_residence_type_dropdown{
+    padding:5px 10px 5px 10px;
+    font-weight: bold;
+    display: inline-block;
+    width:250px
+}
+#education_all_states_gender_dropdown{
+    padding:5px 10px 5px 10px;
+    font-weight: bold;
+    display: inline-block;
+    width:250px
+}
+
+
+
+#education-all_states-graph_div{
+    height:1000px;
+}
+
+#education_state_wise_metrics {
+    border:2px solid black;
+    width: 664px;
+    height: 485px;
+    margin-top: 5px;
+    border-radius: 15px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 680px;
+    
+}
+
+#education_state_wise_state_dropdown{
+
+    padding: 5px 10px 5px 10px;
+    width: 48%;
+    position: absolute;
+    display: inline-block;
+    font-weight: bold
+}
+
+#education_state_wise_metric_dropdown{
+    padding: 5px 10px 5px 10px;
+    width: 48%;
+    position: absolute;
+    display: inline-block;
+    font-weight: bold;
+    margin-left: 325px;
+}
+
+#education_state_wise_metrics_graph_div_top{
+    display: block;
+    position:absolute;
+    height: 225px;
+    margin-top:50px;
+}
+
+#education_state_wise_metrics_graph_div_bottom{
+    display: block;
+    position:absolute;
+    height: 225px;
+    margin-top:300px;
+}

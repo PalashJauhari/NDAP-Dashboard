@@ -7,6 +7,7 @@ from dash_extensions.enrich import Output, DashProxy, Input, MultiplexerTransfor
 from masterlayout import masterLayout
 from populationcensus import populationcensusLayout
 from socioeconomic import socioeconomicLayout
+from education import educationLayout
 
 def UIDisplay(DataReader,inputDict):
 
@@ -24,10 +25,10 @@ def UIDisplay(DataReader,inputDict):
         return socioeconomicLayout(DataReader,inputDict["socio_economic_condition"])
 
     if value_selected_tab=="education":
-        pass
+        return educationLayout(DataReader,inputDict["education"])
 
     if value_selected_tab=="health":
         pass
     
-    if inputDict["value_selected_tab"]=="employment":
+    if value_selected_tab=="employment":
         pass
