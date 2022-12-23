@@ -1,92 +1,92 @@
 State,Residence_Type,Level of current enrolment,Gender,Gross enrolment ratio ( ger )
-Jammu And Kashmir,Rural,Higher Secondary,Female,78.7
-Jammu And Kashmir,Rural,Post Higher Secondary,Female,26.9
-Jammu And Kashmir,Rural,Primary,Female,95.8
-Jammu And Kashmir,Rural,Primary To Higher Secondary,Female,97.5
-Jammu And Kashmir,Rural,Primary & Upper Primary,Female,99.2
-Jammu And Kashmir,Rural,Secondary,Female,112.8
-Jammu And Kashmir,Rural,Secondary And Higher Secondary,Female,94.0
-Jammu And Kashmir,Rural,Upper Primary,Female,106.1
-Jammu And Kashmir,Rural,Higher Secondary,Male,72.0
-Jammu And Kashmir,Rural,Post Higher Secondary,Male,35.5
-Jammu And Kashmir,Rural,Primary,Male,105.6
-Jammu And Kashmir,Rural,Primary To Higher Secondary,Male,99.8
-Jammu And Kashmir,Rural,Primary & Upper Primary,Male,101.7
-Jammu And Kashmir,Rural,Secondary,Male,120.6
-Jammu And Kashmir,Rural,Secondary And Higher Secondary,Male,95.7
-Jammu And Kashmir,Rural,Upper Primary,Male,93.7
-Jammu And Kashmir,Rural,Higher Secondary,Person,75.1
-Jammu And Kashmir,Rural,Post Higher Secondary,Person,31.2
-Jammu And Kashmir,Rural,Primary,Person,101.4
-Jammu And Kashmir,Rural,Primary To Higher Secondary,Person,98.8
-Jammu And Kashmir,Rural,Primary & Upper Primary,Person,100.7
-Jammu And Kashmir,Rural,Secondary,Person,117.3
-Jammu And Kashmir,Rural,Secondary And Higher Secondary,Person,94.9
-Jammu And Kashmir,Rural,Upper Primary,Person,99.1
-Jammu And Kashmir,Total,Higher Secondary,Female,81.2
-Jammu And Kashmir,Total,Post Higher Secondary,Female,31.5
-Jammu And Kashmir,Total,Primary,Female,96.9
-Jammu And Kashmir,Total,Primary To Higher Secondary,Female,97.7
-Jammu And Kashmir,Total,Primary & Upper Primary,Female,99.0
-Jammu And Kashmir,Total,Secondary,Female,110.4
-Jammu And Kashmir,Total,Secondary And Higher Secondary,Female,94.9
-Jammu And Kashmir,Total,Upper Primary,Female,103.1
-Jammu And Kashmir,Total,Higher Secondary,Male,75.3
-Jammu And Kashmir,Total,Post Higher Secondary,Male,36.3
-Jammu And Kashmir,Total,Primary,Male,105.6
-Jammu And Kashmir,Total,Primary To Higher Secondary,Male,99.8
-Jammu And Kashmir,Total,Primary & Upper Primary,Male,101.1
-Jammu And Kashmir,Total,Secondary,Male,120.0
-Jammu And Kashmir,Total,Secondary And Higher Secondary,Male,97.0
-Jammu And Kashmir,Total,Upper Primary,Male,92.2
-Jammu And Kashmir,Total,Higher Secondary,Person,77.9
-Jammu And Kashmir,Total,Post Higher Secondary,Person,34.0
-Jammu And Kashmir,Total,Primary,Person,101.9
-Jammu And Kashmir,Total,Primary To Higher Secondary,Person,98.9
-Jammu And Kashmir,Total,Primary & Upper Primary,Person,100.2
-Jammu And Kashmir,Total,Secondary,Person,115.9
-Jammu And Kashmir,Total,Secondary And Higher Secondary,Person,96.1
-Jammu And Kashmir,Total,Upper Primary,Person,96.9
-Jammu And Kashmir,Urban,Higher Secondary,Female,95.5
-Jammu And Kashmir,Urban,Post Higher Secondary,Female,51.1
-Jammu And Kashmir,Urban,Primary,Female,101.7
-Jammu And Kashmir,Urban,Primary To Higher Secondary,Female,98.4
-Jammu And Kashmir,Urban,Primary & Upper Primary,Female,98.0
-Jammu And Kashmir,Urban,Secondary,Female,101.9
-Jammu And Kashmir,Urban,Secondary And Higher Secondary,Female,99.1
-Jammu And Kashmir,Urban,Upper Primary,Female,91.7
-Jammu And Kashmir,Urban,Higher Secondary,Male,87.3
-Jammu And Kashmir,Urban,Post Higher Secondary,Male,38.5
-Jammu And Kashmir,Urban,Primary,Male,105.5
-Jammu And Kashmir,Urban,Primary To Higher Secondary,Male,99.7
-Jammu And Kashmir,Urban,Primary & Upper Primary,Male,98.6
-Jammu And Kashmir,Urban,Secondary,Male,117.8
-Jammu And Kashmir,Urban,Secondary And Higher Secondary,Male,101.8
-Jammu And Kashmir,Urban,Upper Primary,Male,87.2
-Jammu And Kashmir,Urban,Higher Secondary,Person,90.3
-Jammu And Kashmir,Urban,Post Higher Secondary,Person,43.5
-Jammu And Kashmir,Urban,Primary,Person,103.9
-Jammu And Kashmir,Urban,Primary To Higher Secondary,Person,99.1
-Jammu And Kashmir,Urban,Primary & Upper Primary,Person,98.4
-Jammu And Kashmir,Urban,Secondary,Person,110.8
-Jammu And Kashmir,Urban,Secondary And Higher Secondary,Person,100.7
-Jammu And Kashmir,Urban,Upper Primary,Person,89.1
+J & K,Rural,Higher Secondary,Female,78.7
+J & K,Rural,Post Higher Secondary,Female,26.9
+J & K,Rural,Primary,Female,95.8
+J & K,Rural,Primary To Higher Secondary,Female,97.5
+J & K,Rural,Primary & Upper Primary,Female,99.2
+J & K,Rural,Secondary,Female,112.8
+J & K,Rural,Secondary And Higher Secondary,Female,94
+J & K,Rural,Upper Primary,Female,106.1
+J & K,Rural,Higher Secondary,Male,72
+J & K,Rural,Post Higher Secondary,Male,35.5
+J & K,Rural,Primary,Male,105.6
+J & K,Rural,Primary To Higher Secondary,Male,99.8
+J & K,Rural,Primary & Upper Primary,Male,101.7
+J & K,Rural,Secondary,Male,120.6
+J & K,Rural,Secondary And Higher Secondary,Male,95.7
+J & K,Rural,Upper Primary,Male,93.7
+J & K,Rural,Higher Secondary,Person,75.1
+J & K,Rural,Post Higher Secondary,Person,31.2
+J & K,Rural,Primary,Person,101.4
+J & K,Rural,Primary To Higher Secondary,Person,98.8
+J & K,Rural,Primary & Upper Primary,Person,100.7
+J & K,Rural,Secondary,Person,117.3
+J & K,Rural,Secondary And Higher Secondary,Person,94.9
+J & K,Rural,Upper Primary,Person,99.1
+J & K,Total,Higher Secondary,Female,81.2
+J & K,Total,Post Higher Secondary,Female,31.5
+J & K,Total,Primary,Female,96.9
+J & K,Total,Primary To Higher Secondary,Female,97.7
+J & K,Total,Primary & Upper Primary,Female,99
+J & K,Total,Secondary,Female,110.4
+J & K,Total,Secondary And Higher Secondary,Female,94.9
+J & K,Total,Upper Primary,Female,103.1
+J & K,Total,Higher Secondary,Male,75.3
+J & K,Total,Post Higher Secondary,Male,36.3
+J & K,Total,Primary,Male,105.6
+J & K,Total,Primary To Higher Secondary,Male,99.8
+J & K,Total,Primary & Upper Primary,Male,101.1
+J & K,Total,Secondary,Male,120
+J & K,Total,Secondary And Higher Secondary,Male,97
+J & K,Total,Upper Primary,Male,92.2
+J & K,Total,Higher Secondary,Person,77.9
+J & K,Total,Post Higher Secondary,Person,34
+J & K,Total,Primary,Person,101.9
+J & K,Total,Primary To Higher Secondary,Person,98.9
+J & K,Total,Primary & Upper Primary,Person,100.2
+J & K,Total,Secondary,Person,115.9
+J & K,Total,Secondary And Higher Secondary,Person,96.1
+J & K,Total,Upper Primary,Person,96.9
+J & K,Urban,Higher Secondary,Female,95.5
+J & K,Urban,Post Higher Secondary,Female,51.1
+J & K,Urban,Primary,Female,101.7
+J & K,Urban,Primary To Higher Secondary,Female,98.4
+J & K,Urban,Primary & Upper Primary,Female,98
+J & K,Urban,Secondary,Female,101.9
+J & K,Urban,Secondary And Higher Secondary,Female,99.1
+J & K,Urban,Upper Primary,Female,91.7
+J & K,Urban,Higher Secondary,Male,87.3
+J & K,Urban,Post Higher Secondary,Male,38.5
+J & K,Urban,Primary,Male,105.5
+J & K,Urban,Primary To Higher Secondary,Male,99.7
+J & K,Urban,Primary & Upper Primary,Male,98.6
+J & K,Urban,Secondary,Male,117.8
+J & K,Urban,Secondary And Higher Secondary,Male,101.8
+J & K,Urban,Upper Primary,Male,87.2
+J & K,Urban,Higher Secondary,Person,90.3
+J & K,Urban,Post Higher Secondary,Person,43.5
+J & K,Urban,Primary,Person,103.9
+J & K,Urban,Primary To Higher Secondary,Person,99.1
+J & K,Urban,Primary & Upper Primary,Person,98.4
+J & K,Urban,Secondary,Person,110.8
+J & K,Urban,Secondary And Higher Secondary,Person,100.7
+J & K,Urban,Upper Primary,Person,89.1
 Himachal Pradesh,Rural,Higher Secondary,Female,116.3
 Himachal Pradesh,Rural,Post Higher Secondary,Female,34.5
 Himachal Pradesh,Rural,Primary,Female,98.2
 Himachal Pradesh,Rural,Primary To Higher Secondary,Female,100.5
-Himachal Pradesh,Rural,Primary & Upper Primary,Female,98.0
+Himachal Pradesh,Rural,Primary & Upper Primary,Female,98
 Himachal Pradesh,Rural,Secondary,Female,93.3
 Himachal Pradesh,Rural,Secondary And Higher Secondary,Female,104.8
 Himachal Pradesh,Rural,Upper Primary,Female,97.8
 Himachal Pradesh,Rural,Higher Secondary,Male,105.6
 Himachal Pradesh,Rural,Post Higher Secondary,Male,29.4
-Himachal Pradesh,Rural,Primary,Male,100.0
+Himachal Pradesh,Rural,Primary,Male,100
 Himachal Pradesh,Rural,Primary To Higher Secondary,Male,99.3
 Himachal Pradesh,Rural,Primary & Upper Primary,Male,94.9
-Himachal Pradesh,Rural,Secondary,Male,108.0
+Himachal Pradesh,Rural,Secondary,Male,108
 Himachal Pradesh,Rural,Secondary And Higher Secondary,Male,106.9
-Himachal Pradesh,Rural,Upper Primary,Male,89.0
+Himachal Pradesh,Rural,Upper Primary,Male,89
 Himachal Pradesh,Rural,Higher Secondary,Person,110.7
 Himachal Pradesh,Rural,Post Higher Secondary,Person,32.1
 Himachal Pradesh,Rural,Primary,Person,99.1
@@ -94,12 +94,12 @@ Himachal Pradesh,Rural,Primary To Higher Secondary,Person,99.9
 Himachal Pradesh,Rural,Primary & Upper Primary,Person,96.4
 Himachal Pradesh,Rural,Secondary,Person,101.3
 Himachal Pradesh,Rural,Secondary And Higher Secondary,Person,105.9
-Himachal Pradesh,Rural,Upper Primary,Person,93.0
+Himachal Pradesh,Rural,Upper Primary,Person,93
 Himachal Pradesh,Total,Higher Secondary,Female,116.3
 Himachal Pradesh,Total,Post Higher Secondary,Female,35.8
 Himachal Pradesh,Total,Primary,Female,98.4
 Himachal Pradesh,Total,Primary To Higher Secondary,Female,100.7
-Himachal Pradesh,Total,Primary & Upper Primary,Female,98.0
+Himachal Pradesh,Total,Primary & Upper Primary,Female,98
 Himachal Pradesh,Total,Secondary,Female,94.4
 Himachal Pradesh,Total,Secondary And Higher Secondary,Female,105.3
 Himachal Pradesh,Total,Upper Primary,Female,97.5
@@ -114,7 +114,7 @@ Himachal Pradesh,Total,Upper Primary,Male,88.8
 Himachal Pradesh,Total,Higher Secondary,Person,111.4
 Himachal Pradesh,Total,Post Higher Secondary,Person,34.4
 Himachal Pradesh,Total,Primary,Person,99.3
-Himachal Pradesh,Total,Primary To Higher Secondary,Person,100.0
+Himachal Pradesh,Total,Primary To Higher Secondary,Person,100
 Himachal Pradesh,Total,Primary & Upper Primary,Person,96.4
 Himachal Pradesh,Total,Secondary,Person,101.4
 Himachal Pradesh,Total,Secondary And Higher Secondary,Person,106.2
@@ -131,7 +131,7 @@ Himachal Pradesh,Urban,Higher Secondary,Male,121.9
 Himachal Pradesh,Urban,Post Higher Secondary,Male,60.6
 Himachal Pradesh,Urban,Primary,Male,100.7
 Himachal Pradesh,Urban,Primary To Higher Secondary,Male,101.2
-Himachal Pradesh,Urban,Primary & Upper Primary,Male,96.0
+Himachal Pradesh,Urban,Primary & Upper Primary,Male,96
 Himachal Pradesh,Urban,Secondary,Male,101.9
 Himachal Pradesh,Urban,Secondary And Higher Secondary,Male,110.2
 Himachal Pradesh,Urban,Upper Primary,Male,84.1
@@ -170,12 +170,12 @@ Punjab,Rural,Upper Primary,Person,95.2
 Punjab,Total,Higher Secondary,Female,78.7
 Punjab,Total,Post Higher Secondary,Female,27.8
 Punjab,Total,Primary,Female,101.7
-Punjab,Total,Primary To Higher Secondary,Female,95.0
+Punjab,Total,Primary To Higher Secondary,Female,95
 Punjab,Total,Primary & Upper Primary,Female,97.2
 Punjab,Total,Secondary,Female,98.5
 Punjab,Total,Secondary And Higher Secondary,Female,90.1
-Punjab,Total,Upper Primary,Female,89.0
-Punjab,Total,Higher Secondary,Male,81.0
+Punjab,Total,Upper Primary,Female,89
+Punjab,Total,Higher Secondary,Male,81
 Punjab,Total,Post Higher Secondary,Male,20.1
 Punjab,Total,Primary,Male,101.8
 Punjab,Total,Primary To Higher Secondary,Male,96.8
@@ -186,7 +186,7 @@ Punjab,Total,Upper Primary,Male,99.8
 Punjab,Total,Higher Secondary,Person,80.2
 Punjab,Total,Post Higher Secondary,Person,23.2
 Punjab,Total,Primary,Person,101.8
-Punjab,Total,Primary To Higher Secondary,Person,96.0
+Punjab,Total,Primary To Higher Secondary,Person,96
 Punjab,Total,Primary & Upper Primary,Person,99.4
 Punjab,Total,Secondary,Person,96.9
 Punjab,Total,Secondary And Higher Secondary,Person,89.1
@@ -206,7 +206,7 @@ Punjab,Urban,Primary To Higher Secondary,Male,96.5
 Punjab,Urban,Primary & Upper Primary,Male,98.9
 Punjab,Urban,Secondary,Male,96.2
 Punjab,Urban,Secondary And Higher Secondary,Male,91.2
-Punjab,Urban,Upper Primary,Male,98.0
+Punjab,Urban,Upper Primary,Male,98
 Punjab,Urban,Higher Secondary,Person,78.6
 Punjab,Urban,Post Higher Secondary,Person,28.2
 Punjab,Urban,Primary,Person,95.8
@@ -217,13 +217,13 @@ Punjab,Urban,Secondary And Higher Secondary,Person,91.6
 Punjab,Urban,Upper Primary,Person,95.3
 Chandigarh,Rural,Higher Secondary,Female,166.7
 Chandigarh,Rural,Post Higher Secondary,Female,5.8
-Chandigarh,Rural,Primary,Female,100.0
+Chandigarh,Rural,Primary,Female,100
 Chandigarh,Rural,Primary To Higher Secondary,Female,114.1
-Chandigarh,Rural,Primary & Upper Primary,Female,100.0
+Chandigarh,Rural,Primary & Upper Primary,Female,100
 Chandigarh,Rural,Secondary,Female,108.7
 Chandigarh,Rural,Secondary And Higher Secondary,Female,125.8
-Chandigarh,Rural,Upper Primary,Female,100.0
-Chandigarh,Rural,Higher Secondary,Male,0.0
+Chandigarh,Rural,Upper Primary,Female,100
+Chandigarh,Rural,Higher Secondary,Male,0
 Chandigarh,Rural,Post Higher Secondary,Male,52.1
 Chandigarh,Rural,Primary,Male,234.5
 Chandigarh,Rural,Primary To Higher Secondary,Male,142.8
@@ -243,7 +243,7 @@ Chandigarh,Total,Higher Secondary,Female,86.7
 Chandigarh,Total,Post Higher Secondary,Female,38.2
 Chandigarh,Total,Primary,Female,106.2
 Chandigarh,Total,Primary To Higher Secondary,Female,96.9
-Chandigarh,Total,Primary & Upper Primary,Female,104.0
+Chandigarh,Total,Primary & Upper Primary,Female,104
 Chandigarh,Total,Secondary,Female,86.3
 Chandigarh,Total,Secondary And Higher Secondary,Female,86.5
 Chandigarh,Total,Upper Primary,Female,101.1
@@ -275,7 +275,7 @@ Chandigarh,Urban,Higher Secondary,Male,112.4
 Chandigarh,Urban,Post Higher Secondary,Male,46.1
 Chandigarh,Urban,Primary,Male,89.5
 Chandigarh,Urban,Primary To Higher Secondary,Male,94.6
-Chandigarh,Urban,Primary & Upper Primary,Male,88.0
+Chandigarh,Urban,Primary & Upper Primary,Male,88
 Chandigarh,Urban,Secondary,Male,95.9
 Chandigarh,Urban,Secondary And Higher Secondary,Male,104.3
 Chandigarh,Urban,Upper Primary,Male,84.7
@@ -297,7 +297,7 @@ Uttarakhand,Rural,Secondary And Higher Secondary,Female,94.9
 Uttarakhand,Rural,Upper Primary,Female,124.5
 Uttarakhand,Rural,Higher Secondary,Male,117.1
 Uttarakhand,Rural,Post Higher Secondary,Male,30.3
-Uttarakhand,Rural,Primary,Male,99.0
+Uttarakhand,Rural,Primary,Male,99
 Uttarakhand,Rural,Primary To Higher Secondary,Male,102.6
 Uttarakhand,Rural,Primary & Upper Primary,Male,103.9
 Uttarakhand,Rural,Secondary,Male,84.3
@@ -312,7 +312,7 @@ Uttarakhand,Rural,Secondary,Person,86.9
 Uttarakhand,Rural,Secondary And Higher Secondary,Person,97.6
 Uttarakhand,Rural,Upper Primary,Person,118.1
 Uttarakhand,Total,Higher Secondary,Female,90.1
-Uttarakhand,Total,Post Higher Secondary,Female,31.0
+Uttarakhand,Total,Post Higher Secondary,Female,31
 Uttarakhand,Total,Primary,Female,98.7
 Uttarakhand,Total,Primary To Higher Secondary,Female,100.4
 Uttarakhand,Total,Primary & Upper Primary,Female,105.8
@@ -325,14 +325,14 @@ Uttarakhand,Total,Primary,Male,100.7
 Uttarakhand,Total,Primary To Higher Secondary,Male,100.3
 Uttarakhand,Total,Primary & Upper Primary,Male,102.6
 Uttarakhand,Total,Secondary,Male,80.2
-Uttarakhand,Total,Secondary And Higher Secondary,Male,95.0
+Uttarakhand,Total,Secondary And Higher Secondary,Male,95
 Uttarakhand,Total,Upper Primary,Male,106.1
 Uttarakhand,Total,Higher Secondary,Person,102.5
 Uttarakhand,Total,Post Higher Secondary,Person,33.4
 Uttarakhand,Total,Primary,Person,99.8
 Uttarakhand,Total,Primary To Higher Secondary,Person,100.3
-Uttarakhand,Total,Primary & Upper Primary,Person,104.0
-Uttarakhand,Total,Secondary,Person,84.0
+Uttarakhand,Total,Primary & Upper Primary,Person,104
+Uttarakhand,Total,Secondary,Person,84
 Uttarakhand,Total,Secondary And Higher Secondary,Person,92.4
 Uttarakhand,Total,Upper Primary,Person,111.6
 Uttarakhand,Urban,Higher Secondary,Female,61.9
@@ -353,7 +353,7 @@ Uttarakhand,Urban,Secondary And Higher Secondary,Male,80.4
 Uttarakhand,Urban,Upper Primary,Male,87.3
 Uttarakhand,Urban,Higher Secondary,Person,79.4
 Uttarakhand,Urban,Post Higher Secondary,Person,47.5
-Uttarakhand,Urban,Primary,Person,108.0
+Uttarakhand,Urban,Primary,Person,108
 Uttarakhand,Urban,Primary To Higher Secondary,Person,93.7
 Uttarakhand,Urban,Primary & Upper Primary,Person,101.9
 Uttarakhand,Urban,Secondary,Person,75.7
@@ -383,7 +383,7 @@ Haryana,Rural,Primary & Upper Primary,Person,101.7
 Haryana,Rural,Secondary,Person,96.7
 Haryana,Rural,Secondary And Higher Secondary,Person,82.5
 Haryana,Rural,Upper Primary,Person,92.3
-Haryana,Total,Higher Secondary,Female,72.0
+Haryana,Total,Higher Secondary,Female,72
 Haryana,Total,Post Higher Secondary,Female,27.2
 Haryana,Total,Primary,Female,109.7
 Haryana,Total,Primary To Higher Secondary,Female,95.7
@@ -412,7 +412,7 @@ Haryana,Urban,Post Higher Secondary,Female,37.8
 Haryana,Urban,Primary,Female,104.2
 Haryana,Urban,Primary To Higher Secondary,Female,94.9
 Haryana,Urban,Primary & Upper Primary,Female,104.8
-Haryana,Urban,Secondary,Female,77.0
+Haryana,Urban,Secondary,Female,77
 Haryana,Urban,Secondary And Higher Secondary,Female,75.1
 Haryana,Urban,Upper Primary,Female,105.8
 Haryana,Urban,Higher Secondary,Male,78.5
@@ -425,35 +425,35 @@ Haryana,Urban,Secondary And Higher Secondary,Male,91.9
 Haryana,Urban,Upper Primary,Male,91.7
 Haryana,Urban,Higher Secondary,Person,76.7
 Haryana,Urban,Post Higher Secondary,Person,38.4
-Haryana,Urban,Primary,Person,102.0
+Haryana,Urban,Primary,Person,102
 Haryana,Urban,Primary To Higher Secondary,Person,95.2
 Haryana,Urban,Primary & Upper Primary,Person,100.5
 Haryana,Urban,Secondary,Person,96.8
 Haryana,Urban,Secondary And Higher Secondary,Person,85.7
 Haryana,Urban,Upper Primary,Person,97.7
-Delhi,Rural,Higher Secondary,Female,92.0
+Delhi,Rural,Higher Secondary,Female,92
 Delhi,Rural,Post Higher Secondary,Female,57.9
 Delhi,Rural,Primary,Female,83.3
 Delhi,Rural,Primary To Higher Secondary,Female,97.5
 Delhi,Rural,Primary & Upper Primary,Female,92.9
-Delhi,Rural,Secondary,Female,119.0
+Delhi,Rural,Secondary,Female,119
 Delhi,Rural,Secondary And Higher Secondary,Female,99.8
 Delhi,Rural,Upper Primary,Female,99.4
 Delhi,Rural,Higher Secondary,Male,28.5
 Delhi,Rural,Post Higher Secondary,Male,25.6
 Delhi,Rural,Primary,Male,100.5
 Delhi,Rural,Primary To Higher Secondary,Male,80.5
-Delhi,Rural,Primary & Upper Primary,Male,83.0
-Delhi,Rural,Secondary,Male,123.0
+Delhi,Rural,Primary & Upper Primary,Male,83
+Delhi,Rural,Secondary,Male,123
 Delhi,Rural,Secondary And Higher Secondary,Male,78.9
-Delhi,Rural,Upper Primary,Male,17.0
+Delhi,Rural,Upper Primary,Male,17
 Delhi,Rural,Higher Secondary,Person,68.8
 Delhi,Rural,Post Higher Secondary,Person,33.2
-Delhi,Rural,Primary,Person,95.0
+Delhi,Rural,Primary,Person,95
 Delhi,Rural,Primary To Higher Secondary,Person,89.2
 Delhi,Rural,Primary & Upper Primary,Person,87.8
 Delhi,Rural,Secondary,Person,121.5
-Delhi,Rural,Secondary And Higher Secondary,Person,90.0
+Delhi,Rural,Secondary And Higher Secondary,Person,90
 Delhi,Rural,Upper Primary,Person,76.8
 Delhi,Total,Higher Secondary,Female,86.2
 Delhi,Total,Post Higher Secondary,Female,36.2
@@ -466,7 +466,7 @@ Delhi,Total,Upper Primary,Female,79.9
 Delhi,Total,Higher Secondary,Male,92.9
 Delhi,Total,Post Higher Secondary,Male,31.9
 Delhi,Total,Primary,Male,100.1
-Delhi,Total,Primary To Higher Secondary,Male,100.0
+Delhi,Total,Primary To Higher Secondary,Male,100
 Delhi,Total,Primary & Upper Primary,Male,105.3
 Delhi,Total,Secondary,Male,91.3
 Delhi,Total,Secondary And Higher Secondary,Male,92.1
@@ -515,8 +515,8 @@ Rajasthan,Rural,Higher Secondary,Male,73.1
 Rajasthan,Rural,Post Higher Secondary,Male,30.2
 Rajasthan,Rural,Primary,Male,111.6
 Rajasthan,Rural,Primary To Higher Secondary,Male,96.7
-Rajasthan,Rural,Primary & Upper Primary,Male,103.0
-Rajasthan,Rural,Secondary,Male,94.0
+Rajasthan,Rural,Primary & Upper Primary,Male,103
+Rajasthan,Rural,Secondary,Male,94
 Rajasthan,Rural,Secondary And Higher Secondary,Male,84.4
 Rajasthan,Rural,Upper Primary,Male,87.8
 Rajasthan,Rural,Higher Secondary,Person,70.5
@@ -534,7 +534,7 @@ Rajasthan,Total,Primary To Higher Secondary,Female,90.4
 Rajasthan,Total,Primary & Upper Primary,Female,102.3
 Rajasthan,Total,Secondary,Female,66.1
 Rajasthan,Total,Secondary And Higher Secondary,Female,67.8
-Rajasthan,Total,Upper Primary,Female,88.0
+Rajasthan,Total,Upper Primary,Female,88
 Rajasthan,Total,Higher Secondary,Male,72.5
 Rajasthan,Total,Post Higher Secondary,Male,33.7
 Rajasthan,Total,Primary,Male,109.9
@@ -542,12 +542,12 @@ Rajasthan,Total,Primary To Higher Secondary,Male,96.3
 Rajasthan,Total,Primary & Upper Primary,Male,101.7
 Rajasthan,Total,Secondary,Male,98.7
 Rajasthan,Total,Secondary And Higher Secondary,Male,85.8
-Rajasthan,Total,Upper Primary,Male,87.0
+Rajasthan,Total,Upper Primary,Male,87
 Rajasthan,Total,Higher Secondary,Person,71.3
 Rajasthan,Total,Post Higher Secondary,Person,29.5
 Rajasthan,Total,Primary,Person,110.8
 Rajasthan,Total,Primary To Higher Secondary,Person,93.6
-Rajasthan,Total,Primary & Upper Primary,Person,102.0
+Rajasthan,Total,Primary & Upper Primary,Person,102
 Rajasthan,Total,Secondary,Person,83.2
 Rajasthan,Total,Secondary And Higher Secondary,Person,77.5
 Rajasthan,Total,Upper Primary,Person,87.5
@@ -561,16 +561,16 @@ Rajasthan,Urban,Secondary And Higher Secondary,Female,77.5
 Rajasthan,Urban,Upper Primary,Female,86.6
 Rajasthan,Urban,Higher Secondary,Male,70.9
 Rajasthan,Urban,Post Higher Secondary,Male,42.2
-Rajasthan,Urban,Primary,Male,104.0
-Rajasthan,Urban,Primary To Higher Secondary,Male,95.0
-Rajasthan,Urban,Primary & Upper Primary,Male,97.0
+Rajasthan,Urban,Primary,Male,104
+Rajasthan,Urban,Primary To Higher Secondary,Male,95
+Rajasthan,Urban,Primary & Upper Primary,Male,97
 Rajasthan,Urban,Secondary,Male,123.5
-Rajasthan,Urban,Secondary And Higher Secondary,Male,91.0
-Rajasthan,Urban,Upper Primary,Male,84.0
+Rajasthan,Urban,Secondary And Higher Secondary,Male,91
+Rajasthan,Urban,Upper Primary,Male,84
 Rajasthan,Urban,Higher Secondary,Person,73.6
-Rajasthan,Urban,Post Higher Secondary,Person,42.0
+Rajasthan,Urban,Post Higher Secondary,Person,42
 Rajasthan,Urban,Primary,Person,108.1
-Rajasthan,Urban,Primary To Higher Secondary,Person,94.0
+Rajasthan,Urban,Primary To Higher Secondary,Person,94
 Rajasthan,Urban,Primary & Upper Primary,Person,99.1
 Rajasthan,Urban,Secondary,Person,99.9
 Rajasthan,Urban,Secondary And Higher Secondary,Person,84.8
@@ -582,14 +582,14 @@ Uttar Pradesh,Rural,Primary To Higher Secondary,Female,81.5
 Uttar Pradesh,Rural,Primary & Upper Primary,Female,95.4
 Uttar Pradesh,Rural,Secondary,Female,55.4
 Uttar Pradesh,Rural,Secondary And Higher Secondary,Female,54.8
-Uttar Pradesh,Rural,Upper Primary,Female,95.0
-Uttar Pradesh,Rural,Higher Secondary,Male,64.0
+Uttar Pradesh,Rural,Upper Primary,Female,95
+Uttar Pradesh,Rural,Higher Secondary,Male,64
 Uttar Pradesh,Rural,Post Higher Secondary,Male,19.3
-Uttar Pradesh,Rural,Primary,Male,102.0
+Uttar Pradesh,Rural,Primary,Male,102
 Uttar Pradesh,Rural,Primary To Higher Secondary,Male,87.6
 Uttar Pradesh,Rural,Primary & Upper Primary,Male,97.6
 Uttar Pradesh,Rural,Secondary,Male,69.7
-Uttar Pradesh,Rural,Secondary And Higher Secondary,Male,67.0
+Uttar Pradesh,Rural,Secondary And Higher Secondary,Male,67
 Uttar Pradesh,Rural,Upper Primary,Male,89.2
 Uttar Pradesh,Rural,Higher Secondary,Person,59.3
 Uttar Pradesh,Rural,Post Higher Secondary,Person,19.2
@@ -607,7 +607,7 @@ Uttar Pradesh,Total,Primary & Upper Primary,Female,94.6
 Uttar Pradesh,Total,Secondary,Female,58.8
 Uttar Pradesh,Total,Secondary And Higher Secondary,Female,57.2
 Uttar Pradesh,Total,Upper Primary,Female,93.6
-Uttar Pradesh,Total,Higher Secondary,Male,66.0
+Uttar Pradesh,Total,Higher Secondary,Male,66
 Uttar Pradesh,Total,Post Higher Secondary,Male,21.3
 Uttar Pradesh,Total,Primary,Male,102.6
 Uttar Pradesh,Total,Primary To Higher Secondary,Male,87.7
@@ -615,23 +615,23 @@ Uttar Pradesh,Total,Primary & Upper Primary,Male,97.2
 Uttar Pradesh,Total,Secondary,Male,70.3
 Uttar Pradesh,Total,Secondary And Higher Secondary,Male,68.2
 Uttar Pradesh,Total,Upper Primary,Male,87.1
-Uttar Pradesh,Total,Higher Secondary,Person,61.0
+Uttar Pradesh,Total,Higher Secondary,Person,61
 Uttar Pradesh,Total,Post Higher Secondary,Person,21.3
 Uttar Pradesh,Total,Primary,Person,99.2
 Uttar Pradesh,Total,Primary To Higher Secondary,Person,84.9
-Uttar Pradesh,Total,Primary & Upper Primary,Person,96.0
+Uttar Pradesh,Total,Primary & Upper Primary,Person,96
 Uttar Pradesh,Total,Secondary,Person,64.9
-Uttar Pradesh,Total,Secondary And Higher Secondary,Person,63.0
-Uttar Pradesh,Total,Upper Primary,Person,90.0
+Uttar Pradesh,Total,Secondary And Higher Secondary,Person,63
+Uttar Pradesh,Total,Upper Primary,Person,90
 Uttar Pradesh,Urban,Higher Secondary,Female,61.1
-Uttar Pradesh,Urban,Post Higher Secondary,Female,29.0
+Uttar Pradesh,Urban,Post Higher Secondary,Female,29
 Uttar Pradesh,Urban,Primary,Female,92.3
-Uttar Pradesh,Urban,Primary To Higher Secondary,Female,82.0
+Uttar Pradesh,Urban,Primary To Higher Secondary,Female,82
 Uttar Pradesh,Urban,Primary & Upper Primary,Female,90.6
 Uttar Pradesh,Urban,Secondary,Female,74.4
 Uttar Pradesh,Urban,Secondary And Higher Secondary,Female,67.2
 Uttar Pradesh,Urban,Upper Primary,Female,87.8
-Uttar Pradesh,Urban,Higher Secondary,Male,74.0
+Uttar Pradesh,Urban,Higher Secondary,Male,74
 Uttar Pradesh,Urban,Post Higher Secondary,Male,28.6
 Uttar Pradesh,Urban,Primary,Male,105.4
 Uttar Pradesh,Urban,Primary To Higher Secondary,Male,87.9
@@ -647,9 +647,9 @@ Uttar Pradesh,Urban,Primary & Upper Primary,Person,93.1
 Uttar Pradesh,Urban,Secondary,Person,73.7
 Uttar Pradesh,Urban,Secondary And Higher Secondary,Person,70.5
 Uttar Pradesh,Urban,Upper Primary,Person,82.5
-Bihar,Rural,Higher Secondary,Female,55.0
-Bihar,Rural,Post Higher Secondary,Female,9.0
-Bihar,Rural,Primary,Female,100.0
+Bihar,Rural,Higher Secondary,Female,55
+Bihar,Rural,Post Higher Secondary,Female,9
+Bihar,Rural,Primary,Female,100
 Bihar,Rural,Primary To Higher Secondary,Female,91.1
 Bihar,Rural,Primary & Upper Primary,Female,97.5
 Bihar,Rural,Secondary,Female,86.4
@@ -657,7 +657,7 @@ Bihar,Rural,Secondary And Higher Secondary,Female,73.7
 Bihar,Rural,Upper Primary,Female,92.7
 Bihar,Rural,Higher Secondary,Male,68.2
 Bihar,Rural,Post Higher Secondary,Male,19.7
-Bihar,Rural,Primary,Male,97.0
+Bihar,Rural,Primary,Male,97
 Bihar,Rural,Primary To Higher Secondary,Male,92.9
 Bihar,Rural,Primary & Upper Primary,Male,99.5
 Bihar,Rural,Secondary,Male,81.7
@@ -673,7 +673,7 @@ Bihar,Rural,Secondary And Higher Secondary,Person,75.2
 Bihar,Rural,Upper Primary,Person,99.8
 Bihar,Total,Higher Secondary,Female,58.4
 Bihar,Total,Post Higher Secondary,Female,11.4
-Bihar,Total,Primary,Female,99.0
+Bihar,Total,Primary,Female,99
 Bihar,Total,Primary To Higher Secondary,Female,90.9
 Bihar,Total,Primary & Upper Primary,Female,96.8
 Bihar,Total,Secondary,Female,87.2
@@ -682,11 +682,11 @@ Bihar,Total,Upper Primary,Female,92.4
 Bihar,Total,Higher Secondary,Male,70.9
 Bihar,Total,Post Higher Secondary,Male,21.5
 Bihar,Total,Primary,Male,97.2
-Bihar,Total,Primary To Higher Secondary,Male,93.0
+Bihar,Total,Primary To Higher Secondary,Male,93
 Bihar,Total,Primary & Upper Primary,Male,99.4
 Bihar,Total,Secondary,Male,80.9
 Bihar,Total,Secondary And Higher Secondary,Male,76.7
-Bihar,Total,Upper Primary,Male,104.0
+Bihar,Total,Upper Primary,Male,104
 Bihar,Total,Higher Secondary,Person,66.2
 Bihar,Total,Post Higher Secondary,Person,16.5
 Bihar,Total,Primary,Person,97.9
@@ -695,11 +695,11 @@ Bihar,Total,Primary & Upper Primary,Person,98.4
 Bihar,Total,Secondary,Person,83.3
 Bihar,Total,Secondary And Higher Secondary,Person,76.2
 Bihar,Total,Upper Primary,Person,99.3
-Bihar,Urban,Higher Secondary,Female,82.0
+Bihar,Urban,Higher Secondary,Female,82
 Bihar,Urban,Post Higher Secondary,Female,32.2
 Bihar,Urban,Primary,Female,90.3
 Bihar,Urban,Primary To Higher Secondary,Female,89.5
-Bihar,Urban,Primary & Upper Primary,Female,90.0
+Bihar,Urban,Primary & Upper Primary,Female,90
 Bihar,Urban,Secondary,Female,93.6
 Bihar,Urban,Secondary And Higher Secondary,Female,88.3
 Bihar,Urban,Upper Primary,Female,89.6
@@ -719,12 +719,12 @@ Bihar,Urban,Primary & Upper Primary,Person,95.2
 Bihar,Urban,Secondary,Person,81.1
 Bihar,Urban,Secondary And Higher Secondary,Person,84.5
 Bihar,Urban,Upper Primary,Person,94.6
-Sikkim,Rural,Higher Secondary,Female,109.0
+Sikkim,Rural,Higher Secondary,Female,109
 Sikkim,Rural,Post Higher Secondary,Female,15.2
 Sikkim,Rural,Primary,Female,114.1
 Sikkim,Rural,Primary To Higher Secondary,Female,109.2
 Sikkim,Rural,Primary & Upper Primary,Female,106.6
-Sikkim,Rural,Secondary,Female,118.0
+Sikkim,Rural,Secondary,Female,118
 Sikkim,Rural,Secondary And Higher Secondary,Female,113.6
 Sikkim,Rural,Upper Primary,Female,98.9
 Sikkim,Rural,Higher Secondary,Male,88.4
@@ -733,7 +733,7 @@ Sikkim,Rural,Primary,Male,94.5
 Sikkim,Rural,Primary To Higher Secondary,Male,106.5
 Sikkim,Rural,Primary & Upper Primary,Male,111.1
 Sikkim,Rural,Secondary,Male,111.5
-Sikkim,Rural,Secondary And Higher Secondary,Male,100.0
+Sikkim,Rural,Secondary And Higher Secondary,Male,100
 Sikkim,Rural,Upper Primary,Male,131.5
 Sikkim,Rural,Higher Secondary,Person,98.4
 Sikkim,Rural,Post Higher Secondary,Person,14.2
@@ -744,7 +744,7 @@ Sikkim,Rural,Secondary,Person,114.7
 Sikkim,Rural,Secondary And Higher Secondary,Person,106.6
 Sikkim,Rural,Upper Primary,Person,113.3
 Sikkim,Total,Higher Secondary,Female,102.4
-Sikkim,Total,Post Higher Secondary,Female,20.0
+Sikkim,Total,Post Higher Secondary,Female,20
 Sikkim,Total,Primary,Female,108.6
 Sikkim,Total,Primary To Higher Secondary,Female,106.6
 Sikkim,Total,Primary & Upper Primary,Female,104.2
@@ -752,9 +752,9 @@ Sikkim,Total,Secondary,Female,118.1
 Sikkim,Total,Secondary And Higher Secondary,Female,110.3
 Sikkim,Total,Upper Primary,Female,99.6
 Sikkim,Total,Higher Secondary,Male,88.5
-Sikkim,Total,Post Higher Secondary,Male,27.0
+Sikkim,Total,Post Higher Secondary,Male,27
 Sikkim,Total,Primary,Male,102.9
-Sikkim,Total,Primary To Higher Secondary,Male,107.0
+Sikkim,Total,Primary To Higher Secondary,Male,107
 Sikkim,Total,Primary & Upper Primary,Male,111.1
 Sikkim,Total,Secondary,Male,114.9
 Sikkim,Total,Secondary And Higher Secondary,Male,101.5
@@ -773,11 +773,11 @@ Sikkim,Urban,Primary,Female,87.8
 Sikkim,Urban,Primary To Higher Secondary,Female,98.3
 Sikkim,Urban,Primary & Upper Primary,Female,94.8
 Sikkim,Urban,Secondary,Female,118.3
-Sikkim,Urban,Secondary And Higher Secondary,Female,102.0
+Sikkim,Urban,Secondary And Higher Secondary,Female,102
 Sikkim,Urban,Upper Primary,Female,102.7
 Sikkim,Urban,Higher Secondary,Male,88.8
 Sikkim,Urban,Post Higher Secondary,Male,61.9
-Sikkim,Urban,Primary,Male,138.0
+Sikkim,Urban,Primary,Male,138
 Sikkim,Urban,Primary To Higher Secondary,Male,108.6
 Sikkim,Urban,Primary & Upper Primary,Male,111.3
 Sikkim,Urban,Secondary,Male,124.5
@@ -808,7 +808,7 @@ Arunachal Pradesh,Rural,Secondary,Male,69.3
 Arunachal Pradesh,Rural,Secondary And Higher Secondary,Male,78.8
 Arunachal Pradesh,Rural,Upper Primary,Male,112.6
 Arunachal Pradesh,Rural,Higher Secondary,Person,85.4
-Arunachal Pradesh,Rural,Post Higher Secondary,Person,22.0
+Arunachal Pradesh,Rural,Post Higher Secondary,Person,22
 Arunachal Pradesh,Rural,Primary,Person,85.5
 Arunachal Pradesh,Rural,Primary To Higher Secondary,Person,88.5
 Arunachal Pradesh,Rural,Primary & Upper Primary,Person,95.9
@@ -847,7 +847,7 @@ Arunachal Pradesh,Urban,Primary & Upper Primary,Female,92.6
 Arunachal Pradesh,Urban,Secondary,Female,62.1
 Arunachal Pradesh,Urban,Secondary And Higher Secondary,Female,85.8
 Arunachal Pradesh,Urban,Upper Primary,Female,97.2
-Arunachal Pradesh,Urban,Higher Secondary,Male,89.0
+Arunachal Pradesh,Urban,Higher Secondary,Male,89
 Arunachal Pradesh,Urban,Post Higher Secondary,Male,63.3
 Arunachal Pradesh,Urban,Primary,Male,95.1
 Arunachal Pradesh,Urban,Primary To Higher Secondary,Male,96.2
@@ -861,9 +861,9 @@ Arunachal Pradesh,Urban,Primary,Person,92.8
 Arunachal Pradesh,Urban,Primary To Higher Secondary,Person,93.6
 Arunachal Pradesh,Urban,Primary & Upper Primary,Person,101.7
 Arunachal Pradesh,Urban,Secondary,Person,69.5
-Arunachal Pradesh,Urban,Secondary And Higher Secondary,Person,83.0
+Arunachal Pradesh,Urban,Secondary And Higher Secondary,Person,83
 Arunachal Pradesh,Urban,Upper Primary,Person,115.7
-Nagaland,Rural,Higher Secondary,Female,34.0
+Nagaland,Rural,Higher Secondary,Female,34
 Nagaland,Rural,Post Higher Secondary,Female,7.8
 Nagaland,Rural,Primary,Female,101.1
 Nagaland,Rural,Primary To Higher Secondary,Female,92.2
@@ -873,11 +873,11 @@ Nagaland,Rural,Secondary And Higher Secondary,Female,78.3
 Nagaland,Rural,Upper Primary,Female,92.2
 Nagaland,Rural,Higher Secondary,Male,54.5
 Nagaland,Rural,Post Higher Secondary,Male,12.8
-Nagaland,Rural,Primary,Male,97.0
+Nagaland,Rural,Primary,Male,97
 Nagaland,Rural,Primary To Higher Secondary,Male,92.7
 Nagaland,Rural,Primary & Upper Primary,Male,95.9
 Nagaland,Rural,Secondary,Male,100.4
-Nagaland,Rural,Secondary And Higher Secondary,Male,84.0
+Nagaland,Rural,Secondary And Higher Secondary,Male,84
 Nagaland,Rural,Upper Primary,Male,93.9
 Nagaland,Rural,Higher Secondary,Person,43.1
 Nagaland,Rural,Post Higher Secondary,Person,10.7
@@ -894,10 +894,10 @@ Nagaland,Total,Primary To Higher Secondary,Female,93.2
 Nagaland,Total,Primary & Upper Primary,Female,97.3
 Nagaland,Total,Secondary,Female,98.3
 Nagaland,Total,Secondary And Higher Secondary,Female,85.8
-Nagaland,Total,Upper Primary,Female,95.0
-Nagaland,Total,Higher Secondary,Male,64.0
+Nagaland,Total,Upper Primary,Female,95
+Nagaland,Total,Higher Secondary,Male,64
 Nagaland,Total,Post Higher Secondary,Male,25.2
-Nagaland,Total,Primary,Male,95.0
+Nagaland,Total,Primary,Male,95
 Nagaland,Total,Primary To Higher Secondary,Male,93.9
 Nagaland,Total,Primary & Upper Primary,Male,95.2
 Nagaland,Total,Secondary,Male,107.5
@@ -953,24 +953,24 @@ Manipur,Rural,Secondary And Higher Secondary,Male,104.1
 Manipur,Rural,Upper Primary,Male,88.2
 Manipur,Rural,Higher Secondary,Person,87.1
 Manipur,Rural,Post Higher Secondary,Person,25.6
-Manipur,Rural,Primary,Person,98.0
+Manipur,Rural,Primary,Person,98
 Manipur,Rural,Primary To Higher Secondary,Person,97.3
 Manipur,Rural,Primary & Upper Primary,Person,97.8
 Manipur,Rural,Secondary,Person,104.3
 Manipur,Rural,Secondary And Higher Secondary,Person,95.8
 Manipur,Rural,Upper Primary,Person,97.5
 Manipur,Total,Higher Secondary,Female,86.2
-Manipur,Total,Post Higher Secondary,Female,24.0
+Manipur,Total,Post Higher Secondary,Female,24
 Manipur,Total,Primary,Female,96.6
 Manipur,Total,Primary To Higher Secondary,Female,96.2
 Manipur,Total,Primary & Upper Primary,Female,98.8
-Manipur,Total,Secondary,Female,94.0
+Manipur,Total,Secondary,Female,94
 Manipur,Total,Secondary And Higher Secondary,Female,90.7
 Manipur,Total,Upper Primary,Female,103.3
 Manipur,Total,Higher Secondary,Male,99.7
 Manipur,Total,Post Higher Secondary,Male,39.2
-Manipur,Total,Primary,Male,97.0
-Manipur,Total,Primary To Higher Secondary,Male,97.0
+Manipur,Total,Primary,Male,97
+Manipur,Total,Primary To Higher Secondary,Male,97
 Manipur,Total,Primary & Upper Primary,Male,94.4
 Manipur,Total,Secondary,Male,110.7
 Manipur,Total,Secondary And Higher Secondary,Male,105.6
@@ -981,26 +981,26 @@ Manipur,Total,Primary,Person,96.8
 Manipur,Total,Primary To Higher Secondary,Person,96.6
 Manipur,Total,Primary & Upper Primary,Person,96.1
 Manipur,Total,Secondary,Person,101.9
-Manipur,Total,Secondary And Higher Secondary,Person,98.0
+Manipur,Total,Secondary And Higher Secondary,Person,98
 Manipur,Total,Upper Primary,Person,94.7
 Manipur,Urban,Higher Secondary,Female,100.2
 Manipur,Urban,Post Higher Secondary,Female,39.9
 Manipur,Urban,Primary,Female,96.4
-Manipur,Urban,Primary To Higher Secondary,Female,95.0
+Manipur,Urban,Primary To Higher Secondary,Female,95
 Manipur,Urban,Primary & Upper Primary,Female,94.2
 Manipur,Urban,Secondary,Female,94.5
 Manipur,Urban,Secondary And Higher Secondary,Female,96.5
 Manipur,Urban,Upper Primary,Female,90.2
 Manipur,Urban,Higher Secondary,Male,119.7
 Manipur,Urban,Post Higher Secondary,Male,53.5
-Manipur,Urban,Primary,Male,93.0
+Manipur,Urban,Primary,Male,93
 Manipur,Urban,Primary To Higher Secondary,Male,95.7
 Manipur,Urban,Primary & Upper Primary,Male,91.8
 Manipur,Urban,Secondary,Male,102.2
 Manipur,Urban,Secondary And Higher Secondary,Male,108.4
 Manipur,Urban,Upper Primary,Male,89.6
 Manipur,Urban,Higher Secondary,Person,109.7
-Manipur,Urban,Post Higher Secondary,Person,47.0
+Manipur,Urban,Post Higher Secondary,Person,47
 Manipur,Urban,Primary,Person,94.4
 Manipur,Urban,Primary To Higher Secondary,Person,95.4
 Manipur,Urban,Primary & Upper Primary,Person,92.8
@@ -1012,12 +1012,12 @@ Mizoram,Rural,Post Higher Secondary,Female,0.8
 Mizoram,Rural,Primary,Female,99.1
 Mizoram,Rural,Primary To Higher Secondary,Female,94.4
 Mizoram,Rural,Primary & Upper Primary,Female,106.9
-Mizoram,Rural,Secondary,Female,90.0
+Mizoram,Rural,Secondary,Female,90
 Mizoram,Rural,Secondary And Higher Secondary,Female,71.6
 Mizoram,Rural,Upper Primary,Female,120.1
 Mizoram,Rural,Higher Secondary,Male,41.4
 Mizoram,Rural,Post Higher Secondary,Male,0.5
-Mizoram,Rural,Primary,Male,99.0
+Mizoram,Rural,Primary,Male,99
 Mizoram,Rural,Primary To Higher Secondary,Male,95.7
 Mizoram,Rural,Primary & Upper Primary,Male,105.8
 Mizoram,Rural,Secondary,Male,103.5
@@ -1025,7 +1025,7 @@ Mizoram,Rural,Secondary And Higher Secondary,Male,74.4
 Mizoram,Rural,Upper Primary,Male,119.1
 Mizoram,Rural,Higher Secondary,Person,43.1
 Mizoram,Rural,Post Higher Secondary,Person,0.6
-Mizoram,Rural,Primary,Person,99.0
+Mizoram,Rural,Primary,Person,99
 Mizoram,Rural,Primary To Higher Secondary,Person,95.1
 Mizoram,Rural,Primary & Upper Primary,Person,106.2
 Mizoram,Rural,Secondary,Person,96.9
@@ -1055,7 +1055,7 @@ Mizoram,Total,Primary & Upper Primary,Person,104.7
 Mizoram,Total,Secondary,Person,101.6
 Mizoram,Total,Secondary And Higher Secondary,Person,87.5
 Mizoram,Total,Upper Primary,Person,111.4
-Mizoram,Urban,Higher Secondary,Female,114.0
+Mizoram,Urban,Higher Secondary,Female,114
 Mizoram,Urban,Post Higher Secondary,Female,38.6
 Mizoram,Urban,Primary,Female,102.2
 Mizoram,Urban,Primary To Higher Secondary,Female,104.5
@@ -1066,11 +1066,11 @@ Mizoram,Urban,Upper Primary,Female,104.8
 Mizoram,Urban,Higher Secondary,Male,99.4
 Mizoram,Urban,Post Higher Secondary,Male,34.4
 Mizoram,Urban,Primary,Male,106.3
-Mizoram,Urban,Primary To Higher Secondary,Male,104.0
+Mizoram,Urban,Primary To Higher Secondary,Male,104
 Mizoram,Urban,Primary & Upper Primary,Male,101.5
 Mizoram,Urban,Secondary,Male,117.6
 Mizoram,Urban,Secondary And Higher Secondary,Male,108.4
-Mizoram,Urban,Upper Primary,Male,92.0
+Mizoram,Urban,Upper Primary,Male,92
 Mizoram,Urban,Higher Secondary,Person,106.6
 Mizoram,Urban,Post Higher Secondary,Person,36.5
 Mizoram,Urban,Primary,Person,104.2
@@ -1080,7 +1080,7 @@ Mizoram,Urban,Secondary,Person,108.8
 Mizoram,Urban,Secondary And Higher Secondary,Person,107.7
 Mizoram,Urban,Upper Primary,Person,98.7
 Tripura,Rural,Higher Secondary,Female,65.1
-Tripura,Rural,Post Higher Secondary,Female,13.0
+Tripura,Rural,Post Higher Secondary,Female,13
 Tripura,Rural,Primary,Female,105.9
 Tripura,Rural,Primary To Higher Secondary,Female,98.8
 Tripura,Rural,Primary & Upper Primary,Female,106.2
@@ -1093,12 +1093,12 @@ Tripura,Rural,Primary,Male,108.6
 Tripura,Rural,Primary To Higher Secondary,Male,97.3
 Tripura,Rural,Primary & Upper Primary,Male,112.9
 Tripura,Rural,Secondary,Male,97.8
-Tripura,Rural,Secondary And Higher Secondary,Male,75.0
+Tripura,Rural,Secondary And Higher Secondary,Male,75
 Tripura,Rural,Upper Primary,Male,120.2
 Tripura,Rural,Higher Secondary,Person,53.1
-Tripura,Rural,Post Higher Secondary,Person,12.0
+Tripura,Rural,Post Higher Secondary,Person,12
 Tripura,Rural,Primary,Person,107.4
-Tripura,Rural,Primary To Higher Secondary,Person,98.0
+Tripura,Rural,Primary To Higher Secondary,Person,98
 Tripura,Rural,Primary & Upper Primary,Person,109.8
 Tripura,Rural,Secondary,Person,98.6
 Tripura,Rural,Secondary And Higher Secondary,Person,79.3
@@ -1107,11 +1107,11 @@ Tripura,Total,Higher Secondary,Female,63.6
 Tripura,Total,Post Higher Secondary,Female,17.3
 Tripura,Total,Primary,Female,109.7
 Tripura,Total,Primary To Higher Secondary,Female,99.8
-Tripura,Total,Primary & Upper Primary,Female,106.0
+Tripura,Total,Primary & Upper Primary,Female,106
 Tripura,Total,Secondary,Female,109.2
 Tripura,Total,Secondary And Higher Secondary,Female,88.6
 Tripura,Total,Upper Primary,Female,101.1
-Tripura,Total,Higher Secondary,Male,52.0
+Tripura,Total,Higher Secondary,Male,52
 Tripura,Total,Post Higher Secondary,Male,13.3
 Tripura,Total,Primary,Male,107.7
 Tripura,Total,Primary To Higher Secondary,Male,98.4
@@ -1119,12 +1119,12 @@ Tripura,Total,Primary & Upper Primary,Male,111.3
 Tripura,Total,Secondary,Male,98.6
 Tripura,Total,Secondary And Higher Secondary,Male,78.4
 Tripura,Total,Upper Primary,Male,117.1
-Tripura,Total,Higher Secondary,Person,57.0
+Tripura,Total,Higher Secondary,Person,57
 Tripura,Total,Post Higher Secondary,Person,15.3
 Tripura,Total,Primary,Person,108.6
-Tripura,Total,Primary To Higher Secondary,Person,99.0
+Tripura,Total,Primary To Higher Secondary,Person,99
 Tripura,Total,Primary & Upper Primary,Person,108.9
-Tripura,Total,Secondary,Person,103.0
+Tripura,Total,Secondary,Person,103
 Tripura,Total,Secondary And Higher Secondary,Person,82.7
 Tripura,Total,Upper Primary,Person,109.4
 Tripura,Urban,Higher Secondary,Female,59.2
@@ -1135,8 +1135,8 @@ Tripura,Urban,Primary & Upper Primary,Female,105.2
 Tripura,Urban,Secondary,Female,170.3
 Tripura,Urban,Secondary And Higher Secondary,Female,102.3
 Tripura,Urban,Upper Primary,Female,73.8
-Tripura,Urban,Higher Secondary,Male,92.0
-Tripura,Urban,Post Higher Secondary,Male,23.0
+Tripura,Urban,Higher Secondary,Male,92
+Tripura,Urban,Post Higher Secondary,Male,23
 Tripura,Urban,Primary,Male,104.2
 Tripura,Urban,Primary To Higher Secondary,Male,103.2
 Tripura,Urban,Primary & Upper Primary,Male,105.3
@@ -1148,14 +1148,14 @@ Tripura,Urban,Post Higher Secondary,Person,28.8
 Tripura,Urban,Primary,Person,113.6
 Tripura,Urban,Primary To Higher Secondary,Person,103.6
 Tripura,Urban,Primary & Upper Primary,Person,105.3
-Tripura,Urban,Secondary,Person,130.0
+Tripura,Urban,Secondary,Person,130
 Tripura,Urban,Secondary And Higher Secondary,Person,100.4
 Tripura,Urban,Upper Primary,Person,93.3
 Meghalaya,Rural,Higher Secondary,Female,34.3
 Meghalaya,Rural,Post Higher Secondary,Female,5.7
 Meghalaya,Rural,Primary,Female,103.5
 Meghalaya,Rural,Primary To Higher Secondary,Female,91.2
-Meghalaya,Rural,Primary & Upper Primary,Female,101.0
+Meghalaya,Rural,Primary & Upper Primary,Female,101
 Meghalaya,Rural,Secondary,Female,96.1
 Meghalaya,Rural,Secondary And Higher Secondary,Female,68.9
 Meghalaya,Rural,Upper Primary,Female,96.9
@@ -1167,7 +1167,7 @@ Meghalaya,Rural,Primary & Upper Primary,Male,99.4
 Meghalaya,Rural,Secondary,Male,102.7
 Meghalaya,Rural,Secondary And Higher Secondary,Male,65.7
 Meghalaya,Rural,Upper Primary,Male,98.6
-Meghalaya,Rural,Higher Secondary,Person,33.0
+Meghalaya,Rural,Higher Secondary,Person,33
 Meghalaya,Rural,Post Higher Secondary,Person,5.2
 Meghalaya,Rural,Primary,Person,101.6
 Meghalaya,Rural,Primary To Higher Secondary,Person,90.2
@@ -1203,7 +1203,7 @@ Meghalaya,Urban,Higher Secondary,Female,111.1
 Meghalaya,Urban,Post Higher Secondary,Female,54.8
 Meghalaya,Urban,Primary,Female,102.7
 Meghalaya,Urban,Primary To Higher Secondary,Female,101.5
-Meghalaya,Urban,Primary & Upper Primary,Female,99.0
+Meghalaya,Urban,Primary & Upper Primary,Female,99
 Meghalaya,Urban,Secondary,Female,99.6
 Meghalaya,Urban,Secondary And Higher Secondary,Female,105.6
 Meghalaya,Urban,Upper Primary,Female,91.2
@@ -1211,29 +1211,29 @@ Meghalaya,Urban,Higher Secondary,Male,130.9
 Meghalaya,Urban,Post Higher Secondary,Male,45.9
 Meghalaya,Urban,Primary,Male,103.3
 Meghalaya,Urban,Primary To Higher Secondary,Male,107.2
-Meghalaya,Urban,Primary & Upper Primary,Male,107.0
+Meghalaya,Urban,Primary & Upper Primary,Male,107
 Meghalaya,Urban,Secondary,Male,88.9
 Meghalaya,Urban,Secondary And Higher Secondary,Male,107.8
 Meghalaya,Urban,Upper Primary,Male,114.1
 Meghalaya,Urban,Higher Secondary,Person,120.1
 Meghalaya,Urban,Post Higher Secondary,Person,50.4
-Meghalaya,Urban,Primary,Person,103.0
+Meghalaya,Urban,Primary,Person,103
 Meghalaya,Urban,Primary To Higher Secondary,Person,104.4
 Meghalaya,Urban,Primary & Upper Primary,Person,103.2
-Meghalaya,Urban,Secondary,Person,94.0
+Meghalaya,Urban,Secondary,Person,94
 Meghalaya,Urban,Secondary And Higher Secondary,Person,106.7
 Meghalaya,Urban,Upper Primary,Person,103.5
 Assam,Rural,Higher Secondary,Female,54.3
-Assam,Rural,Post Higher Secondary,Female,11.0
+Assam,Rural,Post Higher Secondary,Female,11
 Assam,Rural,Primary,Female,104.5
 Assam,Rural,Primary To Higher Secondary,Female,93.6
 Assam,Rural,Primary & Upper Primary,Female,105.4
 Assam,Rural,Secondary,Female,85.6
 Assam,Rural,Secondary And Higher Secondary,Female,69.7
-Assam,Rural,Upper Primary,Female,107.0
+Assam,Rural,Upper Primary,Female,107
 Assam,Rural,Higher Secondary,Male,56.5
 Assam,Rural,Post Higher Secondary,Male,18.5
-Assam,Rural,Primary,Male,103.0
+Assam,Rural,Primary,Male,103
 Assam,Rural,Primary To Higher Secondary,Male,94.2
 Assam,Rural,Primary & Upper Primary,Male,103.9
 Assam,Rural,Secondary,Male,83.7
@@ -1245,7 +1245,7 @@ Assam,Rural,Primary,Person,103.7
 Assam,Rural,Primary To Higher Secondary,Person,93.9
 Assam,Rural,Primary & Upper Primary,Person,104.5
 Assam,Rural,Secondary,Person,84.5
-Assam,Rural,Secondary And Higher Secondary,Person,71.0
+Assam,Rural,Secondary And Higher Secondary,Person,71
 Assam,Rural,Upper Primary,Person,106.1
 Assam,Total,Higher Secondary,Female,58.6
 Assam,Total,Post Higher Secondary,Female,13.3
@@ -1260,7 +1260,7 @@ Assam,Total,Post Higher Secondary,Male,21.2
 Assam,Total,Primary,Male,103.2
 Assam,Total,Primary To Higher Secondary,Male,94.9
 Assam,Total,Primary & Upper Primary,Male,103.7
-Assam,Total,Secondary,Male,87.0
+Assam,Total,Secondary,Male,87
 Assam,Total,Secondary And Higher Secondary,Male,75.1
 Assam,Total,Upper Primary,Male,104.7
 Assam,Total,Higher Secondary,Person,59.2
@@ -1281,7 +1281,7 @@ Assam,Urban,Secondary And Higher Secondary,Female,105.9
 Assam,Urban,Upper Primary,Female,92.4
 Assam,Urban,Higher Secondary,Male,85.6
 Assam,Urban,Post Higher Secondary,Male,45.7
-Assam,Urban,Primary,Male,105.0
+Assam,Urban,Primary,Male,105
 Assam,Urban,Primary To Higher Secondary,Male,102.6
 Assam,Urban,Primary & Upper Primary,Male,101.7
 Assam,Urban,Secondary,Male,125.9
@@ -1289,16 +1289,16 @@ Assam,Urban,Secondary And Higher Secondary,Male,104.4
 Assam,Urban,Upper Primary,Male,93.3
 Assam,Urban,Higher Secondary,Person,92.7
 Assam,Urban,Post Higher Secondary,Person,40.2
-Assam,Urban,Primary,Person,104.0
+Assam,Urban,Primary,Person,104
 Assam,Urban,Primary To Higher Secondary,Person,101.6
-Assam,Urban,Primary & Upper Primary,Person,100.0
+Assam,Urban,Primary & Upper Primary,Person,100
 Assam,Urban,Secondary,Person,118.9
-Assam,Urban,Secondary And Higher Secondary,Person,105.0
+Assam,Urban,Secondary And Higher Secondary,Person,105
 Assam,Urban,Upper Primary,Person,92.8
-West Bengal,Rural,Higher Secondary,Female,63.0
+West Bengal,Rural,Higher Secondary,Female,63
 West Bengal,Rural,Post Higher Secondary,Female,11.1
 West Bengal,Rural,Primary,Female,101.6
-West Bengal,Rural,Primary To Higher Secondary,Female,99.0
+West Bengal,Rural,Primary To Higher Secondary,Female,99
 West Bengal,Rural,Primary & Upper Primary,Female,107.5
 West Bengal,Rural,Secondary,Female,103.1
 West Bengal,Rural,Secondary And Higher Secondary,Female,84.3
@@ -1323,21 +1323,21 @@ West Bengal,Total,Higher Secondary,Female,65.4
 West Bengal,Total,Post Higher Secondary,Female,16.5
 West Bengal,Total,Primary,Female,101.9
 West Bengal,Total,Primary To Higher Secondary,Female,99.4
-West Bengal,Total,Primary & Upper Primary,Female,107.0
+West Bengal,Total,Primary & Upper Primary,Female,107
 West Bengal,Total,Secondary,Female,103.9
 West Bengal,Total,Secondary And Higher Secondary,Female,85.9
 West Bengal,Total,Upper Primary,Female,115.5
-West Bengal,Total,Higher Secondary,Male,55.0
+West Bengal,Total,Higher Secondary,Male,55
 West Bengal,Total,Post Higher Secondary,Male,21.3
-West Bengal,Total,Primary,Male,102.0
+West Bengal,Total,Primary,Male,102
 West Bengal,Total,Primary To Higher Secondary,Male,90.1
-West Bengal,Total,Primary & Upper Primary,Male,101.0
+West Bengal,Total,Primary & Upper Primary,Male,101
 West Bengal,Total,Secondary,Male,84.5
 West Bengal,Total,Secondary And Higher Secondary,Male,70.3
 West Bengal,Total,Upper Primary,Male,99.5
 West Bengal,Total,Higher Secondary,Person,59.9
 West Bengal,Total,Post Higher Secondary,Person,18.8
-West Bengal,Total,Primary,Person,102.0
+West Bengal,Total,Primary,Person,102
 West Bengal,Total,Primary To Higher Secondary,Person,94.5
 West Bengal,Total,Primary & Upper Primary,Person,103.8
 West Bengal,Total,Secondary,Person,93.9
@@ -1350,9 +1350,9 @@ West Bengal,Urban,Primary To Higher Secondary,Female,100.4
 West Bengal,Urban,Primary & Upper Primary,Female,105.4
 West Bengal,Urban,Secondary,Female,106.7
 West Bengal,Urban,Secondary And Higher Secondary,Female,91.1
-West Bengal,Urban,Upper Primary,Female,110.0
+West Bengal,Urban,Upper Primary,Female,110
 West Bengal,Urban,Higher Secondary,Male,65.4
-West Bengal,Urban,Post Higher Secondary,Male,37.0
+West Bengal,Urban,Post Higher Secondary,Male,37
 West Bengal,Urban,Primary,Male,101.7
 West Bengal,Urban,Primary To Higher Secondary,Male,94.1
 West Bengal,Urban,Primary & Upper Primary,Male,103.1
@@ -1373,7 +1373,7 @@ Jharkhand,Rural,Primary,Female,109.7
 Jharkhand,Rural,Primary To Higher Secondary,Female,93.4
 Jharkhand,Rural,Primary & Upper Primary,Female,104.6
 Jharkhand,Rural,Secondary,Female,93.7
-Jharkhand,Rural,Secondary And Higher Secondary,Female,64.0
+Jharkhand,Rural,Secondary And Higher Secondary,Female,64
 Jharkhand,Rural,Upper Primary,Female,94.1
 Jharkhand,Rural,Higher Secondary,Male,56.7
 Jharkhand,Rural,Post Higher Secondary,Male,17.6
@@ -1384,7 +1384,7 @@ Jharkhand,Rural,Secondary,Male,84.9
 Jharkhand,Rural,Secondary And Higher Secondary,Male,72.3
 Jharkhand,Rural,Upper Primary,Male,93.3
 Jharkhand,Rural,Higher Secondary,Person,46.2
-Jharkhand,Rural,Post Higher Secondary,Person,13.0
+Jharkhand,Rural,Post Higher Secondary,Person,13
 Jharkhand,Rural,Primary,Person,111.7
 Jharkhand,Rural,Primary To Higher Secondary,Person,95.3
 Jharkhand,Rural,Primary & Upper Primary,Person,105.8
@@ -1395,7 +1395,7 @@ Jharkhand,Total,Higher Secondary,Female,42.6
 Jharkhand,Total,Post Higher Secondary,Female,15.6
 Jharkhand,Total,Primary,Female,109.7
 Jharkhand,Total,Primary To Higher Secondary,Female,93.9
-Jharkhand,Total,Primary & Upper Primary,Female,105.0
+Jharkhand,Total,Primary & Upper Primary,Female,105
 Jharkhand,Total,Secondary,Female,91.5
 Jharkhand,Total,Secondary And Higher Secondary,Female,67.3
 Jharkhand,Total,Upper Primary,Female,95.6
@@ -1403,19 +1403,19 @@ Jharkhand,Total,Higher Secondary,Male,61.1
 Jharkhand,Total,Post Higher Secondary,Male,18.9
 Jharkhand,Total,Primary,Male,115.7
 Jharkhand,Total,Primary To Higher Secondary,Male,97.8
-Jharkhand,Total,Primary & Upper Primary,Male,107.0
+Jharkhand,Total,Primary & Upper Primary,Male,107
 Jharkhand,Total,Secondary,Male,89.2
 Jharkhand,Total,Secondary And Higher Secondary,Male,75.9
 Jharkhand,Total,Upper Primary,Male,90.2
 Jharkhand,Total,Higher Secondary,Person,52.4
 Jharkhand,Total,Post Higher Secondary,Person,17.3
 Jharkhand,Total,Primary,Person,112.9
-Jharkhand,Total,Primary To Higher Secondary,Person,96.0
+Jharkhand,Total,Primary To Higher Secondary,Person,96
 Jharkhand,Total,Primary & Upper Primary,Person,106.1
 Jharkhand,Total,Secondary,Person,90.2
 Jharkhand,Total,Secondary And Higher Secondary,Person,71.9
 Jharkhand,Total,Upper Primary,Person,92.7
-Jharkhand,Urban,Higher Secondary,Female,72.0
+Jharkhand,Urban,Higher Secondary,Female,72
 Jharkhand,Urban,Post Higher Secondary,Female,41.8
 Jharkhand,Urban,Primary,Female,109.5
 Jharkhand,Urban,Primary To Higher Secondary,Female,96.4
@@ -1425,12 +1425,12 @@ Jharkhand,Urban,Secondary And Higher Secondary,Female,78.6
 Jharkhand,Urban,Upper Primary,Female,103.8
 Jharkhand,Urban,Higher Secondary,Male,75.2
 Jharkhand,Urban,Post Higher Secondary,Male,23.4
-Jharkhand,Urban,Primary,Male,128.0
-Jharkhand,Urban,Primary To Higher Secondary,Male,102.0
-Jharkhand,Urban,Primary & Upper Primary,Male,107.0
-Jharkhand,Urban,Secondary,Male,113.0
+Jharkhand,Urban,Primary,Male,128
+Jharkhand,Urban,Primary To Higher Secondary,Male,102
+Jharkhand,Urban,Primary & Upper Primary,Male,107
+Jharkhand,Urban,Secondary,Male,113
 Jharkhand,Urban,Secondary And Higher Secondary,Male,91.2
-Jharkhand,Urban,Upper Primary,Male,79.0
+Jharkhand,Urban,Upper Primary,Male,79
 Jharkhand,Urban,Higher Secondary,Person,73.8
 Jharkhand,Urban,Post Higher Secondary,Person,32.1
 Jharkhand,Urban,Primary,Person,119.7
@@ -1448,7 +1448,7 @@ Odisha,Rural,Secondary,Female,86.7
 Odisha,Rural,Secondary And Higher Secondary,Female,64.3
 Odisha,Rural,Upper Primary,Female,96.4
 Odisha,Rural,Higher Secondary,Male,56.3
-Odisha,Rural,Post Higher Secondary,Male,15.0
+Odisha,Rural,Post Higher Secondary,Male,15
 Odisha,Rural,Primary,Male,99.5
 Odisha,Rural,Primary To Higher Secondary,Male,88.3
 Odisha,Rural,Primary & Upper Primary,Male,94.4
@@ -1457,7 +1457,7 @@ Odisha,Rural,Secondary And Higher Secondary,Male,74.7
 Odisha,Rural,Upper Primary,Male,87.2
 Odisha,Rural,Higher Secondary,Person,49.8
 Odisha,Rural,Post Higher Secondary,Person,12.3
-Odisha,Rural,Primary,Person,103.0
+Odisha,Rural,Primary,Person,103
 Odisha,Rural,Primary To Higher Secondary,Person,88.9
 Odisha,Rural,Primary & Upper Primary,Person,98.3
 Odisha,Rural,Secondary,Person,89.2
@@ -1471,11 +1471,11 @@ Odisha,Total,Primary & Upper Primary,Female,102.9
 Odisha,Total,Secondary,Female,90.8
 Odisha,Total,Secondary And Higher Secondary,Female,67.4
 Odisha,Total,Upper Primary,Female,95.1
-Odisha,Total,Higher Secondary,Male,61.0
+Odisha,Total,Higher Secondary,Male,61
 Odisha,Total,Post Higher Secondary,Male,17.4
 Odisha,Total,Primary,Male,100.7
 Odisha,Total,Primary To Higher Secondary,Male,89.7
-Odisha,Total,Primary & Upper Primary,Male,96.0
+Odisha,Total,Primary & Upper Primary,Male,96
 Odisha,Total,Secondary,Male,88.6
 Odisha,Total,Secondary And Higher Secondary,Male,75.9
 Odisha,Total,Upper Primary,Male,88.9
@@ -1497,7 +1497,7 @@ Odisha,Urban,Secondary And Higher Secondary,Female,88.3
 Odisha,Urban,Upper Primary,Female,87.1
 Odisha,Urban,Higher Secondary,Male,94.8
 Odisha,Urban,Post Higher Secondary,Male,30.3
-Odisha,Urban,Primary,Male,107.0
+Odisha,Urban,Primary,Male,107
 Odisha,Urban,Primary To Higher Secondary,Male,98.2
 Odisha,Urban,Primary & Upper Primary,Male,105.2
 Odisha,Urban,Secondary,Male,75.3
@@ -1526,7 +1526,7 @@ Chhattisgarh,Rural,Primary To Higher Secondary,Male,95.5
 Chhattisgarh,Rural,Primary & Upper Primary,Male,103.2
 Chhattisgarh,Rural,Secondary,Male,88.5
 Chhattisgarh,Rural,Secondary And Higher Secondary,Male,79.5
-Chhattisgarh,Rural,Upper Primary,Male,98.0
+Chhattisgarh,Rural,Upper Primary,Male,98
 Chhattisgarh,Rural,Higher Secondary,Person,64.3
 Chhattisgarh,Rural,Post Higher Secondary,Person,13.9
 Chhattisgarh,Rural,Primary,Person,103.8
@@ -1550,11 +1550,11 @@ Chhattisgarh,Total,Primary To Higher Secondary,Male,95.1
 Chhattisgarh,Total,Primary & Upper Primary,Male,102.6
 Chhattisgarh,Total,Secondary,Male,88.3
 Chhattisgarh,Total,Secondary And Higher Secondary,Male,79.7
-Chhattisgarh,Total,Upper Primary,Male,98.0
+Chhattisgarh,Total,Upper Primary,Male,98
 Chhattisgarh,Total,Higher Secondary,Person,67.3
 Chhattisgarh,Total,Post Higher Secondary,Person,16.4
 Chhattisgarh,Total,Primary,Person,103.4
-Chhattisgarh,Total,Primary To Higher Secondary,Person,95.0
+Chhattisgarh,Total,Primary To Higher Secondary,Person,95
 Chhattisgarh,Total,Primary & Upper Primary,Person,102.6
 Chhattisgarh,Total,Secondary,Person,91.3
 Chhattisgarh,Total,Secondary And Higher Secondary,Person,79.9
@@ -1582,7 +1582,7 @@ Chhattisgarh,Urban,Primary To Higher Secondary,Person,95.6
 Chhattisgarh,Urban,Primary & Upper Primary,Person,100.6
 Chhattisgarh,Urban,Secondary,Person,89.1
 Chhattisgarh,Urban,Secondary And Higher Secondary,Person,86.1
-Chhattisgarh,Urban,Upper Primary,Person,99.0
+Chhattisgarh,Urban,Upper Primary,Person,99
 Madhya Pradesh,Rural,Higher Secondary,Female,50.5
 Madhya Pradesh,Rural,Post Higher Secondary,Female,9.5
 Madhya Pradesh,Rural,Primary,Female,91.2
@@ -1602,17 +1602,17 @@ Madhya Pradesh,Rural,Upper Primary,Male,100.9
 Madhya Pradesh,Rural,Higher Secondary,Person,53.7
 Madhya Pradesh,Rural,Post Higher Secondary,Person,12.2
 Madhya Pradesh,Rural,Primary,Person,95.3
-Madhya Pradesh,Rural,Primary To Higher Secondary,Person,87.0
+Madhya Pradesh,Rural,Primary To Higher Secondary,Person,87
 Madhya Pradesh,Rural,Primary & Upper Primary,Person,96.5
 Madhya Pradesh,Rural,Secondary,Person,81.1
 Madhya Pradesh,Rural,Secondary And Higher Secondary,Person,67.9
 Madhya Pradesh,Rural,Upper Primary,Person,98.6
 Madhya Pradesh,Total,Higher Secondary,Female,56.3
-Madhya Pradesh,Total,Post Higher Secondary,Female,15.0
+Madhya Pradesh,Total,Post Higher Secondary,Female,15
 Madhya Pradesh,Total,Primary,Female,92.6
 Madhya Pradesh,Total,Primary To Higher Secondary,Female,86.2
 Madhya Pradesh,Total,Primary & Upper Primary,Female,93.4
-Madhya Pradesh,Total,Secondary,Female,86.0
+Madhya Pradesh,Total,Secondary,Female,86
 Madhya Pradesh,Total,Secondary And Higher Secondary,Female,72.3
 Madhya Pradesh,Total,Upper Primary,Female,94.9
 Madhya Pradesh,Total,Higher Secondary,Male,63.5
@@ -1643,7 +1643,7 @@ Madhya Pradesh,Urban,Higher Secondary,Male,87.8
 Madhya Pradesh,Urban,Post Higher Secondary,Male,34.9
 Madhya Pradesh,Urban,Primary,Male,95.1
 Madhya Pradesh,Urban,Primary To Higher Secondary,Male,93.7
-Madhya Pradesh,Urban,Primary & Upper Primary,Male,98.0
+Madhya Pradesh,Urban,Primary & Upper Primary,Male,98
 Madhya Pradesh,Urban,Secondary,Male,85.3
 Madhya Pradesh,Urban,Secondary And Higher Secondary,Male,86.4
 Madhya Pradesh,Urban,Upper Primary,Male,102.9
@@ -1664,7 +1664,7 @@ Gujarat,Rural,Secondary,Female,82.6
 Gujarat,Rural,Secondary And Higher Secondary,Female,70.2
 Gujarat,Rural,Upper Primary,Female,81.4
 Gujarat,Rural,Higher Secondary,Male,55.1
-Gujarat,Rural,Post Higher Secondary,Male,13.0
+Gujarat,Rural,Post Higher Secondary,Male,13
 Gujarat,Rural,Primary,Male,106.7
 Gujarat,Rural,Primary To Higher Secondary,Male,89.2
 Gujarat,Rural,Primary & Upper Primary,Male,100.7
@@ -1686,7 +1686,7 @@ Gujarat,Total,Primary To Higher Secondary,Female,88.9
 Gujarat,Total,Primary & Upper Primary,Female,97.2
 Gujarat,Total,Secondary,Female,84.9
 Gujarat,Total,Secondary And Higher Secondary,Female,72.7
-Gujarat,Total,Upper Primary,Female,86.0
+Gujarat,Total,Upper Primary,Female,86
 Gujarat,Total,Higher Secondary,Male,60.6
 Gujarat,Total,Post Higher Secondary,Male,16.7
 Gujarat,Total,Primary,Male,105.9
@@ -1698,13 +1698,13 @@ Gujarat,Total,Upper Primary,Male,94.7
 Gujarat,Total,Higher Secondary,Person,59.8
 Gujarat,Total,Post Higher Secondary,Person,15.8
 Gujarat,Total,Primary,Person,106.2
-Gujarat,Total,Primary To Higher Secondary,Person,91.0
+Gujarat,Total,Primary To Higher Secondary,Person,91
 Gujarat,Total,Primary & Upper Primary,Person,99.7
 Gujarat,Total,Secondary,Person,89.1
 Gujarat,Total,Secondary And Higher Secondary,Person,75.1
 Gujarat,Total,Upper Primary,Person,90.3
 Gujarat,Urban,Higher Secondary,Female,66.2
-Gujarat,Urban,Post Higher Secondary,Female,27.0
+Gujarat,Urban,Post Higher Secondary,Female,27
 Gujarat,Urban,Primary,Female,107.5
 Gujarat,Urban,Primary To Higher Secondary,Female,95.1
 Gujarat,Urban,Primary & Upper Primary,Female,102.6
@@ -1725,7 +1725,7 @@ Gujarat,Urban,Primary,Person,105.7
 Gujarat,Urban,Primary To Higher Secondary,Person,97.3
 Gujarat,Urban,Primary & Upper Primary,Person,103.2
 Gujarat,Urban,Secondary,Person,102.4
-Gujarat,Urban,Secondary And Higher Secondary,Person,86.0
+Gujarat,Urban,Secondary And Higher Secondary,Person,86
 Gujarat,Urban,Upper Primary,Person,99.3
 Maharashtra,Rural,Higher Secondary,Female,73.2
 Maharashtra,Rural,Post Higher Secondary,Female,18.2
@@ -1745,7 +1745,7 @@ Maharashtra,Rural,Secondary And Higher Secondary,Male,96.1
 Maharashtra,Rural,Upper Primary,Male,104.8
 Maharashtra,Rural,Higher Secondary,Person,78.4
 Maharashtra,Rural,Post Higher Secondary,Person,25.3
-Maharashtra,Rural,Primary,Person,98.0
+Maharashtra,Rural,Primary,Person,98
 Maharashtra,Rural,Primary To Higher Secondary,Person,96.1
 Maharashtra,Rural,Primary & Upper Primary,Person,98.1
 Maharashtra,Rural,Secondary,Person,106.8
@@ -1765,7 +1765,7 @@ Maharashtra,Total,Primary,Male,99.3
 Maharashtra,Total,Primary To Higher Secondary,Male,97.1
 Maharashtra,Total,Primary & Upper Primary,Male,100.1
 Maharashtra,Total,Secondary,Male,108.9
-Maharashtra,Total,Secondary And Higher Secondary,Male,92.0
+Maharashtra,Total,Secondary And Higher Secondary,Male,92
 Maharashtra,Total,Upper Primary,Male,101.8
 Maharashtra,Total,Higher Secondary,Person,76.1
 Maharashtra,Total,Post Higher Secondary,Person,29.5
@@ -1773,7 +1773,7 @@ Maharashtra,Total,Primary,Person,101.7
 Maharashtra,Total,Primary To Higher Secondary,Person,96.8
 Maharashtra,Total,Primary & Upper Primary,Person,100.1
 Maharashtra,Total,Secondary,Person,105.8
-Maharashtra,Total,Secondary And Higher Secondary,Person,91.0
+Maharashtra,Total,Secondary And Higher Secondary,Person,91
 Maharashtra,Total,Upper Primary,Person,97.3
 Maharashtra,Urban,Higher Secondary,Female,80.7
 Maharashtra,Urban,Post Higher Secondary,Female,31.8
@@ -1792,13 +1792,13 @@ Maharashtra,Urban,Secondary,Male,107.8
 Maharashtra,Urban,Secondary And Higher Secondary,Male,85.8
 Maharashtra,Urban,Upper Primary,Male,98.3
 Maharashtra,Urban,Higher Secondary,Person,72.5
-Maharashtra,Urban,Post Higher Secondary,Person,35.0
+Maharashtra,Urban,Post Higher Secondary,Person,35
 Maharashtra,Urban,Primary,Person,106.8
 Maharashtra,Urban,Primary To Higher Secondary,Person,97.9
 Maharashtra,Urban,Primary & Upper Primary,Person,102.9
 Maharashtra,Urban,Secondary,Person,104.2
 Maharashtra,Urban,Secondary And Higher Secondary,Person,88.3
-Maharashtra,Urban,Upper Primary,Person,96.0
+Maharashtra,Urban,Upper Primary,Person,96
 Andhra Pradesh,Rural,Higher Secondary,Female,66.5
 Andhra Pradesh,Rural,Post Higher Secondary,Female,14.2
 Andhra Pradesh,Rural,Primary,Female,97.5
@@ -1829,16 +1829,16 @@ Andhra Pradesh,Total,Primary,Female,97.8
 Andhra Pradesh,Total,Primary To Higher Secondary,Female,91.8
 Andhra Pradesh,Total,Primary & Upper Primary,Female,88.3
 Andhra Pradesh,Total,Secondary,Female,123.1
-Andhra Pradesh,Total,Secondary And Higher Secondary,Female,98.0
+Andhra Pradesh,Total,Secondary And Higher Secondary,Female,98
 Andhra Pradesh,Total,Upper Primary,Female,76.2
 Andhra Pradesh,Total,Higher Secondary,Male,78.5
 Andhra Pradesh,Total,Post Higher Secondary,Male,28.9
-Andhra Pradesh,Total,Primary,Male,102.0
+Andhra Pradesh,Total,Primary,Male,102
 Andhra Pradesh,Total,Primary To Higher Secondary,Male,95.1
 Andhra Pradesh,Total,Primary & Upper Primary,Male,96.7
 Andhra Pradesh,Total,Secondary,Male,105.9
 Andhra Pradesh,Total,Secondary And Higher Secondary,Male,92.1
-Andhra Pradesh,Total,Upper Primary,Male,88.0
+Andhra Pradesh,Total,Upper Primary,Male,88
 Andhra Pradesh,Total,Higher Secondary,Person,74.7
 Andhra Pradesh,Total,Post Higher Secondary,Person,26.1
 Andhra Pradesh,Total,Primary,Person,100.1
@@ -1851,7 +1851,7 @@ Andhra Pradesh,Urban,Higher Secondary,Female,79.2
 Andhra Pradesh,Urban,Post Higher Secondary,Female,40.2
 Andhra Pradesh,Urban,Primary,Female,98.5
 Andhra Pradesh,Urban,Primary To Higher Secondary,Female,95.6
-Andhra Pradesh,Urban,Primary & Upper Primary,Female,88.0
+Andhra Pradesh,Urban,Primary & Upper Primary,Female,88
 Andhra Pradesh,Urban,Secondary,Female,146.9
 Andhra Pradesh,Urban,Secondary And Higher Secondary,Female,110.7
 Andhra Pradesh,Urban,Upper Primary,Female,76.4
@@ -1859,7 +1859,7 @@ Andhra Pradesh,Urban,Higher Secondary,Male,89.2
 Andhra Pradesh,Urban,Post Higher Secondary,Male,40.8
 Andhra Pradesh,Urban,Primary,Male,100.4
 Andhra Pradesh,Urban,Primary To Higher Secondary,Male,95.2
-Andhra Pradesh,Urban,Primary & Upper Primary,Male,97.0
+Andhra Pradesh,Urban,Primary & Upper Primary,Male,97
 Andhra Pradesh,Urban,Secondary,Male,95.5
 Andhra Pradesh,Urban,Secondary And Higher Secondary,Male,92.1
 Andhra Pradesh,Urban,Upper Primary,Male,91.9
@@ -1875,12 +1875,12 @@ Karnataka,Rural,Higher Secondary,Female,67.5
 Karnataka,Rural,Post Higher Secondary,Female,12.7
 Karnataka,Rural,Primary,Female,99.1
 Karnataka,Rural,Primary To Higher Secondary,Female,92.9
-Karnataka,Rural,Primary & Upper Primary,Female,97.0
+Karnataka,Rural,Primary & Upper Primary,Female,97
 Karnataka,Rural,Secondary,Female,97.6
 Karnataka,Rural,Secondary And Higher Secondary,Female,84.2
 Karnataka,Rural,Upper Primary,Female,92.9
-Karnataka,Rural,Higher Secondary,Male,69.0
-Karnataka,Rural,Post Higher Secondary,Male,20.0
+Karnataka,Rural,Higher Secondary,Male,69
+Karnataka,Rural,Post Higher Secondary,Male,20
 Karnataka,Rural,Primary,Male,107.6
 Karnataka,Rural,Primary To Higher Secondary,Male,94.6
 Karnataka,Rural,Primary & Upper Primary,Male,101.2
@@ -1906,7 +1906,7 @@ Karnataka,Total,Upper Primary,Female,92.5
 Karnataka,Total,Higher Secondary,Male,70.1
 Karnataka,Total,Post Higher Secondary,Male,23.6
 Karnataka,Total,Primary,Male,107.5
-Karnataka,Total,Primary To Higher Secondary,Male,95.0
+Karnataka,Total,Primary To Higher Secondary,Male,95
 Karnataka,Total,Primary & Upper Primary,Male,100.4
 Karnataka,Total,Secondary,Male,94.5
 Karnataka,Total,Secondary And Higher Secondary,Male,84.1
@@ -1914,7 +1914,7 @@ Karnataka,Total,Upper Primary,Male,88.4
 Karnataka,Total,Higher Secondary,Person,73.8
 Karnataka,Total,Post Higher Secondary,Person,21.9
 Karnataka,Total,Primary,Person,104.6
-Karnataka,Total,Primary To Higher Secondary,Person,95.0
+Karnataka,Total,Primary To Higher Secondary,Person,95
 Karnataka,Total,Primary & Upper Primary,Person,99.4
 Karnataka,Total,Secondary,Person,95.3
 Karnataka,Total,Secondary And Higher Secondary,Person,85.7
@@ -1925,7 +1925,7 @@ Karnataka,Urban,Primary,Female,104.6
 Karnataka,Urban,Primary To Higher Secondary,Female,98.6
 Karnataka,Urban,Primary & Upper Primary,Female,100.2
 Karnataka,Urban,Secondary,Female,93.9
-Karnataka,Urban,Secondary And Higher Secondary,Female,95.0
+Karnataka,Urban,Secondary And Higher Secondary,Female,95
 Karnataka,Urban,Upper Primary,Female,91.8
 Karnataka,Urban,Higher Secondary,Male,72.3
 Karnataka,Urban,Post Higher Secondary,Male,30.4
@@ -1937,7 +1937,7 @@ Karnataka,Urban,Secondary And Higher Secondary,Male,90.1
 Karnataka,Urban,Upper Primary,Male,86.2
 Karnataka,Urban,Higher Secondary,Person,83.2
 Karnataka,Urban,Post Higher Secondary,Person,30.5
-Karnataka,Urban,Primary,Person,106.0
+Karnataka,Urban,Primary,Person,106
 Karnataka,Urban,Primary To Higher Secondary,Person,97.2
 Karnataka,Urban,Primary & Upper Primary,Person,99.4
 Karnataka,Urban,Secondary,Person,101.3
@@ -1952,18 +1952,18 @@ Goa,Rural,Secondary,Female,96.5
 Goa,Rural,Secondary And Higher Secondary,Female,105.1
 Goa,Rural,Upper Primary,Female,107.2
 Goa,Rural,Higher Secondary,Male,80.1
-Goa,Rural,Post Higher Secondary,Male,9.0
+Goa,Rural,Post Higher Secondary,Male,9
 Goa,Rural,Primary,Male,109.8
 Goa,Rural,Primary To Higher Secondary,Male,94.9
 Goa,Rural,Primary & Upper Primary,Male,99.9
 Goa,Rural,Secondary,Male,79.8
-Goa,Rural,Secondary And Higher Secondary,Male,80.0
+Goa,Rural,Secondary And Higher Secondary,Male,80
 Goa,Rural,Upper Primary,Male,67.7
 Goa,Rural,Higher Secondary,Person,100.1
 Goa,Rural,Post Higher Secondary,Person,18.2
 Goa,Rural,Primary,Person,96.8
 Goa,Rural,Primary To Higher Secondary,Person,94.9
-Goa,Rural,Primary & Upper Primary,Person,95.0
+Goa,Rural,Primary & Upper Primary,Person,95
 Goa,Rural,Secondary,Person,91.6
 Goa,Rural,Secondary And Higher Secondary,Person,94.5
 Goa,Rural,Upper Primary,Person,88.6
@@ -1991,10 +1991,10 @@ Goa,Total,Primary & Upper Primary,Person,102.1
 Goa,Total,Secondary,Person,85.6
 Goa,Total,Secondary And Higher Secondary,Person,92.9
 Goa,Total,Upper Primary,Person,105.2
-Goa,Urban,Higher Secondary,Female,75.0
+Goa,Urban,Higher Secondary,Female,75
 Goa,Urban,Post Higher Secondary,Female,34.1
 Goa,Urban,Primary,Female,100.4
-Goa,Urban,Primary To Higher Secondary,Female,100.0
+Goa,Urban,Primary To Higher Secondary,Female,100
 Goa,Urban,Primary & Upper Primary,Female,95.2
 Goa,Urban,Secondary,Female,158.6
 Goa,Urban,Secondary And Higher Secondary,Female,108.4
@@ -2015,8 +2015,8 @@ Goa,Urban,Primary & Upper Primary,Person,106.1
 Goa,Urban,Secondary,Person,83.2
 Goa,Urban,Secondary And Higher Secondary,Person,92.3
 Goa,Urban,Upper Primary,Person,110.6
-Lakshadweep,Rural,Higher Secondary,Female,586.0
-Lakshadweep,Rural,Post Higher Secondary,Female,0.0
+Lakshadweep,Rural,Higher Secondary,Female,586
+Lakshadweep,Rural,Post Higher Secondary,Female,0
 Lakshadweep,Rural,Primary,Female,102.7
 Lakshadweep,Rural,Primary To Higher Secondary,Female,99.8
 Lakshadweep,Rural,Primary & Upper Primary,Female,100.3
@@ -2024,17 +2024,17 @@ Lakshadweep,Rural,Secondary,Female,4.8
 Lakshadweep,Rural,Secondary And Higher Secondary,Female,93.6
 Lakshadweep,Rural,Upper Primary,Female,95.8
 Lakshadweep,Rural,Higher Secondary,Male,56.1
-Lakshadweep,Rural,Post Higher Secondary,Male,0.0
+Lakshadweep,Rural,Post Higher Secondary,Male,0
 Lakshadweep,Rural,Primary,Male,121.7
 Lakshadweep,Rural,Primary To Higher Secondary,Male,79.9
 Lakshadweep,Rural,Primary & Upper Primary,Male,124.2
 Lakshadweep,Rural,Secondary,Male,40.3
 Lakshadweep,Rural,Secondary And Higher Secondary,Male,47.5
 Lakshadweep,Rural,Upper Primary,Male,132.6
-Lakshadweep,Rural,Higher Secondary,Person,107.0
-Lakshadweep,Rural,Post Higher Secondary,Person,0.0
+Lakshadweep,Rural,Higher Secondary,Person,107
+Lakshadweep,Rural,Post Higher Secondary,Person,0
 Lakshadweep,Rural,Primary,Person,106.2
-Lakshadweep,Rural,Primary To Higher Secondary,Person,94.0
+Lakshadweep,Rural,Primary To Higher Secondary,Person,94
 Lakshadweep,Rural,Primary & Upper Primary,Person,104.1
 Lakshadweep,Rural,Secondary,Person,28.5
 Lakshadweep,Rural,Secondary And Higher Secondary,Person,58.6
@@ -2050,8 +2050,8 @@ Lakshadweep,Total,Upper Primary,Female,93.1
 Lakshadweep,Total,Higher Secondary,Male,65.2
 Lakshadweep,Total,Post Higher Secondary,Male,0.7
 Lakshadweep,Total,Primary,Male,98.5
-Lakshadweep,Total,Primary To Higher Secondary,Male,93.0
-Lakshadweep,Total,Primary & Upper Primary,Male,96.0
+Lakshadweep,Total,Primary To Higher Secondary,Male,93
+Lakshadweep,Total,Primary & Upper Primary,Male,96
 Lakshadweep,Total,Secondary,Male,91.5
 Lakshadweep,Total,Secondary And Higher Secondary,Male,83.8
 Lakshadweep,Total,Upper Primary,Male,92.1
@@ -2059,8 +2059,8 @@ Lakshadweep,Total,Higher Secondary,Person,97.4
 Lakshadweep,Total,Post Higher Secondary,Person,1.5
 Lakshadweep,Total,Primary,Person,101.3
 Lakshadweep,Total,Primary To Higher Secondary,Person,96.9
-Lakshadweep,Total,Primary & Upper Primary,Person,98.0
-Lakshadweep,Total,Secondary,Person,92.0
+Lakshadweep,Total,Primary & Upper Primary,Person,98
+Lakshadweep,Total,Secondary,Person,92
 Lakshadweep,Total,Secondary And Higher Secondary,Person,94.3
 Lakshadweep,Total,Upper Primary,Person,92.5
 Lakshadweep,Urban,Higher Secondary,Female,94.5
@@ -2072,7 +2072,7 @@ Lakshadweep,Urban,Secondary,Female,109.8
 Lakshadweep,Urban,Secondary And Higher Secondary,Female,101.4
 Lakshadweep,Urban,Upper Primary,Female,86.1
 Lakshadweep,Urban,Higher Secondary,Male,96.8
-Lakshadweep,Urban,Post Higher Secondary,Male,1.0
+Lakshadweep,Urban,Post Higher Secondary,Male,1
 Lakshadweep,Urban,Primary,Male,94.5
 Lakshadweep,Urban,Primary To Higher Secondary,Male,96.5
 Lakshadweep,Urban,Primary & Upper Primary,Male,92.2
@@ -2084,8 +2084,8 @@ Lakshadweep,Urban,Post Higher Secondary,Person,2.4
 Lakshadweep,Urban,Primary,Person,97.8
 Lakshadweep,Urban,Primary To Higher Secondary,Person,98.4
 Lakshadweep,Urban,Primary & Upper Primary,Person,94.2
-Lakshadweep,Urban,Secondary,Person,115.0
-Lakshadweep,Urban,Secondary And Higher Secondary,Person,106.0
+Lakshadweep,Urban,Secondary,Person,115
+Lakshadweep,Urban,Secondary And Higher Secondary,Person,106
 Lakshadweep,Urban,Upper Primary,Person,88.7
 Kerala,Rural,Higher Secondary,Female,115.4
 Kerala,Rural,Post Higher Secondary,Female,41.3
@@ -2100,34 +2100,34 @@ Kerala,Rural,Post Higher Secondary,Male,38.6
 Kerala,Rural,Primary,Male,101.4
 Kerala,Rural,Primary To Higher Secondary,Male,99.2
 Kerala,Rural,Primary & Upper Primary,Male,99.3
-Kerala,Rural,Secondary,Male,97.0
+Kerala,Rural,Secondary,Male,97
 Kerala,Rural,Secondary And Higher Secondary,Male,99.2
 Kerala,Rural,Upper Primary,Male,96.7
 Kerala,Rural,Higher Secondary,Person,107.2
-Kerala,Rural,Post Higher Secondary,Person,40.0
+Kerala,Rural,Post Higher Secondary,Person,40
 Kerala,Rural,Primary,Person,101.3
 Kerala,Rural,Primary To Higher Secondary,Person,100.1
 Kerala,Rural,Primary & Upper Primary,Person,98.6
 Kerala,Rural,Secondary,Person,98.5
 Kerala,Rural,Secondary And Higher Secondary,Person,102.5
-Kerala,Rural,Upper Primary,Person,95.0
+Kerala,Rural,Upper Primary,Person,95
 Kerala,Total,Higher Secondary,Female,102.3
 Kerala,Total,Post Higher Secondary,Female,42.9
 Kerala,Total,Primary,Female,102.5
 Kerala,Total,Primary To Higher Secondary,Female,100.2
 Kerala,Total,Primary & Upper Primary,Female,100.2
 Kerala,Total,Secondary,Female,97.7
-Kerala,Total,Secondary And Higher Secondary,Female,100.0
-Kerala,Total,Upper Primary,Female,97.0
+Kerala,Total,Secondary And Higher Secondary,Female,100
+Kerala,Total,Upper Primary,Female,97
 Kerala,Total,Higher Secondary,Male,103.6
 Kerala,Total,Post Higher Secondary,Male,35.8
 Kerala,Total,Primary,Male,104.7
 Kerala,Total,Primary To Higher Secondary,Male,101.4
 Kerala,Total,Primary & Upper Primary,Male,101.6
 Kerala,Total,Secondary,Male,98.9
-Kerala,Total,Secondary And Higher Secondary,Male,101.0
+Kerala,Total,Secondary And Higher Secondary,Male,101
 Kerala,Total,Upper Primary,Male,97.5
-Kerala,Total,Higher Secondary,Person,103.0
+Kerala,Total,Higher Secondary,Person,103
 Kerala,Total,Post Higher Secondary,Person,39.3
 Kerala,Total,Primary,Person,103.6
 Kerala,Total,Primary To Higher Secondary,Person,100.8
@@ -2138,7 +2138,7 @@ Kerala,Total,Upper Primary,Person,97.3
 Kerala,Urban,Higher Secondary,Female,89.8
 Kerala,Urban,Post Higher Secondary,Female,44.9
 Kerala,Urban,Primary,Female,103.8
-Kerala,Urban,Primary To Higher Secondary,Female,99.0
+Kerala,Urban,Primary To Higher Secondary,Female,99
 Kerala,Urban,Primary & Upper Primary,Female,102.9
 Kerala,Urban,Secondary,Female,93.5
 Kerala,Urban,Secondary And Higher Secondary,Female,91.4
@@ -2186,17 +2186,17 @@ Tamil Nadu,Rural,Upper Primary,Person,93.8
 Tamil Nadu,Total,Higher Secondary,Female,102.3
 Tamil Nadu,Total,Post Higher Secondary,Female,32.2
 Tamil Nadu,Total,Primary,Female,107.9
-Tamil Nadu,Total,Primary To Higher Secondary,Female,100.0
+Tamil Nadu,Total,Primary To Higher Secondary,Female,100
 Tamil Nadu,Total,Primary & Upper Primary,Female,101.4
 Tamil Nadu,Total,Secondary,Female,93.7
 Tamil Nadu,Total,Secondary And Higher Secondary,Female,97.6
 Tamil Nadu,Total,Upper Primary,Female,92.6
-Tamil Nadu,Total,Higher Secondary,Male,85.0
+Tamil Nadu,Total,Higher Secondary,Male,85
 Tamil Nadu,Total,Post Higher Secondary,Male,39.1
 Tamil Nadu,Total,Primary,Male,99.3
 Tamil Nadu,Total,Primary To Higher Secondary,Male,94.7
 Tamil Nadu,Total,Primary & Upper Primary,Male,99.5
-Tamil Nadu,Total,Secondary,Male,88.0
+Tamil Nadu,Total,Secondary,Male,88
 Tamil Nadu,Total,Secondary And Higher Secondary,Male,86.6
 Tamil Nadu,Total,Upper Primary,Male,99.9
 Tamil Nadu,Total,Higher Secondary,Person,92.4
@@ -2210,7 +2210,7 @@ Tamil Nadu,Total,Upper Primary,Person,96.5
 Tamil Nadu,Urban,Higher Secondary,Female,106.4
 Tamil Nadu,Urban,Post Higher Secondary,Female,31.9
 Tamil Nadu,Urban,Primary,Female,121.5
-Tamil Nadu,Urban,Primary To Higher Secondary,Female,104.0
+Tamil Nadu,Urban,Primary To Higher Secondary,Female,104
 Tamil Nadu,Urban,Primary & Upper Primary,Female,108.6
 Tamil Nadu,Urban,Secondary,Female,87.2
 Tamil Nadu,Urban,Secondary And Higher Secondary,Female,96.4
@@ -2220,23 +2220,23 @@ Tamil Nadu,Urban,Post Higher Secondary,Male,47.3
 Tamil Nadu,Urban,Primary,Male,99.7
 Tamil Nadu,Urban,Primary To Higher Secondary,Male,97.2
 Tamil Nadu,Urban,Primary & Upper Primary,Male,101.8
-Tamil Nadu,Urban,Secondary,Male,86.0
+Tamil Nadu,Urban,Secondary,Male,86
 Tamil Nadu,Urban,Secondary And Higher Secondary,Male,88.3
-Tamil Nadu,Urban,Upper Primary,Male,105.0
+Tamil Nadu,Urban,Upper Primary,Male,105
 Tamil Nadu,Urban,Higher Secondary,Person,98.4
 Tamil Nadu,Urban,Post Higher Secondary,Person,38.5
 Tamil Nadu,Urban,Primary,Person,108.1
 Tamil Nadu,Urban,Primary To Higher Secondary,Person,100.1
 Tamil Nadu,Urban,Primary & Upper Primary,Person,104.6
 Tamil Nadu,Urban,Secondary,Person,86.6
-Tamil Nadu,Urban,Secondary And Higher Secondary,Person,92.0
+Tamil Nadu,Urban,Secondary And Higher Secondary,Person,92
 Tamil Nadu,Urban,Upper Primary,Person,99.8
 Puducherry,Rural,Higher Secondary,Female,103.3
 Puducherry,Rural,Post Higher Secondary,Female,39.3
 Puducherry,Rural,Primary,Female,89.1
 Puducherry,Rural,Primary To Higher Secondary,Female,85.8
 Puducherry,Rural,Primary & Upper Primary,Female,92.6
-Puducherry,Rural,Secondary,Female,58.0
+Puducherry,Rural,Secondary,Female,58
 Puducherry,Rural,Secondary And Higher Secondary,Female,78.2
 Puducherry,Rural,Upper Primary,Female,99.6
 Puducherry,Rural,Higher Secondary,Male,100.9
@@ -2246,16 +2246,16 @@ Puducherry,Rural,Primary To Higher Secondary,Male,97.4
 Puducherry,Rural,Primary & Upper Primary,Male,95.8
 Puducherry,Rural,Secondary,Male,105.8
 Puducherry,Rural,Secondary And Higher Secondary,Male,103.3
-Puducherry,Rural,Upper Primary,Male,96.0
+Puducherry,Rural,Upper Primary,Male,96
 Puducherry,Rural,Higher Secondary,Person,102.6
-Puducherry,Rural,Post Higher Secondary,Person,33.0
+Puducherry,Rural,Post Higher Secondary,Person,33
 Puducherry,Rural,Primary,Person,92.3
-Puducherry,Rural,Primary To Higher Secondary,Person,91.0
+Puducherry,Rural,Primary To Higher Secondary,Person,91
 Puducherry,Rural,Primary & Upper Primary,Person,94.4
 Puducherry,Rural,Secondary,Person,69.6
 Puducherry,Rural,Secondary And Higher Secondary,Person,84.8
 Puducherry,Rural,Upper Primary,Person,97.3
-Puducherry,Total,Higher Secondary,Female,95.0
+Puducherry,Total,Higher Secondary,Female,95
 Puducherry,Total,Post Higher Secondary,Female,50.4
 Puducherry,Total,Primary,Female,97.7
 Puducherry,Total,Primary To Higher Secondary,Female,92.9
@@ -2280,19 +2280,19 @@ Puducherry,Total,Secondary,Person,87.3
 Puducherry,Total,Secondary And Higher Secondary,Person,87.2
 Puducherry,Total,Upper Primary,Person,100.7
 Puducherry,Urban,Higher Secondary,Female,85.9
-Puducherry,Urban,Post Higher Secondary,Female,61.0
+Puducherry,Urban,Post Higher Secondary,Female,61
 Puducherry,Urban,Primary,Female,104.5
 Puducherry,Urban,Primary To Higher Secondary,Female,100.1
 Puducherry,Urban,Primary & Upper Primary,Female,105.3
 Puducherry,Urban,Secondary,Female,96.1
 Puducherry,Urban,Secondary And Higher Secondary,Female,90.4
-Puducherry,Urban,Upper Primary,Female,107.0
+Puducherry,Urban,Upper Primary,Female,107
 Puducherry,Urban,Higher Secondary,Male,69.2
 Puducherry,Urban,Post Higher Secondary,Male,43.1
 Puducherry,Urban,Primary,Male,107.5
 Puducherry,Urban,Primary To Higher Secondary,Male,100.4
 Puducherry,Urban,Primary & Upper Primary,Male,105.2
-Puducherry,Urban,Secondary,Male,116.0
+Puducherry,Urban,Secondary,Male,116
 Puducherry,Urban,Secondary And Higher Secondary,Male,88.2
 Puducherry,Urban,Upper Primary,Male,101.6
 Puducherry,Urban,Higher Secondary,Person,76.6
@@ -2303,78 +2303,78 @@ Puducherry,Urban,Primary & Upper Primary,Person,105.2
 Puducherry,Urban,Secondary,Person,106.4
 Puducherry,Urban,Secondary And Higher Secondary,Person,89.2
 Puducherry,Urban,Upper Primary,Person,103.4
-Andaman And Nicobar Islands,Rural,Higher Secondary,Female,101.5
-Andaman And Nicobar Islands,Rural,Post Higher Secondary,Female,21.7
-Andaman And Nicobar Islands,Rural,Primary,Female,105.7
-Andaman And Nicobar Islands,Rural,Primary To Higher Secondary,Female,103.6
-Andaman And Nicobar Islands,Rural,Primary & Upper Primary,Female,100.9
-Andaman And Nicobar Islands,Rural,Secondary,Female,116.6
-Andaman And Nicobar Islands,Rural,Secondary And Higher Secondary,Female,110.1
-Andaman And Nicobar Islands,Rural,Upper Primary,Female,91.6
-Andaman And Nicobar Islands,Rural,Higher Secondary,Male,102.6
-Andaman And Nicobar Islands,Rural,Post Higher Secondary,Male,8.6
-Andaman And Nicobar Islands,Rural,Primary,Male,100.9
-Andaman And Nicobar Islands,Rural,Primary To Higher Secondary,Male,95.7
-Andaman And Nicobar Islands,Rural,Primary & Upper Primary,Male,93.3
-Andaman And Nicobar Islands,Rural,Secondary,Male,98.1
-Andaman And Nicobar Islands,Rural,Secondary And Higher Secondary,Male,100.4
-Andaman And Nicobar Islands,Rural,Upper Primary,Male,77.3
-Andaman And Nicobar Islands,Rural,Higher Secondary,Person,102.2
-Andaman And Nicobar Islands,Rural,Post Higher Secondary,Person,13.2
-Andaman And Nicobar Islands,Rural,Primary,Person,103.3
-Andaman And Nicobar Islands,Rural,Primary To Higher Secondary,Person,99.6
-Andaman And Nicobar Islands,Rural,Primary & Upper Primary,Person,97.2
-Andaman And Nicobar Islands,Rural,Secondary,Person,107.1
-Andaman And Nicobar Islands,Rural,Secondary And Higher Secondary,Person,104.7
-Andaman And Nicobar Islands,Rural,Upper Primary,Person,84.8
-Andaman And Nicobar Islands,Total,Higher Secondary,Female,101.8
-Andaman And Nicobar Islands,Total,Post Higher Secondary,Female,39.0
-Andaman And Nicobar Islands,Total,Primary,Female,104.5
-Andaman And Nicobar Islands,Total,Primary To Higher Secondary,Female,104.6
-Andaman And Nicobar Islands,Total,Primary & Upper Primary,Female,98.5
-Andaman And Nicobar Islands,Total,Secondary,Female,140.1
-Andaman And Nicobar Islands,Total,Secondary And Higher Secondary,Female,121.6
-Andaman And Nicobar Islands,Total,Upper Primary,Female,88.3
-Andaman And Nicobar Islands,Total,Higher Secondary,Male,100.6
-Andaman And Nicobar Islands,Total,Post Higher Secondary,Male,24.1
-Andaman And Nicobar Islands,Total,Primary,Male,101.7
-Andaman And Nicobar Islands,Total,Primary To Higher Secondary,Male,97.7
-Andaman And Nicobar Islands,Total,Primary & Upper Primary,Male,95.7
-Andaman And Nicobar Islands,Total,Secondary,Male,104.5
-Andaman And Nicobar Islands,Total,Secondary And Higher Secondary,Male,102.2
-Andaman And Nicobar Islands,Total,Upper Primary,Male,84.4
-Andaman And Nicobar Islands,Total,Higher Secondary,Person,101.0
-Andaman And Nicobar Islands,Total,Post Higher Secondary,Person,30.3
-Andaman And Nicobar Islands,Total,Primary,Person,103.0
-Andaman And Nicobar Islands,Total,Primary To Higher Secondary,Person,100.8
-Andaman And Nicobar Islands,Total,Primary & Upper Primary,Person,97.0
-Andaman And Nicobar Islands,Total,Secondary,Person,121.2
-Andaman And Nicobar Islands,Total,Secondary And Higher Secondary,Person,110.4
-Andaman And Nicobar Islands,Total,Upper Primary,Person,86.2
-Andaman And Nicobar Islands,Urban,Higher Secondary,Female,102.4
-Andaman And Nicobar Islands,Urban,Post Higher Secondary,Female,55.5
-Andaman And Nicobar Islands,Urban,Primary,Female,101.6
-Andaman And Nicobar Islands,Urban,Primary To Higher Secondary,Female,107.0
-Andaman And Nicobar Islands,Urban,Primary & Upper Primary,Female,93.6
-Andaman And Nicobar Islands,Urban,Secondary,Female,249.8
-Andaman And Nicobar Islands,Urban,Secondary And Higher Secondary,Female,155.5
-Andaman And Nicobar Islands,Urban,Upper Primary,Female,82.9
-Andaman And Nicobar Islands,Urban,Higher Secondary,Male,97.4
-Andaman And Nicobar Islands,Urban,Post Higher Secondary,Male,54.0
-Andaman And Nicobar Islands,Urban,Primary,Male,102.9
-Andaman And Nicobar Islands,Urban,Primary To Higher Secondary,Male,100.5
-Andaman And Nicobar Islands,Urban,Primary & Upper Primary,Male,98.8
-Andaman And Nicobar Islands,Urban,Secondary,Male,125.8
-Andaman And Nicobar Islands,Urban,Secondary And Higher Secondary,Male,105.9
-Andaman And Nicobar Islands,Urban,Upper Primary,Male,91.9
-Andaman And Nicobar Islands,Urban,Higher Secondary,Person,99.1
-Andaman And Nicobar Islands,Urban,Post Higher Secondary,Person,54.8
-Andaman And Nicobar Islands,Urban,Primary,Person,102.4
-Andaman And Nicobar Islands,Urban,Primary To Higher Secondary,Person,103.0
-Andaman And Nicobar Islands,Urban,Primary & Upper Primary,Person,96.7
-Andaman And Nicobar Islands,Urban,Secondary,Person,175.9
-Andaman And Nicobar Islands,Urban,Secondary And Higher Secondary,Person,123.8
-Andaman And Nicobar Islands,Urban,Upper Primary,Person,88.1
+Andaman,Rural,Higher Secondary,Female,101.5
+Andaman,Rural,Post Higher Secondary,Female,21.7
+Andaman,Rural,Primary,Female,105.7
+Andaman,Rural,Primary To Higher Secondary,Female,103.6
+Andaman,Rural,Primary & Upper Primary,Female,100.9
+Andaman,Rural,Secondary,Female,116.6
+Andaman,Rural,Secondary And Higher Secondary,Female,110.1
+Andaman,Rural,Upper Primary,Female,91.6
+Andaman,Rural,Higher Secondary,Male,102.6
+Andaman,Rural,Post Higher Secondary,Male,8.6
+Andaman,Rural,Primary,Male,100.9
+Andaman,Rural,Primary To Higher Secondary,Male,95.7
+Andaman,Rural,Primary & Upper Primary,Male,93.3
+Andaman,Rural,Secondary,Male,98.1
+Andaman,Rural,Secondary And Higher Secondary,Male,100.4
+Andaman,Rural,Upper Primary,Male,77.3
+Andaman,Rural,Higher Secondary,Person,102.2
+Andaman,Rural,Post Higher Secondary,Person,13.2
+Andaman,Rural,Primary,Person,103.3
+Andaman,Rural,Primary To Higher Secondary,Person,99.6
+Andaman,Rural,Primary & Upper Primary,Person,97.2
+Andaman,Rural,Secondary,Person,107.1
+Andaman,Rural,Secondary And Higher Secondary,Person,104.7
+Andaman,Rural,Upper Primary,Person,84.8
+Andaman,Total,Higher Secondary,Female,101.8
+Andaman,Total,Post Higher Secondary,Female,39
+Andaman,Total,Primary,Female,104.5
+Andaman,Total,Primary To Higher Secondary,Female,104.6
+Andaman,Total,Primary & Upper Primary,Female,98.5
+Andaman,Total,Secondary,Female,140.1
+Andaman,Total,Secondary And Higher Secondary,Female,121.6
+Andaman,Total,Upper Primary,Female,88.3
+Andaman,Total,Higher Secondary,Male,100.6
+Andaman,Total,Post Higher Secondary,Male,24.1
+Andaman,Total,Primary,Male,101.7
+Andaman,Total,Primary To Higher Secondary,Male,97.7
+Andaman,Total,Primary & Upper Primary,Male,95.7
+Andaman,Total,Secondary,Male,104.5
+Andaman,Total,Secondary And Higher Secondary,Male,102.2
+Andaman,Total,Upper Primary,Male,84.4
+Andaman,Total,Higher Secondary,Person,101
+Andaman,Total,Post Higher Secondary,Person,30.3
+Andaman,Total,Primary,Person,103
+Andaman,Total,Primary To Higher Secondary,Person,100.8
+Andaman,Total,Primary & Upper Primary,Person,97
+Andaman,Total,Secondary,Person,121.2
+Andaman,Total,Secondary And Higher Secondary,Person,110.4
+Andaman,Total,Upper Primary,Person,86.2
+Andaman,Urban,Higher Secondary,Female,102.4
+Andaman,Urban,Post Higher Secondary,Female,55.5
+Andaman,Urban,Primary,Female,101.6
+Andaman,Urban,Primary To Higher Secondary,Female,107
+Andaman,Urban,Primary & Upper Primary,Female,93.6
+Andaman,Urban,Secondary,Female,249.8
+Andaman,Urban,Secondary And Higher Secondary,Female,155.5
+Andaman,Urban,Upper Primary,Female,82.9
+Andaman,Urban,Higher Secondary,Male,97.4
+Andaman,Urban,Post Higher Secondary,Male,54
+Andaman,Urban,Primary,Male,102.9
+Andaman,Urban,Primary To Higher Secondary,Male,100.5
+Andaman,Urban,Primary & Upper Primary,Male,98.8
+Andaman,Urban,Secondary,Male,125.8
+Andaman,Urban,Secondary And Higher Secondary,Male,105.9
+Andaman,Urban,Upper Primary,Male,91.9
+Andaman,Urban,Higher Secondary,Person,99.1
+Andaman,Urban,Post Higher Secondary,Person,54.8
+Andaman,Urban,Primary,Person,102.4
+Andaman,Urban,Primary To Higher Secondary,Person,103
+Andaman,Urban,Primary & Upper Primary,Person,96.7
+Andaman,Urban,Secondary,Person,175.9
+Andaman,Urban,Secondary And Higher Secondary,Person,123.8
+Andaman,Urban,Upper Primary,Person,88.1
 Telangana,Rural,Higher Secondary,Female,86.4
 Telangana,Rural,Post Higher Secondary,Female,16.1
 Telangana,Rural,Primary,Female,97.9
@@ -2382,13 +2382,13 @@ Telangana,Rural,Primary To Higher Secondary,Female,98.2
 Telangana,Rural,Primary & Upper Primary,Female,95.4
 Telangana,Rural,Secondary,Female,122.5
 Telangana,Rural,Secondary And Higher Secondary,Female,106.1
-Telangana,Rural,Upper Primary,Female,92.0
+Telangana,Rural,Upper Primary,Female,92
 Telangana,Rural,Higher Secondary,Male,91.1
 Telangana,Rural,Post Higher Secondary,Male,28.6
 Telangana,Rural,Primary,Male,93.2
 Telangana,Rural,Primary To Higher Secondary,Male,99.5
 Telangana,Rural,Primary & Upper Primary,Male,99.1
-Telangana,Rural,Secondary,Male,104.0
+Telangana,Rural,Secondary,Male,104
 Telangana,Rural,Secondary And Higher Secondary,Male,100.2
 Telangana,Rural,Upper Primary,Male,107.8
 Telangana,Rural,Higher Secondary,Person,88.6
@@ -2407,7 +2407,7 @@ Telangana,Total,Primary & Upper Primary,Female,96.6
 Telangana,Total,Secondary,Female,113.9
 Telangana,Total,Secondary And Higher Secondary,Female,104.2
 Telangana,Total,Upper Primary,Female,108.3
-Telangana,Total,Higher Secondary,Male,100.0
+Telangana,Total,Higher Secondary,Male,100
 Telangana,Total,Post Higher Secondary,Male,33.5
 Telangana,Total,Primary,Male,95.2
 Telangana,Total,Primary To Higher Secondary,Male,100.5
@@ -2415,13 +2415,13 @@ Telangana,Total,Primary & Upper Primary,Male,98.8
 Telangana,Total,Secondary,Male,107.2
 Telangana,Total,Secondary And Higher Secondary,Male,103.9
 Telangana,Total,Upper Primary,Male,104.4
-Telangana,Total,Higher Secondary,Person,97.0
+Telangana,Total,Higher Secondary,Person,97
 Telangana,Total,Post Higher Secondary,Person,28.9
 Telangana,Total,Primary,Person,92.8
 Telangana,Total,Primary To Higher Secondary,Person,99.7
 Telangana,Total,Primary & Upper Primary,Person,97.8
 Telangana,Total,Secondary,Person,109.8
-Telangana,Total,Secondary And Higher Secondary,Person,104.0
+Telangana,Total,Secondary And Higher Secondary,Person,104
 Telangana,Total,Upper Primary,Person,106.1
 Telangana,Urban,Higher Secondary,Female,99.7
 Telangana,Urban,Post Higher Secondary,Female,34.9
@@ -2429,7 +2429,7 @@ Telangana,Urban,Primary,Female,81.8
 Telangana,Urban,Primary To Higher Secondary,Female,99.3
 Telangana,Urban,Primary & Upper Primary,Female,98.1
 Telangana,Urban,Secondary,Female,103.7
-Telangana,Urban,Secondary And Higher Secondary,Female,102.0
+Telangana,Urban,Secondary And Higher Secondary,Female,102
 Telangana,Urban,Upper Primary,Female,146.2
 Telangana,Urban,Higher Secondary,Male,104.1
 Telangana,Urban,Post Higher Secondary,Male,39.1
@@ -2453,9 +2453,9 @@ Ladakh,Rural,Primary,Female,95.8
 Ladakh,Rural,Primary To Higher Secondary,Female,97.5
 Ladakh,Rural,Primary & Upper Primary,Female,99.2
 Ladakh,Rural,Secondary,Female,112.8
-Ladakh,Rural,Secondary And Higher Secondary,Female,94.0
+Ladakh,Rural,Secondary And Higher Secondary,Female,94
 Ladakh,Rural,Upper Primary,Female,106.1
-Ladakh,Rural,Higher Secondary,Male,72.0
+Ladakh,Rural,Higher Secondary,Male,72
 Ladakh,Rural,Post Higher Secondary,Male,35.5
 Ladakh,Rural,Primary,Male,105.6
 Ladakh,Rural,Primary To Higher Secondary,Male,99.8
@@ -2475,7 +2475,7 @@ Ladakh,Total,Higher Secondary,Female,81.2
 Ladakh,Total,Post Higher Secondary,Female,31.5
 Ladakh,Total,Primary,Female,96.9
 Ladakh,Total,Primary To Higher Secondary,Female,97.7
-Ladakh,Total,Primary & Upper Primary,Female,99.0
+Ladakh,Total,Primary & Upper Primary,Female,99
 Ladakh,Total,Secondary,Female,110.4
 Ladakh,Total,Secondary And Higher Secondary,Female,94.9
 Ladakh,Total,Upper Primary,Female,103.1
@@ -2484,11 +2484,11 @@ Ladakh,Total,Post Higher Secondary,Male,36.3
 Ladakh,Total,Primary,Male,105.6
 Ladakh,Total,Primary To Higher Secondary,Male,99.8
 Ladakh,Total,Primary & Upper Primary,Male,101.1
-Ladakh,Total,Secondary,Male,120.0
-Ladakh,Total,Secondary And Higher Secondary,Male,97.0
+Ladakh,Total,Secondary,Male,120
+Ladakh,Total,Secondary And Higher Secondary,Male,97
 Ladakh,Total,Upper Primary,Male,92.2
 Ladakh,Total,Higher Secondary,Person,77.9
-Ladakh,Total,Post Higher Secondary,Person,34.0
+Ladakh,Total,Post Higher Secondary,Person,34
 Ladakh,Total,Primary,Person,101.9
 Ladakh,Total,Primary To Higher Secondary,Person,98.9
 Ladakh,Total,Primary & Upper Primary,Person,100.2
@@ -2499,7 +2499,7 @@ Ladakh,Urban,Higher Secondary,Female,95.5
 Ladakh,Urban,Post Higher Secondary,Female,51.1
 Ladakh,Urban,Primary,Female,101.7
 Ladakh,Urban,Primary To Higher Secondary,Female,98.4
-Ladakh,Urban,Primary & Upper Primary,Female,98.0
+Ladakh,Urban,Primary & Upper Primary,Female,98
 Ladakh,Urban,Secondary,Female,101.9
 Ladakh,Urban,Secondary And Higher Secondary,Female,99.1
 Ladakh,Urban,Upper Primary,Female,91.7
@@ -2519,75 +2519,75 @@ Ladakh,Urban,Primary & Upper Primary,Person,98.4
 Ladakh,Urban,Secondary,Person,110.8
 Ladakh,Urban,Secondary And Higher Secondary,Person,100.7
 Ladakh,Urban,Upper Primary,Person,89.1
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Higher Secondary,Female,104.4539485031
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Post Higher Secondary,Female,3.5467241592
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary,Female,124.595207589
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary To Higher Secondary,Female,101.6807933966
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary & Upper Primary,Female,108.4892102994
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Secondary,Female,91.5017592707
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Secondary And Higher Secondary,Female,95.4792706665
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Upper Primary,Female,107.7550819268
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Higher Secondary,Male,48.78638906
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Post Higher Secondary,Male,0.8680793397
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary,Male,100.4712430701
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary To Higher Secondary,Male,91.7201158063
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary & Upper Primary,Male,101.7134458544
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Secondary,Male,284.3094345201
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Secondary And Higher Secondary,Male,75.0924923001
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Upper Primary,Male,102.2746310213
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Higher Secondary,Person,62.9826586177
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Post Higher Secondary,Person,1.9345768141
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary,Person,108.1523198226
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary To Higher Secondary,Person,96.024861402
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Primary & Upper Primary,Person,105.4609609462
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Secondary,Person,131.7238585684
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Secondary And Higher Secondary,Person,83.4858814833
-The Dadra And Nagar Haveli And Daman And Diu,Rural,Upper Primary,Person,104.5928224714
-The Dadra And Nagar Haveli And Daman And Diu,Total,Higher Secondary,Female,89.6675147711
-The Dadra And Nagar Haveli And Daman And Diu,Total,Post Higher Secondary,Female,13.2459581297
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary,Female,88.0422401338
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary To Higher Secondary,Female,91.192714275
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary & Upper Primary,Female,90.621481508
-The Dadra And Nagar Haveli And Daman And Diu,Total,Secondary,Female,108.1471318123
-The Dadra And Nagar Haveli And Daman And Diu,Total,Secondary And Higher Secondary,Female,98.4866022325
-The Dadra And Nagar Haveli And Daman And Diu,Total,Upper Primary,Female,92.8133226341
-The Dadra And Nagar Haveli And Daman And Diu,Total,Higher Secondary,Male,58.7976059534
-The Dadra And Nagar Haveli And Daman And Diu,Total,Post Higher Secondary,Male,2.2405689694
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary,Male,88.9827339698
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary To Higher Secondary,Male,90.9973805532
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary & Upper Primary,Male,97.9261477862
-The Dadra And Nagar Haveli And Daman And Diu,Total,Secondary,Male,103.0261477862
-The Dadra And Nagar Haveli And Daman And Diu,Total,Secondary And Higher Secondary,Male,80.6118768698
-The Dadra And Nagar Haveli And Daman And Diu,Total,Upper Primary,Male,102.5740024806
-The Dadra And Nagar Haveli And Daman And Diu,Total,Higher Secondary,Person,68.7866773659
-The Dadra And Nagar Haveli And Daman And Diu,Total,Post Higher Secondary,Person,5.6045160114
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary,Person,88.9404187026
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary To Higher Secondary,Person,90.6657684733
-The Dadra And Nagar Haveli And Daman And Diu,Total,Primary & Upper Primary,Person,93.5729039315
-The Dadra And Nagar Haveli And Daman And Diu,Total,Secondary,Person,104.1298657821
-The Dadra And Nagar Haveli And Daman And Diu,Total,Secondary And Higher Secondary,Person,88.3127500187
-The Dadra And Nagar Haveli And Daman And Diu,Total,Upper Primary,Person,99.8973054198
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Higher Secondary,Female,78.3193025978
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Post Higher Secondary,Female,20.6190664617
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary,Female,82.6437268159
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary To Higher Secondary,Female,86.5108136359
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary & Upper Primary,Female,79.92237557
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Secondary,Female,126.3890882409
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Secondary And Higher Secondary,Female,104.6061060545
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Upper Primary,Female,78.9940319584
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Higher Secondary,Male,43.3855429966
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Post Higher Secondary,Male,3.0763639699
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary,Male,76.1918851872
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary To Higher Secondary,Male,90.9574355212
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary & Upper Primary,Male,93.4924954724
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Secondary,Male,89.979062793
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Secondary And Higher Secondary,Male,79.1202287987
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Upper Primary,Male,97.8960407167
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Higher Secondary,Person,70.411561934
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Post Higher Secondary,Person,7.9301162337
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary,Person,80.6358481392
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary To Higher Secondary,Person,88.2880639169
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Primary & Upper Primary,Person,85.3329131799
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Secondary,Person,102.9813475772
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Secondary And Higher Secondary,Person,91.4372466123
-The Dadra And Nagar Haveli And Daman And Diu,Urban,Upper Primary,Person,94.3475081963
+Daman,Rural,Higher Secondary,Female,104.4539485
+Daman,Rural,Post Higher Secondary,Female,3.546724159
+Daman,Rural,Primary,Female,124.5952076
+Daman,Rural,Primary To Higher Secondary,Female,101.6807934
+Daman,Rural,Primary & Upper Primary,Female,108.4892103
+Daman,Rural,Secondary,Female,91.50175927
+Daman,Rural,Secondary And Higher Secondary,Female,95.47927067
+Daman,Rural,Upper Primary,Female,107.7550819
+Daman,Rural,Higher Secondary,Male,48.78638906
+Daman,Rural,Post Higher Secondary,Male,0.86807934
+Daman,Rural,Primary,Male,100.4712431
+Daman,Rural,Primary To Higher Secondary,Male,91.72011581
+Daman,Rural,Primary & Upper Primary,Male,101.7134459
+Daman,Rural,Secondary,Male,284.3094345
+Daman,Rural,Secondary And Higher Secondary,Male,75.0924923
+Daman,Rural,Upper Primary,Male,102.274631
+Daman,Rural,Higher Secondary,Person,62.98265862
+Daman,Rural,Post Higher Secondary,Person,1.934576814
+Daman,Rural,Primary,Person,108.1523198
+Daman,Rural,Primary To Higher Secondary,Person,96.0248614
+Daman,Rural,Primary & Upper Primary,Person,105.4609609
+Daman,Rural,Secondary,Person,131.7238586
+Daman,Rural,Secondary And Higher Secondary,Person,83.48588148
+Daman,Rural,Upper Primary,Person,104.5928225
+Daman,Total,Higher Secondary,Female,89.66751477
+Daman,Total,Post Higher Secondary,Female,13.24595813
+Daman,Total,Primary,Female,88.04224013
+Daman,Total,Primary To Higher Secondary,Female,91.19271428
+Daman,Total,Primary & Upper Primary,Female,90.62148151
+Daman,Total,Secondary,Female,108.1471318
+Daman,Total,Secondary And Higher Secondary,Female,98.48660223
+Daman,Total,Upper Primary,Female,92.81332263
+Daman,Total,Higher Secondary,Male,58.79760595
+Daman,Total,Post Higher Secondary,Male,2.240568969
+Daman,Total,Primary,Male,88.98273397
+Daman,Total,Primary To Higher Secondary,Male,90.99738055
+Daman,Total,Primary & Upper Primary,Male,97.92614779
+Daman,Total,Secondary,Male,103.0261478
+Daman,Total,Secondary And Higher Secondary,Male,80.61187687
+Daman,Total,Upper Primary,Male,102.5740025
+Daman,Total,Higher Secondary,Person,68.78667737
+Daman,Total,Post Higher Secondary,Person,5.604516011
+Daman,Total,Primary,Person,88.9404187
+Daman,Total,Primary To Higher Secondary,Person,90.66576847
+Daman,Total,Primary & Upper Primary,Person,93.57290393
+Daman,Total,Secondary,Person,104.1298658
+Daman,Total,Secondary And Higher Secondary,Person,88.31275002
+Daman,Total,Upper Primary,Person,99.89730542
+Daman,Urban,Higher Secondary,Female,78.3193026
+Daman,Urban,Post Higher Secondary,Female,20.61906646
+Daman,Urban,Primary,Female,82.64372682
+Daman,Urban,Primary To Higher Secondary,Female,86.51081364
+Daman,Urban,Primary & Upper Primary,Female,79.92237557
+Daman,Urban,Secondary,Female,126.3890882
+Daman,Urban,Secondary And Higher Secondary,Female,104.6061061
+Daman,Urban,Upper Primary,Female,78.99403196
+Daman,Urban,Higher Secondary,Male,43.385543
+Daman,Urban,Post Higher Secondary,Male,3.07636397
+Daman,Urban,Primary,Male,76.19188519
+Daman,Urban,Primary To Higher Secondary,Male,90.95743552
+Daman,Urban,Primary & Upper Primary,Male,93.49249547
+Daman,Urban,Secondary,Male,89.97906279
+Daman,Urban,Secondary And Higher Secondary,Male,79.1202288
+Daman,Urban,Upper Primary,Male,97.89604072
+Daman,Urban,Higher Secondary,Person,70.41156193
+Daman,Urban,Post Higher Secondary,Person,7.930116234
+Daman,Urban,Primary,Person,80.63584814
+Daman,Urban,Primary To Higher Secondary,Person,88.28806392
+Daman,Urban,Primary & Upper Primary,Person,85.33291318
+Daman,Urban,Secondary,Person,102.9813476
+Daman,Urban,Secondary And Higher Secondary,Person,91.43724661
+Daman,Urban,Upper Primary,Person,94.3475082

@@ -137,4 +137,25 @@ class DataReader():
         df_enrollement_education_level = pd.read_csv(self.data_folder_location+"/State_Enrollement_EducationLevel.csv")
         df_institute_course = pd.read_csv(self.data_folder_location+"/State_InstituteType_Course.csv")
 
+        
+        # Pre-Processing "df_enrollement_education_level"
+        mapping_dict = {'IT/ computer courses':"IT",'commerce':'Commerce','courses from ITI/ recognised vocational institutes':'ITI',
+                        'engineering':'Engineering','humanities':'Humanities','law':'Law','management':'Management','medicine':'Medical',
+                        'others*':'Others','science':'Science','up to X':'Upto X','all (incl. n.r.)':'All'}
+        
+        df_courses["Course type"] = df_courses["Course type"].apply(lambda x : mapping_dict[x])
+
+        all_course_list = list(np.unique(df_courses["Course type"]))
+        
+        df_final = df_courses[["State","Residence_Type","Gender"]]
+        
+        for i in all_course_list:
+            df1=df_courses[df_courses["Course type"]==i]
+            df1 = df1.rename(columns={"Distribution of students pursuing various courses (%)":i})
+            df1 = df1.reset_index().drop(columns="index")
+            df1 = df1.drop(columns="Course type")
+            df_final = df_final.merge(df1,on=["State","Residence_Type","Gender"],how="inner")
+        
+        df_courses = df_final.drop(columns="All")
+
         return df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_course

@@ -15,12 +15,22 @@ def education_participation_layout(DataReader,inputDict):
     df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_course = DataReader.extractEducationParticipationData()
 
 
-    metric_dropdown = dcc.Dropdown(options=[{"label":"Attendance As Per Age Groups","value":"attendence_age_group"},
-                                            {"label":"Attendance As Per Education Level","value":"attendence_education_level"},
-                                            {"label":"Enrollement As Per Education Level","value":"enrollement_education_level"},
+    #metric_dropdown = dcc.Dropdown(options=[{"label":"Attendance As Per Age Groups","value":"attendence_age_group"},
+    #                                        {"label":"Attendance As Per Education Level","value":"attendence_education_level"},
+    #                                        {"label":"Enrollement As Per Education Level","value":"enrollement_education_level"},
+    #                                        {"label":"Distribution As Per Education Level","value":"distribution_education_level"},
+    #                                        {"label":"Distribution As Per Different Courses","value":"distribution_courses"}],
+    #                                       
+    #                                       value=inputDict["value_education_all_states_metric_dropdown"],
+    #                                       id="education_all_states_metric_dropdown",
+    #                                       maxHeight=175)
+    
+    
+    
+    metric_dropdown = dcc.Dropdown(options=[{"label":"Enrollement","value":"enrollement_education_level"},
+                                            {"label":"Attendance","value":"attendence_age_group"},
                                             {"label":"Distribution As Per Education Level","value":"distribution_education_level"},
-                                            {"label":"Distribution As Per Different Courses","value":"distribution_courses"}],
-                                           
+                                            {"label":"Distribution As Per Courses","value":"distribution_courses"}],
                                            value=inputDict["value_education_all_states_metric_dropdown"],
                                            id="education_all_states_metric_dropdown",
                                            maxHeight=175)
@@ -53,9 +63,47 @@ def education_participation_layout(DataReader,inputDict):
         
         fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=list(df["Attendance ratio"].values),
                                textposition='inside',marker=dict(color=x,colorscale='turbo')))
-        fig.update_layout(title={"text":"<b>Attendance Ratio : {} %</b>".format(int(np.mean(df["Attendance ratio"])))},
+        fig.update_layout(title={"text":"<b>Average Attendance Ratio : {} %</b>".format(int(np.mean(df["Attendance ratio"])))},
                           margin=dict(l=0, r=0, t=25, b=0),height=1000)
         fig.add_vline(x=np.mean(df["Attendance ratio"]), line_width=3, line_dash="dash", line_color="black")
+    
+    if inputDict["value_education_all_states_metric_dropdown"]=='enrollement_education_level':
+
+        df = df_enrollement_education_level.copy()
+        df = df[df["Residence_Type"] == inputDict["value_education_all_states_residence_type_dropdown"]]
+        df = df[df["Gender"] == inputDict["value_education_all_states_gender_dropdown"]]
+        df = df.drop(columns=["Residence_Type","Gender","Level of current enrolment"]).groupby("State").mean().reset_index()
+        df["Gross enrolment ratio ( ger )"]=df["Gross enrolment ratio ( ger )"].apply(lambda x : int(x))
+        df = df.sort_values("Gross enrolment ratio ( ger )",ascending=True)
+
+        x = list(df["Gross enrolment ratio ( ger )"].values)
+        y = list(df["State"].values)
+        
+        fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=list(df["Gross enrolment ratio ( ger )"].values),
+                               textposition='inside',marker=dict(color=x,colorscale='turbo')))
+        fig.update_layout(title={"text":"<b>Average Gross Enrolment : {} %</b>".format(int(np.mean(df["Gross enrolment ratio ( ger )"])))},
+                          margin=dict(l=0, r=0, t=25, b=0),height=1000)
+        fig.add_vline(x=np.mean(df["Gross enrolment ratio ( ger )"]), line_width=3, line_dash="dash", line_color="black")
+    
+    if inputDict["value_education_all_states_metric_dropdown"]=="distribution_courses":
+
+        df = df_courses.copy()
+
+        df = df[df["Residence_Type"] == inputDict["value_education_all_states_residence_type_dropdown"]]
+        df = df[df["Gender"] == inputDict["value_education_all_states_gender_dropdown"]]
+
+        all_values = ['Science','Engineering','Medical','IT','Law','Management','Humanities',
+                      'Commerce','Medical','ITI','Upto X','Others']
+        
+        fig = go.Figure()
+        for i in all_values:
+            x = list(df[i].values)
+            y = list(df["State"].values)
+            text = [str(np.round(i,1))+" %" for i in x]
+            fig.add_trace(go.Bar(x=x,y=y,orientation='h',name=i,text=text,textposition='inside'))
+        
+        fig.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),height=1000)
+    
     
     graph_figure = dcc.Graph(figure=fig)  
     graph_div = html.Div([graph_figure],id="education-all_states-graph_div")
