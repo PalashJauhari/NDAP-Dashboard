@@ -184,8 +184,30 @@ def education_participation_layout(DataReader,inputDict):
     state_wise_metrics = html.Div([state_dropdown_div,selection_div_down],
                                  id="education_state_wise_metrics")
 
-    
+    if inputDict["value_education_all_states_metric_dropdown"]=="enrollement_education_level":
 
+        df = df_enrollement_education_level.copy()
+
+        df1 = df[df["Residence_Type"]==inputDict["value_education_states_residence_type_dropdown"]]
+        df1 = df1[df1["Gender"]==inputDict["value_education_states_gender_dropdown"]]
+        df1 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown"]]
+        df2 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown_1"]]
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     return html.Div([all_states,state_wise_metrics])
 
 
