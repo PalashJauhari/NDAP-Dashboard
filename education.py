@@ -173,13 +173,15 @@ def education_participation_layout(DataReader,inputDict):
                                            maxHeight=175)
     
 
-    state_dropdown_div = html.Div([state_wise_state_dropdown,html.Div(html.P("Vs")),
+    state_dropdown_div = html.Div([state_wise_state_dropdown,html.Div(html.P("Vs"),id="education_vs"),
                                   state_wise_state_dropdown_1],
                                   id="state_dropdown_div")
     selection_div_down = html.Div([state_wise_metric_dropdown,residence_type_state_dropdown,
                                    gender_type_state_dropdown],id="state_selection_div_down")
+
+    all_selection_div = html.Div([state_dropdown_div,selection_div_down],id="state_all_selection_div")
     
-    state_wise_metrics = html.Div([state_dropdown_div],
+    state_wise_metrics = html.Div([state_dropdown_div,selection_div_down],
                                  id="education_state_wise_metrics")
 
     
