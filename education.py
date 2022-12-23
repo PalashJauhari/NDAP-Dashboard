@@ -143,7 +143,7 @@ def education_participation_layout(DataReader,inputDict):
                                             maxHeight=175)
     
     state_list_1 = [{'label': i, 'value': i} for i in np.unique(df_attendence_age["State"].values)]
-    state_list_1.append({'label': "India", 'value': "India"})
+    state_list_1.append({'label': "India", 'value': "Total"})
     state_wise_state_dropdown_1 = dcc.Dropdown(options=state_list_1,
                                              value=inputDict["value_education_state_wise_state_dropdown_1"],
                                             id="education_state_wise_state_dropdown_1",
@@ -181,33 +181,40 @@ def education_participation_layout(DataReader,inputDict):
 
     all_selection_div = html.Div([state_dropdown_div,selection_div_down],id="state_all_selection_div")
     
-    state_wise_metrics = html.Div([state_dropdown_div,selection_div_down],
-                                 id="education_state_wise_metrics")
 
     if inputDict["value_education_all_states_metric_dropdown"]=="enrollement_education_level":
 
         df = df_enrollement_education_level.copy()
-
+        
+        df =  df[df["Level of current enrolment"].isin(['Primary','Secondary','Higher Secondary'])]
         df1 = df[df["Residence_Type"]==inputDict["value_education_states_residence_type_dropdown"]]
         df1 = df1[df1["Gender"]==inputDict["value_education_states_gender_dropdown"]]
         df1 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown"]]
         df2 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown_1"]]
 
+        var1 = "Level of current enrolment"
+        var2 = "Gross enrolment ratio ( ger )"
+        
+        
+        labels = list(np.unique(df1[var1]))
 
+        y1, y2 = [],[]
+        for i in labels:
+            y1.append(df1[df1[var1]==i][var2].values[0])
+            y2.append(df2[df2[var1]==i][var2].values[0])
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=y1,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown"],textposition='inside'))
+        fig.add_trace(go.Bar(x=y2,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown_1"],textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
 
+    graph_figure_bottom = dcc.Graph(figure=fig)
+    graph_div_bottom = html.Div([graph_figure_bottom],id="education_state_wise_metrics_graph_div_bottom")
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    state_wise_metrics = html.Div([state_dropdown_div,selection_div_down,graph_div_bottom ],
+                                 id="education_state_wise_metrics")
+
     return html.Div([all_states,state_wise_metrics])
 
 

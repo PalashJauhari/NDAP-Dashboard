@@ -107,18 +107,8 @@
 }
 
 
-#education_state_wise_metrics_graph_div_top{
-    display: block;
-    position:absolute;
-    height: 225px;
-    margin-top:50px;
-}
-
 #education_state_wise_metrics_graph_div_bottom{
     display: block;
-    position:absolute;
-    height: 225px;
-    margin-top:300px;
 }
 
 
