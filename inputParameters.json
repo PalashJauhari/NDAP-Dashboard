@@ -10,9 +10,9 @@
                                 "value_socioeconomic_state_wise_metric_dropdown":"homeless_household"},
     
     "education":{"value_education_dropdown":"participation",
-                 "value_education_all_states_metric_dropdown":"",
-                 "value_education_all_states_residence_type_dropdown":"rural",
-                 "value_education_all_states_gender_dropdown":"male"},
+                 "value_education_all_states_metric_dropdown":"attendence_age_group",
+                 "value_education_all_states_residence_type_dropdown":"Rural",
+                 "value_education_all_states_gender_dropdown":"Male"},
     "health":{},
     "employment":{}
 }

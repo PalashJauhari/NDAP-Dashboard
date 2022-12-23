@@ -72,6 +72,26 @@ def renderFunction2(value_all_metric_states_dropdown,
   
     return UIDisplay(DataReader,inputParameter)
 
+@app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
+              [Input(component_id='education_dropdown', component_property='value'),
+               Input(component_id='education_all_states_metric_dropdown', component_property='value'),
+               Input(component_id='education_all_states_residence_type_dropdown', component_property='value'),
+               Input(component_id='education_all_states_gender_dropdown', component_property='value')])
+
+def renderFunction3(value_education_dropdown,
+                    value_education_all_states_metric_dropdown,
+                    value_education_all_states_residence_type_dropdown,
+                    value_education_all_states_gender_dropdown):
+
+    inputDict = inputParameter[inputParameter["value_selected_tab"]]
+    inputDict["value_education_dropdown"] = value_education_dropdown
+    inputDict["value_education_all_states_metric_dropdown"] = value_education_all_states_metric_dropdown
+    inputDict["value_education_all_states_residence_type_dropdown"] = value_education_all_states_residence_type_dropdown
+    inputDict["value_education_all_states_gender_dropdown"] = value_education_all_states_gender_dropdown
+    inputParameter[inputParameter["value_selected_tab"]] = inputDict
+  
+    return UIDisplay(DataReader,inputParameter)
+
 
 if __name__ == "__main__":
     app.run_server()

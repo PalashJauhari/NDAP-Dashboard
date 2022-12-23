@@ -1,0 +1,2449 @@
+State,Residence_Type,Gender,Attendance type,Level of education,Attendance ratio (%)
+Jammu And Kashmir,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,78.7
+Jammu And Kashmir,Rural,Female,Net Attendance Ratio,Higher Secondary Level,50.9
+Jammu And Kashmir,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,26.4
+Jammu And Kashmir,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,24.9
+Jammu And Kashmir,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.2
+Jammu And Kashmir,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.7
+Jammu And Kashmir,Rural,Female,Gross Attendance Ratio,Primary Level,95.8
+Jammu And Kashmir,Rural,Female,Net Attendance Ratio,Primary Level,84.9
+Jammu And Kashmir,Rural,Female,Gross Attendance Ratio,Secondary Level,112.5
+Jammu And Kashmir,Rural,Female,Net Attendance Ratio,Secondary Level,67.0
+Jammu And Kashmir,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,106.1
+Jammu And Kashmir,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,81.8
+Jammu And Kashmir,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,69.8
+Jammu And Kashmir,Rural,Male,Net Attendance Ratio,Higher Secondary Level,44.7
+Jammu And Kashmir,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,33.7
+Jammu And Kashmir,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,30.5
+Jammu And Kashmir,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.7
+Jammu And Kashmir,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.8
+Jammu And Kashmir,Rural,Male,Gross Attendance Ratio,Primary Level,105.6
+Jammu And Kashmir,Rural,Male,Net Attendance Ratio,Primary Level,90.5
+Jammu And Kashmir,Rural,Male,Gross Attendance Ratio,Secondary Level,120.6
+Jammu And Kashmir,Rural,Male,Net Attendance Ratio,Secondary Level,72.9
+Jammu And Kashmir,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,93.7
+Jammu And Kashmir,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,76.9
+Jammu And Kashmir,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,73.9
+Jammu And Kashmir,Rural,Person,Net Attendance Ratio,Higher Secondary Level,47.6
+Jammu And Kashmir,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,30.1
+Jammu And Kashmir,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,27.7
+Jammu And Kashmir,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.7
+Jammu And Kashmir,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.9
+Jammu And Kashmir,Rural,Person,Gross Attendance Ratio,Primary Level,101.4
+Jammu And Kashmir,Rural,Person,Net Attendance Ratio,Primary Level,88.1
+Jammu And Kashmir,Rural,Person,Gross Attendance Ratio,Secondary Level,117.1
+Jammu And Kashmir,Rural,Person,Net Attendance Ratio,Secondary Level,70.4
+Jammu And Kashmir,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,99.1
+Jammu And Kashmir,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,79.0
+Jammu And Kashmir,Total,Female,Gross Attendance Ratio,Higher Secondary Level,81.2
+Jammu And Kashmir,Total,Female,Net Attendance Ratio,Higher Secondary Level,49.5
+Jammu And Kashmir,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,31.1
+Jammu And Kashmir,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,27.5
+Jammu And Kashmir,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.0
+Jammu And Kashmir,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.1
+Jammu And Kashmir,Total,Female,Gross Attendance Ratio,Primary Level,96.9
+Jammu And Kashmir,Total,Female,Net Attendance Ratio,Primary Level,85.2
+Jammu And Kashmir,Total,Female,Gross Attendance Ratio,Secondary Level,110.2
+Jammu And Kashmir,Total,Female,Net Attendance Ratio,Secondary Level,67.0
+Jammu And Kashmir,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,103.1
+Jammu And Kashmir,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,81.4
+Jammu And Kashmir,Total,Male,Gross Attendance Ratio,Higher Secondary Level,73.6
+Jammu And Kashmir,Total,Male,Net Attendance Ratio,Higher Secondary Level,43.3
+Jammu And Kashmir,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,34.9
+Jammu And Kashmir,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,31.3
+Jammu And Kashmir,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.1
+Jammu And Kashmir,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.2
+Jammu And Kashmir,Total,Male,Gross Attendance Ratio,Primary Level,105.6
+Jammu And Kashmir,Total,Male,Net Attendance Ratio,Primary Level,90.2
+Jammu And Kashmir,Total,Male,Gross Attendance Ratio,Secondary Level,119.9
+Jammu And Kashmir,Total,Male,Net Attendance Ratio,Secondary Level,71.5
+Jammu And Kashmir,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,92.2
+Jammu And Kashmir,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,76.2
+Jammu And Kashmir,Total,Person,Gross Attendance Ratio,Higher Secondary Level,77.0
+Jammu And Kashmir,Total,Person,Net Attendance Ratio,Higher Secondary Level,46.1
+Jammu And Kashmir,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,33.1
+Jammu And Kashmir,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,29.5
+Jammu And Kashmir,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.2
+Jammu And Kashmir,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.3
+Jammu And Kashmir,Total,Person,Gross Attendance Ratio,Primary Level,101.9
+Jammu And Kashmir,Total,Person,Net Attendance Ratio,Primary Level,88.1
+Jammu And Kashmir,Total,Person,Gross Attendance Ratio,Secondary Level,115.7
+Jammu And Kashmir,Total,Person,Net Attendance Ratio,Secondary Level,69.6
+Jammu And Kashmir,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,96.9
+Jammu And Kashmir,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,78.4
+Jammu And Kashmir,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,95.5
+Jammu And Kashmir,Urban,Female,Net Attendance Ratio,Higher Secondary Level,42.1
+Jammu And Kashmir,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,50.8
+Jammu And Kashmir,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,38.5
+Jammu And Kashmir,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.0
+Jammu And Kashmir,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.0
+Jammu And Kashmir,Urban,Female,Gross Attendance Ratio,Primary Level,101.7
+Jammu And Kashmir,Urban,Female,Net Attendance Ratio,Primary Level,86.8
+Jammu And Kashmir,Urban,Female,Gross Attendance Ratio,Secondary Level,101.9
+Jammu And Kashmir,Urban,Female,Net Attendance Ratio,Secondary Level,67.2
+Jammu And Kashmir,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.7
+Jammu And Kashmir,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,79.8
+Jammu And Kashmir,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,87.1
+Jammu And Kashmir,Urban,Male,Net Attendance Ratio,Higher Secondary Level,38.1
+Jammu And Kashmir,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,38.5
+Jammu And Kashmir,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,33.7
+Jammu And Kashmir,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.6
+Jammu And Kashmir,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.1
+Jammu And Kashmir,Urban,Male,Gross Attendance Ratio,Primary Level,105.5
+Jammu And Kashmir,Urban,Male,Net Attendance Ratio,Primary Level,88.7
+Jammu And Kashmir,Urban,Male,Gross Attendance Ratio,Secondary Level,117.3
+Jammu And Kashmir,Urban,Male,Net Attendance Ratio,Secondary Level,65.8
+Jammu And Kashmir,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,87.2
+Jammu And Kashmir,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,73.7
+Jammu And Kashmir,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,90.1
+Jammu And Kashmir,Urban,Person,Net Attendance Ratio,Higher Secondary Level,39.6
+Jammu And Kashmir,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,43.4
+Jammu And Kashmir,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,35.6
+Jammu And Kashmir,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.4
+Jammu And Kashmir,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.2
+Jammu And Kashmir,Urban,Person,Gross Attendance Ratio,Primary Level,103.9
+Jammu And Kashmir,Urban,Person,Net Attendance Ratio,Primary Level,87.9
+Jammu And Kashmir,Urban,Person,Gross Attendance Ratio,Secondary Level,110.5
+Jammu And Kashmir,Urban,Person,Net Attendance Ratio,Secondary Level,66.4
+Jammu And Kashmir,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,89.0
+Jammu And Kashmir,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,76.2
+Himachal Pradesh,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,114.4
+Himachal Pradesh,Rural,Female,Net Attendance Ratio,Higher Secondary Level,61.8
+Himachal Pradesh,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,34.5
+Himachal Pradesh,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,30.2
+Himachal Pradesh,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.7
+Himachal Pradesh,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.1
+Himachal Pradesh,Rural,Female,Gross Attendance Ratio,Primary Level,98.2
+Himachal Pradesh,Rural,Female,Net Attendance Ratio,Primary Level,88.5
+Himachal Pradesh,Rural,Female,Gross Attendance Ratio,Secondary Level,92.7
+Himachal Pradesh,Rural,Female,Net Attendance Ratio,Secondary Level,56.7
+Himachal Pradesh,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,97.0
+Himachal Pradesh,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,82.4
+Himachal Pradesh,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,104.4
+Himachal Pradesh,Rural,Male,Net Attendance Ratio,Higher Secondary Level,69.6
+Himachal Pradesh,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,29.0
+Himachal Pradesh,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,22.1
+Himachal Pradesh,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,94.5
+Himachal Pradesh,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.3
+Himachal Pradesh,Rural,Male,Gross Attendance Ratio,Primary Level,100.0
+Himachal Pradesh,Rural,Male,Net Attendance Ratio,Primary Level,91.2
+Himachal Pradesh,Rural,Male,Gross Attendance Ratio,Secondary Level,107.5
+Himachal Pradesh,Rural,Male,Net Attendance Ratio,Secondary Level,76.1
+Himachal Pradesh,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,88.4
+Himachal Pradesh,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,78.8
+Himachal Pradesh,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,109.1
+Himachal Pradesh,Rural,Person,Net Attendance Ratio,Higher Secondary Level,65.9
+Himachal Pradesh,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,32.0
+Himachal Pradesh,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,26.5
+Himachal Pradesh,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.0
+Himachal Pradesh,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.7
+Himachal Pradesh,Rural,Person,Gross Attendance Ratio,Primary Level,99.1
+Himachal Pradesh,Rural,Person,Net Attendance Ratio,Primary Level,89.8
+Himachal Pradesh,Rural,Person,Gross Attendance Ratio,Secondary Level,100.8
+Himachal Pradesh,Rural,Person,Net Attendance Ratio,Secondary Level,67.3
+Himachal Pradesh,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,92.2
+Himachal Pradesh,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,80.4
+Himachal Pradesh,Total,Female,Gross Attendance Ratio,Higher Secondary Level,114.6
+Himachal Pradesh,Total,Female,Net Attendance Ratio,Higher Secondary Level,64.9
+Himachal Pradesh,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,35.8
+Himachal Pradesh,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,31.7
+Himachal Pradesh,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.7
+Himachal Pradesh,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.2
+Himachal Pradesh,Total,Female,Gross Attendance Ratio,Primary Level,98.4
+Himachal Pradesh,Total,Female,Net Attendance Ratio,Primary Level,88.9
+Himachal Pradesh,Total,Female,Gross Attendance Ratio,Secondary Level,93.9
+Himachal Pradesh,Total,Female,Net Attendance Ratio,Secondary Level,59.5
+Himachal Pradesh,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,96.7
+Himachal Pradesh,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,82.9
+Himachal Pradesh,Total,Male,Gross Attendance Ratio,Higher Secondary Level,105.5
+Himachal Pradesh,Total,Male,Net Attendance Ratio,Higher Secondary Level,70.0
+Himachal Pradesh,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,32.1
+Himachal Pradesh,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,24.0
+Himachal Pradesh,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,94.6
+Himachal Pradesh,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.3
+Himachal Pradesh,Total,Male,Gross Attendance Ratio,Primary Level,100.1
+Himachal Pradesh,Total,Male,Net Attendance Ratio,Primary Level,91.4
+Himachal Pradesh,Total,Male,Gross Attendance Ratio,Secondary Level,107.1
+Himachal Pradesh,Total,Male,Net Attendance Ratio,Secondary Level,75.9
+Himachal Pradesh,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,88.2
+Himachal Pradesh,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,78.6
+Himachal Pradesh,Total,Person,Gross Attendance Ratio,Higher Secondary Level,110.0
+Himachal Pradesh,Total,Person,Net Attendance Ratio,Higher Secondary Level,67.5
+Himachal Pradesh,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,34.1
+Himachal Pradesh,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,28.1
+Himachal Pradesh,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.1
+Himachal Pradesh,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.7
+Himachal Pradesh,Total,Person,Gross Attendance Ratio,Primary Level,99.3
+Himachal Pradesh,Total,Person,Net Attendance Ratio,Primary Level,90.1
+Himachal Pradesh,Total,Person,Gross Attendance Ratio,Secondary Level,100.9
+Himachal Pradesh,Total,Person,Net Attendance Ratio,Secondary Level,68.2
+Himachal Pradesh,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,92.1
+Himachal Pradesh,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,80.6
+Himachal Pradesh,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,116.4
+Himachal Pradesh,Urban,Female,Net Attendance Ratio,Higher Secondary Level,87.3
+Himachal Pradesh,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,48.9
+Himachal Pradesh,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,45.5
+Himachal Pradesh,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.9
+Himachal Pradesh,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.9
+Himachal Pradesh,Urban,Female,Gross Attendance Ratio,Primary Level,100.3
+Himachal Pradesh,Urban,Female,Net Attendance Ratio,Primary Level,91.8
+Himachal Pradesh,Urban,Female,Gross Attendance Ratio,Secondary Level,101.6
+Himachal Pradesh,Urban,Female,Net Attendance Ratio,Secondary Level,77.5
+Himachal Pradesh,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,94.1
+Himachal Pradesh,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,86.9
+Himachal Pradesh,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,121.9
+Himachal Pradesh,Urban,Male,Net Attendance Ratio,Higher Secondary Level,76.3
+Himachal Pradesh,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,58.1
+Himachal Pradesh,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,40.1
+Himachal Pradesh,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.0
+Himachal Pradesh,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.7
+Himachal Pradesh,Urban,Male,Gross Attendance Ratio,Primary Level,100.7
+Himachal Pradesh,Urban,Male,Net Attendance Ratio,Primary Level,93.2
+Himachal Pradesh,Urban,Male,Gross Attendance Ratio,Secondary Level,101.9
+Himachal Pradesh,Urban,Male,Net Attendance Ratio,Secondary Level,73.2
+Himachal Pradesh,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,84.1
+Himachal Pradesh,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,75.2
+Himachal Pradesh,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,118.4
+Himachal Pradesh,Urban,Person,Net Attendance Ratio,Higher Secondary Level,83.3
+Himachal Pradesh,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,53.4
+Himachal Pradesh,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,42.9
+Himachal Pradesh,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.1
+Himachal Pradesh,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.0
+Himachal Pradesh,Urban,Person,Gross Attendance Ratio,Primary Level,100.5
+Himachal Pradesh,Urban,Person,Net Attendance Ratio,Primary Level,92.4
+Himachal Pradesh,Urban,Person,Gross Attendance Ratio,Secondary Level,101.7
+Himachal Pradesh,Urban,Person,Net Attendance Ratio,Secondary Level,75.7
+Himachal Pradesh,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,90.7
+Himachal Pradesh,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,83.0
+Punjab,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,83.8
+Punjab,Rural,Female,Net Attendance Ratio,Higher Secondary Level,48.6
+Punjab,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,23.5
+Punjab,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,19.5
+Punjab,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.8
+Punjab,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.6
+Punjab,Rural,Female,Gross Attendance Ratio,Primary Level,107.7
+Punjab,Rural,Female,Net Attendance Ratio,Primary Level,91.5
+Punjab,Rural,Female,Gross Attendance Ratio,Secondary Level,92.4
+Punjab,Rural,Female,Net Attendance Ratio,Secondary Level,73.9
+Punjab,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,86.4
+Punjab,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,72.2
+Punjab,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,77.8
+Punjab,Rural,Male,Net Attendance Ratio,Higher Secondary Level,47.2
+Punjab,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,17.7
+Punjab,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,15.3
+Punjab,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.9
+Punjab,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.0
+Punjab,Rural,Male,Gross Attendance Ratio,Primary Level,102.7
+Punjab,Rural,Male,Net Attendance Ratio,Primary Level,90.9
+Punjab,Rural,Male,Gross Attendance Ratio,Secondary Level,94.3
+Punjab,Rural,Male,Net Attendance Ratio,Secondary Level,61.4
+Punjab,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,100.6
+Punjab,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,83.3
+Punjab,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,79.8
+Punjab,Rural,Person,Net Attendance Ratio,Higher Secondary Level,47.7
+Punjab,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,20.2
+Punjab,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,17.1
+Punjab,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.0
+Punjab,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.4
+Punjab,Rural,Person,Gross Attendance Ratio,Primary Level,104.9
+Punjab,Rural,Person,Net Attendance Ratio,Primary Level,91.1
+Punjab,Rural,Person,Gross Attendance Ratio,Secondary Level,93.4
+Punjab,Rural,Person,Net Attendance Ratio,Secondary Level,67.0
+Punjab,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,94.7
+Punjab,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,78.7
+Punjab,Total,Female,Gross Attendance Ratio,Higher Secondary Level,78.3
+Punjab,Total,Female,Net Attendance Ratio,Higher Secondary Level,49.0
+Punjab,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,27.2
+Punjab,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,23.0
+Punjab,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.7
+Punjab,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.0
+Punjab,Total,Female,Gross Attendance Ratio,Primary Level,101.4
+Punjab,Total,Female,Net Attendance Ratio,Primary Level,87.6
+Punjab,Total,Female,Gross Attendance Ratio,Secondary Level,96.7
+Punjab,Total,Female,Net Attendance Ratio,Secondary Level,70.3
+Punjab,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,88.3
+Punjab,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,74.1
+Punjab,Total,Male,Gross Attendance Ratio,Higher Secondary Level,80.0
+Punjab,Total,Male,Net Attendance Ratio,Higher Secondary Level,50.1
+Punjab,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,19.9
+Punjab,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,17.6
+Punjab,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.9
+Punjab,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.3
+Punjab,Total,Male,Gross Attendance Ratio,Primary Level,101.5
+Punjab,Total,Male,Net Attendance Ratio,Primary Level,89.8
+Punjab,Total,Male,Gross Attendance Ratio,Secondary Level,94.5
+Punjab,Total,Male,Net Attendance Ratio,Secondary Level,61.7
+Punjab,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,99.8
+Punjab,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.1
+Punjab,Total,Person,Gross Attendance Ratio,Higher Secondary Level,79.4
+Punjab,Total,Person,Net Attendance Ratio,Higher Secondary Level,49.7
+Punjab,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,22.8
+Punjab,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,19.8
+Punjab,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.1
+Punjab,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.9
+Punjab,Total,Person,Gross Attendance Ratio,Primary Level,101.5
+Punjab,Total,Person,Net Attendance Ratio,Primary Level,88.8
+Punjab,Total,Person,Gross Attendance Ratio,Secondary Level,95.4
+Punjab,Total,Person,Net Attendance Ratio,Secondary Level,65.3
+Punjab,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,94.9
+Punjab,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,78.1
+Punjab,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,68.1
+Punjab,Urban,Female,Net Attendance Ratio,Higher Secondary Level,49.6
+Punjab,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,34.4
+Punjab,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,29.7
+Punjab,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,91.0
+Punjab,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,84.3
+Punjab,Urban,Female,Gross Attendance Ratio,Primary Level,90.5
+Punjab,Urban,Female,Net Attendance Ratio,Primary Level,80.9
+Punjab,Urban,Female,Gross Attendance Ratio,Secondary Level,111.1
+Punjab,Urban,Female,Net Attendance Ratio,Secondary Level,58.4
+Punjab,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.1
+Punjab,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,77.8
+Punjab,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,85.6
+Punjab,Urban,Male,Net Attendance Ratio,Higher Secondary Level,57.7
+Punjab,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,23.3
+Punjab,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,21.1
+Punjab,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.9
+Punjab,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.1
+Punjab,Urban,Male,Gross Attendance Ratio,Primary Level,99.3
+Punjab,Urban,Male,Net Attendance Ratio,Primary Level,87.9
+Punjab,Urban,Male,Gross Attendance Ratio,Secondary Level,94.9
+Punjab,Urban,Male,Net Attendance Ratio,Secondary Level,62.2
+Punjab,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,98.0
+Punjab,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,76.2
+Punjab,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,78.4
+Punjab,Urban,Person,Net Attendance Ratio,Higher Secondary Level,54.4
+Punjab,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,27.3
+Punjab,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,24.3
+Punjab,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.4
+Punjab,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.0
+Punjab,Urban,Person,Gross Attendance Ratio,Primary Level,95.4
+Punjab,Urban,Person,Net Attendance Ratio,Primary Level,84.8
+Punjab,Urban,Person,Gross Attendance Ratio,Secondary Level,100.7
+Punjab,Urban,Person,Net Attendance Ratio,Secondary Level,60.8
+Punjab,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,95.3
+Punjab,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,76.9
+Uttarakhand,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,98.5
+Uttarakhand,Rural,Female,Net Attendance Ratio,Higher Secondary Level,55.4
+Uttarakhand,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,27.3
+Uttarakhand,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,24.9
+Uttarakhand,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,105.4
+Uttarakhand,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.5
+Uttarakhand,Rural,Female,Gross Attendance Ratio,Primary Level,95.9
+Uttarakhand,Rural,Female,Net Attendance Ratio,Primary Level,84.8
+Uttarakhand,Rural,Female,Gross Attendance Ratio,Secondary Level,86.1
+Uttarakhand,Rural,Female,Net Attendance Ratio,Secondary Level,54.5
+Uttarakhand,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,124.5
+Uttarakhand,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,83.2
+Uttarakhand,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,111.6
+Uttarakhand,Rural,Male,Net Attendance Ratio,Higher Secondary Level,65.1
+Uttarakhand,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,28.8
+Uttarakhand,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,27.1
+Uttarakhand,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.9
+Uttarakhand,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,95.6
+Uttarakhand,Rural,Male,Gross Attendance Ratio,Primary Level,99.0
+Uttarakhand,Rural,Male,Net Attendance Ratio,Primary Level,86.8
+Uttarakhand,Rural,Male,Gross Attendance Ratio,Secondary Level,80.1
+Uttarakhand,Rural,Male,Net Attendance Ratio,Secondary Level,57.7
+Uttarakhand,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,113.1
+Uttarakhand,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,82.5
+Uttarakhand,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,105.9
+Uttarakhand,Rural,Person,Net Attendance Ratio,Higher Secondary Level,60.9
+Uttarakhand,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,28.0
+Uttarakhand,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,26.0
+Uttarakhand,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.6
+Uttarakhand,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.6
+Uttarakhand,Rural,Person,Gross Attendance Ratio,Primary Level,97.6
+Uttarakhand,Rural,Person,Net Attendance Ratio,Primary Level,85.9
+Uttarakhand,Rural,Person,Gross Attendance Ratio,Secondary Level,82.8
+Uttarakhand,Rural,Person,Net Attendance Ratio,Secondary Level,56.3
+Uttarakhand,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,118.1
+Uttarakhand,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,82.8
+Uttarakhand,Total,Female,Gross Attendance Ratio,Higher Secondary Level,88.0
+Uttarakhand,Total,Female,Net Attendance Ratio,Higher Secondary Level,50.6
+Uttarakhand,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,30.9
+Uttarakhand,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,27.2
+Uttarakhand,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,105.8
+Uttarakhand,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.4
+Uttarakhand,Total,Female,Gross Attendance Ratio,Primary Level,98.7
+Uttarakhand,Total,Female,Net Attendance Ratio,Primary Level,86.0
+Uttarakhand,Total,Female,Gross Attendance Ratio,Secondary Level,85.1
+Uttarakhand,Total,Female,Net Attendance Ratio,Secondary Level,54.2
+Uttarakhand,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,118.9
+Uttarakhand,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,83.2
+Uttarakhand,Total,Male,Gross Attendance Ratio,Higher Secondary Level,107.6
+Uttarakhand,Total,Male,Net Attendance Ratio,Higher Secondary Level,61.3
+Uttarakhand,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,34.5
+Uttarakhand,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,31.1
+Uttarakhand,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.6
+Uttarakhand,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.6
+Uttarakhand,Total,Male,Gross Attendance Ratio,Primary Level,100.7
+Uttarakhand,Total,Male,Net Attendance Ratio,Primary Level,87.9
+Uttarakhand,Total,Male,Gross Attendance Ratio,Secondary Level,77.0
+Uttarakhand,Total,Male,Net Attendance Ratio,Secondary Level,54.4
+Uttarakhand,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,106.0
+Uttarakhand,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,78.9
+Uttarakhand,Total,Person,Gross Attendance Ratio,Higher Secondary Level,98.7
+Uttarakhand,Total,Person,Net Attendance Ratio,Higher Secondary Level,56.5
+Uttarakhand,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,32.8
+Uttarakhand,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,29.2
+Uttarakhand,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.0
+Uttarakhand,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.0
+Uttarakhand,Total,Person,Gross Attendance Ratio,Primary Level,99.8
+Uttarakhand,Total,Person,Net Attendance Ratio,Primary Level,87.1
+Uttarakhand,Total,Person,Gross Attendance Ratio,Secondary Level,80.7
+Uttarakhand,Total,Person,Net Attendance Ratio,Secondary Level,54.3
+Uttarakhand,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,111.6
+Uttarakhand,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,80.8
+Uttarakhand,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,60.3
+Uttarakhand,Urban,Female,Net Attendance Ratio,Higher Secondary Level,38.0
+Uttarakhand,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,43.6
+Uttarakhand,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,35.0
+Uttarakhand,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,107.1
+Uttarakhand,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.7
+Uttarakhand,Urban,Female,Gross Attendance Ratio,Primary Level,111.5
+Uttarakhand,Urban,Female,Net Attendance Ratio,Primary Level,91.5
+Uttarakhand,Urban,Female,Gross Attendance Ratio,Secondary Level,82.2
+Uttarakhand,Urban,Female,Net Attendance Ratio,Secondary Level,53.5
+Uttarakhand,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,101.1
+Uttarakhand,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,83.3
+Uttarakhand,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,93.5
+Uttarakhand,Urban,Male,Net Attendance Ratio,Higher Secondary Level,48.0
+Uttarakhand,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,49.8
+Uttarakhand,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,41.7
+Uttarakhand,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.8
+Uttarakhand,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.7
+Uttarakhand,Urban,Male,Gross Attendance Ratio,Primary Level,106.1
+Uttarakhand,Urban,Male,Net Attendance Ratio,Primary Level,91.4
+Uttarakhand,Urban,Male,Gross Attendance Ratio,Secondary Level,68.5
+Uttarakhand,Urban,Male,Net Attendance Ratio,Secondary Level,45.1
+Uttarakhand,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,87.2
+Uttarakhand,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,69.4
+Uttarakhand,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,76.6
+Uttarakhand,Urban,Person,Net Attendance Ratio,Higher Secondary Level,42.9
+Uttarakhand,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,47.1
+Uttarakhand,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,38.8
+Uttarakhand,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.9
+Uttarakhand,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.0
+Uttarakhand,Urban,Person,Gross Attendance Ratio,Primary Level,108.0
+Uttarakhand,Urban,Person,Net Attendance Ratio,Primary Level,91.4
+Uttarakhand,Urban,Person,Gross Attendance Ratio,Secondary Level,74.7
+Uttarakhand,Urban,Person,Net Attendance Ratio,Secondary Level,48.9
+Uttarakhand,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,92.7
+Uttarakhand,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,74.9
+Haryana,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,69.7
+Haryana,Rural,Female,Net Attendance Ratio,Higher Secondary Level,52.0
+Haryana,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,21.6
+Haryana,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,15.6
+Haryana,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.4
+Haryana,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.8
+Haryana,Rural,Female,Gross Attendance Ratio,Primary Level,112.7
+Haryana,Rural,Female,Net Attendance Ratio,Primary Level,90.7
+Haryana,Rural,Female,Gross Attendance Ratio,Secondary Level,96.5
+Haryana,Rural,Female,Net Attendance Ratio,Secondary Level,69.7
+Haryana,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.5
+Haryana,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,74.0
+Haryana,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,65.9
+Haryana,Rural,Male,Net Attendance Ratio,Higher Secondary Level,39.9
+Haryana,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,18.3
+Haryana,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,16.6
+Haryana,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.7
+Haryana,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.3
+Haryana,Rural,Male,Gross Attendance Ratio,Primary Level,105.9
+Haryana,Rural,Male,Net Attendance Ratio,Primary Level,92.6
+Haryana,Rural,Male,Gross Attendance Ratio,Secondary Level,96.8
+Haryana,Rural,Male,Net Attendance Ratio,Secondary Level,64.9
+Haryana,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,92.8
+Haryana,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,80.3
+Haryana,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,67.4
+Haryana,Rural,Person,Net Attendance Ratio,Higher Secondary Level,44.6
+Haryana,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,19.7
+Haryana,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,16.2
+Haryana,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.7
+Haryana,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.2
+Haryana,Rural,Person,Gross Attendance Ratio,Primary Level,108.3
+Haryana,Rural,Person,Net Attendance Ratio,Primary Level,91.9
+Haryana,Rural,Person,Gross Attendance Ratio,Secondary Level,96.7
+Haryana,Rural,Person,Net Attendance Ratio,Secondary Level,66.8
+Haryana,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,92.3
+Haryana,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,77.8
+Haryana,Total,Female,Gross Attendance Ratio,Higher Secondary Level,70.9
+Haryana,Total,Female,Net Attendance Ratio,Higher Secondary Level,52.3
+Haryana,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,27.1
+Haryana,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,20.7
+Haryana,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.9
+Haryana,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.8
+Haryana,Total,Female,Gross Attendance Ratio,Primary Level,109.7
+Haryana,Total,Female,Net Attendance Ratio,Primary Level,89.2
+Haryana,Total,Female,Gross Attendance Ratio,Secondary Level,91.5
+Haryana,Total,Female,Net Attendance Ratio,Secondary Level,65.8
+Haryana,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,95.7
+Haryana,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,75.9
+Haryana,Total,Male,Gross Attendance Ratio,Higher Secondary Level,69.9
+Haryana,Total,Male,Net Attendance Ratio,Higher Secondary Level,44.5
+Haryana,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,23.7
+Haryana,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,21.0
+Haryana,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.8
+Haryana,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.6
+Haryana,Total,Male,Gross Attendance Ratio,Primary Level,104.3
+Haryana,Total,Male,Net Attendance Ratio,Primary Level,90.3
+Haryana,Total,Male,Gross Attendance Ratio,Secondary Level,100.1
+Haryana,Total,Male,Net Attendance Ratio,Secondary Level,61.5
+Haryana,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,92.5
+Haryana,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,78.0
+Haryana,Total,Person,Gross Attendance Ratio,Higher Secondary Level,70.3
+Haryana,Total,Person,Net Attendance Ratio,Higher Secondary Level,47.5
+Haryana,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,25.2
+Haryana,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,20.9
+Haryana,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.3
+Haryana,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.6
+Haryana,Total,Person,Gross Attendance Ratio,Primary Level,106.3
+Haryana,Total,Person,Net Attendance Ratio,Primary Level,89.9
+Haryana,Total,Person,Gross Attendance Ratio,Secondary Level,96.7
+Haryana,Total,Person,Net Attendance Ratio,Secondary Level,63.2
+Haryana,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,93.8
+Haryana,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,77.2
+Haryana,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,73.6
+Haryana,Urban,Female,Net Attendance Ratio,Higher Secondary Level,53.0
+Haryana,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,37.8
+Haryana,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,30.7
+Haryana,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.8
+Haryana,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.0
+Haryana,Urban,Female,Gross Attendance Ratio,Primary Level,104.2
+Haryana,Urban,Female,Net Attendance Ratio,Primary Level,86.2
+Haryana,Urban,Female,Gross Attendance Ratio,Secondary Level,77.0
+Haryana,Urban,Female,Net Attendance Ratio,Secondary Level,54.4
+Haryana,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,105.7
+Haryana,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,80.6
+Haryana,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,78.2
+Haryana,Urban,Male,Net Attendance Ratio,Higher Secondary Level,54.2
+Haryana,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,37.7
+Haryana,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,32.2
+Haryana,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.5
+Haryana,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.6
+Haryana,Urban,Male,Gross Attendance Ratio,Primary Level,100.6
+Haryana,Urban,Male,Net Attendance Ratio,Primary Level,85.1
+Haryana,Urban,Male,Gross Attendance Ratio,Secondary Level,108.7
+Haryana,Urban,Male,Net Attendance Ratio,Secondary Level,52.5
+Haryana,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,91.7
+Haryana,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,71.8
+Haryana,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,76.5
+Haryana,Urban,Person,Net Attendance Ratio,Higher Secondary Level,53.8
+Haryana,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,37.8
+Haryana,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,31.5
+Haryana,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.5
+Haryana,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.0
+Haryana,Urban,Person,Gross Attendance Ratio,Primary Level,102.0
+Haryana,Urban,Person,Net Attendance Ratio,Primary Level,85.5
+Haryana,Urban,Person,Gross Attendance Ratio,Secondary Level,96.8
+Haryana,Urban,Person,Net Attendance Ratio,Secondary Level,53.2
+Haryana,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,97.7
+Haryana,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,75.6
+Delhi,Total,Female,Gross Attendance Ratio,Higher Secondary Level,83.9
+Delhi,Total,Female,Net Attendance Ratio,Higher Secondary Level,50.9
+Delhi,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,32.6
+Delhi,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,27.5
+Delhi,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,91.6
+Delhi,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,81.9
+Delhi,Total,Female,Gross Attendance Ratio,Primary Level,101.1
+Delhi,Total,Female,Net Attendance Ratio,Primary Level,85.5
+Delhi,Total,Female,Gross Attendance Ratio,Secondary Level,104.4
+Delhi,Total,Female,Net Attendance Ratio,Secondary Level,71.0
+Delhi,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,76.7
+Delhi,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,65.8
+Delhi,Total,Male,Gross Attendance Ratio,Higher Secondary Level,87.7
+Delhi,Total,Male,Net Attendance Ratio,Higher Secondary Level,56.0
+Delhi,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,27.4
+Delhi,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,20.3
+Delhi,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.0
+Delhi,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.6
+Delhi,Total,Male,Gross Attendance Ratio,Primary Level,99.5
+Delhi,Total,Male,Net Attendance Ratio,Primary Level,92.8
+Delhi,Total,Male,Gross Attendance Ratio,Secondary Level,87.8
+Delhi,Total,Male,Net Attendance Ratio,Secondary Level,57.9
+Delhi,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,104.3
+Delhi,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,80.3
+Delhi,Total,Person,Gross Attendance Ratio,Higher Secondary Level,86.2
+Delhi,Total,Person,Net Attendance Ratio,Higher Secondary Level,54.0
+Delhi,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,29.6
+Delhi,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,23.4
+Delhi,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.8
+Delhi,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.3
+Delhi,Total,Person,Gross Attendance Ratio,Primary Level,100.2
+Delhi,Total,Person,Net Attendance Ratio,Primary Level,89.8
+Delhi,Total,Person,Gross Attendance Ratio,Secondary Level,93.6
+Delhi,Total,Person,Net Attendance Ratio,Secondary Level,62.4
+Delhi,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,90.6
+Delhi,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,73.1
+Delhi,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,83.4
+Delhi,Urban,Female,Net Attendance Ratio,Higher Secondary Level,47.3
+Delhi,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,32.8
+Delhi,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,27.5
+Delhi,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,91.5
+Delhi,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,81.8
+Delhi,Urban,Female,Gross Attendance Ratio,Primary Level,101.3
+Delhi,Urban,Female,Net Attendance Ratio,Primary Level,85.6
+Delhi,Urban,Female,Gross Attendance Ratio,Secondary Level,103.8
+Delhi,Urban,Female,Net Attendance Ratio,Secondary Level,70.0
+Delhi,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,76.2
+Delhi,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,65.0
+Delhi,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,89.8
+Delhi,Urban,Male,Net Attendance Ratio,Higher Secondary Level,57.0
+Delhi,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,28.4
+Delhi,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,21.1
+Delhi,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.3
+Delhi,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.8
+Delhi,Urban,Male,Gross Attendance Ratio,Primary Level,99.5
+Delhi,Urban,Male,Net Attendance Ratio,Primary Level,92.7
+Delhi,Urban,Male,Gross Attendance Ratio,Secondary Level,86.6
+Delhi,Urban,Male,Net Attendance Ratio,Secondary Level,57.4
+Delhi,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,105.1
+Delhi,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,80.9
+Delhi,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,87.3
+Delhi,Urban,Person,Net Attendance Ratio,Higher Secondary Level,53.3
+Delhi,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,30.3
+Delhi,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,23.9
+Delhi,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.0
+Delhi,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.3
+Delhi,Urban,Person,Gross Attendance Ratio,Primary Level,100.3
+Delhi,Urban,Person,Net Attendance Ratio,Primary Level,89.7
+Delhi,Urban,Person,Gross Attendance Ratio,Secondary Level,92.5
+Delhi,Urban,Person,Net Attendance Ratio,Secondary Level,61.7
+Delhi,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,90.8
+Delhi,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,73.1
+Rajasthan,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,65.2
+Rajasthan,Rural,Female,Net Attendance Ratio,Higher Secondary Level,36.4
+Rajasthan,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,19.0
+Rajasthan,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,16.5
+Rajasthan,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.0
+Rajasthan,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,86.8
+Rajasthan,Rural,Female,Gross Attendance Ratio,Primary Level,111.2
+Rajasthan,Rural,Female,Net Attendance Ratio,Primary Level,88.9
+Rajasthan,Rural,Female,Gross Attendance Ratio,Secondary Level,62.5
+Rajasthan,Rural,Female,Net Attendance Ratio,Secondary Level,38.0
+Rajasthan,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,87.7
+Rajasthan,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,66.7
+Rajasthan,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,72.1
+Rajasthan,Rural,Male,Net Attendance Ratio,Higher Secondary Level,34.8
+Rajasthan,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,29.7
+Rajasthan,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,24.8
+Rajasthan,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.5
+Rajasthan,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.0
+Rajasthan,Rural,Male,Gross Attendance Ratio,Primary Level,111.0
+Rajasthan,Rural,Male,Net Attendance Ratio,Primary Level,89.8
+Rajasthan,Rural,Male,Gross Attendance Ratio,Secondary Level,93.5
+Rajasthan,Rural,Male,Net Attendance Ratio,Secondary Level,56.4
+Rajasthan,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,87.4
+Rajasthan,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,71.0
+Rajasthan,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,68.9
+Rajasthan,Rural,Person,Net Attendance Ratio,Higher Secondary Level,35.5
+Rajasthan,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,24.6
+Rajasthan,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,20.8
+Rajasthan,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.3
+Rajasthan,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.0
+Rajasthan,Rural,Person,Gross Attendance Ratio,Primary Level,111.1
+Rajasthan,Rural,Person,Net Attendance Ratio,Primary Level,89.4
+Rajasthan,Rural,Person,Gross Attendance Ratio,Secondary Level,79.0
+Rajasthan,Rural,Person,Net Attendance Ratio,Secondary Level,47.8
+Rajasthan,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,87.5
+Rajasthan,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,68.9
+Rajasthan,Total,Female,Gross Attendance Ratio,Higher Secondary Level,68.1
+Rajasthan,Total,Female,Net Attendance Ratio,Higher Secondary Level,38.8
+Rajasthan,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,24.5
+Rajasthan,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,20.8
+Rajasthan,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.0
+Rajasthan,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.4
+Rajasthan,Total,Female,Gross Attendance Ratio,Primary Level,111.7
+Rajasthan,Total,Female,Net Attendance Ratio,Primary Level,89.5
+Rajasthan,Total,Female,Gross Attendance Ratio,Secondary Level,65.2
+Rajasthan,Total,Female,Net Attendance Ratio,Secondary Level,39.7
+Rajasthan,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,87.5
+Rajasthan,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,67.6
+Rajasthan,Total,Male,Gross Attendance Ratio,Higher Secondary Level,71.6
+Rajasthan,Total,Male,Net Attendance Ratio,Higher Secondary Level,36.9
+Rajasthan,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,32.8
+Rajasthan,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,27.3
+Rajasthan,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.3
+Rajasthan,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.9
+Rajasthan,Total,Male,Gross Attendance Ratio,Primary Level,109.5
+Rajasthan,Total,Male,Net Attendance Ratio,Primary Level,89.5
+Rajasthan,Total,Male,Gross Attendance Ratio,Secondary Level,98.2
+Rajasthan,Total,Male,Net Attendance Ratio,Secondary Level,56.1
+Rajasthan,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,86.6
+Rajasthan,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,70.5
+Rajasthan,Total,Person,Gross Attendance Ratio,Higher Secondary Level,70.1
+Rajasthan,Total,Person,Net Attendance Ratio,Higher Secondary Level,37.8
+Rajasthan,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,28.9
+Rajasthan,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,24.2
+Rajasthan,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.6
+Rajasthan,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.2
+Rajasthan,Total,Person,Gross Attendance Ratio,Primary Level,110.5
+Rajasthan,Total,Person,Net Attendance Ratio,Primary Level,89.5
+Rajasthan,Total,Person,Gross Attendance Ratio,Secondary Level,82.4
+Rajasthan,Total,Person,Net Attendance Ratio,Secondary Level,48.2
+Rajasthan,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,87.0
+Rajasthan,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,69.1
+Rajasthan,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,77.5
+Rajasthan,Urban,Female,Net Attendance Ratio,Higher Secondary Level,46.3
+Rajasthan,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,41.0
+Rajasthan,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,33.7
+Rajasthan,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.7
+Rajasthan,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.3
+Rajasthan,Urban,Female,Gross Attendance Ratio,Primary Level,114.6
+Rajasthan,Urban,Female,Net Attendance Ratio,Primary Level,92.3
+Rajasthan,Urban,Female,Gross Attendance Ratio,Secondary Level,76.8
+Rajasthan,Urban,Female,Net Attendance Ratio,Secondary Level,46.8
+Rajasthan,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,86.6
+Rajasthan,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,71.1
+Rajasthan,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,70.4
+Rajasthan,Urban,Male,Net Attendance Ratio,Higher Secondary Level,42.9
+Rajasthan,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,40.6
+Rajasthan,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,33.5
+Rajasthan,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.8
+Rajasthan,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.6
+Rajasthan,Urban,Male,Gross Attendance Ratio,Primary Level,104.0
+Rajasthan,Urban,Male,Net Attendance Ratio,Primary Level,88.7
+Rajasthan,Urban,Male,Gross Attendance Ratio,Secondary Level,122.7
+Rajasthan,Urban,Male,Net Attendance Ratio,Secondary Level,54.4
+Rajasthan,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,83.5
+Rajasthan,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,68.3
+Rajasthan,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,73.4
+Rajasthan,Urban,Person,Net Attendance Ratio,Higher Secondary Level,44.3
+Rajasthan,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,40.8
+Rajasthan,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,33.6
+Rajasthan,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.8
+Rajasthan,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.3
+Rajasthan,Urban,Person,Gross Attendance Ratio,Primary Level,107.8
+Rajasthan,Urban,Person,Net Attendance Ratio,Primary Level,90.0
+Rajasthan,Urban,Person,Gross Attendance Ratio,Secondary Level,99.1
+Rajasthan,Urban,Person,Net Attendance Ratio,Secondary Level,50.5
+Rajasthan,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,85.0
+Rajasthan,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,69.7
+Uttar Pradesh,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,53.9
+Uttar Pradesh,Rural,Female,Net Attendance Ratio,Higher Secondary Level,31.8
+Uttar Pradesh,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,18.8
+Uttar Pradesh,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,15.9
+Uttar Pradesh,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,94.7
+Uttar Pradesh,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,82.5
+Uttar Pradesh,Rural,Female,Gross Attendance Ratio,Primary Level,95.3
+Uttar Pradesh,Rural,Female,Net Attendance Ratio,Primary Level,78.2
+Uttar Pradesh,Rural,Female,Gross Attendance Ratio,Secondary Level,54.5
+Uttar Pradesh,Rural,Female,Net Attendance Ratio,Secondary Level,33.9
+Uttar Pradesh,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,93.4
+Uttar Pradesh,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,61.8
+Uttar Pradesh,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,63.2
+Uttar Pradesh,Rural,Male,Net Attendance Ratio,Higher Secondary Level,30.9
+Uttar Pradesh,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,18.5
+Uttar Pradesh,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,15.2
+Uttar Pradesh,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.0
+Uttar Pradesh,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,85.9
+Uttar Pradesh,Rural,Male,Gross Attendance Ratio,Primary Level,101.8
+Uttar Pradesh,Rural,Male,Net Attendance Ratio,Primary Level,81.0
+Uttar Pradesh,Rural,Male,Gross Attendance Ratio,Secondary Level,68.6
+Uttar Pradesh,Rural,Male,Net Attendance Ratio,Secondary Level,41.0
+Uttar Pradesh,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,87.9
+Uttar Pradesh,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,58.3
+Uttar Pradesh,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,58.7
+Uttar Pradesh,Rural,Person,Net Attendance Ratio,Higher Secondary Level,31.3
+Uttar Pradesh,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,18.6
+Uttar Pradesh,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,15.5
+Uttar Pradesh,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.9
+Uttar Pradesh,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,84.4
+Uttar Pradesh,Rural,Person,Gross Attendance Ratio,Primary Level,98.8
+Uttar Pradesh,Rural,Person,Net Attendance Ratio,Primary Level,79.7
+Uttar Pradesh,Rural,Person,Gross Attendance Ratio,Secondary Level,62.1
+Uttar Pradesh,Rural,Person,Net Attendance Ratio,Secondary Level,37.7
+Uttar Pradesh,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,90.4
+Uttar Pradesh,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,59.9
+Uttar Pradesh,Total,Female,Gross Attendance Ratio,Higher Secondary Level,55.4
+Uttar Pradesh,Total,Female,Net Attendance Ratio,Higher Secondary Level,33.7
+Uttar Pradesh,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,20.9
+Uttar Pradesh,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,17.4
+Uttar Pradesh,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,93.9
+Uttar Pradesh,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,82.1
+Uttar Pradesh,Total,Female,Gross Attendance Ratio,Primary Level,94.8
+Uttar Pradesh,Total,Female,Net Attendance Ratio,Primary Level,77.5
+Uttar Pradesh,Total,Female,Gross Attendance Ratio,Secondary Level,57.7
+Uttar Pradesh,Total,Female,Net Attendance Ratio,Secondary Level,36.4
+Uttar Pradesh,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.3
+Uttar Pradesh,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,62.0
+Uttar Pradesh,Total,Male,Gross Attendance Ratio,Higher Secondary Level,65.1
+Uttar Pradesh,Total,Male,Net Attendance Ratio,Higher Secondary Level,32.6
+Uttar Pradesh,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,20.7
+Uttar Pradesh,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,17.1
+Uttar Pradesh,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.7
+Uttar Pradesh,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,85.5
+Uttar Pradesh,Total,Male,Gross Attendance Ratio,Primary Level,102.4
+Uttar Pradesh,Total,Male,Net Attendance Ratio,Primary Level,80.7
+Uttar Pradesh,Total,Male,Gross Attendance Ratio,Secondary Level,69.4
+Uttar Pradesh,Total,Male,Net Attendance Ratio,Secondary Level,40.7
+Uttar Pradesh,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,86.0
+Uttar Pradesh,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,57.8
+Uttar Pradesh,Total,Person,Gross Attendance Ratio,Higher Secondary Level,60.4
+Uttar Pradesh,Total,Person,Net Attendance Ratio,Higher Secondary Level,33.1
+Uttar Pradesh,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,20.8
+Uttar Pradesh,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,17.2
+Uttar Pradesh,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.4
+Uttar Pradesh,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,84.0
+Uttar Pradesh,Total,Person,Gross Attendance Ratio,Primary Level,98.9
+Uttar Pradesh,Total,Person,Net Attendance Ratio,Primary Level,79.2
+Uttar Pradesh,Total,Person,Gross Attendance Ratio,Secondary Level,64.0
+Uttar Pradesh,Total,Person,Net Attendance Ratio,Secondary Level,38.7
+Uttar Pradesh,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,88.8
+Uttar Pradesh,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,59.7
+Uttar Pradesh,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,61.1
+Uttar Pradesh,Urban,Female,Net Attendance Ratio,Higher Secondary Level,40.9
+Uttar Pradesh,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,28.8
+Uttar Pradesh,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,22.8
+Uttar Pradesh,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,90.5
+Uttar Pradesh,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,80.0
+Uttar Pradesh,Urban,Female,Gross Attendance Ratio,Primary Level,92.3
+Uttar Pradesh,Urban,Female,Net Attendance Ratio,Primary Level,73.9
+Uttar Pradesh,Urban,Female,Gross Attendance Ratio,Secondary Level,72.6
+Uttar Pradesh,Urban,Female,Net Attendance Ratio,Secondary Level,47.8
+Uttar Pradesh,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,87.4
+Uttar Pradesh,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,62.9
+Uttar Pradesh,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,72.6
+Uttar Pradesh,Urban,Male,Net Attendance Ratio,Higher Secondary Level,39.6
+Uttar Pradesh,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,28.3
+Uttar Pradesh,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,23.6
+Uttar Pradesh,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.0
+Uttar Pradesh,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,83.7
+Uttar Pradesh,Urban,Male,Gross Attendance Ratio,Primary Level,105.3
+Uttar Pradesh,Urban,Male,Net Attendance Ratio,Primary Level,79.2
+Uttar Pradesh,Urban,Male,Gross Attendance Ratio,Secondary Level,73.1
+Uttar Pradesh,Urban,Male,Net Attendance Ratio,Secondary Level,39.5
+Uttar Pradesh,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,78.3
+Uttar Pradesh,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,55.8
+Uttar Pradesh,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,66.9
+Uttar Pradesh,Urban,Person,Net Attendance Ratio,Higher Secondary Level,40.3
+Uttar Pradesh,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,28.5
+Uttar Pradesh,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,23.3
+Uttar Pradesh,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,93.0
+Uttar Pradesh,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,82.0
+Uttar Pradesh,Urban,Person,Gross Attendance Ratio,Primary Level,99.5
+Uttar Pradesh,Urban,Person,Net Attendance Ratio,Primary Level,76.8
+Uttar Pradesh,Urban,Person,Gross Attendance Ratio,Secondary Level,72.9
+Uttar Pradesh,Urban,Person,Net Attendance Ratio,Secondary Level,43.4
+Uttar Pradesh,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,82.3
+Uttar Pradesh,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,59.0
+Bihar,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,55.0
+Bihar,Rural,Female,Net Attendance Ratio,Higher Secondary Level,27.4
+Bihar,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,8.8
+Bihar,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,7.7
+Bihar,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.5
+Bihar,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,86.4
+Bihar,Rural,Female,Gross Attendance Ratio,Primary Level,98.8
+Bihar,Rural,Female,Net Attendance Ratio,Primary Level,81.2
+Bihar,Rural,Female,Gross Attendance Ratio,Secondary Level,85.3
+Bihar,Rural,Female,Net Attendance Ratio,Secondary Level,57.9
+Bihar,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.7
+Bihar,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,65.5
+Bihar,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,67.4
+Bihar,Rural,Male,Net Attendance Ratio,Higher Secondary Level,36.0
+Bihar,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,19.4
+Bihar,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,15.2
+Bihar,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.8
+Bihar,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.1
+Bihar,Rural,Male,Gross Attendance Ratio,Primary Level,96.4
+Bihar,Rural,Male,Net Attendance Ratio,Primary Level,82.3
+Bihar,Rural,Male,Gross Attendance Ratio,Secondary Level,80.1
+Bihar,Rural,Male,Net Attendance Ratio,Secondary Level,52.8
+Bihar,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,103.7
+Bihar,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,74.3
+Bihar,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,62.8
+Bihar,Rural,Person,Net Attendance Ratio,Higher Secondary Level,32.8
+Bihar,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,14.1
+Bihar,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,11.5
+Bihar,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.9
+Bihar,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.0
+Bihar,Rural,Person,Gross Attendance Ratio,Primary Level,97.4
+Bihar,Rural,Person,Net Attendance Ratio,Primary Level,81.8
+Bihar,Rural,Person,Gross Attendance Ratio,Secondary Level,82.1
+Bihar,Rural,Person,Net Attendance Ratio,Secondary Level,54.8
+Bihar,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,98.9
+Bihar,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,70.8
+Bihar,Total,Female,Gross Attendance Ratio,Higher Secondary Level,58.4
+Bihar,Total,Female,Net Attendance Ratio,Higher Secondary Level,30.4
+Bihar,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,11.1
+Bihar,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,9.3
+Bihar,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.8
+Bihar,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,85.9
+Bihar,Total,Female,Gross Attendance Ratio,Primary Level,98.0
+Bihar,Total,Female,Net Attendance Ratio,Primary Level,80.9
+Bihar,Total,Female,Gross Attendance Ratio,Secondary Level,86.1
+Bihar,Total,Female,Net Attendance Ratio,Secondary Level,57.1
+Bihar,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.5
+Bihar,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,65.8
+Bihar,Total,Male,Gross Attendance Ratio,Higher Secondary Level,70.2
+Bihar,Total,Male,Net Attendance Ratio,Higher Secondary Level,39.0
+Bihar,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,21.2
+Bihar,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,16.9
+Bihar,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.8
+Bihar,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.0
+Bihar,Total,Male,Gross Attendance Ratio,Primary Level,96.7
+Bihar,Total,Male,Net Attendance Ratio,Primary Level,82.5
+Bihar,Total,Male,Gross Attendance Ratio,Secondary Level,79.4
+Bihar,Total,Male,Net Attendance Ratio,Secondary Level,52.3
+Bihar,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,103.1
+Bihar,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,73.3
+Bihar,Total,Person,Gross Attendance Ratio,Higher Secondary Level,65.7
+Bihar,Total,Person,Net Attendance Ratio,Higher Secondary Level,35.7
+Bihar,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,16.2
+Bihar,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,13.2
+Bihar,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.6
+Bihar,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.8
+Bihar,Total,Person,Gross Attendance Ratio,Primary Level,97.2
+Bihar,Total,Person,Net Attendance Ratio,Primary Level,81.9
+Bihar,Total,Person,Gross Attendance Ratio,Secondary Level,82.0
+Bihar,Total,Person,Net Attendance Ratio,Secondary Level,54.2
+Bihar,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,98.4
+Bihar,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,70.3
+Bihar,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,82.0
+Bihar,Urban,Female,Net Attendance Ratio,Higher Secondary Level,51.8
+Bihar,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,30.5
+Bihar,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,23.1
+Bihar,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,90.0
+Bihar,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,81.3
+Bihar,Urban,Female,Gross Attendance Ratio,Primary Level,90.3
+Bihar,Urban,Female,Net Attendance Ratio,Primary Level,78.3
+Bihar,Urban,Female,Gross Attendance Ratio,Secondary Level,93.6
+Bihar,Urban,Female,Net Attendance Ratio,Secondary Level,50.9
+Bihar,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,89.6
+Bihar,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,68.3
+Bihar,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,93.2
+Bihar,Urban,Male,Net Attendance Ratio,Higher Secondary Level,64.0
+Bihar,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,37.2
+Bihar,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,31.8
+Bihar,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.5
+Bihar,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.2
+Bihar,Urban,Male,Gross Attendance Ratio,Primary Level,98.8
+Bihar,Urban,Male,Net Attendance Ratio,Primary Level,84.4
+Bihar,Urban,Male,Gross Attendance Ratio,Secondary Level,72.4
+Bihar,Urban,Male,Net Attendance Ratio,Secondary Level,46.6
+Bihar,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,97.9
+Bihar,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,63.7
+Bihar,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,88.5
+Bihar,Urban,Person,Net Attendance Ratio,Higher Secondary Level,58.8
+Bihar,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,33.8
+Bihar,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,27.4
+Bihar,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.2
+Bihar,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,85.5
+Bihar,Urban,Person,Gross Attendance Ratio,Primary Level,95.5
+Bihar,Urban,Person,Net Attendance Ratio,Primary Level,82.0
+Bihar,Urban,Person,Gross Attendance Ratio,Secondary Level,81.1
+Bihar,Urban,Person,Net Attendance Ratio,Secondary Level,48.4
+Bihar,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,94.6
+Bihar,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,65.6
+Assam,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,49.4
+Assam,Rural,Female,Net Attendance Ratio,Higher Secondary Level,35.8
+Assam,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,10.6
+Assam,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,10.3
+Assam,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,105.2
+Assam,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.9
+Assam,Rural,Female,Gross Attendance Ratio,Primary Level,104.5
+Assam,Rural,Female,Net Attendance Ratio,Primary Level,89.2
+Assam,Rural,Female,Gross Attendance Ratio,Secondary Level,85.4
+Assam,Rural,Female,Net Attendance Ratio,Secondary Level,53.7
+Assam,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,106.6
+Assam,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,71.6
+Assam,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,54.5
+Assam,Rural,Male,Net Attendance Ratio,Higher Secondary Level,34.1
+Assam,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,17.2
+Assam,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,15.2
+Assam,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.7
+Assam,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.1
+Assam,Rural,Male,Gross Attendance Ratio,Primary Level,102.8
+Assam,Rural,Male,Net Attendance Ratio,Primary Level,87.8
+Assam,Rural,Male,Gross Attendance Ratio,Secondary Level,82.8
+Assam,Rural,Male,Net Attendance Ratio,Secondary Level,57.4
+Assam,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,105.4
+Assam,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,80.3
+Assam,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,52.0
+Assam,Rural,Person,Net Attendance Ratio,Higher Secondary Level,34.9
+Assam,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,14.0
+Assam,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,12.8
+Assam,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.4
+Assam,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.0
+Assam,Rural,Person,Gross Attendance Ratio,Primary Level,103.5
+Assam,Rural,Person,Net Attendance Ratio,Primary Level,88.4
+Assam,Rural,Person,Gross Attendance Ratio,Secondary Level,83.9
+Assam,Rural,Person,Net Attendance Ratio,Secondary Level,55.9
+Assam,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,105.9
+Assam,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,76.8
+Assam,Total,Female,Gross Attendance Ratio,Higher Secondary Level,54.1
+Assam,Total,Female,Net Attendance Ratio,Higher Secondary Level,38.4
+Assam,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,12.9
+Assam,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,12.3
+Assam,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.6
+Assam,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.7
+Assam,Total,Female,Gross Attendance Ratio,Primary Level,104.4
+Assam,Total,Female,Net Attendance Ratio,Primary Level,89.3
+Assam,Total,Female,Gross Attendance Ratio,Secondary Level,87.4
+Assam,Total,Female,Net Attendance Ratio,Secondary Level,55.1
+Assam,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,104.9
+Assam,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,73.0
+Assam,Total,Male,Gross Attendance Ratio,Higher Secondary Level,57.8
+Assam,Total,Male,Net Attendance Ratio,Higher Secondary Level,35.4
+Assam,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,19.9
+Assam,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,17.9
+Assam,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.5
+Assam,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.1
+Assam,Total,Male,Gross Attendance Ratio,Primary Level,103.0
+Assam,Total,Male,Net Attendance Ratio,Primary Level,88.3
+Assam,Total,Male,Gross Attendance Ratio,Secondary Level,86.0
+Assam,Total,Male,Net Attendance Ratio,Secondary Level,58.9
+Assam,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,104.5
+Assam,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,79.8
+Assam,Total,Person,Gross Attendance Ratio,Higher Secondary Level,56.0
+Assam,Total,Person,Net Attendance Ratio,Higher Secondary Level,36.8
+Assam,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,16.5
+Assam,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,15.2
+Assam,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.0
+Assam,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.0
+Assam,Total,Person,Gross Attendance Ratio,Primary Level,103.6
+Assam,Total,Person,Net Attendance Ratio,Primary Level,88.8
+Assam,Total,Person,Gross Attendance Ratio,Secondary Level,86.6
+Assam,Total,Person,Net Attendance Ratio,Secondary Level,57.3
+Assam,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,104.7
+Assam,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,77.0
+Assam,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,102.4
+Assam,Urban,Female,Net Attendance Ratio,Higher Secondary Level,65.5
+Assam,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,33.6
+Assam,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,30.3
+Assam,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.8
+Assam,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.3
+Assam,Urban,Female,Gross Attendance Ratio,Primary Level,102.4
+Assam,Urban,Female,Net Attendance Ratio,Primary Level,90.5
+Assam,Urban,Female,Gross Attendance Ratio,Secondary Level,109.1
+Assam,Urban,Female,Net Attendance Ratio,Secondary Level,70.6
+Assam,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.4
+Assam,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,83.4
+Assam,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,83.4
+Assam,Urban,Male,Net Attendance Ratio,Higher Secondary Level,44.9
+Assam,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,44.8
+Assam,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,43.0
+Assam,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.3
+Assam,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.6
+Assam,Urban,Male,Gross Attendance Ratio,Primary Level,105.0
+Assam,Urban,Male,Net Attendance Ratio,Primary Level,93.8
+Assam,Urban,Male,Gross Attendance Ratio,Secondary Level,123.0
+Assam,Urban,Male,Net Attendance Ratio,Secondary Level,76.3
+Assam,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,91.8
+Assam,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,73.8
+Assam,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,91.4
+Assam,Urban,Person,Net Attendance Ratio,Higher Secondary Level,53.6
+Assam,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,39.3
+Assam,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,36.7
+Assam,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.7
+Assam,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.5
+Assam,Urban,Person,Gross Attendance Ratio,Primary Level,104.0
+Assam,Urban,Person,Net Attendance Ratio,Primary Level,92.6
+Assam,Urban,Person,Gross Attendance Ratio,Secondary Level,117.0
+Assam,Urban,Person,Net Attendance Ratio,Secondary Level,73.9
+Assam,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,92.2
+Assam,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,79.2
+West Bengal,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,62.4
+West Bengal,Rural,Female,Net Attendance Ratio,Higher Secondary Level,39.4
+West Bengal,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,11.1
+West Bengal,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,9.4
+West Bengal,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,107.3
+West Bengal,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.1
+West Bengal,Rural,Female,Gross Attendance Ratio,Primary Level,101.5
+West Bengal,Rural,Female,Net Attendance Ratio,Primary Level,88.7
+West Bengal,Rural,Female,Gross Attendance Ratio,Secondary Level,101.3
+West Bengal,Rural,Female,Net Attendance Ratio,Secondary Level,61.7
+West Bengal,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,117.3
+West Bengal,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,82.3
+West Bengal,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,51.5
+West Bengal,Rural,Male,Net Attendance Ratio,Higher Secondary Level,33.6
+West Bengal,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,15.3
+West Bengal,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,12.9
+West Bengal,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.4
+West Bengal,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.1
+West Bengal,Rural,Male,Gross Attendance Ratio,Primary Level,101.9
+West Bengal,Rural,Male,Net Attendance Ratio,Primary Level,89.0
+West Bengal,Rural,Male,Gross Attendance Ratio,Secondary Level,81.9
+West Bengal,Rural,Male,Net Attendance Ratio,Secondary Level,55.5
+West Bengal,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,95.6
+West Bengal,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,74.7
+West Bengal,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,56.6
+West Bengal,Rural,Person,Net Attendance Ratio,Higher Secondary Level,36.3
+West Bengal,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,13.2
+West Bengal,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,11.1
+West Bengal,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.1
+West Bengal,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.0
+West Bengal,Rural,Person,Gross Attendance Ratio,Primary Level,101.7
+West Bengal,Rural,Person,Net Attendance Ratio,Primary Level,88.8
+West Bengal,Rural,Person,Gross Attendance Ratio,Secondary Level,91.5
+West Bengal,Rural,Person,Net Attendance Ratio,Secondary Level,58.5
+West Bengal,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,105.3
+West Bengal,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,78.1
+West Bengal,Total,Female,Gross Attendance Ratio,Higher Secondary Level,64.8
+West Bengal,Total,Female,Net Attendance Ratio,Higher Secondary Level,40.1
+West Bengal,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,16.2
+West Bengal,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,13.7
+West Bengal,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,106.5
+West Bengal,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.6
+West Bengal,Total,Female,Gross Attendance Ratio,Primary Level,101.5
+West Bengal,Total,Female,Net Attendance Ratio,Primary Level,88.5
+West Bengal,Total,Female,Gross Attendance Ratio,Secondary Level,101.9
+West Bengal,Total,Female,Net Attendance Ratio,Secondary Level,62.8
+West Bengal,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,115.0
+West Bengal,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,82.1
+West Bengal,Total,Male,Gross Attendance Ratio,Higher Secondary Level,54.4
+West Bengal,Total,Male,Net Attendance Ratio,Higher Secondary Level,32.9
+West Bengal,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,21.3
+West Bengal,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,18.1
+West Bengal,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.9
+West Bengal,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.3
+West Bengal,Total,Male,Gross Attendance Ratio,Primary Level,101.8
+West Bengal,Total,Male,Net Attendance Ratio,Primary Level,88.3
+West Bengal,Total,Male,Gross Attendance Ratio,Secondary Level,83.5
+West Bengal,Total,Male,Net Attendance Ratio,Secondary Level,57.8
+West Bengal,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,97.2
+West Bengal,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,74.3
+West Bengal,Total,Person,Gross Attendance Ratio,Higher Secondary Level,59.3
+West Bengal,Total,Person,Net Attendance Ratio,Higher Secondary Level,36.3
+West Bengal,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,18.7
+West Bengal,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,15.8
+West Bengal,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.0
+West Bengal,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.9
+West Bengal,Total,Person,Gross Attendance Ratio,Primary Level,101.6
+West Bengal,Total,Person,Net Attendance Ratio,Primary Level,88.4
+West Bengal,Total,Person,Gross Attendance Ratio,Secondary Level,92.4
+West Bengal,Total,Person,Net Attendance Ratio,Secondary Level,60.2
+West Bengal,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,105.2
+West Bengal,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,77.8
+West Bengal,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,72.4
+West Bengal,Urban,Female,Net Attendance Ratio,Higher Secondary Level,42.4
+West Bengal,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,29.8
+West Bengal,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,25.3
+West Bengal,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.0
+West Bengal,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.1
+West Bengal,Urban,Female,Gross Attendance Ratio,Primary Level,101.8
+West Bengal,Urban,Female,Net Attendance Ratio,Primary Level,87.6
+West Bengal,Urban,Female,Gross Attendance Ratio,Secondary Level,103.7
+West Bengal,Urban,Female,Net Attendance Ratio,Secondary Level,66.5
+West Bengal,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,107.9
+West Bengal,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,81.7
+West Bengal,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,64.4
+West Bengal,Urban,Male,Net Attendance Ratio,Higher Secondary Level,30.7
+West Bengal,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,37.0
+West Bengal,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,31.5
+West Bengal,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.7
+West Bengal,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.9
+West Bengal,Urban,Male,Gross Attendance Ratio,Primary Level,101.2
+West Bengal,Urban,Male,Net Attendance Ratio,Primary Level,86.1
+West Bengal,Urban,Male,Gross Attendance Ratio,Secondary Level,87.8
+West Bengal,Urban,Male,Net Attendance Ratio,Secondary Level,63.8
+West Bengal,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,102.3
+West Bengal,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,72.8
+West Bengal,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,68.2
+West Bengal,Urban,Person,Net Attendance Ratio,Higher Secondary Level,36.3
+West Bengal,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,33.3
+West Bengal,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,28.4
+West Bengal,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.8
+West Bengal,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.5
+West Bengal,Urban,Person,Gross Attendance Ratio,Primary Level,101.5
+West Bengal,Urban,Person,Net Attendance Ratio,Primary Level,86.8
+West Bengal,Urban,Person,Gross Attendance Ratio,Secondary Level,94.8
+West Bengal,Urban,Person,Net Attendance Ratio,Secondary Level,65.0
+West Bengal,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,104.9
+West Bengal,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,76.8
+Jharkhand,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,34.3
+Jharkhand,Rural,Female,Net Attendance Ratio,Higher Secondary Level,18.9
+Jharkhand,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,7.9
+Jharkhand,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,5.6
+Jharkhand,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.2
+Jharkhand,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.2
+Jharkhand,Rural,Female,Gross Attendance Ratio,Primary Level,108.8
+Jharkhand,Rural,Female,Net Attendance Ratio,Primary Level,85.1
+Jharkhand,Rural,Female,Gross Attendance Ratio,Secondary Level,93.2
+Jharkhand,Rural,Female,Net Attendance Ratio,Secondary Level,46.6
+Jharkhand,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.8
+Jharkhand,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,61.4
+Jharkhand,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,54.5
+Jharkhand,Rural,Male,Net Attendance Ratio,Higher Secondary Level,27.8
+Jharkhand,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,17.4
+Jharkhand,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,15.9
+Jharkhand,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,106.5
+Jharkhand,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.8
+Jharkhand,Rural,Male,Gross Attendance Ratio,Primary Level,113.2
+Jharkhand,Rural,Male,Net Attendance Ratio,Primary Level,90.4
+Jharkhand,Rural,Male,Gross Attendance Ratio,Secondary Level,84.9
+Jharkhand,Rural,Male,Net Attendance Ratio,Secondary Level,50.2
+Jharkhand,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,92.4
+Jharkhand,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,62.7
+Jharkhand,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,44.8
+Jharkhand,Rural,Person,Net Attendance Ratio,Higher Secondary Level,23.5
+Jharkhand,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,12.9
+Jharkhand,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,11.0
+Jharkhand,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.9
+Jharkhand,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.6
+Jharkhand,Rural,Person,Gross Attendance Ratio,Primary Level,111.2
+Jharkhand,Rural,Person,Net Attendance Ratio,Primary Level,87.9
+Jharkhand,Rural,Person,Gross Attendance Ratio,Secondary Level,88.4
+Jharkhand,Rural,Person,Net Attendance Ratio,Secondary Level,48.7
+Jharkhand,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,92.1
+Jharkhand,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,62.1
+Jharkhand,Total,Female,Gross Attendance Ratio,Higher Secondary Level,42.2
+Jharkhand,Total,Female,Net Attendance Ratio,Higher Secondary Level,24.7
+Jharkhand,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,15.6
+Jharkhand,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,11.0
+Jharkhand,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.9
+Jharkhand,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.4
+Jharkhand,Total,Female,Gross Attendance Ratio,Primary Level,108.9
+Jharkhand,Total,Female,Net Attendance Ratio,Primary Level,85.4
+Jharkhand,Total,Female,Gross Attendance Ratio,Secondary Level,91.0
+Jharkhand,Total,Female,Net Attendance Ratio,Secondary Level,49.2
+Jharkhand,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,93.6
+Jharkhand,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,60.7
+Jharkhand,Total,Male,Gross Attendance Ratio,Higher Secondary Level,59.4
+Jharkhand,Total,Male,Net Attendance Ratio,Higher Secondary Level,32.8
+Jharkhand,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,17.9
+Jharkhand,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,16.2
+Jharkhand,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,106.6
+Jharkhand,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.8
+Jharkhand,Total,Male,Gross Attendance Ratio,Primary Level,115.5
+Jharkhand,Total,Male,Net Attendance Ratio,Primary Level,89.7
+Jharkhand,Total,Male,Gross Attendance Ratio,Secondary Level,89.2
+Jharkhand,Total,Male,Net Attendance Ratio,Secondary Level,50.6
+Jharkhand,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,89.5
+Jharkhand,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,61.7
+Jharkhand,Total,Person,Gross Attendance Ratio,Higher Secondary Level,51.3
+Jharkhand,Total,Person,Net Attendance Ratio,Higher Secondary Level,29.0
+Jharkhand,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,16.8
+Jharkhand,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,13.8
+Jharkhand,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,105.3
+Jharkhand,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.2
+Jharkhand,Total,Person,Gross Attendance Ratio,Primary Level,112.4
+Jharkhand,Total,Person,Net Attendance Ratio,Primary Level,87.7
+Jharkhand,Total,Person,Gross Attendance Ratio,Secondary Level,90.0
+Jharkhand,Total,Person,Net Attendance Ratio,Secondary Level,50.0
+Jharkhand,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,91.4
+Jharkhand,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,61.3
+Jharkhand,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,72.0
+Jharkhand,Urban,Female,Net Attendance Ratio,Higher Secondary Level,46.6
+Jharkhand,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,41.8
+Jharkhand,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,29.7
+Jharkhand,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,107.5
+Jharkhand,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,84.8
+Jharkhand,Urban,Female,Gross Attendance Ratio,Primary Level,109.5
+Jharkhand,Urban,Female,Net Attendance Ratio,Primary Level,86.9
+Jharkhand,Urban,Female,Gross Attendance Ratio,Secondary Level,84.1
+Jharkhand,Urban,Female,Net Attendance Ratio,Secondary Level,57.8
+Jharkhand,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,103.8
+Jharkhand,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,56.9
+Jharkhand,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,75.0
+Jharkhand,Urban,Male,Net Attendance Ratio,Higher Secondary Level,49.0
+Jharkhand,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,19.7
+Jharkhand,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,17.4
+Jharkhand,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,107.0
+Jharkhand,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.6
+Jharkhand,Urban,Male,Gross Attendance Ratio,Primary Level,128.0
+Jharkhand,Urban,Male,Net Attendance Ratio,Primary Level,86.0
+Jharkhand,Urban,Male,Gross Attendance Ratio,Secondary Level,112.7
+Jharkhand,Urban,Male,Net Attendance Ratio,Secondary Level,52.7
+Jharkhand,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,79.0
+Jharkhand,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,58.1
+Jharkhand,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,73.7
+Jharkhand,Urban,Person,Net Attendance Ratio,Higher Secondary Level,47.9
+Jharkhand,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,30.1
+Jharkhand,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,23.2
+Jharkhand,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,107.2
+Jharkhand,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.4
+Jharkhand,Urban,Person,Gross Attendance Ratio,Primary Level,119.7
+Jharkhand,Urban,Person,Net Attendance Ratio,Primary Level,86.4
+Jharkhand,Urban,Person,Gross Attendance Ratio,Secondary Level,96.9
+Jharkhand,Urban,Person,Net Attendance Ratio,Secondary Level,55.5
+Jharkhand,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,88.2
+Jharkhand,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,57.7
+Odisha,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,43.5
+Odisha,Rural,Female,Net Attendance Ratio,Higher Secondary Level,32.1
+Odisha,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,9.3
+Odisha,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,7.4
+Odisha,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.1
+Odisha,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.6
+Odisha,Rural,Female,Gross Attendance Ratio,Primary Level,107.0
+Odisha,Rural,Female,Net Attendance Ratio,Primary Level,91.3
+Odisha,Rural,Female,Gross Attendance Ratio,Secondary Level,83.1
+Odisha,Rural,Female,Net Attendance Ratio,Secondary Level,68.2
+Odisha,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,96.4
+Odisha,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,76.3
+Odisha,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,56.3
+Odisha,Rural,Male,Net Attendance Ratio,Higher Secondary Level,39.2
+Odisha,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,15.0
+Odisha,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,12.4
+Odisha,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,94.1
+Odisha,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.9
+Odisha,Rural,Male,Gross Attendance Ratio,Primary Level,99.0
+Odisha,Rural,Male,Net Attendance Ratio,Primary Level,90.7
+Odisha,Rural,Male,Gross Attendance Ratio,Secondary Level,89.1
+Odisha,Rural,Male,Net Attendance Ratio,Secondary Level,65.9
+Odisha,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,87.1
+Odisha,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,76.6
+Odisha,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,49.8
+Odisha,Rural,Person,Net Attendance Ratio,Higher Secondary Level,35.6
+Odisha,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,12.2
+Odisha,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,10.0
+Odisha,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.1
+Odisha,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.1
+Odisha,Rural,Person,Gross Attendance Ratio,Primary Level,102.7
+Odisha,Rural,Person,Net Attendance Ratio,Primary Level,91.0
+Odisha,Rural,Person,Gross Attendance Ratio,Secondary Level,86.4
+Odisha,Rural,Person,Net Attendance Ratio,Secondary Level,66.9
+Odisha,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,91.0
+Odisha,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,76.4
+Odisha,Total,Female,Gross Attendance Ratio,Higher Secondary Level,46.1
+Odisha,Total,Female,Net Attendance Ratio,Higher Secondary Level,34.4
+Odisha,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,11.3
+Odisha,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,9.6
+Odisha,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.7
+Odisha,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.2
+Odisha,Total,Female,Gross Attendance Ratio,Primary Level,107.2
+Odisha,Total,Female,Net Attendance Ratio,Primary Level,90.7
+Odisha,Total,Female,Gross Attendance Ratio,Secondary Level,87.6
+Odisha,Total,Female,Net Attendance Ratio,Secondary Level,68.9
+Odisha,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,95.0
+Odisha,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,75.6
+Odisha,Total,Male,Gross Attendance Ratio,Higher Secondary Level,61.0
+Odisha,Total,Male,Net Attendance Ratio,Higher Secondary Level,40.5
+Odisha,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,17.4
+Odisha,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,14.2
+Odisha,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.6
+Odisha,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.9
+Odisha,Total,Male,Gross Attendance Ratio,Primary Level,100.3
+Odisha,Total,Male,Net Attendance Ratio,Primary Level,91.6
+Odisha,Total,Male,Gross Attendance Ratio,Secondary Level,86.8
+Odisha,Total,Male,Net Attendance Ratio,Secondary Level,66.5
+Odisha,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,88.6
+Odisha,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,77.9
+Odisha,Total,Person,Gross Attendance Ratio,Higher Secondary Level,53.4
+Odisha,Total,Person,Net Attendance Ratio,Higher Secondary Level,37.4
+Odisha,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,14.5
+Odisha,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,12.0
+Odisha,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.8
+Odisha,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.5
+Odisha,Total,Person,Gross Attendance Ratio,Primary Level,103.4
+Odisha,Total,Person,Net Attendance Ratio,Primary Level,91.2
+Odisha,Total,Person,Gross Attendance Ratio,Secondary Level,87.2
+Odisha,Total,Person,Net Attendance Ratio,Secondary Level,67.6
+Odisha,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,91.3
+Odisha,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,77.0
+Odisha,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,62.4
+Odisha,Urban,Female,Net Attendance Ratio,Higher Secondary Level,48.9
+Odisha,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,21.7
+Odisha,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,21.2
+Odisha,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.4
+Odisha,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.1
+Odisha,Urban,Female,Gross Attendance Ratio,Primary Level,108.1
+Odisha,Urban,Female,Net Attendance Ratio,Primary Level,87.3
+Odisha,Urban,Female,Gross Attendance Ratio,Secondary Level,119.5
+Odisha,Urban,Female,Net Attendance Ratio,Secondary Level,73.9
+Odisha,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,86.5
+Odisha,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,71.9
+Odisha,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,94.8
+Odisha,Urban,Male,Net Attendance Ratio,Higher Secondary Level,49.6
+Odisha,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,30.3
+Odisha,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,24.0
+Odisha,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.3
+Odisha,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,97.0
+Odisha,Urban,Male,Gross Attendance Ratio,Primary Level,106.5
+Odisha,Urban,Male,Net Attendance Ratio,Primary Level,96.1
+Odisha,Urban,Male,Gross Attendance Ratio,Secondary Level,75.3
+Odisha,Urban,Male,Net Attendance Ratio,Secondary Level,69.7
+Odisha,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,99.9
+Odisha,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,87.7
+Odisha,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,77.4
+Odisha,Urban,Person,Net Attendance Ratio,Higher Secondary Level,49.2
+Odisha,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,26.1
+Odisha,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,22.6
+Odisha,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.6
+Odisha,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.0
+Odisha,Urban,Person,Gross Attendance Ratio,Primary Level,107.2
+Odisha,Urban,Person,Net Attendance Ratio,Primary Level,92.4
+Odisha,Urban,Person,Gross Attendance Ratio,Secondary Level,91.9
+Odisha,Urban,Person,Net Attendance Ratio,Secondary Level,71.3
+Odisha,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,93.8
+Odisha,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,80.4
+Chhattisgarh,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,57.3
+Chhattisgarh,Rural,Female,Net Attendance Ratio,Higher Secondary Level,40.6
+Chhattisgarh,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,9.6
+Chhattisgarh,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,8.4
+Chhattisgarh,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.7
+Chhattisgarh,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.5
+Chhattisgarh,Rural,Female,Gross Attendance Ratio,Primary Level,100.1
+Chhattisgarh,Rural,Female,Net Attendance Ratio,Primary Level,91.7
+Chhattisgarh,Rural,Female,Gross Attendance Ratio,Secondary Level,93.7
+Chhattisgarh,Rural,Female,Net Attendance Ratio,Secondary Level,67.7
+Chhattisgarh,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,104.6
+Chhattisgarh,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,84.1
+Chhattisgarh,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,69.4
+Chhattisgarh,Rural,Male,Net Attendance Ratio,Higher Secondary Level,48.7
+Chhattisgarh,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,17.5
+Chhattisgarh,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,14.0
+Chhattisgarh,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.0
+Chhattisgarh,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.2
+Chhattisgarh,Rural,Male,Gross Attendance Ratio,Primary Level,104.7
+Chhattisgarh,Rural,Male,Net Attendance Ratio,Primary Level,92.2
+Chhattisgarh,Rural,Male,Gross Attendance Ratio,Secondary Level,87.7
+Chhattisgarh,Rural,Male,Net Attendance Ratio,Secondary Level,61.7
+Chhattisgarh,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,97.5
+Chhattisgarh,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,80.2
+Chhattisgarh,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,63.9
+Chhattisgarh,Rural,Person,Net Attendance Ratio,Higher Secondary Level,45.0
+Chhattisgarh,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,13.7
+Chhattisgarh,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,11.3
+Chhattisgarh,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.8
+Chhattisgarh,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.9
+Chhattisgarh,Rural,Person,Gross Attendance Ratio,Primary Level,102.6
+Chhattisgarh,Rural,Person,Net Attendance Ratio,Primary Level,92.0
+Chhattisgarh,Rural,Person,Gross Attendance Ratio,Secondary Level,90.6
+Chhattisgarh,Rural,Person,Net Attendance Ratio,Secondary Level,64.6
+Chhattisgarh,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,100.7
+Chhattisgarh,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,82.0
+Chhattisgarh,Total,Female,Gross Attendance Ratio,Higher Secondary Level,63.6
+Chhattisgarh,Total,Female,Net Attendance Ratio,Higher Secondary Level,45.5
+Chhattisgarh,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,11.9
+Chhattisgarh,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,10.2
+Chhattisgarh,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.8
+Chhattisgarh,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.0
+Chhattisgarh,Total,Female,Gross Attendance Ratio,Primary Level,100.4
+Chhattisgarh,Total,Female,Net Attendance Ratio,Primary Level,91.6
+Chhattisgarh,Total,Female,Gross Attendance Ratio,Secondary Level,93.4
+Chhattisgarh,Total,Female,Net Attendance Ratio,Secondary Level,67.3
+Chhattisgarh,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,104.1
+Chhattisgarh,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,83.4
+Chhattisgarh,Total,Male,Gross Attendance Ratio,Higher Secondary Level,69.8
+Chhattisgarh,Total,Male,Net Attendance Ratio,Higher Secondary Level,47.5
+Chhattisgarh,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,20.6
+Chhattisgarh,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,15.9
+Chhattisgarh,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.5
+Chhattisgarh,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.9
+Chhattisgarh,Total,Male,Gross Attendance Ratio,Primary Level,104.0
+Chhattisgarh,Total,Male,Net Attendance Ratio,Primary Level,91.6
+Chhattisgarh,Total,Male,Gross Attendance Ratio,Secondary Level,87.6
+Chhattisgarh,Total,Male,Net Attendance Ratio,Secondary Level,62.8
+Chhattisgarh,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,97.5
+Chhattisgarh,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.0
+Chhattisgarh,Total,Person,Gross Attendance Ratio,Higher Secondary Level,66.9
+Chhattisgarh,Total,Person,Net Attendance Ratio,Higher Secondary Level,46.6
+Chhattisgarh,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,16.2
+Chhattisgarh,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,13.1
+Chhattisgarh,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.6
+Chhattisgarh,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.5
+Chhattisgarh,Total,Person,Gross Attendance Ratio,Primary Level,102.4
+Chhattisgarh,Total,Person,Net Attendance Ratio,Primary Level,91.6
+Chhattisgarh,Total,Person,Gross Attendance Ratio,Secondary Level,90.3
+Chhattisgarh,Total,Person,Net Attendance Ratio,Secondary Level,64.9
+Chhattisgarh,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,100.4
+Chhattisgarh,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,82.1
+Chhattisgarh,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,93.9
+Chhattisgarh,Urban,Female,Net Attendance Ratio,Higher Secondary Level,68.9
+Chhattisgarh,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,20.9
+Chhattisgarh,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,17.2
+Chhattisgarh,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.1
+Chhattisgarh,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.1
+Chhattisgarh,Urban,Female,Gross Attendance Ratio,Primary Level,102.6
+Chhattisgarh,Urban,Female,Net Attendance Ratio,Primary Level,90.6
+Chhattisgarh,Urban,Female,Gross Attendance Ratio,Secondary Level,91.5
+Chhattisgarh,Urban,Female,Net Attendance Ratio,Secondary Level,65.0
+Chhattisgarh,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,101.2
+Chhattisgarh,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,79.1
+Chhattisgarh,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,71.7
+Chhattisgarh,Urban,Male,Net Attendance Ratio,Higher Secondary Level,41.1
+Chhattisgarh,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,35.5
+Chhattisgarh,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,25.1
+Chhattisgarh,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.5
+Chhattisgarh,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.3
+Chhattisgarh,Urban,Male,Gross Attendance Ratio,Primary Level,100.6
+Chhattisgarh,Urban,Male,Net Attendance Ratio,Primary Level,88.8
+Chhattisgarh,Urban,Male,Gross Attendance Ratio,Secondary Level,87.0
+Chhattisgarh,Urban,Male,Net Attendance Ratio,Secondary Level,67.9
+Chhattisgarh,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,97.6
+Chhattisgarh,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,85.0
+Chhattisgarh,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,82.4
+Chhattisgarh,Urban,Person,Net Attendance Ratio,Higher Secondary Level,54.5
+Chhattisgarh,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,27.4
+Chhattisgarh,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,20.8
+Chhattisgarh,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.6
+Chhattisgarh,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.4
+Chhattisgarh,Urban,Person,Gross Attendance Ratio,Primary Level,101.5
+Chhattisgarh,Urban,Person,Net Attendance Ratio,Primary Level,89.6
+Chhattisgarh,Urban,Person,Gross Attendance Ratio,Secondary Level,89.0
+Chhattisgarh,Urban,Person,Net Attendance Ratio,Secondary Level,66.6
+Chhattisgarh,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,99.0
+Chhattisgarh,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,82.7
+Madhya Pradesh,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,50.5
+Madhya Pradesh,Rural,Female,Net Attendance Ratio,Higher Secondary Level,31.5
+Madhya Pradesh,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,9.5
+Madhya Pradesh,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,6.3
+Madhya Pradesh,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,92.0
+Madhya Pradesh,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,83.6
+Madhya Pradesh,Rural,Female,Gross Attendance Ratio,Primary Level,90.6
+Madhya Pradesh,Rural,Female,Net Attendance Ratio,Primary Level,78.5
+Madhya Pradesh,Rural,Female,Gross Attendance Ratio,Secondary Level,80.5
+Madhya Pradesh,Rural,Female,Net Attendance Ratio,Secondary Level,53.0
+Madhya Pradesh,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,94.8
+Madhya Pradesh,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,71.1
+Madhya Pradesh,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,55.8
+Madhya Pradesh,Rural,Male,Net Attendance Ratio,Higher Secondary Level,35.3
+Madhya Pradesh,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,14.4
+Madhya Pradesh,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,10.9
+Madhya Pradesh,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.0
+Madhya Pradesh,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.7
+Madhya Pradesh,Rural,Male,Gross Attendance Ratio,Primary Level,98.9
+Madhya Pradesh,Rural,Male,Net Attendance Ratio,Primary Level,84.1
+Madhya Pradesh,Rural,Male,Gross Attendance Ratio,Secondary Level,81.5
+Madhya Pradesh,Rural,Male,Net Attendance Ratio,Secondary Level,48.3
+Madhya Pradesh,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,99.4
+Madhya Pradesh,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,73.3
+Madhya Pradesh,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,53.3
+Madhya Pradesh,Rural,Person,Net Attendance Ratio,Higher Secondary Level,33.5
+Madhya Pradesh,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,12.2
+Madhya Pradesh,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,8.8
+Madhya Pradesh,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.8
+Madhya Pradesh,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,86.3
+Madhya Pradesh,Rural,Person,Gross Attendance Ratio,Primary Level,94.9
+Madhya Pradesh,Rural,Person,Net Attendance Ratio,Primary Level,81.4
+Madhya Pradesh,Rural,Person,Gross Attendance Ratio,Secondary Level,81.0
+Madhya Pradesh,Rural,Person,Net Attendance Ratio,Secondary Level,50.6
+Madhya Pradesh,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,97.4
+Madhya Pradesh,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,72.3
+Madhya Pradesh,Total,Female,Gross Attendance Ratio,Higher Secondary Level,56.3
+Madhya Pradesh,Total,Female,Net Attendance Ratio,Higher Secondary Level,32.9
+Madhya Pradesh,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,15.0
+Madhya Pradesh,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,11.1
+Madhya Pradesh,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,92.8
+Madhya Pradesh,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,84.5
+Madhya Pradesh,Total,Female,Gross Attendance Ratio,Primary Level,92.1
+Madhya Pradesh,Total,Female,Net Attendance Ratio,Primary Level,79.6
+Madhya Pradesh,Total,Female,Gross Attendance Ratio,Secondary Level,85.7
+Madhya Pradesh,Total,Female,Net Attendance Ratio,Secondary Level,56.0
+Madhya Pradesh,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,94.2
+Madhya Pradesh,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,71.7
+Madhya Pradesh,Total,Male,Gross Attendance Ratio,Higher Secondary Level,63.0
+Madhya Pradesh,Total,Male,Net Attendance Ratio,Higher Secondary Level,39.1
+Madhya Pradesh,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,19.3
+Madhya Pradesh,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,15.6
+Madhya Pradesh,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.8
+Madhya Pradesh,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.4
+Madhya Pradesh,Total,Male,Gross Attendance Ratio,Primary Level,98.0
+Madhya Pradesh,Total,Male,Net Attendance Ratio,Primary Level,83.4
+Madhya Pradesh,Total,Male,Gross Attendance Ratio,Secondary Level,82.4
+Madhya Pradesh,Total,Male,Net Attendance Ratio,Secondary Level,52.4
+Madhya Pradesh,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,100.1
+Madhya Pradesh,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,73.8
+Madhya Pradesh,Total,Person,Gross Attendance Ratio,Higher Secondary Level,59.9
+Madhya Pradesh,Total,Person,Net Attendance Ratio,Higher Secondary Level,36.3
+Madhya Pradesh,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,17.3
+Madhya Pradesh,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,13.5
+Madhya Pradesh,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.1
+Madhya Pradesh,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,86.6
+Madhya Pradesh,Total,Person,Gross Attendance Ratio,Primary Level,95.3
+Madhya Pradesh,Total,Person,Net Attendance Ratio,Primary Level,81.6
+Madhya Pradesh,Total,Person,Gross Attendance Ratio,Secondary Level,83.9
+Madhya Pradesh,Total,Person,Net Attendance Ratio,Secondary Level,54.1
+Madhya Pradesh,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,97.5
+Madhya Pradesh,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,72.9
+Madhya Pradesh,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,80.4
+Madhya Pradesh,Urban,Female,Net Attendance Ratio,Higher Secondary Level,38.8
+Madhya Pradesh,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,29.4
+Madhya Pradesh,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,23.7
+Madhya Pradesh,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.3
+Madhya Pradesh,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.3
+Madhya Pradesh,Urban,Female,Gross Attendance Ratio,Primary Level,99.1
+Madhya Pradesh,Urban,Female,Net Attendance Ratio,Primary Level,84.9
+Madhya Pradesh,Urban,Female,Gross Attendance Ratio,Secondary Level,104.0
+Madhya Pradesh,Urban,Female,Net Attendance Ratio,Secondary Level,66.1
+Madhya Pradesh,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.4
+Madhya Pradesh,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,74.0
+Madhya Pradesh,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,87.7
+Madhya Pradesh,Urban,Male,Net Attendance Ratio,Higher Secondary Level,52.1
+Madhya Pradesh,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,34.0
+Madhya Pradesh,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,29.5
+Madhya Pradesh,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.9
+Madhya Pradesh,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.5
+Madhya Pradesh,Urban,Male,Gross Attendance Ratio,Primary Level,95.1
+Madhya Pradesh,Urban,Male,Net Attendance Ratio,Primary Level,80.8
+Madhya Pradesh,Urban,Male,Gross Attendance Ratio,Secondary Level,84.8
+Madhya Pradesh,Urban,Male,Net Attendance Ratio,Secondary Level,63.5
+Madhya Pradesh,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,102.9
+Madhya Pradesh,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,75.6
+Madhya Pradesh,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,84.7
+Madhya Pradesh,Urban,Person,Net Attendance Ratio,Higher Secondary Level,46.6
+Madhya Pradesh,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,31.8
+Madhya Pradesh,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,26.7
+Madhya Pradesh,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.2
+Madhya Pradesh,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.9
+Madhya Pradesh,Urban,Person,Gross Attendance Ratio,Primary Level,96.7
+Madhya Pradesh,Urban,Person,Net Attendance Ratio,Primary Level,82.4
+Madhya Pradesh,Urban,Person,Gross Attendance Ratio,Secondary Level,93.0
+Madhya Pradesh,Urban,Person,Net Attendance Ratio,Secondary Level,64.6
+Madhya Pradesh,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,98.1
+Madhya Pradesh,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,74.8
+Gujarat,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,55.3
+Gujarat,Rural,Female,Net Attendance Ratio,Higher Secondary Level,33.5
+Gujarat,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,7.6
+Gujarat,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,6.8
+Gujarat,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,94.4
+Gujarat,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.0
+Gujarat,Rural,Female,Gross Attendance Ratio,Primary Level,106.1
+Gujarat,Rural,Female,Net Attendance Ratio,Primary Level,93.4
+Gujarat,Rural,Female,Gross Attendance Ratio,Secondary Level,82.1
+Gujarat,Rural,Female,Net Attendance Ratio,Secondary Level,57.5
+Gujarat,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,80.3
+Gujarat,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,74.4
+Gujarat,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,53.8
+Gujarat,Rural,Male,Net Attendance Ratio,Higher Secondary Level,35.8
+Gujarat,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,12.7
+Gujarat,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,11.5
+Gujarat,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.0
+Gujarat,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.0
+Gujarat,Rural,Male,Gross Attendance Ratio,Primary Level,106.5
+Gujarat,Rural,Male,Net Attendance Ratio,Primary Level,94.5
+Gujarat,Rural,Male,Gross Attendance Ratio,Secondary Level,83.1
+Gujarat,Rural,Male,Net Attendance Ratio,Secondary Level,61.1
+Gujarat,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,89.8
+Gujarat,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,76.2
+Gujarat,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,54.5
+Gujarat,Rural,Person,Net Attendance Ratio,Higher Secondary Level,34.8
+Gujarat,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,10.2
+Gujarat,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,9.2
+Gujarat,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.3
+Gujarat,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.0
+Gujarat,Rural,Person,Gross Attendance Ratio,Primary Level,106.3
+Gujarat,Rural,Person,Net Attendance Ratio,Primary Level,94.0
+Gujarat,Rural,Person,Gross Attendance Ratio,Secondary Level,82.6
+Gujarat,Rural,Person,Net Attendance Ratio,Secondary Level,59.4
+Gujarat,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,84.9
+Gujarat,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,75.3
+Gujarat,Total,Female,Gross Attendance Ratio,Higher Secondary Level,58.4
+Gujarat,Total,Female,Net Attendance Ratio,Higher Secondary Level,37.7
+Gujarat,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,14.0
+Gujarat,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,12.3
+Gujarat,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.7
+Gujarat,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.0
+Gujarat,Total,Female,Gross Attendance Ratio,Primary Level,106.4
+Gujarat,Total,Female,Net Attendance Ratio,Primary Level,92.2
+Gujarat,Total,Female,Gross Attendance Ratio,Secondary Level,83.8
+Gujarat,Total,Female,Net Attendance Ratio,Secondary Level,60.6
+Gujarat,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,84.9
+Gujarat,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,77.5
+Gujarat,Total,Male,Gross Attendance Ratio,Higher Secondary Level,59.8
+Gujarat,Total,Male,Net Attendance Ratio,Higher Secondary Level,42.7
+Gujarat,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,16.5
+Gujarat,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,15.0
+Gujarat,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.1
+Gujarat,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.8
+Gujarat,Total,Male,Gross Attendance Ratio,Primary Level,105.8
+Gujarat,Total,Male,Net Attendance Ratio,Primary Level,94.7
+Gujarat,Total,Male,Gross Attendance Ratio,Secondary Level,91.8
+Gujarat,Total,Male,Net Attendance Ratio,Secondary Level,64.7
+Gujarat,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,93.3
+Gujarat,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,77.6
+Gujarat,Total,Person,Gross Attendance Ratio,Higher Secondary Level,59.2
+Gujarat,Total,Person,Net Attendance Ratio,Higher Secondary Level,40.6
+Gujarat,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,15.3
+Gujarat,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,13.7
+Gujarat,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.1
+Gujarat,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.0
+Gujarat,Total,Person,Gross Attendance Ratio,Primary Level,106.0
+Gujarat,Total,Person,Net Attendance Ratio,Primary Level,93.7
+Gujarat,Total,Person,Gross Attendance Ratio,Secondary Level,88.3
+Gujarat,Total,Person,Net Attendance Ratio,Secondary Level,62.9
+Gujarat,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,89.1
+Gujarat,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,77.6
+Gujarat,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,66.2
+Gujarat,Urban,Female,Net Attendance Ratio,Higher Secondary Level,48.2
+Gujarat,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,25.2
+Gujarat,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,21.9
+Gujarat,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.9
+Gujarat,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.4
+Gujarat,Urban,Female,Gross Attendance Ratio,Primary Level,107.0
+Gujarat,Urban,Female,Net Attendance Ratio,Primary Level,89.6
+Gujarat,Urban,Female,Gross Attendance Ratio,Secondary Level,88.4
+Gujarat,Urban,Female,Net Attendance Ratio,Secondary Level,68.7
+Gujarat,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,95.6
+Gujarat,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,84.8
+Gujarat,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,70.3
+Gujarat,Urban,Male,Net Attendance Ratio,Higher Secondary Level,54.5
+Gujarat,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,22.2
+Gujarat,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,20.3
+Gujarat,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.0
+Gujarat,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.2
+Gujarat,Urban,Male,Gross Attendance Ratio,Primary Level,104.6
+Gujarat,Urban,Male,Net Attendance Ratio,Primary Level,95.0
+Gujarat,Urban,Male,Gross Attendance Ratio,Secondary Level,108.0
+Gujarat,Urban,Male,Net Attendance Ratio,Secondary Level,71.4
+Gujarat,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,100.0
+Gujarat,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,80.4
+Gujarat,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,68.8
+Gujarat,Urban,Person,Net Attendance Ratio,Higher Secondary Level,52.2
+Gujarat,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,23.6
+Gujarat,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,21.0
+Gujarat,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.6
+Gujarat,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.8
+Gujarat,Urban,Person,Gross Attendance Ratio,Primary Level,105.5
+Gujarat,Urban,Person,Net Attendance Ratio,Primary Level,93.0
+Gujarat,Urban,Person,Gross Attendance Ratio,Secondary Level,100.4
+Gujarat,Urban,Person,Net Attendance Ratio,Secondary Level,70.3
+Gujarat,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,97.9
+Gujarat,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,82.5
+Maharashtra,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,71.6
+Maharashtra,Rural,Female,Net Attendance Ratio,Higher Secondary Level,52.8
+Maharashtra,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,18.2
+Maharashtra,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,16.2
+Maharashtra,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.9
+Maharashtra,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.4
+Maharashtra,Rural,Female,Gross Attendance Ratio,Primary Level,99.2
+Maharashtra,Rural,Female,Net Attendance Ratio,Primary Level,89.8
+Maharashtra,Rural,Female,Gross Attendance Ratio,Secondary Level,100.6
+Maharashtra,Rural,Female,Net Attendance Ratio,Secondary Level,75.4
+Maharashtra,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.0
+Maharashtra,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,78.4
+Maharashtra,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,79.6
+Maharashtra,Rural,Male,Net Attendance Ratio,Higher Secondary Level,58.3
+Maharashtra,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,30.7
+Maharashtra,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,28.6
+Maharashtra,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.0
+Maharashtra,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.3
+Maharashtra,Rural,Male,Gross Attendance Ratio,Primary Level,96.8
+Maharashtra,Rural,Male,Net Attendance Ratio,Primary Level,91.0
+Maharashtra,Rural,Male,Gross Attendance Ratio,Secondary Level,108.5
+Maharashtra,Rural,Male,Net Attendance Ratio,Secondary Level,70.9
+Maharashtra,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,103.9
+Maharashtra,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.6
+Maharashtra,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,76.0
+Maharashtra,Rural,Person,Net Attendance Ratio,Higher Secondary Level,55.8
+Maharashtra,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,25.3
+Maharashtra,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,23.2
+Maharashtra,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.6
+Maharashtra,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.4
+Maharashtra,Rural,Person,Gross Attendance Ratio,Primary Level,97.9
+Maharashtra,Rural,Person,Net Attendance Ratio,Primary Level,90.5
+Maharashtra,Rural,Person,Gross Attendance Ratio,Secondary Level,104.9
+Maharashtra,Rural,Person,Net Attendance Ratio,Secondary Level,72.9
+Maharashtra,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,97.1
+Maharashtra,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,79.9
+Maharashtra,Total,Female,Gross Attendance Ratio,Higher Secondary Level,74.5
+Maharashtra,Total,Female,Net Attendance Ratio,Higher Secondary Level,52.8
+Maharashtra,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,24.2
+Maharashtra,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,21.2
+Maharashtra,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.4
+Maharashtra,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.3
+Maharashtra,Total,Female,Gross Attendance Ratio,Primary Level,104.3
+Maharashtra,Total,Female,Net Attendance Ratio,Primary Level,91.2
+Maharashtra,Total,Female,Gross Attendance Ratio,Secondary Level,99.0
+Maharashtra,Total,Female,Net Attendance Ratio,Secondary Level,72.8
+Maharashtra,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.5
+Maharashtra,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,78.0
+Maharashtra,Total,Male,Gross Attendance Ratio,Higher Secondary Level,74.2
+Maharashtra,Total,Male,Net Attendance Ratio,Higher Secondary Level,55.1
+Maharashtra,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,33.5
+Maharashtra,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,29.7
+Maharashtra,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.5
+Maharashtra,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.9
+Maharashtra,Total,Male,Gross Attendance Ratio,Primary Level,98.7
+Maharashtra,Total,Male,Net Attendance Ratio,Primary Level,90.5
+Maharashtra,Total,Male,Gross Attendance Ratio,Secondary Level,108.2
+Maharashtra,Total,Male,Net Attendance Ratio,Secondary Level,71.1
+Maharashtra,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,101.3
+Maharashtra,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.7
+Maharashtra,Total,Person,Gross Attendance Ratio,Higher Secondary Level,74.3
+Maharashtra,Total,Person,Net Attendance Ratio,Higher Secondary Level,54.1
+Maharashtra,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,29.3
+Maharashtra,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,25.9
+Maharashtra,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.5
+Maharashtra,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.6
+Maharashtra,Total,Person,Gross Attendance Ratio,Primary Level,101.1
+Maharashtra,Total,Person,Net Attendance Ratio,Primary Level,90.8
+Maharashtra,Total,Person,Gross Attendance Ratio,Secondary Level,104.0
+Maharashtra,Total,Person,Net Attendance Ratio,Secondary Level,71.9
+Maharashtra,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,96.5
+Maharashtra,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,79.9
+Maharashtra,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,79.7
+Maharashtra,Urban,Female,Net Attendance Ratio,Higher Secondary Level,52.9
+Maharashtra,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,31.5
+Maharashtra,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,27.3
+Maharashtra,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.5
+Maharashtra,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.7
+Maharashtra,Urban,Female,Gross Attendance Ratio,Primary Level,111.3
+Maharashtra,Urban,Female,Net Attendance Ratio,Primary Level,93.1
+Maharashtra,Urban,Female,Gross Attendance Ratio,Secondary Level,96.7
+Maharashtra,Urban,Female,Net Attendance Ratio,Secondary Level,69.0
+Maharashtra,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.5
+Maharashtra,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,77.2
+Maharashtra,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,66.8
+Maharashtra,Urban,Male,Net Attendance Ratio,Higher Secondary Level,50.7
+Maharashtra,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,37.4
+Maharashtra,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,31.2
+Maharashtra,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.2
+Maharashtra,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.4
+Maharashtra,Urban,Male,Gross Attendance Ratio,Primary Level,101.2
+Maharashtra,Urban,Male,Net Attendance Ratio,Primary Level,89.8
+Maharashtra,Urban,Male,Gross Attendance Ratio,Secondary Level,107.7
+Maharashtra,Urban,Male,Net Attendance Ratio,Secondary Level,71.5
+Maharashtra,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,98.3
+Maharashtra,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.8
+Maharashtra,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,71.6
+Maharashtra,Urban,Person,Net Attendance Ratio,Higher Secondary Level,51.5
+Maharashtra,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,34.6
+Maharashtra,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,29.4
+Maharashtra,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.0
+Maharashtra,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.0
+Maharashtra,Urban,Person,Gross Attendance Ratio,Primary Level,105.6
+Maharashtra,Urban,Person,Net Attendance Ratio,Primary Level,91.2
+Maharashtra,Urban,Person,Gross Attendance Ratio,Secondary Level,102.4
+Maharashtra,Urban,Person,Net Attendance Ratio,Secondary Level,70.3
+Maharashtra,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,95.8
+Maharashtra,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,79.8
+Andhra Pradesh,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,62.5
+Andhra Pradesh,Rural,Female,Net Attendance Ratio,Higher Secondary Level,52.8
+Andhra Pradesh,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,14.0
+Andhra Pradesh,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,11.7
+Andhra Pradesh,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,88.4
+Andhra Pradesh,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,83.5
+Andhra Pradesh,Rural,Female,Gross Attendance Ratio,Primary Level,97.4
+Andhra Pradesh,Rural,Female,Net Attendance Ratio,Primary Level,89.1
+Andhra Pradesh,Rural,Female,Gross Attendance Ratio,Secondary Level,114.6
+Andhra Pradesh,Rural,Female,Net Attendance Ratio,Secondary Level,76.5
+Andhra Pradesh,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,76.1
+Andhra Pradesh,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,63.9
+Andhra Pradesh,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,71.2
+Andhra Pradesh,Rural,Male,Net Attendance Ratio,Higher Secondary Level,45.4
+Andhra Pradesh,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,24.2
+Andhra Pradesh,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,21.6
+Andhra Pradesh,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.1
+Andhra Pradesh,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,85.4
+Andhra Pradesh,Rural,Male,Gross Attendance Ratio,Primary Level,100.6
+Andhra Pradesh,Rural,Male,Net Attendance Ratio,Primary Level,86.3
+Andhra Pradesh,Rural,Male,Gross Attendance Ratio,Secondary Level,109.5
+Andhra Pradesh,Rural,Male,Net Attendance Ratio,Secondary Level,67.2
+Andhra Pradesh,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,85.9
+Andhra Pradesh,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,62.2
+Andhra Pradesh,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,66.7
+Andhra Pradesh,Rural,Person,Net Attendance Ratio,Higher Secondary Level,49.2
+Andhra Pradesh,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,19.3
+Andhra Pradesh,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,16.9
+Andhra Pradesh,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,91.9
+Andhra Pradesh,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,84.5
+Andhra Pradesh,Rural,Person,Gross Attendance Ratio,Primary Level,99.1
+Andhra Pradesh,Rural,Person,Net Attendance Ratio,Primary Level,87.6
+Andhra Pradesh,Rural,Person,Gross Attendance Ratio,Secondary Level,112.3
+Andhra Pradesh,Rural,Person,Net Attendance Ratio,Secondary Level,72.2
+Andhra Pradesh,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,80.9
+Andhra Pradesh,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,63.1
+Andhra Pradesh,Total,Female,Gross Attendance Ratio,Higher Secondary Level,67.2
+Andhra Pradesh,Total,Female,Net Attendance Ratio,Higher Secondary Level,51.8
+Andhra Pradesh,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,23.3
+Andhra Pradesh,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,19.8
+Andhra Pradesh,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,88.3
+Andhra Pradesh,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,82.5
+Andhra Pradesh,Total,Female,Gross Attendance Ratio,Primary Level,97.7
+Andhra Pradesh,Total,Female,Net Attendance Ratio,Primary Level,87.1
+Andhra Pradesh,Total,Female,Gross Attendance Ratio,Secondary Level,123.1
+Andhra Pradesh,Total,Female,Net Attendance Ratio,Secondary Level,77.1
+Andhra Pradesh,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,76.2
+Andhra Pradesh,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,64.0
+Andhra Pradesh,Total,Male,Gross Attendance Ratio,Higher Secondary Level,78.5
+Andhra Pradesh,Total,Male,Net Attendance Ratio,Higher Secondary Level,51.8
+Andhra Pradesh,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,28.8
+Andhra Pradesh,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,25.0
+Andhra Pradesh,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.7
+Andhra Pradesh,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,86.4
+Andhra Pradesh,Total,Male,Gross Attendance Ratio,Primary Level,100.5
+Andhra Pradesh,Total,Male,Net Attendance Ratio,Primary Level,86.0
+Andhra Pradesh,Total,Male,Gross Attendance Ratio,Secondary Level,104.7
+Andhra Pradesh,Total,Male,Net Attendance Ratio,Secondary Level,64.0
+Andhra Pradesh,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,88.0
+Andhra Pradesh,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,65.2
+Andhra Pradesh,Total,Person,Gross Attendance Ratio,Higher Secondary Level,73.0
+Andhra Pradesh,Total,Person,Net Attendance Ratio,Higher Secondary Level,51.8
+Andhra Pradesh,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,26.1
+Andhra Pradesh,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,22.4
+Andhra Pradesh,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,92.2
+Andhra Pradesh,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,84.5
+Andhra Pradesh,Total,Person,Gross Attendance Ratio,Primary Level,99.3
+Andhra Pradesh,Total,Person,Net Attendance Ratio,Primary Level,86.5
+Andhra Pradesh,Total,Person,Gross Attendance Ratio,Secondary Level,114.1
+Andhra Pradesh,Total,Person,Net Attendance Ratio,Secondary Level,70.7
+Andhra Pradesh,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,81.9
+Andhra Pradesh,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,64.6
+Andhra Pradesh,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,76.9
+Andhra Pradesh,Urban,Female,Net Attendance Ratio,Higher Secondary Level,49.8
+Andhra Pradesh,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,40.1
+Andhra Pradesh,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,34.6
+Andhra Pradesh,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,88.0
+Andhra Pradesh,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,80.3
+Andhra Pradesh,Urban,Female,Gross Attendance Ratio,Primary Level,98.5
+Andhra Pradesh,Urban,Female,Net Attendance Ratio,Primary Level,82.6
+Andhra Pradesh,Urban,Female,Gross Attendance Ratio,Secondary Level,146.9
+Andhra Pradesh,Urban,Female,Net Attendance Ratio,Secondary Level,79.0
+Andhra Pradesh,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,76.4
+Andhra Pradesh,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,64.2
+Andhra Pradesh,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,89.2
+Andhra Pradesh,Urban,Male,Net Attendance Ratio,Higher Secondary Level,61.0
+Andhra Pradesh,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,40.8
+Andhra Pradesh,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,33.7
+Andhra Pradesh,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.0
+Andhra Pradesh,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.4
+Andhra Pradesh,Urban,Male,Gross Attendance Ratio,Primary Level,100.4
+Andhra Pradesh,Urban,Male,Net Attendance Ratio,Primary Level,85.5
+Andhra Pradesh,Urban,Male,Gross Attendance Ratio,Secondary Level,95.5
+Andhra Pradesh,Urban,Male,Net Attendance Ratio,Secondary Level,57.8
+Andhra Pradesh,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,91.9
+Andhra Pradesh,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,70.9
+Andhra Pradesh,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,83.9
+Andhra Pradesh,Urban,Person,Net Attendance Ratio,Higher Secondary Level,56.2
+Andhra Pradesh,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,40.4
+Andhra Pradesh,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,34.2
+Andhra Pradesh,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,92.7
+Andhra Pradesh,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,84.5
+Andhra Pradesh,Urban,Person,Gross Attendance Ratio,Primary Level,99.5
+Andhra Pradesh,Urban,Person,Net Attendance Ratio,Primary Level,84.2
+Andhra Pradesh,Urban,Person,Gross Attendance Ratio,Secondary Level,118.4
+Andhra Pradesh,Urban,Person,Net Attendance Ratio,Secondary Level,67.2
+Andhra Pradesh,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,83.8
+Andhra Pradesh,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,67.4
+Karnataka,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,67.5
+Karnataka,Rural,Female,Net Attendance Ratio,Higher Secondary Level,53.7
+Karnataka,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,12.7
+Karnataka,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,12.0
+Karnataka,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.7
+Karnataka,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.4
+Karnataka,Rural,Female,Gross Attendance Ratio,Primary Level,98.7
+Karnataka,Rural,Female,Net Attendance Ratio,Primary Level,93.0
+Karnataka,Rural,Female,Gross Attendance Ratio,Secondary Level,94.1
+Karnataka,Rural,Female,Net Attendance Ratio,Secondary Level,75.0
+Karnataka,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.9
+Karnataka,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,84.1
+Karnataka,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,68.9
+Karnataka,Rural,Male,Net Attendance Ratio,Higher Secondary Level,55.6
+Karnataka,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,20.0
+Karnataka,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,18.7
+Karnataka,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.9
+Karnataka,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,96.5
+Karnataka,Rural,Male,Gross Attendance Ratio,Primary Level,107.3
+Karnataka,Rural,Male,Net Attendance Ratio,Primary Level,96.7
+Karnataka,Rural,Male,Gross Attendance Ratio,Secondary Level,86.7
+Karnataka,Rural,Male,Net Attendance Ratio,Secondary Level,77.6
+Karnataka,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,89.6
+Karnataka,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.0
+Karnataka,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,68.3
+Karnataka,Rural,Person,Net Attendance Ratio,Higher Secondary Level,54.8
+Karnataka,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,16.9
+Karnataka,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,15.9
+Karnataka,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.2
+Karnataka,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.8
+Karnataka,Rural,Person,Gross Attendance Ratio,Primary Level,103.6
+Karnataka,Rural,Person,Net Attendance Ratio,Primary Level,95.2
+Karnataka,Rural,Person,Gross Attendance Ratio,Secondary Level,89.6
+Karnataka,Rural,Person,Net Attendance Ratio,Secondary Level,76.6
+Karnataka,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,90.9
+Karnataka,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,82.3
+Karnataka,Total,Female,Gross Attendance Ratio,Higher Secondary Level,77.8
+Karnataka,Total,Female,Net Attendance Ratio,Higher Secondary Level,59.0
+Karnataka,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,19.6
+Karnataka,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,18.4
+Karnataka,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.0
+Karnataka,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.0
+Karnataka,Total,Female,Gross Attendance Ratio,Primary Level,100.8
+Karnataka,Total,Female,Net Attendance Ratio,Primary Level,93.9
+Karnataka,Total,Female,Gross Attendance Ratio,Secondary Level,94.0
+Karnataka,Total,Female,Net Attendance Ratio,Secondary Level,73.4
+Karnataka,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.5
+Karnataka,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,82.0
+Karnataka,Total,Male,Gross Attendance Ratio,Higher Secondary Level,69.8
+Karnataka,Total,Male,Net Attendance Ratio,Higher Secondary Level,54.5
+Karnataka,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,23.4
+Karnataka,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,21.6
+Karnataka,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.3
+Karnataka,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,95.7
+Karnataka,Total,Male,Gross Attendance Ratio,Primary Level,107.3
+Karnataka,Total,Male,Net Attendance Ratio,Primary Level,96.4
+Karnataka,Total,Male,Gross Attendance Ratio,Secondary Level,91.1
+Karnataka,Total,Male,Net Attendance Ratio,Secondary Level,77.3
+Karnataka,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,88.4
+Karnataka,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,79.8
+Karnataka,Total,Person,Gross Attendance Ratio,Higher Secondary Level,73.4
+Karnataka,Total,Person,Net Attendance Ratio,Higher Secondary Level,56.5
+Karnataka,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,21.7
+Karnataka,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,20.2
+Karnataka,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.3
+Karnataka,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.5
+Karnataka,Total,Person,Gross Attendance Ratio,Primary Level,104.4
+Karnataka,Total,Person,Net Attendance Ratio,Primary Level,95.3
+Karnataka,Total,Person,Gross Attendance Ratio,Secondary Level,92.3
+Karnataka,Total,Person,Net Attendance Ratio,Secondary Level,75.8
+Karnataka,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,90.1
+Karnataka,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,80.7
+Karnataka,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,94.7
+Karnataka,Urban,Female,Net Attendance Ratio,Higher Secondary Level,67.8
+Karnataka,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,30.5
+Karnataka,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,28.5
+Karnataka,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.2
+Karnataka,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.0
+Karnataka,Urban,Female,Gross Attendance Ratio,Primary Level,104.6
+Karnataka,Urban,Female,Net Attendance Ratio,Primary Level,95.3
+Karnataka,Urban,Female,Gross Attendance Ratio,Secondary Level,93.9
+Karnataka,Urban,Female,Net Attendance Ratio,Secondary Level,70.0
+Karnataka,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.8
+Karnataka,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,78.4
+Karnataka,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,71.3
+Karnataka,Urban,Male,Net Attendance Ratio,Higher Secondary Level,52.3
+Karnataka,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,29.7
+Karnataka,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,27.1
+Karnataka,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.7
+Karnataka,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.8
+Karnataka,Urban,Male,Gross Attendance Ratio,Primary Level,107.3
+Karnataka,Urban,Male,Net Attendance Ratio,Primary Level,95.7
+Karnataka,Urban,Male,Gross Attendance Ratio,Secondary Level,102.5
+Karnataka,Urban,Male,Net Attendance Ratio,Secondary Level,76.4
+Karnataka,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,86.2
+Karnataka,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,77.4
+Karnataka,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,82.2
+Karnataka,Urban,Person,Net Attendance Ratio,Higher Secondary Level,59.5
+Karnataka,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,30.0
+Karnataka,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,27.8
+Karnataka,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.4
+Karnataka,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.9
+Karnataka,Urban,Person,Gross Attendance Ratio,Primary Level,106.0
+Karnataka,Urban,Person,Net Attendance Ratio,Primary Level,95.5
+Karnataka,Urban,Person,Gross Attendance Ratio,Secondary Level,98.9
+Karnataka,Urban,Person,Net Attendance Ratio,Secondary Level,73.7
+Karnataka,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,88.7
+Karnataka,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,77.8
+Kerala,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,110.2
+Kerala,Rural,Female,Net Attendance Ratio,Higher Secondary Level,82.9
+Kerala,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,37.9
+Kerala,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,35.3
+Kerala,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.8
+Kerala,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.2
+Kerala,Rural,Female,Gross Attendance Ratio,Primary Level,101.3
+Kerala,Rural,Female,Net Attendance Ratio,Primary Level,90.9
+Kerala,Rural,Female,Gross Attendance Ratio,Secondary Level,98.9
+Kerala,Rural,Female,Net Attendance Ratio,Secondary Level,73.7
+Kerala,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.8
+Kerala,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,83.8
+Kerala,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,98.2
+Kerala,Rural,Male,Net Attendance Ratio,Higher Secondary Level,78.8
+Kerala,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,37.3
+Kerala,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,32.4
+Kerala,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.3
+Kerala,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.0
+Kerala,Rural,Male,Gross Attendance Ratio,Primary Level,101.4
+Kerala,Rural,Male,Net Attendance Ratio,Primary Level,94.4
+Kerala,Rural,Male,Gross Attendance Ratio,Secondary Level,95.7
+Kerala,Rural,Male,Net Attendance Ratio,Secondary Level,78.7
+Kerala,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,96.7
+Kerala,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,86.4
+Kerala,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,103.0
+Kerala,Rural,Person,Net Attendance Ratio,Higher Secondary Level,80.4
+Kerala,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,37.6
+Kerala,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,33.9
+Kerala,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.6
+Kerala,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.8
+Kerala,Rural,Person,Gross Attendance Ratio,Primary Level,101.3
+Kerala,Rural,Person,Net Attendance Ratio,Primary Level,92.7
+Kerala,Rural,Person,Gross Attendance Ratio,Secondary Level,96.9
+Kerala,Rural,Person,Net Attendance Ratio,Secondary Level,76.8
+Kerala,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,95.0
+Kerala,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,85.3
+Kerala,Total,Female,Gross Attendance Ratio,Higher Secondary Level,99.2
+Kerala,Total,Female,Net Attendance Ratio,Higher Secondary Level,78.5
+Kerala,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,40.7
+Kerala,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,37.0
+Kerala,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.2
+Kerala,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.9
+Kerala,Total,Female,Gross Attendance Ratio,Primary Level,102.5
+Kerala,Total,Female,Net Attendance Ratio,Primary Level,93.4
+Kerala,Total,Female,Gross Attendance Ratio,Secondary Level,96.1
+Kerala,Total,Female,Net Attendance Ratio,Secondary Level,74.3
+Kerala,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,97.0
+Kerala,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,85.8
+Kerala,Total,Male,Gross Attendance Ratio,Higher Secondary Level,100.4
+Kerala,Total,Male,Net Attendance Ratio,Higher Secondary Level,78.6
+Kerala,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,34.6
+Kerala,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,29.5
+Kerala,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.5
+Kerala,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.4
+Kerala,Total,Male,Gross Attendance Ratio,Primary Level,104.7
+Kerala,Total,Male,Net Attendance Ratio,Primary Level,95.5
+Kerala,Total,Male,Gross Attendance Ratio,Secondary Level,98.0
+Kerala,Total,Male,Net Attendance Ratio,Secondary Level,78.6
+Kerala,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,97.5
+Kerala,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,86.7
+Kerala,Total,Person,Gross Attendance Ratio,Higher Secondary Level,99.9
+Kerala,Total,Person,Net Attendance Ratio,Higher Secondary Level,78.5
+Kerala,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,37.6
+Kerala,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,33.2
+Kerala,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.9
+Kerala,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.6
+Kerala,Total,Person,Gross Attendance Ratio,Primary Level,103.6
+Kerala,Total,Person,Net Attendance Ratio,Primary Level,94.4
+Kerala,Total,Person,Gross Attendance Ratio,Secondary Level,97.3
+Kerala,Total,Person,Net Attendance Ratio,Secondary Level,76.9
+Kerala,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,97.2
+Kerala,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,86.3
+Kerala,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,88.8
+Kerala,Urban,Female,Net Attendance Ratio,Higher Secondary Level,74.2
+Kerala,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,44.0
+Kerala,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,39.0
+Kerala,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,102.9
+Kerala,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,96.9
+Kerala,Urban,Female,Gross Attendance Ratio,Primary Level,103.8
+Kerala,Urban,Female,Net Attendance Ratio,Primary Level,96.1
+Kerala,Urban,Female,Gross Attendance Ratio,Secondary Level,92.3
+Kerala,Urban,Female,Net Attendance Ratio,Secondary Level,75.0
+Kerala,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,101.7
+Kerala,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,88.0
+Kerala,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,103.6
+Kerala,Urban,Male,Net Attendance Ratio,Higher Secondary Level,78.4
+Kerala,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,31.6
+Kerala,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,26.2
+Kerala,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.5
+Kerala,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.9
+Kerala,Urban,Male,Gross Attendance Ratio,Primary Level,108.7
+Kerala,Urban,Male,Net Attendance Ratio,Primary Level,96.8
+Kerala,Urban,Male,Gross Attendance Ratio,Secondary Level,101.4
+Kerala,Urban,Male,Net Attendance Ratio,Secondary Level,78.4
+Kerala,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,98.5
+Kerala,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,87.1
+Kerala,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,96.1
+Kerala,Urban,Person,Net Attendance Ratio,Higher Secondary Level,76.3
+Kerala,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,37.6
+Kerala,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,32.4
+Kerala,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,103.7
+Kerala,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,95.9
+Kerala,Urban,Person,Gross Attendance Ratio,Primary Level,106.3
+Kerala,Urban,Person,Net Attendance Ratio,Primary Level,96.4
+Kerala,Urban,Person,Gross Attendance Ratio,Secondary Level,97.7
+Kerala,Urban,Person,Net Attendance Ratio,Secondary Level,77.0
+Kerala,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,100.1
+Kerala,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,87.5
+Tamil Nadu,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,98.8
+Tamil Nadu,Rural,Female,Net Attendance Ratio,Higher Secondary Level,63.2
+Tamil Nadu,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,32.5
+Tamil Nadu,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,25.7
+Tamil Nadu,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.6
+Tamil Nadu,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.1
+Tamil Nadu,Rural,Female,Gross Attendance Ratio,Primary Level,99.9
+Tamil Nadu,Rural,Female,Net Attendance Ratio,Primary Level,88.7
+Tamil Nadu,Rural,Female,Gross Attendance Ratio,Secondary Level,98.2
+Tamil Nadu,Rural,Female,Net Attendance Ratio,Secondary Level,69.1
+Tamil Nadu,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.7
+Tamil Nadu,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,75.4
+Tamil Nadu,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,81.0
+Tamil Nadu,Rural,Male,Net Attendance Ratio,Higher Secondary Level,61.2
+Tamil Nadu,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,31.9
+Tamil Nadu,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,27.5
+Tamil Nadu,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.5
+Tamil Nadu,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.7
+Tamil Nadu,Rural,Male,Gross Attendance Ratio,Primary Level,98.8
+Tamil Nadu,Rural,Male,Net Attendance Ratio,Primary Level,88.6
+Tamil Nadu,Rural,Male,Gross Attendance Ratio,Secondary Level,89.7
+Tamil Nadu,Rural,Male,Net Attendance Ratio,Secondary Level,67.8
+Tamil Nadu,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,95.7
+Tamil Nadu,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.0
+Tamil Nadu,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,88.1
+Tamil Nadu,Rural,Person,Net Attendance Ratio,Higher Secondary Level,62.0
+Tamil Nadu,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,32.2
+Tamil Nadu,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,26.6
+Tamil Nadu,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.1
+Tamil Nadu,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.9
+Tamil Nadu,Rural,Person,Gross Attendance Ratio,Primary Level,99.4
+Tamil Nadu,Rural,Person,Net Attendance Ratio,Primary Level,88.7
+Tamil Nadu,Rural,Person,Gross Attendance Ratio,Secondary Level,93.8
+Tamil Nadu,Rural,Person,Net Attendance Ratio,Secondary Level,68.4
+Tamil Nadu,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,93.8
+Tamil Nadu,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,78.4
+Tamil Nadu,Total,Female,Gross Attendance Ratio,Higher Secondary Level,101.8
+Tamil Nadu,Total,Female,Net Attendance Ratio,Higher Secondary Level,65.2
+Tamil Nadu,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,32.2
+Tamil Nadu,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,27.2
+Tamil Nadu,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.4
+Tamil Nadu,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.0
+Tamil Nadu,Total,Female,Gross Attendance Ratio,Primary Level,107.9
+Tamil Nadu,Total,Female,Net Attendance Ratio,Primary Level,91.3
+Tamil Nadu,Total,Female,Gross Attendance Ratio,Secondary Level,92.0
+Tamil Nadu,Total,Female,Net Attendance Ratio,Secondary Level,68.0
+Tamil Nadu,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.6
+Tamil Nadu,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,81.7
+Tamil Nadu,Total,Male,Gross Attendance Ratio,Higher Secondary Level,84.5
+Tamil Nadu,Total,Male,Net Attendance Ratio,Higher Secondary Level,59.2
+Tamil Nadu,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,39.0
+Tamil Nadu,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,34.0
+Tamil Nadu,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.4
+Tamil Nadu,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.6
+Tamil Nadu,Total,Male,Gross Attendance Ratio,Primary Level,99.3
+Tamil Nadu,Total,Male,Net Attendance Ratio,Primary Level,88.1
+Tamil Nadu,Total,Male,Gross Attendance Ratio,Secondary Level,88.0
+Tamil Nadu,Total,Male,Net Attendance Ratio,Secondary Level,65.5
+Tamil Nadu,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,99.7
+Tamil Nadu,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.0
+Tamil Nadu,Total,Person,Gross Attendance Ratio,Higher Secondary Level,91.9
+Tamil Nadu,Total,Person,Net Attendance Ratio,Higher Secondary Level,61.8
+Tamil Nadu,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,35.4
+Tamil Nadu,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,30.4
+Tamil Nadu,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.4
+Tamil Nadu,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.3
+Tamil Nadu,Total,Person,Gross Attendance Ratio,Primary Level,103.2
+Tamil Nadu,Total,Person,Net Attendance Ratio,Primary Level,89.5
+Tamil Nadu,Total,Person,Gross Attendance Ratio,Secondary Level,89.8
+Tamil Nadu,Total,Person,Net Attendance Ratio,Secondary Level,66.7
+Tamil Nadu,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,96.4
+Tamil Nadu,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,81.3
+Tamil Nadu,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,105.2
+Tamil Nadu,Urban,Female,Net Attendance Ratio,Higher Secondary Level,67.6
+Tamil Nadu,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,31.9
+Tamil Nadu,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,28.3
+Tamil Nadu,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,108.6
+Tamil Nadu,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.9
+Tamil Nadu,Urban,Female,Gross Attendance Ratio,Primary Level,121.5
+Tamil Nadu,Urban,Female,Net Attendance Ratio,Primary Level,95.6
+Tamil Nadu,Urban,Female,Gross Attendance Ratio,Secondary Level,83.1
+Tamil Nadu,Urban,Female,Net Attendance Ratio,Secondary Level,66.6
+Tamil Nadu,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,93.8
+Tamil Nadu,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,89.7
+Tamil Nadu,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,90.1
+Tamil Nadu,Urban,Male,Net Attendance Ratio,Higher Secondary Level,55.9
+Tamil Nadu,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,47.3
+Tamil Nadu,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,41.5
+Tamil Nadu,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.6
+Tamil Nadu,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.6
+Tamil Nadu,Urban,Male,Gross Attendance Ratio,Primary Level,99.7
+Tamil Nadu,Urban,Male,Net Attendance Ratio,Primary Level,87.5
+Tamil Nadu,Urban,Male,Gross Attendance Ratio,Secondary Level,85.9
+Tamil Nadu,Urban,Male,Net Attendance Ratio,Secondary Level,62.6
+Tamil Nadu,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,104.6
+Tamil Nadu,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,81.0
+Tamil Nadu,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,97.2
+Tamil Nadu,Urban,Person,Net Attendance Ratio,Higher Secondary Level,61.5
+Tamil Nadu,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,38.5
+Tamil Nadu,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,34.0
+Tamil Nadu,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,104.5
+Tamil Nadu,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,94.1
+Tamil Nadu,Urban,Person,Gross Attendance Ratio,Primary Level,108.1
+Tamil Nadu,Urban,Person,Net Attendance Ratio,Primary Level,90.6
+Tamil Nadu,Urban,Person,Gross Attendance Ratio,Secondary Level,84.6
+Tamil Nadu,Urban,Person,Net Attendance Ratio,Secondary Level,64.4
+Tamil Nadu,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,99.6
+Tamil Nadu,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,85.0
+Telangana,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,86.4
+Telangana,Rural,Female,Net Attendance Ratio,Higher Secondary Level,66.6
+Telangana,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,16.1
+Telangana,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,13.7
+Telangana,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,95.3
+Telangana,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,87.5
+Telangana,Rural,Female,Gross Attendance Ratio,Primary Level,97.7
+Telangana,Rural,Female,Net Attendance Ratio,Primary Level,81.5
+Telangana,Rural,Female,Gross Attendance Ratio,Secondary Level,120.2
+Telangana,Rural,Female,Net Attendance Ratio,Secondary Level,77.6
+Telangana,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,92.0
+Telangana,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,70.7
+Telangana,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,90.8
+Telangana,Rural,Male,Net Attendance Ratio,Higher Secondary Level,50.9
+Telangana,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,28.6
+Telangana,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,24.6
+Telangana,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.1
+Telangana,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.8
+Telangana,Rural,Male,Gross Attendance Ratio,Primary Level,93.2
+Telangana,Rural,Male,Net Attendance Ratio,Primary Level,81.3
+Telangana,Rural,Male,Gross Attendance Ratio,Secondary Level,103.4
+Telangana,Rural,Male,Net Attendance Ratio,Secondary Level,77.3
+Telangana,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,107.8
+Telangana,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,82.9
+Telangana,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,88.5
+Telangana,Rural,Person,Net Attendance Ratio,Higher Secondary Level,59.2
+Telangana,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,22.2
+Telangana,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,19.0
+Telangana,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.3
+Telangana,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.8
+Telangana,Rural,Person,Gross Attendance Ratio,Primary Level,95.3
+Telangana,Rural,Person,Net Attendance Ratio,Primary Level,81.4
+Telangana,Rural,Person,Gross Attendance Ratio,Secondary Level,109.4
+Telangana,Rural,Person,Net Attendance Ratio,Secondary Level,77.4
+Telangana,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,100.1
+Telangana,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,77.0
+Telangana,Total,Female,Gross Attendance Ratio,Higher Secondary Level,91.9
+Telangana,Total,Female,Net Attendance Ratio,Higher Secondary Level,70.2
+Telangana,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,24.1
+Telangana,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,20.2
+Telangana,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,96.5
+Telangana,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.0
+Telangana,Total,Female,Gross Attendance Ratio,Primary Level,90.0
+Telangana,Total,Female,Net Attendance Ratio,Primary Level,79.2
+Telangana,Total,Female,Gross Attendance Ratio,Secondary Level,112.3
+Telangana,Total,Female,Net Attendance Ratio,Secondary Level,77.5
+Telangana,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,108.3
+Telangana,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,70.8
+Telangana,Total,Male,Gross Attendance Ratio,Higher Secondary Level,99.9
+Telangana,Total,Male,Net Attendance Ratio,Higher Secondary Level,78.3
+Telangana,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,33.5
+Telangana,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,29.9
+Telangana,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.8
+Telangana,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.8
+Telangana,Total,Male,Gross Attendance Ratio,Primary Level,95.2
+Telangana,Total,Male,Net Attendance Ratio,Primary Level,84.7
+Telangana,Total,Male,Gross Attendance Ratio,Secondary Level,106.8
+Telangana,Total,Male,Net Attendance Ratio,Secondary Level,76.4
+Telangana,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,104.4
+Telangana,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,79.7
+Telangana,Total,Person,Gross Attendance Ratio,Higher Secondary Level,96.8
+Telangana,Total,Person,Net Attendance Ratio,Higher Secondary Level,75.2
+Telangana,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,28.9
+Telangana,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,25.2
+Telangana,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,97.7
+Telangana,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.0
+Telangana,Total,Person,Gross Attendance Ratio,Primary Level,92.8
+Telangana,Total,Person,Net Attendance Ratio,Primary Level,82.2
+Telangana,Total,Person,Gross Attendance Ratio,Secondary Level,109.0
+Telangana,Total,Person,Net Attendance Ratio,Secondary Level,76.8
+Telangana,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,106.1
+Telangana,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,75.8
+Telangana,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,98.9
+Telangana,Urban,Female,Net Attendance Ratio,Higher Secondary Level,74.7
+Telangana,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,34.8
+Telangana,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,29.0
+Telangana,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.1
+Telangana,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,93.3
+Telangana,Urban,Female,Gross Attendance Ratio,Primary Level,81.8
+Telangana,Urban,Female,Net Attendance Ratio,Primary Level,76.9
+Telangana,Urban,Female,Gross Attendance Ratio,Secondary Level,103.1
+Telangana,Urban,Female,Net Attendance Ratio,Secondary Level,77.3
+Telangana,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,146.2
+Telangana,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,71.2
+Telangana,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,104.1
+Telangana,Urban,Male,Net Attendance Ratio,Higher Secondary Level,91.0
+Telangana,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,39.1
+Telangana,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,36.0
+Telangana,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.4
+Telangana,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.8
+Telangana,Urban,Male,Gross Attendance Ratio,Primary Level,97.4
+Telangana,Urban,Male,Net Attendance Ratio,Primary Level,88.4
+Telangana,Urban,Male,Gross Attendance Ratio,Secondary Level,112.6
+Telangana,Urban,Male,Net Attendance Ratio,Secondary Level,74.7
+Telangana,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,100.1
+Telangana,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,75.5
+Telangana,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,102.6
+Telangana,Urban,Person,Net Attendance Ratio,Higher Secondary Level,86.3
+Telangana,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,37.1
+Telangana,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,32.7
+Telangana,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.3
+Telangana,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.4
+Telangana,Urban,Person,Gross Attendance Ratio,Primary Level,90.1
+Telangana,Urban,Person,Net Attendance Ratio,Primary Level,83.0
+Telangana,Urban,Person,Gross Attendance Ratio,Secondary Level,108.3
+Telangana,Urban,Person,Net Attendance Ratio,Secondary Level,75.9
+Telangana,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,115.8
+Telangana,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,74.0
+Ladakh,Rural,Female,Gross Attendance Ratio,Higher Secondary Level,78.7
+Ladakh,Rural,Female,Net Attendance Ratio,Higher Secondary Level,50.9
+Ladakh,Rural,Female,Gross Attendance Ratio,Post Higher Secondary Level,26.4
+Ladakh,Rural,Female,Net Attendance Ratio,Post Higher Secondary Level,24.9
+Ladakh,Rural,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.2
+Ladakh,Rural,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.7
+Ladakh,Rural,Female,Gross Attendance Ratio,Primary Level,95.8
+Ladakh,Rural,Female,Net Attendance Ratio,Primary Level,84.9
+Ladakh,Rural,Female,Gross Attendance Ratio,Secondary Level,112.5
+Ladakh,Rural,Female,Net Attendance Ratio,Secondary Level,67.0
+Ladakh,Rural,Female,Gross Attendance Ratio,Upper Primary/Middle Level,106.1
+Ladakh,Rural,Female,Net Attendance Ratio,Upper Primary/Middle Level,81.8
+Ladakh,Rural,Male,Gross Attendance Ratio,Higher Secondary Level,69.8
+Ladakh,Rural,Male,Net Attendance Ratio,Higher Secondary Level,44.7
+Ladakh,Rural,Male,Gross Attendance Ratio,Post Higher Secondary Level,33.7
+Ladakh,Rural,Male,Net Attendance Ratio,Post Higher Secondary Level,30.5
+Ladakh,Rural,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.7
+Ladakh,Rural,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.8
+Ladakh,Rural,Male,Gross Attendance Ratio,Primary Level,105.6
+Ladakh,Rural,Male,Net Attendance Ratio,Primary Level,90.5
+Ladakh,Rural,Male,Gross Attendance Ratio,Secondary Level,120.6
+Ladakh,Rural,Male,Net Attendance Ratio,Secondary Level,72.9
+Ladakh,Rural,Male,Gross Attendance Ratio,Upper Primary/Middle Level,93.7
+Ladakh,Rural,Male,Net Attendance Ratio,Upper Primary/Middle Level,76.9
+Ladakh,Rural,Person,Gross Attendance Ratio,Higher Secondary Level,73.9
+Ladakh,Rural,Person,Net Attendance Ratio,Higher Secondary Level,47.6
+Ladakh,Rural,Person,Gross Attendance Ratio,Post Higher Secondary Level,30.1
+Ladakh,Rural,Person,Net Attendance Ratio,Post Higher Secondary Level,27.7
+Ladakh,Rural,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.7
+Ladakh,Rural,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.9
+Ladakh,Rural,Person,Gross Attendance Ratio,Primary Level,101.4
+Ladakh,Rural,Person,Net Attendance Ratio,Primary Level,88.1
+Ladakh,Rural,Person,Gross Attendance Ratio,Secondary Level,117.1
+Ladakh,Rural,Person,Net Attendance Ratio,Secondary Level,70.4
+Ladakh,Rural,Person,Gross Attendance Ratio,Upper Primary/Middle Level,99.1
+Ladakh,Rural,Person,Net Attendance Ratio,Upper Primary/Middle Level,79.0
+Ladakh,Total,Female,Gross Attendance Ratio,Higher Secondary Level,81.2
+Ladakh,Total,Female,Net Attendance Ratio,Higher Secondary Level,49.5
+Ladakh,Total,Female,Gross Attendance Ratio,Post Higher Secondary Level,31.1
+Ladakh,Total,Female,Net Attendance Ratio,Post Higher Secondary Level,27.5
+Ladakh,Total,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,99.0
+Ladakh,Total,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.1
+Ladakh,Total,Female,Gross Attendance Ratio,Primary Level,96.9
+Ladakh,Total,Female,Net Attendance Ratio,Primary Level,85.2
+Ladakh,Total,Female,Gross Attendance Ratio,Secondary Level,110.2
+Ladakh,Total,Female,Net Attendance Ratio,Secondary Level,67.0
+Ladakh,Total,Female,Gross Attendance Ratio,Upper Primary/Middle Level,103.1
+Ladakh,Total,Female,Net Attendance Ratio,Upper Primary/Middle Level,81.4
+Ladakh,Total,Male,Gross Attendance Ratio,Higher Secondary Level,73.6
+Ladakh,Total,Male,Net Attendance Ratio,Higher Secondary Level,43.3
+Ladakh,Total,Male,Gross Attendance Ratio,Post Higher Secondary Level,34.9
+Ladakh,Total,Male,Net Attendance Ratio,Post Higher Secondary Level,31.3
+Ladakh,Total,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,101.1
+Ladakh,Total,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,92.2
+Ladakh,Total,Male,Gross Attendance Ratio,Primary Level,105.6
+Ladakh,Total,Male,Net Attendance Ratio,Primary Level,90.2
+Ladakh,Total,Male,Gross Attendance Ratio,Secondary Level,119.9
+Ladakh,Total,Male,Net Attendance Ratio,Secondary Level,71.5
+Ladakh,Total,Male,Gross Attendance Ratio,Upper Primary/Middle Level,92.2
+Ladakh,Total,Male,Net Attendance Ratio,Upper Primary/Middle Level,76.2
+Ladakh,Total,Person,Gross Attendance Ratio,Higher Secondary Level,77.0
+Ladakh,Total,Person,Net Attendance Ratio,Higher Secondary Level,46.1
+Ladakh,Total,Person,Gross Attendance Ratio,Post Higher Secondary Level,33.1
+Ladakh,Total,Person,Net Attendance Ratio,Post Higher Secondary Level,29.5
+Ladakh,Total,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,100.2
+Ladakh,Total,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,91.3
+Ladakh,Total,Person,Gross Attendance Ratio,Primary Level,101.9
+Ladakh,Total,Person,Net Attendance Ratio,Primary Level,88.1
+Ladakh,Total,Person,Gross Attendance Ratio,Secondary Level,115.7
+Ladakh,Total,Person,Net Attendance Ratio,Secondary Level,69.6
+Ladakh,Total,Person,Gross Attendance Ratio,Upper Primary/Middle Level,96.9
+Ladakh,Total,Person,Net Attendance Ratio,Upper Primary/Middle Level,78.4
+Ladakh,Urban,Female,Gross Attendance Ratio,Higher Secondary Level,95.5
+Ladakh,Urban,Female,Net Attendance Ratio,Higher Secondary Level,42.1
+Ladakh,Urban,Female,Gross Attendance Ratio,Post Higher Secondary Level,50.8
+Ladakh,Urban,Female,Net Attendance Ratio,Post Higher Secondary Level,38.5
+Ladakh,Urban,Female,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.0
+Ladakh,Urban,Female,Net Attendance Ratio,Primary And Upper Primary/Middle Level,88.0
+Ladakh,Urban,Female,Gross Attendance Ratio,Primary Level,101.7
+Ladakh,Urban,Female,Net Attendance Ratio,Primary Level,86.8
+Ladakh,Urban,Female,Gross Attendance Ratio,Secondary Level,101.9
+Ladakh,Urban,Female,Net Attendance Ratio,Secondary Level,67.2
+Ladakh,Urban,Female,Gross Attendance Ratio,Upper Primary/Middle Level,91.7
+Ladakh,Urban,Female,Net Attendance Ratio,Upper Primary/Middle Level,79.8
+Ladakh,Urban,Male,Gross Attendance Ratio,Higher Secondary Level,87.1
+Ladakh,Urban,Male,Net Attendance Ratio,Higher Secondary Level,38.1
+Ladakh,Urban,Male,Gross Attendance Ratio,Post Higher Secondary Level,38.5
+Ladakh,Urban,Male,Net Attendance Ratio,Post Higher Secondary Level,33.7
+Ladakh,Urban,Male,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.6
+Ladakh,Urban,Male,Net Attendance Ratio,Primary And Upper Primary/Middle Level,90.1
+Ladakh,Urban,Male,Gross Attendance Ratio,Primary Level,105.5
+Ladakh,Urban,Male,Net Attendance Ratio,Primary Level,88.7
+Ladakh,Urban,Male,Gross Attendance Ratio,Secondary Level,117.3
+Ladakh,Urban,Male,Net Attendance Ratio,Secondary Level,65.8
+Ladakh,Urban,Male,Gross Attendance Ratio,Upper Primary/Middle Level,87.2
+Ladakh,Urban,Male,Net Attendance Ratio,Upper Primary/Middle Level,73.7
+Ladakh,Urban,Person,Gross Attendance Ratio,Higher Secondary Level,90.1
+Ladakh,Urban,Person,Net Attendance Ratio,Higher Secondary Level,39.6
+Ladakh,Urban,Person,Gross Attendance Ratio,Post Higher Secondary Level,43.4
+Ladakh,Urban,Person,Net Attendance Ratio,Post Higher Secondary Level,35.6
+Ladakh,Urban,Person,Gross Attendance Ratio,Primary And Upper Primary/Middle Level,98.4
+Ladakh,Urban,Person,Net Attendance Ratio,Primary And Upper Primary/Middle Level,89.2
+Ladakh,Urban,Person,Gross Attendance Ratio,Primary Level,103.9
+Ladakh,Urban,Person,Net Attendance Ratio,Primary Level,87.9
+Ladakh,Urban,Person,Gross Attendance Ratio,Secondary Level,110.5
+Ladakh,Urban,Person,Net Attendance Ratio,Secondary Level,66.4
+Ladakh,Urban,Person,Gross Attendance Ratio,Upper Primary/Middle Level,89.0
+Ladakh,Urban,Person,Net Attendance Ratio,Upper Primary/Middle Level,76.2

@@ -127,3 +127,14 @@ class DataReader():
 
 
         return df
+    
+    def extractEducationParticipationData(self):
+
+        # Read Raw Data Frames
+        df_attendence_age = pd.read_csv(self.data_folder_location+"/State_Attendance_Age.csv")
+        df_attendence_education_level = pd.read_csv(self.data_folder_location+"/State_Attendance_EducationLevel.csv")
+        df_courses = pd.read_csv(self.data_folder_location+"/State_Course_Type.csv")
+        df_enrollement_education_level = pd.read_csv(self.data_folder_location+"/State_Enrollement_EducationLevel.csv")
+        df_institute_course = pd.read_csv(self.data_folder_location+"/State_InstituteType_Course.csv")
+
+        return df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_course

@@ -1,0 +1,2917 @@
+State,Residence_Type,Gender,Age group,Attendance ratio
+J & K,Rural,Female,11-13 years,95.4
+J & K,Rural,Female,14-17 years,87
+J & K,Rural,Female,18-23 years,40.3
+J & K,Rural,Female,24-29 years,0.8
+J & K,Rural,Female,30-35 years,0
+J & K,Rural,Female,3-35 years,45.1
+J & K,Rural,Female,3-5 years,23.7
+J & K,Rural,Female,5-29 years,55.7
+J & K,Rural,Female,6-10 years,97.8
+J & K,Rural,Male,11-13 years,98.4
+J & K,Rural,Male,14-17 years,89
+J & K,Rural,Male,18-23 years,47.6
+J & K,Rural,Male,24-29 years,2.7
+J & K,Rural,Male,30-35 years,0
+J & K,Rural,Male,3-35 years,50.4
+J & K,Rural,Male,3-5 years,24.9
+J & K,Rural,Male,5-29 years,63.9
+J & K,Rural,Male,6-10 years,98.5
+J & K,Rural,Person,11-13 years,97.1
+J & K,Rural,Person,14-17 years,88.1
+J & K,Rural,Person,18-23 years,44
+J & K,Rural,Person,24-29 years,1.7
+J & K,Rural,Person,30-35 years,0
+J & K,Rural,Person,3-35 years,48
+J & K,Rural,Person,3-5 years,24.4
+J & K,Rural,Person,5-29 years,60.1
+J & K,Rural,Person,6-10 years,98.2
+J & K,Total,Female,11-13 years,96.1
+J & K,Total,Female,14-17 years,86.9
+J & K,Total,Female,18-23 years,43.6
+J & K,Total,Female,24-29 years,2.5
+J & K,Total,Female,30-35 years,0
+J & K,Total,Female,3-35 years,45.5
+J & K,Total,Female,3-5 years,28.4
+J & K,Total,Female,5-29 years,56.4
+J & K,Total,Female,6-10 years,97.6
+J & K,Total,Male,11-13 years,98.1
+J & K,Total,Male,14-17 years,88
+J & K,Total,Male,18-23 years,49
+J & K,Total,Male,24-29 years,3
+J & K,Total,Male,30-35 years,0
+J & K,Total,Male,3-35 years,50.5
+J & K,Total,Male,3-5 years,28.1
+J & K,Total,Male,5-29 years,63.5
+J & K,Total,Male,6-10 years,98.1
+J & K,Total,Person,11-13 years,97.2
+J & K,Total,Person,14-17 years,87.6
+J & K,Total,Person,18-23 years,46.4
+J & K,Total,Person,24-29 years,2.7
+J & K,Total,Person,30-35 years,0
+J & K,Total,Person,3-35 years,48.2
+J & K,Total,Person,3-5 years,28.2
+J & K,Total,Person,5-29 years,60.2
+J & K,Total,Person,6-10 years,97.9
+J & K,Urban,Female,11-13 years,98.6
+J & K,Urban,Female,14-17 years,86.7
+J & K,Urban,Female,18-23 years,57.8
+J & K,Urban,Female,24-29 years,8.2
+J & K,Urban,Female,30-35 years,0
+J & K,Urban,Female,3-35 years,47.1
+J & K,Urban,Female,3-5 years,47.3
+J & K,Urban,Female,5-29 years,59
+J & K,Urban,Female,6-10 years,96.6
+J & K,Urban,Male,11-13 years,96.9
+J & K,Urban,Male,14-17 years,84.3
+J & K,Urban,Male,18-23 years,53
+J & K,Urban,Male,24-29 years,4
+J & K,Urban,Male,30-35 years,0
+J & K,Urban,Male,3-35 years,51
+J & K,Urban,Male,3-5 years,43.4
+J & K,Urban,Male,5-29 years,62.3
+J & K,Urban,Male,6-10 years,96.3
+J & K,Urban,Person,11-13 years,97.6
+J & K,Urban,Person,14-17 years,85.3
+J & K,Urban,Person,18-23 years,54.9
+J & K,Urban,Person,24-29 years,6.2
+J & K,Urban,Person,30-35 years,0
+J & K,Urban,Person,3-35 years,49.3
+J & K,Urban,Person,3-5 years,45.2
+J & K,Urban,Person,5-29 years,60.8
+J & K,Urban,Person,6-10 years,96.5
+Himachal Pradesh,Rural,Female,11-13 years,98.6
+Himachal Pradesh,Rural,Female,14-17 years,93.5
+Himachal Pradesh,Rural,Female,18-23 years,42.4
+Himachal Pradesh,Rural,Female,24-29 years,2.1
+Himachal Pradesh,Rural,Female,30-35 years,0.3
+Himachal Pradesh,Rural,Female,3-35 years,51.3
+Himachal Pradesh,Rural,Female,3-5 years,51.5
+Himachal Pradesh,Rural,Female,5-29 years,62.3
+Himachal Pradesh,Rural,Female,6-10 years,99.7
+Himachal Pradesh,Rural,Male,11-13 years,99.8
+Himachal Pradesh,Rural,Male,14-17 years,94.6
+Himachal Pradesh,Rural,Male,18-23 years,39.8
+Himachal Pradesh,Rural,Male,24-29 years,1.6
+Himachal Pradesh,Rural,Male,30-35 years,0.1
+Himachal Pradesh,Rural,Male,3-35 years,54.5
+Himachal Pradesh,Rural,Male,3-5 years,54.9
+Himachal Pradesh,Rural,Male,5-29 years,64.5
+Himachal Pradesh,Rural,Male,6-10 years,100
+Himachal Pradesh,Rural,Person,11-13 years,99.3
+Himachal Pradesh,Rural,Person,14-17 years,94.1
+Himachal Pradesh,Rural,Person,18-23 years,41.2
+Himachal Pradesh,Rural,Person,24-29 years,1.8
+Himachal Pradesh,Rural,Person,30-35 years,0.2
+Himachal Pradesh,Rural,Person,3-35 years,52.9
+Himachal Pradesh,Rural,Person,3-5 years,53.2
+Himachal Pradesh,Rural,Person,5-29 years,63.4
+Himachal Pradesh,Rural,Person,6-10 years,99.9
+Himachal Pradesh,Total,Female,11-13 years,98.8
+Himachal Pradesh,Total,Female,14-17 years,94.4
+Himachal Pradesh,Total,Female,18-23 years,43.3
+Himachal Pradesh,Total,Female,24-29 years,2.2
+Himachal Pradesh,Total,Female,30-35 years,0.3
+Himachal Pradesh,Total,Female,3-35 years,51.7
+Himachal Pradesh,Total,Female,3-5 years,53.8
+Himachal Pradesh,Total,Female,5-29 years,62.9
+Himachal Pradesh,Total,Female,6-10 years,99.8
+Himachal Pradesh,Total,Male,11-13 years,99.9
+Himachal Pradesh,Total,Male,14-17 years,95
+Himachal Pradesh,Total,Male,18-23 years,40.9
+Himachal Pradesh,Total,Male,24-29 years,2.9
+Himachal Pradesh,Total,Male,30-35 years,0
+Himachal Pradesh,Total,Male,3-35 years,53.4
+Himachal Pradesh,Total,Male,3-5 years,55.7
+Himachal Pradesh,Total,Male,5-29 years,63.6
+Himachal Pradesh,Total,Male,6-10 years,100
+Himachal Pradesh,Total,Person,11-13 years,99.3
+Himachal Pradesh,Total,Person,14-17 years,94.7
+Himachal Pradesh,Total,Person,18-23 years,42.2
+Himachal Pradesh,Total,Person,24-29 years,2.6
+Himachal Pradesh,Total,Person,30-35 years,0.2
+Himachal Pradesh,Total,Person,3-35 years,52.6
+Himachal Pradesh,Total,Person,3-5 years,54.8
+Himachal Pradesh,Total,Person,5-29 years,63.2
+Himachal Pradesh,Total,Person,6-10 years,99.9
+Himachal Pradesh,Urban,Female,11-13 years,100
+Himachal Pradesh,Urban,Female,14-17 years,100
+Himachal Pradesh,Urban,Female,18-23 years,52.4
+Himachal Pradesh,Urban,Female,24-29 years,3.2
+Himachal Pradesh,Urban,Female,30-35 years,0
+Himachal Pradesh,Urban,Female,3-35 years,55.4
+Himachal Pradesh,Urban,Female,3-5 years,98.5
+Himachal Pradesh,Urban,Female,5-29 years,67.1
+Himachal Pradesh,Urban,Female,6-10 years,100
+Himachal Pradesh,Urban,Male,11-13 years,100
+Himachal Pradesh,Urban,Male,14-17 years,99.4
+Himachal Pradesh,Urban,Male,18-23 years,50.6
+Himachal Pradesh,Urban,Male,24-29 years,9.8
+Himachal Pradesh,Urban,Male,30-35 years,0
+Himachal Pradesh,Urban,Male,3-35 years,45.4
+Himachal Pradesh,Urban,Male,3-5 years,58.7
+Himachal Pradesh,Urban,Male,5-29 years,55.1
+Himachal Pradesh,Urban,Male,6-10 years,100
+Himachal Pradesh,Urban,Person,11-13 years,100
+Himachal Pradesh,Urban,Person,14-17 years,99.8
+Himachal Pradesh,Urban,Person,18-23 years,51.5
+Himachal Pradesh,Urban,Person,24-29 years,7.1
+Himachal Pradesh,Urban,Person,30-35 years,0
+Himachal Pradesh,Urban,Person,3-35 years,50.2
+Himachal Pradesh,Urban,Person,3-5 years,65.1
+Himachal Pradesh,Urban,Person,5-29 years,61.4
+Himachal Pradesh,Urban,Person,6-10 years,100
+Punjab,Rural,Female,11-13 years,97.5
+Punjab,Rural,Female,14-17 years,84
+Punjab,Rural,Female,18-23 years,30.3
+Punjab,Rural,Female,24-29 years,3
+Punjab,Rural,Female,30-35 years,0
+Punjab,Rural,Female,3-35 years,41.6
+Punjab,Rural,Female,3-5 years,56
+Punjab,Rural,Female,5-29 years,51.6
+Punjab,Rural,Female,6-10 years,98.8
+Punjab,Rural,Male,11-13 years,99.1
+Punjab,Rural,Male,14-17 years,85.7
+Punjab,Rural,Male,18-23 years,30
+Punjab,Rural,Male,24-29 years,2.8
+Punjab,Rural,Male,30-35 years,0.1
+Punjab,Rural,Male,3-35 years,48
+Punjab,Rural,Male,3-5 years,63.1
+Punjab,Rural,Male,5-29 years,57.5
+Punjab,Rural,Male,6-10 years,99.4
+Punjab,Rural,Person,11-13 years,98.4
+Punjab,Rural,Person,14-17 years,85
+Punjab,Rural,Person,18-23 years,30.2
+Punjab,Rural,Person,24-29 years,2.9
+Punjab,Rural,Person,30-35 years,0
+Punjab,Rural,Person,3-35 years,45.1
+Punjab,Rural,Person,3-5 years,59.8
+Punjab,Rural,Person,5-29 years,54.8
+Punjab,Rural,Person,6-10 years,99.1
+Punjab,Total,Female,11-13 years,98.2
+Punjab,Total,Female,14-17 years,84
+Punjab,Total,Female,18-23 years,32.9
+Punjab,Total,Female,24-29 years,2.4
+Punjab,Total,Female,30-35 years,0.4
+Punjab,Total,Female,3-35 years,40.1
+Punjab,Total,Female,3-5 years,57.9
+Punjab,Total,Female,5-29 years,50.4
+Punjab,Total,Female,6-10 years,94.4
+Punjab,Total,Male,11-13 years,98.9
+Punjab,Total,Male,14-17 years,87.8
+Punjab,Total,Male,18-23 years,31
+Punjab,Total,Male,24-29 years,2.2
+Punjab,Total,Male,30-35 years,0
+Punjab,Total,Male,3-35 years,46.1
+Punjab,Total,Male,3-5 years,64.5
+Punjab,Total,Male,5-29 years,55.7
+Punjab,Total,Male,6-10 years,98.8
+Punjab,Total,Person,11-13 years,98.6
+Punjab,Total,Person,14-17 years,86.3
+Punjab,Total,Person,18-23 years,31.8
+Punjab,Total,Person,24-29 years,2.3
+Punjab,Total,Person,30-35 years,0.2
+Punjab,Total,Person,3-35 years,43.4
+Punjab,Total,Person,3-5 years,61.6
+Punjab,Total,Person,5-29 years,53.4
+Punjab,Total,Person,6-10 years,96.9
+Punjab,Urban,Female,11-13 years,99.7
+Punjab,Urban,Female,14-17 years,84
+Punjab,Urban,Female,18-23 years,37.9
+Punjab,Urban,Female,24-29 years,1.5
+Punjab,Urban,Female,30-35 years,1
+Punjab,Urban,Female,3-35 years,37.2
+Punjab,Urban,Female,3-5 years,61.5
+Punjab,Urban,Female,5-29 years,48.1
+Punjab,Urban,Female,6-10 years,86.9
+Punjab,Urban,Male,11-13 years,98.5
+Punjab,Urban,Male,14-17 years,92.8
+Punjab,Urban,Male,18-23 years,32.5
+Punjab,Urban,Male,24-29 years,1.4
+Punjab,Urban,Male,30-35 years,0
+Punjab,Urban,Male,3-35 years,43
+Punjab,Urban,Male,3-5 years,66.7
+Punjab,Urban,Male,5-29 years,52.7
+Punjab,Urban,Male,6-10 years,97.8
+Punjab,Urban,Person,11-13 years,99
+Punjab,Urban,Person,14-17 years,89.4
+Punjab,Urban,Person,18-23 years,34.5
+Punjab,Urban,Person,24-29 years,1.4
+Punjab,Urban,Person,30-35 years,0.5
+Punjab,Urban,Person,3-35 years,40.4
+Punjab,Urban,Person,3-5 years,64.6
+Punjab,Urban,Person,5-29 years,50.7
+Punjab,Urban,Person,6-10 years,93
+Chandigarh,Rural,Female,11-13 years,100
+Chandigarh,Rural,Female,14-17 years,100
+Chandigarh,Rural,Female,18-23 years,7.5
+Chandigarh,Rural,Female,24-29 years,0.2
+Chandigarh,Rural,Female,30-35 years,0.4
+Chandigarh,Rural,Female,3-35 years,31.7
+Chandigarh,Rural,Female,3-5 years,0.5
+Chandigarh,Rural,Female,5-29 years,42.7
+Chandigarh,Rural,Female,6-10 years,100
+Chandigarh,Rural,Male,11-13 years,100
+Chandigarh,Rural,Male,14-17 years,99.9
+Chandigarh,Rural,Male,18-23 years,53.3
+Chandigarh,Rural,Male,24-29 years,0.2
+Chandigarh,Rural,Male,30-35 years,0
+Chandigarh,Rural,Male,3-35 years,48.1
+Chandigarh,Rural,Male,3-5 years,100
+Chandigarh,Rural,Male,5-29 years,58.2
+Chandigarh,Rural,Male,6-10 years,99.9
+Chandigarh,Rural,Person,11-13 years,100
+Chandigarh,Rural,Person,14-17 years,100
+Chandigarh,Rural,Person,18-23 years,30.6
+Chandigarh,Rural,Person,24-29 years,0.2
+Chandigarh,Rural,Person,30-35 years,0.2
+Chandigarh,Rural,Person,3-35 years,40.6
+Chandigarh,Rural,Person,3-5 years,86.4
+Chandigarh,Rural,Person,5-29 years,51.6
+Chandigarh,Rural,Person,6-10 years,99.9
+Chandigarh,Total,Female,11-13 years,92.5
+Chandigarh,Total,Female,14-17 years,100
+Chandigarh,Total,Female,18-23 years,50
+Chandigarh,Total,Female,24-29 years,1.1
+Chandigarh,Total,Female,30-35 years,0.3
+Chandigarh,Total,Female,3-35 years,52.2
+Chandigarh,Total,Female,3-5 years,98.1
+Chandigarh,Total,Female,5-29 years,59.9
+Chandigarh,Total,Female,6-10 years,100
+Chandigarh,Total,Male,11-13 years,100
+Chandigarh,Total,Male,14-17 years,90.7
+Chandigarh,Total,Male,18-23 years,64.3
+Chandigarh,Total,Male,24-29 years,3.5
+Chandigarh,Total,Male,30-35 years,0
+Chandigarh,Total,Male,3-35 years,57.6
+Chandigarh,Total,Male,3-5 years,89
+Chandigarh,Total,Male,5-29 years,65.8
+Chandigarh,Total,Male,6-10 years,100
+Chandigarh,Total,Person,11-13 years,96
+Chandigarh,Total,Person,14-17 years,94.8
+Chandigarh,Total,Person,18-23 years,58.7
+Chandigarh,Total,Person,24-29 years,2.3
+Chandigarh,Total,Person,30-35 years,0.1
+Chandigarh,Total,Person,3-35 years,55
+Chandigarh,Total,Person,3-5 years,94.7
+Chandigarh,Total,Person,5-29 years,63.1
+Chandigarh,Total,Person,6-10 years,100
+Chandigarh,Urban,Female,11-13 years,92.5
+Chandigarh,Urban,Female,14-17 years,100
+Chandigarh,Urban,Female,18-23 years,52
+Chandigarh,Urban,Female,24-29 years,1.2
+Chandigarh,Urban,Female,30-35 years,0.3
+Chandigarh,Urban,Female,3-35 years,53
+Chandigarh,Urban,Female,3-5 years,99.8
+Chandigarh,Urban,Female,5-29 years,60.5
+Chandigarh,Urban,Female,6-10 years,100
+Chandigarh,Urban,Male,11-13 years,100
+Chandigarh,Urban,Male,14-17 years,90.4
+Chandigarh,Urban,Male,18-23 years,64.7
+Chandigarh,Urban,Male,24-29 years,3.7
+Chandigarh,Urban,Male,30-35 years,0
+Chandigarh,Urban,Male,3-35 years,58
+Chandigarh,Urban,Male,3-5 years,86.7
+Chandigarh,Urban,Male,5-29 years,66.1
+Chandigarh,Urban,Male,6-10 years,100
+Chandigarh,Urban,Person,11-13 years,96
+Chandigarh,Urban,Person,14-17 years,94.7
+Chandigarh,Urban,Person,18-23 years,59.8
+Chandigarh,Urban,Person,24-29 years,2.4
+Chandigarh,Urban,Person,30-35 years,0.1
+Chandigarh,Urban,Person,3-35 years,55.6
+Chandigarh,Urban,Person,3-5 years,95.4
+Chandigarh,Urban,Person,5-29 years,63.5
+Chandigarh,Urban,Person,6-10 years,100
+Uttarakhand,Rural,Female,11-13 years,98.9
+Uttarakhand,Rural,Female,14-17 years,92
+Uttarakhand,Rural,Female,18-23 years,37.8
+Uttarakhand,Rural,Female,24-29 years,0.6
+Uttarakhand,Rural,Female,30-35 years,0
+Uttarakhand,Rural,Female,3-35 years,48.1
+Uttarakhand,Rural,Female,3-5 years,42
+Uttarakhand,Rural,Female,5-29 years,58.3
+Uttarakhand,Rural,Female,6-10 years,99.9
+Uttarakhand,Rural,Male,11-13 years,97.3
+Uttarakhand,Rural,Male,14-17 years,93.8
+Uttarakhand,Rural,Male,18-23 years,44.4
+Uttarakhand,Rural,Male,24-29 years,1.1
+Uttarakhand,Rural,Male,30-35 years,0
+Uttarakhand,Rural,Male,3-35 years,49.7
+Uttarakhand,Rural,Male,3-5 years,18.1
+Uttarakhand,Rural,Male,5-29 years,65.3
+Uttarakhand,Rural,Male,6-10 years,98.4
+Uttarakhand,Rural,Person,11-13 years,98
+Uttarakhand,Rural,Person,14-17 years,93
+Uttarakhand,Rural,Person,18-23 years,41.1
+Uttarakhand,Rural,Person,24-29 years,0.8
+Uttarakhand,Rural,Person,30-35 years,0
+Uttarakhand,Rural,Person,3-35 years,49
+Uttarakhand,Rural,Person,3-5 years,27.1
+Uttarakhand,Rural,Person,5-29 years,61.9
+Uttarakhand,Rural,Person,6-10 years,99.1
+Uttarakhand,Total,Female,11-13 years,98.8
+Uttarakhand,Total,Female,14-17 years,92.7
+Uttarakhand,Total,Female,18-23 years,38.5
+Uttarakhand,Total,Female,24-29 years,1
+Uttarakhand,Total,Female,30-35 years,0.3
+Uttarakhand,Total,Female,3-35 years,46.5
+Uttarakhand,Total,Female,3-5 years,44.1
+Uttarakhand,Total,Female,5-29 years,57
+Uttarakhand,Total,Female,6-10 years,99.7
+Uttarakhand,Total,Male,11-13 years,97.1
+Uttarakhand,Total,Male,14-17 years,92.3
+Uttarakhand,Total,Male,18-23 years,48.9
+Uttarakhand,Total,Male,24-29 years,1.8
+Uttarakhand,Total,Male,30-35 years,0.3
+Uttarakhand,Total,Male,3-35 years,49.3
+Uttarakhand,Total,Male,3-5 years,18.1
+Uttarakhand,Total,Male,5-29 years,64.3
+Uttarakhand,Total,Male,6-10 years,98.7
+Uttarakhand,Total,Person,11-13 years,97.8
+Uttarakhand,Total,Person,14-17 years,92.5
+Uttarakhand,Total,Person,18-23 years,43.9
+Uttarakhand,Total,Person,24-29 years,1.4
+Uttarakhand,Total,Person,30-35 years,0.3
+Uttarakhand,Total,Person,3-35 years,48
+Uttarakhand,Total,Person,3-5 years,28.7
+Uttarakhand,Total,Person,5-29 years,60.9
+Uttarakhand,Total,Person,6-10 years,99.1
+Uttarakhand,Urban,Female,11-13 years,98.4
+Uttarakhand,Urban,Female,14-17 years,94.5
+Uttarakhand,Urban,Female,18-23 years,41
+Uttarakhand,Urban,Female,24-29 years,2
+Uttarakhand,Urban,Female,30-35 years,1
+Uttarakhand,Urban,Female,3-35 years,42
+Uttarakhand,Urban,Female,3-5 years,48.6
+Uttarakhand,Urban,Female,5-29 years,53.3
+Uttarakhand,Urban,Female,6-10 years,98.5
+Uttarakhand,Urban,Male,11-13 years,96.5
+Uttarakhand,Urban,Male,14-17 years,87.8
+Uttarakhand,Urban,Male,18-23 years,60.8
+Uttarakhand,Urban,Male,24-29 years,3.2
+Uttarakhand,Urban,Male,30-35 years,0.9
+Uttarakhand,Urban,Male,3-35 years,48.2
+Uttarakhand,Urban,Male,3-5 years,18.1
+Uttarakhand,Urban,Male,5-29 years,61.8
+Uttarakhand,Urban,Male,6-10 years,99.5
+Uttarakhand,Urban,Person,11-13 years,97.2
+Uttarakhand,Urban,Person,14-17 years,91
+Uttarakhand,Urban,Person,18-23 years,52.2
+Uttarakhand,Urban,Person,24-29 years,2.6
+Uttarakhand,Urban,Person,30-35 years,0.9
+Uttarakhand,Urban,Person,3-35 years,45.4
+Uttarakhand,Urban,Person,3-5 years,33.4
+Uttarakhand,Urban,Person,5-29 years,57.9
+Uttarakhand,Urban,Person,6-10 years,99.1
+Haryana,Rural,Female,11-13 years,92.4
+Haryana,Rural,Female,14-17 years,82.9
+Haryana,Rural,Female,18-23 years,21.5
+Haryana,Rural,Female,24-29 years,3.7
+Haryana,Rural,Female,30-35 years,0.5
+Haryana,Rural,Female,3-35 years,40.8
+Haryana,Rural,Female,3-5 years,48
+Haryana,Rural,Female,5-29 years,50.4
+Haryana,Rural,Female,6-10 years,98.2
+Haryana,Rural,Male,11-13 years,94.7
+Haryana,Rural,Male,14-17 years,79.6
+Haryana,Rural,Male,18-23 years,30.4
+Haryana,Rural,Male,24-29 years,2
+Haryana,Rural,Male,30-35 years,0
+Haryana,Rural,Male,3-35 years,47.3
+Haryana,Rural,Male,3-5 years,39
+Haryana,Rural,Male,5-29 years,56.6
+Haryana,Rural,Male,6-10 years,99.2
+Haryana,Rural,Person,11-13 years,93.8
+Haryana,Rural,Person,14-17 years,80.9
+Haryana,Rural,Person,18-23 years,26.7
+Haryana,Rural,Person,24-29 years,2.8
+Haryana,Rural,Person,30-35 years,0.3
+Haryana,Rural,Person,3-35 years,44.5
+Haryana,Rural,Person,3-5 years,43.6
+Haryana,Rural,Person,5-29 years,54
+Haryana,Rural,Person,6-10 years,98.8
+Haryana,Total,Female,11-13 years,94.3
+Haryana,Total,Female,14-17 years,85.4
+Haryana,Total,Female,18-23 years,27.9
+Haryana,Total,Female,24-29 years,3
+Haryana,Total,Female,30-35 years,0.5
+Haryana,Total,Female,3-35 years,41.9
+Haryana,Total,Female,3-5 years,49.2
+Haryana,Total,Female,5-29 years,51.1
+Haryana,Total,Female,6-10 years,98.6
+Haryana,Total,Male,11-13 years,95
+Haryana,Total,Male,14-17 years,82.8
+Haryana,Total,Male,18-23 years,34.4
+Haryana,Total,Male,24-29 years,2.6
+Haryana,Total,Male,30-35 years,0
+Haryana,Total,Male,3-35 years,47.3
+Haryana,Total,Male,3-5 years,44.4
+Haryana,Total,Male,5-29 years,56.9
+Haryana,Total,Male,6-10 years,98.2
+Haryana,Total,Person,11-13 years,94.7
+Haryana,Total,Person,14-17 years,83.8
+Haryana,Total,Person,18-23 years,31.5
+Haryana,Total,Person,24-29 years,2.8
+Haryana,Total,Person,30-35 years,0.3
+Haryana,Total,Person,3-35 years,45
+Haryana,Total,Person,3-5 years,46.7
+Haryana,Total,Person,5-29 years,54.5
+Haryana,Total,Person,6-10 years,98.3
+Haryana,Urban,Female,11-13 years,99
+Haryana,Urban,Female,14-17 years,91.8
+Haryana,Urban,Female,18-23 years,40.3
+Haryana,Urban,Female,24-29 years,1.7
+Haryana,Urban,Female,30-35 years,0.5
+Haryana,Urban,Female,3-35 years,44.2
+Haryana,Urban,Female,3-5 years,52.3
+Haryana,Urban,Female,5-29 years,52.4
+Haryana,Urban,Female,6-10 years,99.4
+Haryana,Urban,Male,11-13 years,95.7
+Haryana,Urban,Male,14-17 years,90.1
+Haryana,Urban,Male,18-23 years,44.6
+Haryana,Urban,Male,24-29 years,3.6
+Haryana,Urban,Male,30-35 years,0
+Haryana,Urban,Male,3-35 years,47.3
+Haryana,Urban,Male,3-5 years,53.7
+Haryana,Urban,Male,5-29 years,57.6
+Haryana,Urban,Male,6-10 years,96
+Haryana,Urban,Person,11-13 years,97.1
+Haryana,Urban,Person,14-17 years,90.7
+Haryana,Urban,Person,18-23 years,42.5
+Haryana,Urban,Person,24-29 years,2.7
+Haryana,Urban,Person,30-35 years,0.2
+Haryana,Urban,Person,3-35 years,46
+Haryana,Urban,Person,3-5 years,53.1
+Haryana,Urban,Person,5-29 years,55.4
+Haryana,Urban,Person,6-10 years,97.4
+Delhi,Rural,Female,11-13 years,100
+Delhi,Rural,Female,14-17 years,99.5
+Delhi,Rural,Female,18-23 years,29.1
+Delhi,Rural,Female,24-29 years,0.6
+Delhi,Rural,Female,30-35 years,0
+Delhi,Rural,Female,3-35 years,50.6
+Delhi,Rural,Female,3-5 years,3.7
+Delhi,Rural,Female,5-29 years,50.7
+Delhi,Rural,Female,6-10 years,81.2
+Delhi,Rural,Male,11-13 years,62.7
+Delhi,Rural,Male,14-17 years,85.5
+Delhi,Rural,Male,18-23 years,14.5
+Delhi,Rural,Male,24-29 years,2.2
+Delhi,Rural,Male,30-35 years,0
+Delhi,Rural,Male,3-35 years,27.1
+Delhi,Rural,Male,3-5 years,6
+Delhi,Rural,Male,5-29 years,29.4
+Delhi,Rural,Male,6-10 years,100
+Delhi,Rural,Person,11-13 years,89.8
+Delhi,Rural,Person,14-17 years,92.9
+Delhi,Rural,Person,18-23 years,17.9
+Delhi,Rural,Person,24-29 years,1.4
+Delhi,Rural,Person,30-35 years,0
+Delhi,Rural,Person,3-35 years,35.2
+Delhi,Rural,Person,3-5 years,5.4
+Delhi,Rural,Person,5-29 years,37.1
+Delhi,Rural,Person,6-10 years,94
+Delhi,Total,Female,11-13 years,83.1
+Delhi,Total,Female,14-17 years,89.5
+Delhi,Total,Female,18-23 years,35.6
+Delhi,Total,Female,24-29 years,2.3
+Delhi,Total,Female,30-35 years,1.4
+Delhi,Total,Female,3-35 years,40.9
+Delhi,Total,Female,3-5 years,50.8
+Delhi,Total,Female,5-29 years,48.4
+Delhi,Total,Female,6-10 years,98.1
+Delhi,Total,Male,11-13 years,96
+Delhi,Total,Male,14-17 years,90.9
+Delhi,Total,Male,18-23 years,28.7
+Delhi,Total,Male,24-29 years,5.1
+Delhi,Total,Male,30-35 years,0.1
+Delhi,Total,Male,3-35 years,40.5
+Delhi,Total,Male,3-5 years,45.5
+Delhi,Total,Male,5-29 years,48.5
+Delhi,Total,Male,6-10 years,99.7
+Delhi,Total,Person,11-13 years,89.6
+Delhi,Total,Person,14-17 years,90.4
+Delhi,Total,Person,18-23 years,31.6
+Delhi,Total,Person,24-29 years,3.9
+Delhi,Total,Person,30-35 years,0.7
+Delhi,Total,Person,3-35 years,40.7
+Delhi,Total,Person,3-5 years,48.1
+Delhi,Total,Person,5-29 years,48.5
+Delhi,Total,Person,6-10 years,99
+Delhi,Urban,Female,11-13 years,82.6
+Delhi,Urban,Female,14-17 years,88.8
+Delhi,Urban,Female,18-23 years,35.9
+Delhi,Urban,Female,24-29 years,2.4
+Delhi,Urban,Female,30-35 years,1.4
+Delhi,Urban,Female,3-35 years,40.6
+Delhi,Urban,Female,3-5 years,51.1
+Delhi,Urban,Female,5-29 years,48.4
+Delhi,Urban,Female,6-10 years,98.3
+Delhi,Urban,Male,11-13 years,96.3
+Delhi,Urban,Male,14-17 years,91.1
+Delhi,Urban,Male,18-23 years,30.2
+Delhi,Urban,Male,24-29 years,5.2
+Delhi,Urban,Male,30-35 years,0.1
+Delhi,Urban,Male,3-35 years,41
+Delhi,Urban,Male,3-5 years,46.2
+Delhi,Urban,Male,5-29 years,49.3
+Delhi,Urban,Male,6-10 years,99.6
+Delhi,Urban,Person,11-13 years,89.5
+Delhi,Urban,Person,14-17 years,90.3
+Delhi,Urban,Person,18-23 years,32.7
+Delhi,Urban,Person,24-29 years,4
+Delhi,Urban,Person,30-35 years,0.7
+Delhi,Urban,Person,3-35 years,40.8
+Delhi,Urban,Person,3-5 years,48.6
+Delhi,Urban,Person,5-29 years,48.9
+Delhi,Urban,Person,6-10 years,99.1
+Rajasthan,Rural,Female,11-13 years,88.5
+Rajasthan,Rural,Female,14-17 years,69.4
+Rajasthan,Rural,Female,18-23 years,23.2
+Rajasthan,Rural,Female,24-29 years,2.1
+Rajasthan,Rural,Female,30-35 years,0.1
+Rajasthan,Rural,Female,3-35 years,42.1
+Rajasthan,Rural,Female,3-5 years,31.5
+Rajasthan,Rural,Female,5-29 years,51.2
+Rajasthan,Rural,Female,6-10 years,91.7
+Rajasthan,Rural,Male,11-13 years,95.2
+Rajasthan,Rural,Male,14-17 years,78.4
+Rajasthan,Rural,Male,18-23 years,38.3
+Rajasthan,Rural,Male,24-29 years,3.4
+Rajasthan,Rural,Male,30-35 years,0.2
+Rajasthan,Rural,Male,3-35 years,48.7
+Rajasthan,Rural,Male,3-5 years,34.4
+Rajasthan,Rural,Male,5-29 years,59.2
+Rajasthan,Rural,Male,6-10 years,92.7
+Rajasthan,Rural,Person,11-13 years,91.9
+Rajasthan,Rural,Person,14-17 years,74.2
+Rajasthan,Rural,Person,18-23 years,31
+Rajasthan,Rural,Person,24-29 years,2.7
+Rajasthan,Rural,Person,30-35 years,0.2
+Rajasthan,Rural,Person,3-35 years,45.6
+Rajasthan,Rural,Person,3-5 years,33.1
+Rajasthan,Rural,Person,5-29 years,55.4
+Rajasthan,Rural,Person,6-10 years,92.3
+Rajasthan,Total,Female,11-13 years,90.2
+Rajasthan,Total,Female,14-17 years,71.7
+Rajasthan,Total,Female,18-23 years,27.9
+Rajasthan,Total,Female,24-29 years,2.6
+Rajasthan,Total,Female,30-35 years,0.1
+Rajasthan,Total,Female,3-35 years,43
+Rajasthan,Total,Female,3-5 years,33
+Rajasthan,Total,Female,5-29 years,52.1
+Rajasthan,Total,Female,6-10 years,92.5
+Rajasthan,Total,Male,11-13 years,95.8
+Rajasthan,Total,Male,14-17 years,79.5
+Rajasthan,Total,Male,18-23 years,40.8
+Rajasthan,Total,Male,24-29 years,4
+Rajasthan,Total,Male,30-35 years,0.4
+Rajasthan,Total,Male,3-35 years,49.3
+Rajasthan,Total,Male,3-5 years,38.1
+Rajasthan,Total,Male,5-29 years,59.2
+Rajasthan,Total,Male,6-10 years,93.6
+Rajasthan,Total,Person,11-13 years,93
+Rajasthan,Total,Person,14-17 years,75.9
+Rajasthan,Total,Person,18-23 years,34.8
+Rajasthan,Total,Person,24-29 years,3.3
+Rajasthan,Total,Person,30-35 years,0.3
+Rajasthan,Total,Person,3-35 years,46.3
+Rajasthan,Total,Person,3-5 years,35.8
+Rajasthan,Total,Person,5-29 years,55.9
+Rajasthan,Total,Person,6-10 years,93.1
+Rajasthan,Urban,Female,11-13 years,96.6
+Rajasthan,Urban,Female,14-17 years,80.3
+Rajasthan,Urban,Female,18-23 years,42.5
+Rajasthan,Urban,Female,24-29 years,4.7
+Rajasthan,Urban,Female,30-35 years,0.1
+Rajasthan,Urban,Female,3-35 years,46.2
+Rajasthan,Urban,Female,3-5 years,40.2
+Rajasthan,Urban,Female,5-29 years,55.9
+Rajasthan,Urban,Female,6-10 years,96.7
+Rajasthan,Urban,Male,11-13 years,98.1
+Rajasthan,Urban,Male,14-17 years,83.6
+Rajasthan,Urban,Male,18-23 years,47.2
+Rajasthan,Urban,Male,24-29 years,5.5
+Rajasthan,Urban,Male,30-35 years,1.2
+Rajasthan,Urban,Male,3-35 years,51.2
+Rajasthan,Urban,Male,3-5 years,55.6
+Rajasthan,Urban,Male,5-29 years,59.1
+Rajasthan,Urban,Male,6-10 years,96.9
+Rajasthan,Urban,Person,11-13 years,97.4
+Rajasthan,Urban,Person,14-17 years,82.1
+Rajasthan,Urban,Person,18-23 years,45.1
+Rajasthan,Urban,Person,24-29 years,5.1
+Rajasthan,Urban,Person,30-35 years,0.7
+Rajasthan,Urban,Person,3-35 years,49
+Rajasthan,Urban,Person,3-5 years,48.6
+Rajasthan,Urban,Person,5-29 years,57.7
+Rajasthan,Urban,Person,6-10 years,96.9
+Uttar Pradesh,Rural,Female,11-13 years,87.5
+Uttar Pradesh,Rural,Female,14-17 years,62.4
+Uttar Pradesh,Rural,Female,18-23 years,23.5
+Uttar Pradesh,Rural,Female,24-29 years,1.3
+Uttar Pradesh,Rural,Female,30-35 years,0.1
+Uttar Pradesh,Rural,Female,3-35 years,41.3
+Uttar Pradesh,Rural,Female,3-5 years,19.2
+Uttar Pradesh,Rural,Female,5-29 years,50.1
+Uttar Pradesh,Rural,Female,6-10 years,88.5
+Uttar Pradesh,Rural,Male,11-13 years,90.5
+Uttar Pradesh,Rural,Male,14-17 years,70.5
+Uttar Pradesh,Rural,Male,18-23 years,27
+Uttar Pradesh,Rural,Male,24-29 years,2.9
+Uttar Pradesh,Rural,Male,30-35 years,0.3
+Uttar Pradesh,Rural,Male,3-35 years,46.5
+Uttar Pradesh,Rural,Male,3-5 years,25.3
+Uttar Pradesh,Rural,Male,5-29 years,55.4
+Uttar Pradesh,Rural,Male,6-10 years,92.1
+Uttar Pradesh,Rural,Person,11-13 years,89.1
+Uttar Pradesh,Rural,Person,14-17 years,66.7
+Uttar Pradesh,Rural,Person,18-23 years,25.4
+Uttar Pradesh,Rural,Person,24-29 years,2.1
+Uttar Pradesh,Rural,Person,30-35 years,0.2
+Uttar Pradesh,Rural,Person,3-35 years,44.1
+Uttar Pradesh,Rural,Person,3-5 years,22.5
+Uttar Pradesh,Rural,Person,5-29 years,52.9
+Uttar Pradesh,Rural,Person,6-10 years,90.4
+Uttar Pradesh,Total,Female,11-13 years,88.1
+Uttar Pradesh,Total,Female,14-17 years,64.5
+Uttar Pradesh,Total,Female,18-23 years,25
+Uttar Pradesh,Total,Female,24-29 years,1.8
+Uttar Pradesh,Total,Female,30-35 years,0.1
+Uttar Pradesh,Total,Female,3-35 years,41.6
+Uttar Pradesh,Total,Female,3-5 years,22.7
+Uttar Pradesh,Total,Female,5-29 years,50.4
+Uttar Pradesh,Total,Female,6-10 years,88.7
+Uttar Pradesh,Total,Male,11-13 years,90.4
+Uttar Pradesh,Total,Male,14-17 years,71.1
+Uttar Pradesh,Total,Male,18-23 years,29.8
+Uttar Pradesh,Total,Male,24-29 years,3.3
+Uttar Pradesh,Total,Male,30-35 years,0.3
+Uttar Pradesh,Total,Male,3-35 years,46.7
+Uttar Pradesh,Total,Male,3-5 years,29.7
+Uttar Pradesh,Total,Male,5-29 years,55.5
+Uttar Pradesh,Total,Male,6-10 years,92.2
+Uttar Pradesh,Total,Person,11-13 years,89.4
+Uttar Pradesh,Total,Person,14-17 years,68
+Uttar Pradesh,Total,Person,18-23 years,27.6
+Uttar Pradesh,Total,Person,24-29 years,2.6
+Uttar Pradesh,Total,Person,30-35 years,0.2
+Uttar Pradesh,Total,Person,3-35 years,44.3
+Uttar Pradesh,Total,Person,3-5 years,26.4
+Uttar Pradesh,Total,Person,5-29 years,53.2
+Uttar Pradesh,Total,Person,6-10 years,90.6
+Uttar Pradesh,Urban,Female,11-13 years,90.5
+Uttar Pradesh,Urban,Female,14-17 years,73.4
+Uttar Pradesh,Urban,Female,18-23 years,30.4
+Uttar Pradesh,Urban,Female,24-29 years,3.6
+Uttar Pradesh,Urban,Female,30-35 years,0.2
+Uttar Pradesh,Urban,Female,3-35 years,43
+Uttar Pradesh,Urban,Female,3-5 years,38.8
+Uttar Pradesh,Urban,Female,5-29 years,51.7
+Uttar Pradesh,Urban,Female,6-10 years,89.5
+Uttar Pradesh,Urban,Male,11-13 years,90
+Uttar Pradesh,Urban,Male,14-17 years,73.9
+Uttar Pradesh,Urban,Male,18-23 years,39.6
+Uttar Pradesh,Urban,Male,24-29 years,4.8
+Uttar Pradesh,Urban,Male,30-35 years,0.4
+Uttar Pradesh,Urban,Male,3-35 years,47.3
+Uttar Pradesh,Urban,Male,3-5 years,49.4
+Uttar Pradesh,Urban,Male,5-29 years,56
+Uttar Pradesh,Urban,Male,6-10 years,92.8
+Uttar Pradesh,Urban,Person,11-13 years,90.2
+Uttar Pradesh,Urban,Person,14-17 years,73.7
+Uttar Pradesh,Urban,Person,18-23 years,35.6
+Uttar Pradesh,Urban,Person,24-29 years,4.2
+Uttar Pradesh,Urban,Person,30-35 years,0.3
+Uttar Pradesh,Urban,Person,3-35 years,45.3
+Uttar Pradesh,Urban,Person,3-5 years,44.5
+Uttar Pradesh,Urban,Person,5-29 years,54
+Uttar Pradesh,Urban,Person,6-10 years,91.3
+Bihar,Rural,Female,11-13 years,93
+Bihar,Rural,Female,14-17 years,78.2
+Bihar,Rural,Female,18-23 years,15
+Bihar,Rural,Female,24-29 years,0.4
+Bihar,Rural,Female,30-35 years,0
+Bihar,Rural,Female,3-35 years,38.7
+Bihar,Rural,Female,3-5 years,16.9
+Bihar,Rural,Female,5-29 years,49.5
+Bihar,Rural,Female,6-10 years,88.9
+Bihar,Rural,Male,11-13 years,97.3
+Bihar,Rural,Male,14-17 years,78.8
+Bihar,Rural,Male,18-23 years,30.3
+Bihar,Rural,Male,24-29 years,2.8
+Bihar,Rural,Male,30-35 years,0
+Bihar,Rural,Male,3-35 years,51.7
+Bihar,Rural,Male,3-5 years,24.9
+Bihar,Rural,Male,5-29 years,64
+Bihar,Rural,Male,6-10 years,91.7
+Bihar,Rural,Person,11-13 years,95.6
+Bihar,Rural,Person,14-17 years,78.6
+Bihar,Rural,Person,18-23 years,22.8
+Bihar,Rural,Person,24-29 years,1.5
+Bihar,Rural,Person,30-35 years,0
+Bihar,Rural,Person,3-35 years,45.8
+Bihar,Rural,Person,3-5 years,20.9
+Bihar,Rural,Person,5-29 years,57.6
+Bihar,Rural,Person,6-10 years,90.6
+Bihar,Total,Female,11-13 years,93.1
+Bihar,Total,Female,14-17 years,79.3
+Bihar,Total,Female,18-23 years,16.5
+Bihar,Total,Female,24-29 years,0.7
+Bihar,Total,Female,30-35 years,0
+Bihar,Total,Female,3-35 years,39.4
+Bihar,Total,Female,3-5 years,18.1
+Bihar,Total,Female,5-29 years,50.3
+Bihar,Total,Female,6-10 years,89.3
+Bihar,Total,Male,11-13 years,97
+Bihar,Total,Male,14-17 years,79.6
+Bihar,Total,Male,18-23 years,32.3
+Bihar,Total,Male,24-29 years,2.7
+Bihar,Total,Male,30-35 years,0.1
+Bihar,Total,Male,3-35 years,52.3
+Bihar,Total,Male,3-5 years,25.9
+Bihar,Total,Male,5-29 years,64.6
+Bihar,Total,Male,6-10 years,92.2
+Bihar,Total,Person,11-13 years,95.4
+Bihar,Total,Person,14-17 years,79.5
+Bihar,Total,Person,18-23 years,24.5
+Bihar,Total,Person,24-29 years,1.6
+Bihar,Total,Person,30-35 years,0
+Bihar,Total,Person,3-35 years,46.4
+Bihar,Total,Person,3-5 years,22
+Bihar,Total,Person,5-29 years,58.2
+Bihar,Total,Person,6-10 years,91
+Bihar,Urban,Female,11-13 years,93.9
+Bihar,Urban,Female,14-17 years,87.6
+Bihar,Urban,Female,18-23 years,29.8
+Bihar,Urban,Female,24-29 years,3.6
+Bihar,Urban,Female,30-35 years,0.2
+Bihar,Urban,Female,3-35 years,45.4
+Bihar,Urban,Female,3-5 years,31.6
+Bihar,Urban,Female,5-29 years,57.3
+Bihar,Urban,Female,6-10 years,93
+Bihar,Urban,Male,11-13 years,94.6
+Bihar,Urban,Male,14-17 years,87
+Bihar,Urban,Male,18-23 years,49.6
+Bihar,Urban,Male,24-29 years,2.5
+Bihar,Urban,Male,30-35 years,0.5
+Bihar,Urban,Male,3-35 years,57.5
+Bihar,Urban,Male,3-5 years,36
+Bihar,Urban,Male,5-29 years,70
+Bihar,Urban,Male,6-10 years,96.5
+Bihar,Urban,Person,11-13 years,94.4
+Bihar,Urban,Person,14-17 years,87.2
+Bihar,Urban,Person,18-23 years,39.7
+Bihar,Urban,Person,24-29 years,3.1
+Bihar,Urban,Person,30-35 years,0.3
+Bihar,Urban,Person,3-35 years,52
+Bihar,Urban,Person,3-5 years,33.9
+Bihar,Urban,Person,5-29 years,64.3
+Bihar,Urban,Person,6-10 years,95.1
+Sikkim,Rural,Female,11-13 years,97.4
+Sikkim,Rural,Female,14-17 years,99.1
+Sikkim,Rural,Female,18-23 years,34.6
+Sikkim,Rural,Female,24-29 years,0
+Sikkim,Rural,Female,30-35 years,0
+Sikkim,Rural,Female,3-35 years,48.7
+Sikkim,Rural,Female,3-5 years,77.4
+Sikkim,Rural,Female,5-29 years,54.2
+Sikkim,Rural,Female,6-10 years,100
+Sikkim,Rural,Male,11-13 years,99.2
+Sikkim,Rural,Male,14-17 years,95.5
+Sikkim,Rural,Male,18-23 years,31.6
+Sikkim,Rural,Male,24-29 years,0.2
+Sikkim,Rural,Male,30-35 years,0
+Sikkim,Rural,Male,3-35 years,44.3
+Sikkim,Rural,Male,3-5 years,59.8
+Sikkim,Rural,Male,5-29 years,50.9
+Sikkim,Rural,Male,6-10 years,100
+Sikkim,Rural,Person,11-13 years,98.2
+Sikkim,Rural,Person,14-17 years,97.3
+Sikkim,Rural,Person,18-23 years,33.2
+Sikkim,Rural,Person,24-29 years,0.1
+Sikkim,Rural,Person,30-35 years,0
+Sikkim,Rural,Person,3-35 years,46.5
+Sikkim,Rural,Person,3-5 years,68.9
+Sikkim,Rural,Person,5-29 years,52.6
+Sikkim,Rural,Person,6-10 years,100
+Sikkim,Total,Female,11-13 years,97.9
+Sikkim,Total,Female,14-17 years,95.2
+Sikkim,Total,Female,18-23 years,38.5
+Sikkim,Total,Female,24-29 years,0
+Sikkim,Total,Female,30-35 years,0
+Sikkim,Total,Female,3-35 years,47.6
+Sikkim,Total,Female,3-5 years,75.5
+Sikkim,Total,Female,5-29 years,53.6
+Sikkim,Total,Female,6-10 years,100
+Sikkim,Total,Male,11-13 years,99.4
+Sikkim,Total,Male,14-17 years,96.4
+Sikkim,Total,Male,18-23 years,44.8
+Sikkim,Total,Male,24-29 years,1
+Sikkim,Total,Male,30-35 years,0
+Sikkim,Total,Male,3-35 years,45.7
+Sikkim,Total,Male,3-5 years,67.7
+Sikkim,Total,Male,5-29 years,52.8
+Sikkim,Total,Male,6-10 years,100
+Sikkim,Total,Person,11-13 years,98.6
+Sikkim,Total,Person,14-17 years,95.8
+Sikkim,Total,Person,18-23 years,41.6
+Sikkim,Total,Person,24-29 years,0.5
+Sikkim,Total,Person,30-35 years,0
+Sikkim,Total,Person,3-35 years,46.6
+Sikkim,Total,Person,3-5 years,71.4
+Sikkim,Total,Person,5-29 years,53.2
+Sikkim,Total,Person,6-10 years,100
+Sikkim,Urban,Female,11-13 years,100
+Sikkim,Urban,Female,14-17 years,85.3
+Sikkim,Urban,Female,18-23 years,55.9
+Sikkim,Urban,Female,24-29 years,0
+Sikkim,Urban,Female,30-35 years,0
+Sikkim,Urban,Female,3-35 years,44.1
+Sikkim,Urban,Female,3-5 years,68.7
+Sikkim,Urban,Female,5-29 years,51.6
+Sikkim,Urban,Female,6-10 years,100
+Sikkim,Urban,Male,11-13 years,100
+Sikkim,Urban,Male,14-17 years,99
+Sikkim,Urban,Male,18-23 years,77.8
+Sikkim,Urban,Male,24-29 years,3.1
+Sikkim,Urban,Male,30-35 years,0
+Sikkim,Urban,Male,3-35 years,49.6
+Sikkim,Urban,Male,3-5 years,83.4
+Sikkim,Urban,Male,5-29 years,57.7
+Sikkim,Urban,Male,6-10 years,100
+Sikkim,Urban,Person,11-13 years,100
+Sikkim,Urban,Person,14-17 years,92.1
+Sikkim,Urban,Person,18-23 years,69
+Sikkim,Urban,Person,24-29 years,1.7
+Sikkim,Urban,Person,30-35 years,0
+Sikkim,Urban,Person,3-35 years,47.1
+Sikkim,Urban,Person,3-5 years,77.9
+Sikkim,Urban,Person,5-29 years,54.9
+Sikkim,Urban,Person,6-10 years,100
+Arunachal Pradesh,Rural,Female,11-13 years,93.4
+Arunachal Pradesh,Rural,Female,14-17 years,75.2
+Arunachal Pradesh,Rural,Female,18-23 years,26.5
+Arunachal Pradesh,Rural,Female,24-29 years,2.2
+Arunachal Pradesh,Rural,Female,30-35 years,0.3
+Arunachal Pradesh,Rural,Female,3-35 years,45.6
+Arunachal Pradesh,Rural,Female,3-5 years,25.7
+Arunachal Pradesh,Rural,Female,5-29 years,56.5
+Arunachal Pradesh,Rural,Female,6-10 years,89.8
+Arunachal Pradesh,Rural,Male,11-13 years,93.5
+Arunachal Pradesh,Rural,Male,14-17 years,81.7
+Arunachal Pradesh,Rural,Male,18-23 years,39.1
+Arunachal Pradesh,Rural,Male,24-29 years,5.7
+Arunachal Pradesh,Rural,Male,30-35 years,0.7
+Arunachal Pradesh,Rural,Male,3-35 years,51
+Arunachal Pradesh,Rural,Male,3-5 years,22.8
+Arunachal Pradesh,Rural,Male,5-29 years,63.1
+Arunachal Pradesh,Rural,Male,6-10 years,91.6
+Arunachal Pradesh,Rural,Person,11-13 years,93.4
+Arunachal Pradesh,Rural,Person,14-17 years,78.9
+Arunachal Pradesh,Rural,Person,18-23 years,33.6
+Arunachal Pradesh,Rural,Person,24-29 years,3.9
+Arunachal Pradesh,Rural,Person,30-35 years,0.5
+Arunachal Pradesh,Rural,Person,3-35 years,48.5
+Arunachal Pradesh,Rural,Person,3-5 years,24
+Arunachal Pradesh,Rural,Person,5-29 years,60
+Arunachal Pradesh,Rural,Person,6-10 years,90.8
+Arunachal Pradesh,Total,Female,11-13 years,94.2
+Arunachal Pradesh,Total,Female,14-17 years,75.6
+Arunachal Pradesh,Total,Female,18-23 years,30.8
+Arunachal Pradesh,Total,Female,24-29 years,2.5
+Arunachal Pradesh,Total,Female,30-35 years,0.2
+Arunachal Pradesh,Total,Female,3-35 years,45.5
+Arunachal Pradesh,Total,Female,3-5 years,27.2
+Arunachal Pradesh,Total,Female,5-29 years,56.5
+Arunachal Pradesh,Total,Female,6-10 years,89.3
+Arunachal Pradesh,Total,Male,11-13 years,94.1
+Arunachal Pradesh,Total,Male,14-17 years,83.3
+Arunachal Pradesh,Total,Male,18-23 years,44.2
+Arunachal Pradesh,Total,Male,24-29 years,6.2
+Arunachal Pradesh,Total,Male,30-35 years,0.6
+Arunachal Pradesh,Total,Male,3-35 years,52.8
+Arunachal Pradesh,Total,Male,3-5 years,23.6
+Arunachal Pradesh,Total,Male,5-29 years,64.7
+Arunachal Pradesh,Total,Male,6-10 years,92.2
+Arunachal Pradesh,Total,Person,11-13 years,94.1
+Arunachal Pradesh,Total,Person,14-17 years,80.1
+Arunachal Pradesh,Total,Person,18-23 years,38.2
+Arunachal Pradesh,Total,Person,24-29 years,4.3
+Arunachal Pradesh,Total,Person,30-35 years,0.4
+Arunachal Pradesh,Total,Person,3-35 years,49.4
+Arunachal Pradesh,Total,Person,3-5 years,25.2
+Arunachal Pradesh,Total,Person,5-29 years,60.9
+Arunachal Pradesh,Total,Person,6-10 years,90.8
+Arunachal Pradesh,Urban,Female,11-13 years,99.7
+Arunachal Pradesh,Urban,Female,14-17 years,77.7
+Arunachal Pradesh,Urban,Female,18-23 years,49.6
+Arunachal Pradesh,Urban,Female,24-29 years,3.9
+Arunachal Pradesh,Urban,Female,30-35 years,0
+Arunachal Pradesh,Urban,Female,3-35 years,45
+Arunachal Pradesh,Urban,Female,3-5 years,35.9
+Arunachal Pradesh,Urban,Female,5-29 years,56.5
+Arunachal Pradesh,Urban,Female,6-10 years,84.1
+Arunachal Pradesh,Urban,Male,11-13 years,97
+Arunachal Pradesh,Urban,Male,14-17 years,91
+Arunachal Pradesh,Urban,Male,18-23 years,73.2
+Arunachal Pradesh,Urban,Male,24-29 years,8.6
+Arunachal Pradesh,Urban,Male,30-35 years,0
+Arunachal Pradesh,Urban,Male,3-35 years,63
+Arunachal Pradesh,Urban,Male,3-5 years,30
+Arunachal Pradesh,Urban,Male,5-29 years,73.6
+Arunachal Pradesh,Urban,Male,6-10 years,96
+Arunachal Pradesh,Urban,Person,11-13 years,98.2
+Arunachal Pradesh,Urban,Person,14-17 years,85.9
+Arunachal Pradesh,Urban,Person,18-23 years,61.3
+Arunachal Pradesh,Urban,Person,24-29 years,6.1
+Arunachal Pradesh,Urban,Person,30-35 years,0
+Arunachal Pradesh,Urban,Person,3-35 years,54.5
+Arunachal Pradesh,Urban,Person,3-5 years,33.1
+Arunachal Pradesh,Urban,Person,5-29 years,65.8
+Arunachal Pradesh,Urban,Person,6-10 years,91.1
+Nagaland,Rural,Female,11-13 years,98.7
+Nagaland,Rural,Female,14-17 years,78
+Nagaland,Rural,Female,18-23 years,17.1
+Nagaland,Rural,Female,24-29 years,0.5
+Nagaland,Rural,Female,30-35 years,0
+Nagaland,Rural,Female,3-35 years,43.9
+Nagaland,Rural,Female,3-5 years,30.5
+Nagaland,Rural,Female,5-29 years,55.5
+Nagaland,Rural,Female,6-10 years,90.6
+Nagaland,Rural,Male,11-13 years,92.9
+Nagaland,Rural,Male,14-17 years,80
+Nagaland,Rural,Male,18-23 years,21.4
+Nagaland,Rural,Male,24-29 years,0.7
+Nagaland,Rural,Male,30-35 years,0
+Nagaland,Rural,Male,3-35 years,51.8
+Nagaland,Rural,Male,3-5 years,44
+Nagaland,Rural,Male,5-29 years,61.2
+Nagaland,Rural,Male,6-10 years,99.3
+Nagaland,Rural,Person,11-13 years,95.3
+Nagaland,Rural,Person,14-17 years,79
+Nagaland,Rural,Person,18-23 years,19.6
+Nagaland,Rural,Person,24-29 years,0.6
+Nagaland,Rural,Person,30-35 years,0
+Nagaland,Rural,Person,3-35 years,48.1
+Nagaland,Rural,Person,3-5 years,36.9
+Nagaland,Rural,Person,5-29 years,58.6
+Nagaland,Rural,Person,6-10 years,95.5
+Nagaland,Total,Female,11-13 years,98.3
+Nagaland,Total,Female,14-17 years,79.7
+Nagaland,Total,Female,18-23 years,36.1
+Nagaland,Total,Female,24-29 years,1.2
+Nagaland,Total,Female,30-35 years,0.1
+Nagaland,Total,Female,3-35 years,46.3
+Nagaland,Total,Female,3-5 years,33.4
+Nagaland,Total,Female,5-29 years,56.7
+Nagaland,Total,Female,6-10 years,90
+Nagaland,Total,Male,11-13 years,94.6
+Nagaland,Total,Male,14-17 years,83.5
+Nagaland,Total,Male,18-23 years,33.2
+Nagaland,Total,Male,24-29 years,1.6
+Nagaland,Total,Male,30-35 years,0
+Nagaland,Total,Male,3-35 years,51.2
+Nagaland,Total,Male,3-5 years,43.8
+Nagaland,Total,Male,5-29 years,60.6
+Nagaland,Total,Male,6-10 years,98.8
+Nagaland,Total,Person,11-13 years,96.2
+Nagaland,Total,Person,14-17 years,81.5
+Nagaland,Total,Person,18-23 years,34.5
+Nagaland,Total,Person,24-29 years,1.4
+Nagaland,Total,Person,30-35 years,0
+Nagaland,Total,Person,3-35 years,48.9
+Nagaland,Total,Person,3-5 years,38.6
+Nagaland,Total,Person,5-29 years,58.8
+Nagaland,Total,Person,6-10 years,95.1
+Nagaland,Urban,Female,11-13 years,97.5
+Nagaland,Urban,Female,14-17 years,82.2
+Nagaland,Urban,Female,18-23 years,61.2
+Nagaland,Urban,Female,24-29 years,2.7
+Nagaland,Urban,Female,30-35 years,0.2
+Nagaland,Urban,Female,3-35 years,51.7
+Nagaland,Urban,Female,3-5 years,47.4
+Nagaland,Urban,Female,5-29 years,59.2
+Nagaland,Urban,Female,6-10 years,87.3
+Nagaland,Urban,Male,11-13 years,100
+Nagaland,Urban,Male,14-17 years,92.8
+Nagaland,Urban,Male,18-23 years,54
+Nagaland,Urban,Male,24-29 years,3.1
+Nagaland,Urban,Male,30-35 years,0
+Nagaland,Urban,Male,3-35 years,49.9
+Nagaland,Urban,Male,3-5 years,43.2
+Nagaland,Urban,Male,5-29 years,59.1
+Nagaland,Urban,Male,6-10 years,96.8
+Nagaland,Urban,Person,11-13 years,98.7
+Nagaland,Urban,Person,14-17 years,86.4
+Nagaland,Urban,Person,18-23 years,57.6
+Nagaland,Urban,Person,24-29 years,3
+Nagaland,Urban,Person,30-35 years,0.1
+Nagaland,Urban,Person,3-35 years,50.7
+Nagaland,Urban,Person,3-5 years,44.9
+Nagaland,Urban,Person,5-29 years,59.1
+Nagaland,Urban,Person,6-10 years,93.2
+Manipur,Rural,Female,11-13 years,98.4
+Manipur,Rural,Female,14-17 years,92.8
+Manipur,Rural,Female,18-23 years,23.2
+Manipur,Rural,Female,24-29 years,2.4
+Manipur,Rural,Female,30-35 years,0.6
+Manipur,Rural,Female,3-35 years,41.1
+Manipur,Rural,Female,3-5 years,44.8
+Manipur,Rural,Female,5-29 years,52
+Manipur,Rural,Female,6-10 years,97.8
+Manipur,Rural,Male,11-13 years,95.6
+Manipur,Rural,Male,14-17 years,84.9
+Manipur,Rural,Male,18-23 years,43.1
+Manipur,Rural,Male,24-29 years,3.7
+Manipur,Rural,Male,30-35 years,0.2
+Manipur,Rural,Male,3-35 years,51.3
+Manipur,Rural,Male,3-5 years,54.5
+Manipur,Rural,Male,5-29 years,64.6
+Manipur,Rural,Male,6-10 years,99.5
+Manipur,Rural,Person,11-13 years,96.7
+Manipur,Rural,Person,14-17 years,88.9
+Manipur,Rural,Person,18-23 years,32.9
+Manipur,Rural,Person,24-29 years,3
+Manipur,Rural,Person,30-35 years,0.4
+Manipur,Rural,Person,3-35 years,46.4
+Manipur,Rural,Person,3-5 years,49.5
+Manipur,Rural,Person,5-29 years,58.6
+Manipur,Rural,Person,6-10 years,98.8
+Manipur,Total,Female,11-13 years,97.7
+Manipur,Total,Female,14-17 years,92.6
+Manipur,Total,Female,18-23 years,28
+Manipur,Total,Female,24-29 years,2.7
+Manipur,Total,Female,30-35 years,0.6
+Manipur,Total,Female,3-35 years,43.7
+Manipur,Total,Female,3-5 years,47.1
+Manipur,Total,Female,5-29 years,55.2
+Manipur,Total,Female,6-10 years,97.7
+Manipur,Total,Male,11-13 years,96.3
+Manipur,Total,Male,14-17 years,87.2
+Manipur,Total,Male,18-23 years,49.5
+Manipur,Total,Male,24-29 years,4.5
+Manipur,Total,Male,30-35 years,0.1
+Manipur,Total,Male,3-35 years,54.7
+Manipur,Total,Male,3-5 years,53.7
+Manipur,Total,Male,5-29 years,68.2
+Manipur,Total,Male,6-10 years,99.5
+Manipur,Total,Person,11-13 years,96.9
+Manipur,Total,Person,14-17 years,90
+Manipur,Total,Person,18-23 years,38.7
+Manipur,Total,Person,24-29 years,3.5
+Manipur,Total,Person,30-35 years,0.4
+Manipur,Total,Person,3-35 years,49.4
+Manipur,Total,Person,3-5 years,50.4
+Manipur,Total,Person,5-29 years,62
+Manipur,Total,Person,6-10 years,98.8
+Manipur,Urban,Female,11-13 years,96.5
+Manipur,Urban,Female,14-17 years,92.3
+Manipur,Urban,Female,18-23 years,41.5
+Manipur,Urban,Female,24-29 years,3.6
+Manipur,Urban,Female,30-35 years,0.7
+Manipur,Urban,Female,3-35 years,49.9
+Manipur,Urban,Female,3-5 years,53.8
+Manipur,Urban,Female,5-29 years,62.3
+Manipur,Urban,Female,6-10 years,97.6
+Manipur,Urban,Male,11-13 years,97.5
+Manipur,Urban,Male,14-17 years,91.9
+Manipur,Urban,Male,18-23 years,65
+Manipur,Urban,Male,24-29 years,6.9
+Manipur,Urban,Male,30-35 years,0
+Manipur,Urban,Male,3-35 years,62.5
+Manipur,Urban,Male,3-5 years,52
+Manipur,Urban,Male,5-29 years,76.4
+Manipur,Urban,Male,6-10 years,99.5
+Manipur,Urban,Person,11-13 years,97.1
+Manipur,Urban,Person,14-17 years,92.1
+Manipur,Urban,Person,18-23 years,53.8
+Manipur,Urban,Person,24-29 years,5
+Manipur,Urban,Person,30-35 years,0.4
+Manipur,Urban,Person,3-35 years,56.4
+Manipur,Urban,Person,3-5 years,52.8
+Manipur,Urban,Person,5-29 years,69.7
+Manipur,Urban,Person,6-10 years,98.7
+Mizoram,Rural,Female,11-13 years,99.6
+Mizoram,Rural,Female,14-17 years,84
+Mizoram,Rural,Female,18-23 years,7.1
+Mizoram,Rural,Female,24-29 years,0.2
+Mizoram,Rural,Female,30-35 years,0
+Mizoram,Rural,Female,3-35 years,39.1
+Mizoram,Rural,Female,3-5 years,18
+Mizoram,Rural,Female,5-29 years,50.2
+Mizoram,Rural,Female,6-10 years,96
+Mizoram,Rural,Male,11-13 years,97.2
+Mizoram,Rural,Male,14-17 years,85
+Mizoram,Rural,Male,18-23 years,11.5
+Mizoram,Rural,Male,24-29 years,0.1
+Mizoram,Rural,Male,30-35 years,0.1
+Mizoram,Rural,Male,3-35 years,44
+Mizoram,Rural,Male,3-5 years,12.4
+Mizoram,Rural,Male,5-29 years,54.7
+Mizoram,Rural,Male,6-10 years,98.4
+Mizoram,Rural,Person,11-13 years,98.3
+Mizoram,Rural,Person,14-17 years,84.5
+Mizoram,Rural,Person,18-23 years,9.4
+Mizoram,Rural,Person,24-29 years,0.1
+Mizoram,Rural,Person,30-35 years,0
+Mizoram,Rural,Person,3-35 years,41.7
+Mizoram,Rural,Person,3-5 years,15
+Mizoram,Rural,Person,5-29 years,52.6
+Mizoram,Rural,Person,6-10 years,97.4
+Mizoram,Total,Female,11-13 years,99.8
+Mizoram,Total,Female,14-17 years,89.1
+Mizoram,Total,Female,18-23 years,27
+Mizoram,Total,Female,24-29 years,1.9
+Mizoram,Total,Female,30-35 years,0
+Mizoram,Total,Female,3-35 years,44.6
+Mizoram,Total,Female,3-5 years,21.4
+Mizoram,Total,Female,5-29 years,56.8
+Mizoram,Total,Female,6-10 years,97.8
+Mizoram,Total,Male,11-13 years,98.2
+Mizoram,Total,Male,14-17 years,87.6
+Mizoram,Total,Male,18-23 years,28
+Mizoram,Total,Male,24-29 years,1.6
+Mizoram,Total,Male,30-35 years,0
+Mizoram,Total,Male,3-35 years,46.9
+Mizoram,Total,Male,3-5 years,20.6
+Mizoram,Total,Male,5-29 years,58.4
+Mizoram,Total,Male,6-10 years,99
+Mizoram,Total,Person,11-13 years,98.9
+Mizoram,Total,Person,14-17 years,88.3
+Mizoram,Total,Person,18-23 years,27.5
+Mizoram,Total,Person,24-29 years,1.8
+Mizoram,Total,Person,30-35 years,0
+Mizoram,Total,Person,3-35 years,45.8
+Mizoram,Total,Person,3-5 years,21
+Mizoram,Total,Person,5-29 years,57.6
+Mizoram,Total,Person,6-10 years,98.4
+Mizoram,Urban,Female,11-13 years,100
+Mizoram,Urban,Female,14-17 years,95.7
+Mizoram,Urban,Female,18-23 years,50.2
+Mizoram,Urban,Female,24-29 years,4.4
+Mizoram,Urban,Female,30-35 years,0
+Mizoram,Urban,Female,3-35 years,51.9
+Mizoram,Urban,Female,3-5 years,26
+Mizoram,Urban,Female,5-29 years,65.2
+Mizoram,Urban,Female,6-10 years,100
+Mizoram,Urban,Male,11-13 years,100
+Mizoram,Urban,Male,14-17 years,91.5
+Mizoram,Urban,Male,18-23 years,47.2
+Mizoram,Urban,Male,24-29 years,4.2
+Mizoram,Urban,Male,30-35 years,0
+Mizoram,Urban,Male,3-35 years,51.3
+Mizoram,Urban,Male,3-5 years,35.1
+Mizoram,Urban,Male,5-29 years,64
+Mizoram,Urban,Male,6-10 years,100
+Mizoram,Urban,Person,11-13 years,100
+Mizoram,Urban,Person,14-17 years,93.6
+Mizoram,Urban,Person,18-23 years,48.7
+Mizoram,Urban,Person,24-29 years,4.3
+Mizoram,Urban,Person,30-35 years,0
+Mizoram,Urban,Person,3-35 years,51.6
+Mizoram,Urban,Person,3-5 years,30.3
+Mizoram,Urban,Person,5-29 years,64.6
+Mizoram,Urban,Person,6-10 years,100
+Tripura,Rural,Female,11-13 years,98
+Tripura,Rural,Female,14-17 years,91.5
+Tripura,Rural,Female,18-23 years,23.7
+Tripura,Rural,Female,24-29 years,0.9
+Tripura,Rural,Female,30-35 years,0
+Tripura,Rural,Female,3-35 years,47.4
+Tripura,Rural,Female,3-5 years,81.9
+Tripura,Rural,Female,5-29 years,55.7
+Tripura,Rural,Female,6-10 years,100
+Tripura,Rural,Male,11-13 years,98
+Tripura,Rural,Male,14-17 years,84.8
+Tripura,Rural,Male,18-23 years,20.4
+Tripura,Rural,Male,24-29 years,2.7
+Tripura,Rural,Male,30-35 years,0
+Tripura,Rural,Male,3-35 years,50.3
+Tripura,Rural,Male,3-5 years,68.8
+Tripura,Rural,Male,5-29 years,60.7
+Tripura,Rural,Male,6-10 years,100
+Tripura,Rural,Person,11-13 years,98
+Tripura,Rural,Person,14-17 years,87.5
+Tripura,Rural,Person,18-23 years,22.1
+Tripura,Rural,Person,24-29 years,1.7
+Tripura,Rural,Person,30-35 years,0
+Tripura,Rural,Person,3-35 years,48.9
+Tripura,Rural,Person,3-5 years,74.4
+Tripura,Rural,Person,5-29 years,58.3
+Tripura,Rural,Person,6-10 years,100
+Tripura,Total,Female,11-13 years,98.3
+Tripura,Total,Female,14-17 years,91.6
+Tripura,Total,Female,18-23 years,27.1
+Tripura,Total,Female,24-29 years,1.6
+Tripura,Total,Female,30-35 years,0
+Tripura,Total,Female,3-35 years,47.8
+Tripura,Total,Female,3-5 years,84.4
+Tripura,Total,Female,5-29 years,55.8
+Tripura,Total,Female,6-10 years,99.8
+Tripura,Total,Male,11-13 years,98.2
+Tripura,Total,Male,14-17 years,84.6
+Tripura,Total,Male,18-23 years,25.2
+Tripura,Total,Male,24-29 years,2.6
+Tripura,Total,Male,30-35 years,0
+Tripura,Total,Male,3-35 years,50.6
+Tripura,Total,Male,3-5 years,71.4
+Tripura,Total,Male,5-29 years,61.3
+Tripura,Total,Male,6-10 years,100
+Tripura,Total,Person,11-13 years,98.3
+Tripura,Total,Person,14-17 years,87.6
+Tripura,Total,Person,18-23 years,26.2
+Tripura,Total,Person,24-29 years,2.1
+Tripura,Total,Person,30-35 years,0
+Tripura,Total,Person,3-35 years,49.2
+Tripura,Total,Person,3-5 years,77.3
+Tripura,Total,Person,5-29 years,58.7
+Tripura,Total,Person,6-10 years,99.9
+Tripura,Urban,Female,11-13 years,100
+Tripura,Urban,Female,14-17 years,92
+Tripura,Urban,Female,18-23 years,40.8
+Tripura,Urban,Female,24-29 years,4
+Tripura,Urban,Female,30-35 years,0
+Tripura,Urban,Female,3-35 years,49
+Tripura,Urban,Female,3-5 years,92
+Tripura,Urban,Female,5-29 years,56.5
+Tripura,Urban,Female,6-10 years,99.1
+Tripura,Urban,Male,11-13 years,98.9
+Tripura,Urban,Male,14-17 years,83.7
+Tripura,Urban,Male,18-23 years,44.7
+Tripura,Urban,Male,24-29 years,2.1
+Tripura,Urban,Male,30-35 years,0.1
+Tripura,Urban,Male,3-35 years,51.9
+Tripura,Urban,Male,3-5 years,85.1
+Tripura,Urban,Male,5-29 years,64.2
+Tripura,Urban,Male,6-10 years,100
+Tripura,Urban,Person,11-13 years,99.3
+Tripura,Urban,Person,14-17 years,87.7
+Tripura,Urban,Person,18-23 years,42.7
+Tripura,Urban,Person,24-29 years,3.2
+Tripura,Urban,Person,30-35 years,0.1
+Tripura,Urban,Person,3-35 years,50.5
+Tripura,Urban,Person,3-5 years,89
+Tripura,Urban,Person,5-29 years,60.3
+Tripura,Urban,Person,6-10 years,99.6
+Meghalaya,Rural,Female,11-13 years,94.6
+Meghalaya,Rural,Female,14-17 years,78.6
+Meghalaya,Rural,Female,18-23 years,17.1
+Meghalaya,Rural,Female,24-29 years,0.2
+Meghalaya,Rural,Female,30-35 years,0
+Meghalaya,Rural,Female,3-35 years,48
+Meghalaya,Rural,Female,3-5 years,33.6
+Meghalaya,Rural,Female,5-29 years,57.8
+Meghalaya,Rural,Female,6-10 years,97.6
+Meghalaya,Rural,Male,11-13 years,97.7
+Meghalaya,Rural,Male,14-17 years,69.6
+Meghalaya,Rural,Male,18-23 years,15.7
+Meghalaya,Rural,Male,24-29 years,0
+Meghalaya,Rural,Male,30-35 years,0
+Meghalaya,Rural,Male,3-35 years,46.2
+Meghalaya,Rural,Male,3-5 years,39.9
+Meghalaya,Rural,Male,5-29 years,55.1
+Meghalaya,Rural,Male,6-10 years,98.7
+Meghalaya,Rural,Person,11-13 years,96.1
+Meghalaya,Rural,Person,14-17 years,74.1
+Meghalaya,Rural,Person,18-23 years,16.4
+Meghalaya,Rural,Person,24-29 years,0.1
+Meghalaya,Rural,Person,30-35 years,0
+Meghalaya,Rural,Person,3-35 years,47.1
+Meghalaya,Rural,Person,3-5 years,36.6
+Meghalaya,Rural,Person,5-29 years,56.4
+Meghalaya,Rural,Person,6-10 years,98.1
+Meghalaya,Total,Female,11-13 years,95.2
+Meghalaya,Total,Female,14-17 years,79.9
+Meghalaya,Total,Female,18-23 years,28.4
+Meghalaya,Total,Female,24-29 years,0.6
+Meghalaya,Total,Female,30-35 years,0
+Meghalaya,Total,Female,3-35 years,48.9
+Meghalaya,Total,Female,3-5 years,37.1
+Meghalaya,Total,Female,5-29 years,59.1
+Meghalaya,Total,Female,6-10 years,97.9
+Meghalaya,Total,Male,11-13 years,98
+Meghalaya,Total,Male,14-17 years,72
+Meghalaya,Total,Male,18-23 years,26.8
+Meghalaya,Total,Male,24-29 years,0.6
+Meghalaya,Total,Male,30-35 years,0
+Meghalaya,Total,Male,3-35 years,48
+Meghalaya,Total,Male,3-5 years,42.3
+Meghalaya,Total,Male,5-29 years,57.3
+Meghalaya,Total,Male,6-10 years,98.9
+Meghalaya,Total,Person,11-13 years,96.6
+Meghalaya,Total,Person,14-17 years,76
+Meghalaya,Total,Person,18-23 years,27.6
+Meghalaya,Total,Person,24-29 years,0.6
+Meghalaya,Total,Person,30-35 years,0
+Meghalaya,Total,Person,3-35 years,48.5
+Meghalaya,Total,Person,3-5 years,39.6
+Meghalaya,Total,Person,5-29 years,58.2
+Meghalaya,Total,Person,6-10 years,98.4
+Meghalaya,Urban,Female,11-13 years,100
+Meghalaya,Urban,Female,14-17 years,86.2
+Meghalaya,Urban,Female,18-23 years,68.7
+Meghalaya,Urban,Female,24-29 years,2.3
+Meghalaya,Urban,Female,30-35 years,0
+Meghalaya,Urban,Female,3-35 years,52.9
+Meghalaya,Urban,Female,3-5 years,62.9
+Meghalaya,Urban,Female,5-29 years,65
+Meghalaya,Urban,Female,6-10 years,100
+Meghalaya,Urban,Male,11-13 years,100
+Meghalaya,Urban,Male,14-17 years,84.7
+Meghalaya,Urban,Male,18-23 years,70.1
+Meghalaya,Urban,Male,24-29 years,3.9
+Meghalaya,Urban,Male,30-35 years,0
+Meghalaya,Urban,Male,3-35 years,57.2
+Meghalaya,Urban,Male,3-5 years,56.7
+Meghalaya,Urban,Male,5-29 years,68.7
+Meghalaya,Urban,Male,6-10 years,100
+Meghalaya,Urban,Person,11-13 years,100
+Meghalaya,Urban,Person,14-17 years,85.4
+Meghalaya,Urban,Person,18-23 years,69.4
+Meghalaya,Urban,Person,24-29 years,3
+Meghalaya,Urban,Person,30-35 years,0
+Meghalaya,Urban,Person,3-35 years,55
+Meghalaya,Urban,Person,3-5 years,59.7
+Meghalaya,Urban,Person,5-29 years,66.8
+Meghalaya,Urban,Person,6-10 years,100
+Assam,Rural,Female,11-13 years,94.4
+Assam,Rural,Female,14-17 years,72.8
+Assam,Rural,Female,18-23 years,15.4
+Assam,Rural,Female,24-29 years,0.3
+Assam,Rural,Female,30-35 years,0
+Assam,Rural,Female,3-35 years,36.4
+Assam,Rural,Female,3-5 years,31.2
+Assam,Rural,Female,5-29 years,44.6
+Assam,Rural,Female,6-10 years,97.6
+Assam,Rural,Male,11-13 years,98.2
+Assam,Rural,Male,14-17 years,74.3
+Assam,Rural,Male,18-23 years,22.2
+Assam,Rural,Male,24-29 years,1
+Assam,Rural,Male,30-35 years,0.1
+Assam,Rural,Male,3-35 years,44
+Assam,Rural,Male,3-5 years,36.2
+Assam,Rural,Male,5-29 years,54.1
+Assam,Rural,Male,6-10 years,97.1
+Assam,Rural,Person,11-13 years,96.7
+Assam,Rural,Person,14-17 years,73.6
+Assam,Rural,Person,18-23 years,18.9
+Assam,Rural,Person,24-29 years,0.6
+Assam,Rural,Person,30-35 years,0.1
+Assam,Rural,Person,3-35 years,40.5
+Assam,Rural,Person,3-5 years,33.9
+Assam,Rural,Person,5-29 years,49.7
+Assam,Rural,Person,6-10 years,97.3
+Assam,Total,Female,11-13 years,94.9
+Assam,Total,Female,14-17 years,74.2
+Assam,Total,Female,18-23 years,18
+Assam,Total,Female,24-29 years,0.4
+Assam,Total,Female,30-35 years,0.1
+Assam,Total,Female,3-35 years,36.8
+Assam,Total,Female,3-5 years,31.7
+Assam,Total,Female,5-29 years,45
+Assam,Total,Female,6-10 years,97.6
+Assam,Total,Male,11-13 years,98.3
+Assam,Total,Male,14-17 years,75.2
+Assam,Total,Male,18-23 years,25.6
+Assam,Total,Male,24-29 years,1
+Assam,Total,Male,30-35 years,0.1
+Assam,Total,Male,3-35 years,44.2
+Assam,Total,Male,3-5 years,38.2
+Assam,Total,Male,5-29 years,54.8
+Assam,Total,Male,6-10 years,97.4
+Assam,Total,Person,11-13 years,96.9
+Assam,Total,Person,14-17 years,74.7
+Assam,Total,Person,18-23 years,21.9
+Assam,Total,Person,24-29 years,0.7
+Assam,Total,Person,30-35 years,0.1
+Assam,Total,Person,3-35 years,40.8
+Assam,Total,Person,3-5 years,35.2
+Assam,Total,Person,5-29 years,50.2
+Assam,Total,Person,6-10 years,97.5
+Assam,Urban,Female,11-13 years,98.5
+Assam,Urban,Female,14-17 years,88.8
+Assam,Urban,Female,18-23 years,41.4
+Assam,Urban,Female,24-29 years,1.6
+Assam,Urban,Female,30-35 years,0.5
+Assam,Urban,Female,3-35 years,39.6
+Assam,Urban,Female,3-5 years,37.5
+Assam,Urban,Female,5-29 years,48.6
+Assam,Urban,Female,6-10 years,98.2
+Assam,Urban,Male,11-13 years,99.8
+Assam,Urban,Male,14-17 years,83.4
+Assam,Urban,Male,18-23 years,57
+Assam,Urban,Male,24-29 years,1.4
+Assam,Urban,Male,30-35 years,0
+Assam,Urban,Male,3-35 years,46.9
+Assam,Urban,Male,3-5 years,66.1
+Assam,Urban,Male,5-29 years,60.8
+Assam,Urban,Male,6-10 years,99.6
+Assam,Urban,Person,11-13 years,99.1
+Assam,Urban,Person,14-17 years,85.7
+Assam,Urban,Person,18-23 years,49.3
+Assam,Urban,Person,24-29 years,1.5
+Assam,Urban,Person,30-35 years,0.2
+Assam,Urban,Person,3-35 years,43.4
+Assam,Urban,Person,3-5 years,50.5
+Assam,Urban,Person,5-29 years,54.9
+Assam,Urban,Person,6-10 years,99.1
+West Bengal,Rural,Female,11-13 years,96.7
+West Bengal,Rural,Female,14-17 years,87.7
+West Bengal,Rural,Female,18-23 years,17.5
+West Bengal,Rural,Female,24-29 years,0.9
+West Bengal,Rural,Female,30-35 years,0
+West Bengal,Rural,Female,3-35 years,42.3
+West Bengal,Rural,Female,3-5 years,38.9
+West Bengal,Rural,Female,5-29 years,52.1
+West Bengal,Rural,Female,6-10 years,98
+West Bengal,Rural,Male,11-13 years,89.1
+West Bengal,Rural,Male,14-17 years,69.6
+West Bengal,Rural,Male,18-23 years,21.1
+West Bengal,Rural,Male,24-29 years,2
+West Bengal,Rural,Male,30-35 years,0.1
+West Bengal,Rural,Male,3-35 years,42
+West Bengal,Rural,Male,3-5 years,34.8
+West Bengal,Rural,Male,5-29 years,51
+West Bengal,Rural,Male,6-10 years,98
+West Bengal,Rural,Person,11-13 years,92.5
+West Bengal,Rural,Person,14-17 years,78.3
+West Bengal,Rural,Person,18-23 years,19.2
+West Bengal,Rural,Person,24-29 years,1.5
+West Bengal,Rural,Person,30-35 years,0
+West Bengal,Rural,Person,3-35 years,42.1
+West Bengal,Rural,Person,3-5 years,36.8
+West Bengal,Rural,Person,5-29 years,51.5
+West Bengal,Rural,Person,6-10 years,98
+West Bengal,Total,Female,11-13 years,96.9
+West Bengal,Total,Female,14-17 years,87.9
+West Bengal,Total,Female,18-23 years,22.2
+West Bengal,Total,Female,24-29 years,1.7
+West Bengal,Total,Female,30-35 years,0
+West Bengal,Total,Female,3-35 years,42.4
+West Bengal,Total,Female,3-5 years,41.4
+West Bengal,Total,Female,5-29 years,52.5
+West Bengal,Total,Female,6-10 years,97.8
+West Bengal,Total,Male,11-13 years,89.6
+West Bengal,Total,Male,14-17 years,72
+West Bengal,Total,Male,18-23 years,27.7
+West Bengal,Total,Male,24-29 years,2.7
+West Bengal,Total,Male,30-35 years,0.2
+West Bengal,Total,Male,3-35 years,42.5
+West Bengal,Total,Male,3-5 years,38.6
+West Bengal,Total,Male,5-29 years,52.1
+West Bengal,Total,Male,6-10 years,97.7
+West Bengal,Total,Person,11-13 years,92.9
+West Bengal,Total,Person,14-17 years,79.6
+West Bengal,Total,Person,18-23 years,24.9
+West Bengal,Total,Person,24-29 years,2.2
+West Bengal,Total,Person,30-35 years,0.1
+West Bengal,Total,Person,3-35 years,42.5
+West Bengal,Total,Person,3-5 years,40
+West Bengal,Total,Person,5-29 years,52.3
+West Bengal,Total,Person,6-10 years,97.8
+West Bengal,Urban,Female,11-13 years,97.4
+West Bengal,Urban,Female,14-17 years,88.5
+West Bengal,Urban,Female,18-23 years,34.8
+West Bengal,Urban,Female,24-29 years,3.6
+West Bengal,Urban,Female,30-35 years,0.1
+West Bengal,Urban,Female,3-35 years,42.9
+West Bengal,Urban,Female,3-5 years,49.4
+West Bengal,Urban,Female,5-29 years,53.7
+West Bengal,Urban,Female,6-10 years,97.3
+West Bengal,Urban,Male,11-13 years,91.2
+West Bengal,Urban,Male,14-17 years,79
+West Bengal,Urban,Male,18-23 years,44.9
+West Bengal,Urban,Male,24-29 years,4.5
+West Bengal,Urban,Male,30-35 years,0.4
+West Bengal,Urban,Male,3-35 years,43.8
+West Bengal,Urban,Male,3-5 years,53.3
+West Bengal,Urban,Male,5-29 years,55.3
+West Bengal,Urban,Male,6-10 years,97
+West Bengal,Urban,Person,11-13 years,94
+West Bengal,Urban,Person,14-17 years,83.4
+West Bengal,Urban,Person,18-23 years,39.8
+West Bengal,Urban,Person,24-29 years,4.1
+West Bengal,Urban,Person,30-35 years,0.3
+West Bengal,Urban,Person,3-35 years,43.4
+West Bengal,Urban,Person,3-5 years,51.2
+West Bengal,Urban,Person,5-29 years,54.5
+West Bengal,Urban,Person,6-10 years,97.2
+Jharkhand,Rural,Female,11-13 years,94.4
+Jharkhand,Rural,Female,14-17 years,72.4
+Jharkhand,Rural,Female,18-23 years,10.4
+Jharkhand,Rural,Female,24-29 years,1.4
+Jharkhand,Rural,Female,30-35 years,0.2
+Jharkhand,Rural,Female,3-35 years,41.9
+Jharkhand,Rural,Female,3-5 years,30.9
+Jharkhand,Rural,Female,5-29 years,52
+Jharkhand,Rural,Female,6-10 years,96.5
+Jharkhand,Rural,Male,11-13 years,95.8
+Jharkhand,Rural,Male,14-17 years,79.2
+Jharkhand,Rural,Male,18-23 years,25.8
+Jharkhand,Rural,Male,24-29 years,1.4
+Jharkhand,Rural,Male,30-35 years,0
+Jharkhand,Rural,Male,3-35 years,48.2
+Jharkhand,Rural,Male,3-5 years,33.4
+Jharkhand,Rural,Male,5-29 years,59.9
+Jharkhand,Rural,Male,6-10 years,97.8
+Jharkhand,Rural,Person,11-13 years,95.1
+Jharkhand,Rural,Person,14-17 years,76.2
+Jharkhand,Rural,Person,18-23 years,18.5
+Jharkhand,Rural,Person,24-29 years,1.4
+Jharkhand,Rural,Person,30-35 years,0.1
+Jharkhand,Rural,Person,3-35 years,45.2
+Jharkhand,Rural,Person,3-5 years,32.1
+Jharkhand,Rural,Person,5-29 years,56.1
+Jharkhand,Rural,Person,6-10 years,97.2
+Jharkhand,Total,Female,11-13 years,94.7
+Jharkhand,Total,Female,14-17 years,76.6
+Jharkhand,Total,Female,18-23 years,17.9
+Jharkhand,Total,Female,24-29 years,2.6
+Jharkhand,Total,Female,30-35 years,0.2
+Jharkhand,Total,Female,3-35 years,43.3
+Jharkhand,Total,Female,3-5 years,32.6
+Jharkhand,Total,Female,5-29 years,53.5
+Jharkhand,Total,Female,6-10 years,96.3
+Jharkhand,Total,Male,11-13 years,96.5
+Jharkhand,Total,Male,14-17 years,81.3
+Jharkhand,Total,Male,18-23 years,27.3
+Jharkhand,Total,Male,24-29 years,2.3
+Jharkhand,Total,Male,30-35 years,0.2
+Jharkhand,Total,Male,3-35 years,48.6
+Jharkhand,Total,Male,3-5 years,37.2
+Jharkhand,Total,Male,5-29 years,59.9
+Jharkhand,Total,Male,6-10 years,97.8
+Jharkhand,Total,Person,11-13 years,95.7
+Jharkhand,Total,Person,14-17 years,79.2
+Jharkhand,Total,Person,18-23 years,22.8
+Jharkhand,Total,Person,24-29 years,2.4
+Jharkhand,Total,Person,30-35 years,0.2
+Jharkhand,Total,Person,3-35 years,46.1
+Jharkhand,Total,Person,3-5 years,35
+Jharkhand,Total,Person,5-29 years,56.9
+Jharkhand,Total,Person,6-10 years,97.1
+Jharkhand,Urban,Female,11-13 years,96.4
+Jharkhand,Urban,Female,14-17 years,91.4
+Jharkhand,Urban,Female,18-23 years,43.9
+Jharkhand,Urban,Female,24-29 years,7.8
+Jharkhand,Urban,Female,30-35 years,0.1
+Jharkhand,Urban,Female,3-35 years,49.6
+Jharkhand,Urban,Female,3-5 years,46.6
+Jharkhand,Urban,Female,5-29 years,60.3
+Jharkhand,Urban,Female,6-10 years,95.2
+Jharkhand,Urban,Male,11-13 years,98.9
+Jharkhand,Urban,Male,14-17 years,90.1
+Jharkhand,Urban,Male,18-23 years,32.2
+Jharkhand,Urban,Male,24-29 years,5.3
+Jharkhand,Urban,Male,30-35 years,0.8
+Jharkhand,Urban,Male,3-35 years,50.2
+Jharkhand,Urban,Male,3-5 years,52.2
+Jharkhand,Urban,Male,5-29 years,59.8
+Jharkhand,Urban,Male,6-10 years,97.5
+Jharkhand,Urban,Person,11-13 years,98
+Jharkhand,Urban,Person,14-17 years,90.8
+Jharkhand,Urban,Person,18-23 years,37.7
+Jharkhand,Urban,Person,24-29 years,6.5
+Jharkhand,Urban,Person,30-35 years,0.4
+Jharkhand,Urban,Person,3-35 years,49.9
+Jharkhand,Urban,Person,3-5 years,50.3
+Jharkhand,Urban,Person,5-29 years,60
+Jharkhand,Urban,Person,6-10 years,96.5
+Odisha,Rural,Female,11-13 years,92.5
+Odisha,Rural,Female,14-17 years,65.5
+Odisha,Rural,Female,18-23 years,11
+Odisha,Rural,Female,24-29 years,0.3
+Odisha,Rural,Female,30-35 years,0.2
+Odisha,Rural,Female,3-35 years,35.7
+Odisha,Rural,Female,3-5 years,23.7
+Odisha,Rural,Female,5-29 years,44.7
+Odisha,Rural,Female,6-10 years,98.4
+Odisha,Rural,Male,11-13 years,94.2
+Odisha,Rural,Male,14-17 years,67.2
+Odisha,Rural,Male,18-23 years,19.2
+Odisha,Rural,Male,24-29 years,0.6
+Odisha,Rural,Male,30-35 years,0
+Odisha,Rural,Male,3-35 years,39.7
+Odisha,Rural,Male,3-5 years,14.5
+Odisha,Rural,Male,5-29 years,51
+Odisha,Rural,Male,6-10 years,97.9
+Odisha,Rural,Person,11-13 years,93.5
+Odisha,Rural,Person,14-17 years,66.4
+Odisha,Rural,Person,18-23 years,15.2
+Odisha,Rural,Person,24-29 years,0.4
+Odisha,Rural,Person,30-35 years,0.1
+Odisha,Rural,Person,3-35 years,37.8
+Odisha,Rural,Person,3-5 years,19.1
+Odisha,Rural,Person,5-29 years,48
+Odisha,Rural,Person,6-10 years,98.1
+Odisha,Total,Female,11-13 years,93.4
+Odisha,Total,Female,14-17 years,67.4
+Odisha,Total,Female,18-23 years,13.7
+Odisha,Total,Female,24-29 years,0.4
+Odisha,Total,Female,30-35 years,0.1
+Odisha,Total,Female,3-35 years,35.9
+Odisha,Total,Female,3-5 years,25.1
+Odisha,Total,Female,5-29 years,45.3
+Odisha,Total,Female,6-10 years,98.3
+Odisha,Total,Male,11-13 years,94.8
+Odisha,Total,Male,14-17 years,69.8
+Odisha,Total,Male,18-23 years,22.1
+Odisha,Total,Male,24-29 years,1.6
+Odisha,Total,Male,30-35 years,0.1
+Odisha,Total,Male,3-35 years,40.9
+Odisha,Total,Male,3-5 years,15.8
+Odisha,Total,Male,5-29 years,52.4
+Odisha,Total,Male,6-10 years,98.2
+Odisha,Total,Person,11-13 years,94.2
+Odisha,Total,Person,14-17 years,68.6
+Odisha,Total,Person,18-23 years,18
+Odisha,Total,Person,24-29 years,0.9
+Odisha,Total,Person,30-35 years,0.1
+Odisha,Total,Person,3-35 years,38.5
+Odisha,Total,Person,3-5 years,20.5
+Odisha,Total,Person,5-29 years,49
+Odisha,Total,Person,6-10 years,98.2
+Odisha,Urban,Female,11-13 years,99.3
+Odisha,Urban,Female,14-17 years,80.3
+Odisha,Urban,Female,18-23 years,27.5
+Odisha,Urban,Female,24-29 years,0.8
+Odisha,Urban,Female,30-35 years,0
+Odisha,Urban,Female,3-35 years,37.1
+Odisha,Urban,Female,3-5 years,35.1
+Odisha,Urban,Female,5-29 years,48.3
+Odisha,Urban,Female,6-10 years,97.6
+Odisha,Urban,Male,11-13 years,99.6
+Odisha,Urban,Male,14-17 years,84.7
+Odisha,Urban,Male,18-23 years,37.6
+Odisha,Urban,Male,24-29 years,6.8
+Odisha,Urban,Male,30-35 years,0.6
+Odisha,Urban,Male,3-35 years,47.2
+Odisha,Urban,Male,3-5 years,26.4
+Odisha,Urban,Male,5-29 years,60
+Odisha,Urban,Male,6-10 years,99.4
+Odisha,Urban,Person,11-13 years,99.5
+Odisha,Urban,Person,14-17 years,82.7
+Odisha,Urban,Person,18-23 years,32.7
+Odisha,Urban,Person,24-29 years,3.5
+Odisha,Urban,Person,30-35 years,0.3
+Odisha,Urban,Person,3-35 years,42.3
+Odisha,Urban,Person,3-5 years,31
+Odisha,Urban,Person,5-29 years,54.4
+Odisha,Urban,Person,6-10 years,98.6
+Chhattisgarh,Rural,Female,11-13 years,93.6
+Chhattisgarh,Rural,Female,14-17 years,80.3
+Chhattisgarh,Rural,Female,18-23 years,16.5
+Chhattisgarh,Rural,Female,24-29 years,0.7
+Chhattisgarh,Rural,Female,30-35 years,0
+Chhattisgarh,Rural,Female,3-35 years,43
+Chhattisgarh,Rural,Female,3-5 years,19.4
+Chhattisgarh,Rural,Female,5-29 years,52.7
+Chhattisgarh,Rural,Female,6-10 years,97.1
+Chhattisgarh,Rural,Male,11-13 years,96.5
+Chhattisgarh,Rural,Male,14-17 years,81.3
+Chhattisgarh,Rural,Male,18-23 years,24
+Chhattisgarh,Rural,Male,24-29 years,3
+Chhattisgarh,Rural,Male,30-35 years,0
+Chhattisgarh,Rural,Male,3-35 years,47.1
+Chhattisgarh,Rural,Male,3-5 years,27.4
+Chhattisgarh,Rural,Male,5-29 years,57.4
+Chhattisgarh,Rural,Male,6-10 years,96
+Chhattisgarh,Rural,Person,11-13 years,95.2
+Chhattisgarh,Rural,Person,14-17 years,80.8
+Chhattisgarh,Rural,Person,18-23 years,20.3
+Chhattisgarh,Rural,Person,24-29 years,1.9
+Chhattisgarh,Rural,Person,30-35 years,0
+Chhattisgarh,Rural,Person,3-35 years,45.2
+Chhattisgarh,Rural,Person,3-5 years,23.8
+Chhattisgarh,Rural,Person,5-29 years,55.2
+Chhattisgarh,Rural,Person,6-10 years,96.5
+Chhattisgarh,Total,Female,11-13 years,94
+Chhattisgarh,Total,Female,14-17 years,82.4
+Chhattisgarh,Total,Female,18-23 years,18.7
+Chhattisgarh,Total,Female,24-29 years,1.1
+Chhattisgarh,Total,Female,30-35 years,0
+Chhattisgarh,Total,Female,3-35 years,42.6
+Chhattisgarh,Total,Female,3-5 years,22.2
+Chhattisgarh,Total,Female,5-29 years,52.2
+Chhattisgarh,Total,Female,6-10 years,96.9
+Chhattisgarh,Total,Male,11-13 years,96.7
+Chhattisgarh,Total,Male,14-17 years,81.6
+Chhattisgarh,Total,Male,18-23 years,26.7
+Chhattisgarh,Total,Male,24-29 years,3.7
+Chhattisgarh,Total,Male,30-35 years,0
+Chhattisgarh,Total,Male,3-35 years,46.9
+Chhattisgarh,Total,Male,3-5 years,27.7
+Chhattisgarh,Total,Male,5-29 years,57.5
+Chhattisgarh,Total,Male,6-10 years,96.3
+Chhattisgarh,Total,Person,11-13 years,95.5
+Chhattisgarh,Total,Person,14-17 years,81.9
+Chhattisgarh,Total,Person,18-23 years,22.7
+Chhattisgarh,Total,Person,24-29 years,2.4
+Chhattisgarh,Total,Person,30-35 years,0
+Chhattisgarh,Total,Person,3-35 years,44.9
+Chhattisgarh,Total,Person,3-5 years,25.3
+Chhattisgarh,Total,Person,5-29 years,55
+Chhattisgarh,Total,Person,6-10 years,96.6
+Chhattisgarh,Urban,Female,11-13 years,96.7
+Chhattisgarh,Urban,Female,14-17 years,93
+Chhattisgarh,Urban,Female,18-23 years,27.3
+Chhattisgarh,Urban,Female,24-29 years,2.8
+Chhattisgarh,Urban,Female,30-35 years,0.2
+Chhattisgarh,Urban,Female,3-35 years,40.7
+Chhattisgarh,Urban,Female,3-5 years,38.5
+Chhattisgarh,Urban,Female,5-29 years,50.2
+Chhattisgarh,Urban,Female,6-10 years,96.2
+Chhattisgarh,Urban,Male,11-13 years,97.7
+Chhattisgarh,Urban,Male,14-17 years,83.1
+Chhattisgarh,Urban,Male,18-23 years,40
+Chhattisgarh,Urban,Male,24-29 years,6.1
+Chhattisgarh,Urban,Male,30-35 years,0.1
+Chhattisgarh,Urban,Male,3-35 years,46.2
+Chhattisgarh,Urban,Male,3-5 years,29.4
+Chhattisgarh,Urban,Male,5-29 years,58.3
+Chhattisgarh,Urban,Male,6-10 years,97.3
+Chhattisgarh,Urban,Person,11-13 years,97.3
+Chhattisgarh,Urban,Person,14-17 years,87.6
+Chhattisgarh,Urban,Person,18-23 years,33
+Chhattisgarh,Urban,Person,24-29 years,4.4
+Chhattisgarh,Urban,Person,30-35 years,0.1
+Chhattisgarh,Urban,Person,3-35 years,43.6
+Chhattisgarh,Urban,Person,3-5 years,33.3
+Chhattisgarh,Urban,Person,5-29 years,54.4
+Chhattisgarh,Urban,Person,6-10 years,96.8
+Madhya Pradesh,Rural,Female,11-13 years,91.5
+Madhya Pradesh,Rural,Female,14-17 years,65.7
+Madhya Pradesh,Rural,Female,18-23 years,12.8
+Madhya Pradesh,Rural,Female,24-29 years,2.4
+Madhya Pradesh,Rural,Female,30-35 years,0
+Madhya Pradesh,Rural,Female,3-35 years,37.9
+Madhya Pradesh,Rural,Female,3-5 years,18.6
+Madhya Pradesh,Rural,Female,5-29 years,46.6
+Madhya Pradesh,Rural,Female,6-10 years,90.3
+Madhya Pradesh,Rural,Male,11-13 years,93.9
+Madhya Pradesh,Rural,Male,14-17 years,65.9
+Madhya Pradesh,Rural,Male,18-23 years,21.7
+Madhya Pradesh,Rural,Male,24-29 years,3.3
+Madhya Pradesh,Rural,Male,30-35 years,0.5
+Madhya Pradesh,Rural,Male,3-35 years,40.4
+Madhya Pradesh,Rural,Male,3-5 years,20.7
+Madhya Pradesh,Rural,Male,5-29 years,50.9
+Madhya Pradesh,Rural,Male,6-10 years,93.5
+Madhya Pradesh,Rural,Person,11-13 years,92.9
+Madhya Pradesh,Rural,Person,14-17 years,65.8
+Madhya Pradesh,Rural,Person,18-23 years,17.7
+Madhya Pradesh,Rural,Person,24-29 years,2.9
+Madhya Pradesh,Rural,Person,30-35 years,0.3
+Madhya Pradesh,Rural,Person,3-35 years,39.3
+Madhya Pradesh,Rural,Person,3-5 years,19.8
+Madhya Pradesh,Rural,Person,5-29 years,48.9
+Madhya Pradesh,Rural,Person,6-10 years,91.9
+Madhya Pradesh,Total,Female,11-13 years,92.3
+Madhya Pradesh,Total,Female,14-17 years,68.5
+Madhya Pradesh,Total,Female,18-23 years,19.5
+Madhya Pradesh,Total,Female,24-29 years,3.1
+Madhya Pradesh,Total,Female,30-35 years,0.1
+Madhya Pradesh,Total,Female,3-35 years,39.2
+Madhya Pradesh,Total,Female,3-5 years,23
+Madhya Pradesh,Total,Female,5-29 years,47.8
+Madhya Pradesh,Total,Female,6-10 years,91.8
+Madhya Pradesh,Total,Male,11-13 years,94.5
+Madhya Pradesh,Total,Male,14-17 years,70.2
+Madhya Pradesh,Total,Male,18-23 years,26.9
+Madhya Pradesh,Total,Male,24-29 years,3.6
+Madhya Pradesh,Total,Male,30-35 years,0.5
+Madhya Pradesh,Total,Male,3-35 years,42.1
+Madhya Pradesh,Total,Male,3-5 years,26.1
+Madhya Pradesh,Total,Male,5-29 years,52.7
+Madhya Pradesh,Total,Male,6-10 years,93.8
+Madhya Pradesh,Total,Person,11-13 years,93.6
+Madhya Pradesh,Total,Person,14-17 years,69.4
+Madhya Pradesh,Total,Person,18-23 years,23.5
+Madhya Pradesh,Total,Person,24-29 years,3.3
+Madhya Pradesh,Total,Person,30-35 years,0.3
+Madhya Pradesh,Total,Person,3-35 years,40.8
+Madhya Pradesh,Total,Person,3-5 years,24.7
+Madhya Pradesh,Total,Person,5-29 years,50.4
+Madhya Pradesh,Total,Person,6-10 years,92.9
+Madhya Pradesh,Urban,Female,11-13 years,95
+Madhya Pradesh,Urban,Female,14-17 years,79.1
+Madhya Pradesh,Urban,Female,18-23 years,36.8
+Madhya Pradesh,Urban,Female,24-29 years,4.8
+Madhya Pradesh,Urban,Female,30-35 years,0.4
+Madhya Pradesh,Urban,Female,3-35 years,43.4
+Madhya Pradesh,Urban,Female,3-5 years,42.4
+Madhya Pradesh,Urban,Female,5-29 years,51.4
+Madhya Pradesh,Urban,Female,6-10 years,99.2
+Madhya Pradesh,Urban,Male,11-13 years,96.6
+Madhya Pradesh,Urban,Male,14-17 years,83.5
+Madhya Pradesh,Urban,Male,18-23 years,42.5
+Madhya Pradesh,Urban,Male,24-29 years,4.5
+Madhya Pradesh,Urban,Male,30-35 years,0.4
+Madhya Pradesh,Urban,Male,3-35 years,47.5
+Madhya Pradesh,Urban,Male,3-5 years,48.8
+Madhya Pradesh,Urban,Male,5-29 years,58.5
+Madhya Pradesh,Urban,Male,6-10 years,95.2
+Madhya Pradesh,Urban,Person,11-13 years,95.9
+Madhya Pradesh,Urban,Person,14-17 years,81.6
+Madhya Pradesh,Urban,Person,18-23 years,39.7
+Madhya Pradesh,Urban,Person,24-29 years,4.6
+Madhya Pradesh,Urban,Person,30-35 years,0.4
+Madhya Pradesh,Urban,Person,3-35 years,45.6
+Madhya Pradesh,Urban,Person,3-5 years,46
+Madhya Pradesh,Urban,Person,5-29 years,55.2
+Madhya Pradesh,Urban,Person,6-10 years,96.8
+Gujarat,Rural,Female,11-13 years,92.4
+Gujarat,Rural,Female,14-17 years,64.7
+Gujarat,Rural,Female,18-23 years,9.3
+Gujarat,Rural,Female,24-29 years,0.5
+Gujarat,Rural,Female,30-35 years,0
+Gujarat,Rural,Female,3-35 years,38.7
+Gujarat,Rural,Female,3-5 years,26.8
+Gujarat,Rural,Female,5-29 years,46.2
+Gujarat,Rural,Female,6-10 years,95.9
+Gujarat,Rural,Male,11-13 years,91.1
+Gujarat,Rural,Male,14-17 years,69.6
+Gujarat,Rural,Male,18-23 years,19.8
+Gujarat,Rural,Male,24-29 years,0.2
+Gujarat,Rural,Male,30-35 years,0
+Gujarat,Rural,Male,3-35 years,41
+Gujarat,Rural,Male,3-5 years,25.5
+Gujarat,Rural,Male,5-29 years,49.5
+Gujarat,Rural,Male,6-10 years,98.4
+Gujarat,Rural,Person,11-13 years,91.8
+Gujarat,Rural,Person,14-17 years,67.4
+Gujarat,Rural,Person,18-23 years,14.7
+Gujarat,Rural,Person,24-29 years,0.4
+Gujarat,Rural,Person,30-35 years,0
+Gujarat,Rural,Person,3-35 years,39.9
+Gujarat,Rural,Person,3-5 years,26.1
+Gujarat,Rural,Person,5-29 years,47.9
+Gujarat,Rural,Person,6-10 years,97.2
+Gujarat,Total,Female,11-13 years,93.8
+Gujarat,Total,Female,14-17 years,71
+Gujarat,Total,Female,18-23 years,16.1
+Gujarat,Total,Female,24-29 years,0.7
+Gujarat,Total,Female,30-35 years,0.2
+Gujarat,Total,Female,3-35 years,38.6
+Gujarat,Total,Female,3-5 years,34.3
+Gujarat,Total,Female,5-29 years,46.3
+Gujarat,Total,Female,6-10 years,95.9
+Gujarat,Total,Male,11-13 years,93.6
+Gujarat,Total,Male,14-17 years,77.7
+Gujarat,Total,Male,18-23 years,24.4
+Gujarat,Total,Male,24-29 years,0.5
+Gujarat,Total,Male,30-35 years,0
+Gujarat,Total,Male,3-35 years,41.6
+Gujarat,Total,Male,3-5 years,29.2
+Gujarat,Total,Male,5-29 years,51.1
+Gujarat,Total,Male,6-10 years,98.7
+Gujarat,Total,Person,11-13 years,93.7
+Gujarat,Total,Person,14-17 years,74.8
+Gujarat,Total,Person,18-23 years,20.5
+Gujarat,Total,Person,24-29 years,0.6
+Gujarat,Total,Person,30-35 years,0.1
+Gujarat,Total,Person,3-35 years,40.2
+Gujarat,Total,Person,3-5 years,31.4
+Gujarat,Total,Person,5-29 years,48.9
+Gujarat,Total,Person,6-10 years,97.5
+Gujarat,Urban,Female,11-13 years,97.3
+Gujarat,Urban,Female,14-17 years,86.9
+Gujarat,Urban,Female,18-23 years,28
+Gujarat,Urban,Female,24-29 years,0.9
+Gujarat,Urban,Female,30-35 years,0.4
+Gujarat,Urban,Female,3-35 years,38.4
+Gujarat,Urban,Female,3-5 years,48.5
+Gujarat,Urban,Female,5-29 years,46.5
+Gujarat,Urban,Female,6-10 years,95.9
+Gujarat,Urban,Male,11-13 years,98.4
+Gujarat,Urban,Male,14-17 years,92.4
+Gujarat,Urban,Male,18-23 years,31.4
+Gujarat,Urban,Male,24-29 years,0.8
+Gujarat,Urban,Male,30-35 years,0
+Gujarat,Urban,Male,3-35 years,42.6
+Gujarat,Urban,Male,3-5 years,35
+Gujarat,Urban,Male,5-29 years,53.6
+Gujarat,Urban,Male,6-10 years,99.1
+Gujarat,Urban,Person,11-13 years,97.9
+Gujarat,Urban,Person,14-17 years,90.3
+Gujarat,Urban,Person,18-23 years,29.8
+Gujarat,Urban,Person,24-29 years,0.9
+Gujarat,Urban,Person,30-35 years,0.2
+Gujarat,Urban,Person,3-35 years,40.8
+Gujarat,Urban,Person,3-5 years,40.6
+Gujarat,Urban,Person,5-29 years,50.5
+Gujarat,Urban,Person,6-10 years,97.9
+Maharashtra,Rural,Female,11-13 years,95.9
+Maharashtra,Rural,Female,14-17 years,83.9
+Maharashtra,Rural,Female,18-23 years,24.8
+Maharashtra,Rural,Female,24-29 years,0.4
+Maharashtra,Rural,Female,30-35 years,0
+Maharashtra,Rural,Female,3-35 years,41.7
+Maharashtra,Rural,Female,3-5 years,29.1
+Maharashtra,Rural,Female,5-29 years,51.3
+Maharashtra,Rural,Female,6-10 years,97.2
+Maharashtra,Rural,Male,11-13 years,97.4
+Maharashtra,Rural,Male,14-17 years,87.5
+Maharashtra,Rural,Male,18-23 years,41.4
+Maharashtra,Rural,Male,24-29 years,2.1
+Maharashtra,Rural,Male,30-35 years,0
+Maharashtra,Rural,Male,3-35 years,46.8
+Maharashtra,Rural,Male,3-5 years,32.9
+Maharashtra,Rural,Male,5-29 years,58.4
+Maharashtra,Rural,Male,6-10 years,98.7
+Maharashtra,Rural,Person,11-13 years,96.6
+Maharashtra,Rural,Person,14-17 years,85.9
+Maharashtra,Rural,Person,18-23 years,34.2
+Maharashtra,Rural,Person,24-29 years,1.2
+Maharashtra,Rural,Person,30-35 years,0
+Maharashtra,Rural,Person,3-35 years,44.5
+Maharashtra,Rural,Person,3-5 years,31.2
+Maharashtra,Rural,Person,5-29 years,55.1
+Maharashtra,Rural,Person,6-10 years,98.1
+Maharashtra,Total,Female,11-13 years,96
+Maharashtra,Total,Female,14-17 years,86.3
+Maharashtra,Total,Female,18-23 years,29.1
+Maharashtra,Total,Female,24-29 years,1.1
+Maharashtra,Total,Female,30-35 years,0.2
+Maharashtra,Total,Female,3-35 years,41.3
+Maharashtra,Total,Female,3-5 years,40.8
+Maharashtra,Total,Female,5-29 years,50.4
+Maharashtra,Total,Female,6-10 years,97.3
+Maharashtra,Total,Male,11-13 years,97.9
+Maharashtra,Total,Male,14-17 years,86
+Maharashtra,Total,Male,18-23 years,42
+Maharashtra,Total,Male,24-29 years,3.3
+Maharashtra,Total,Male,30-35 years,0.2
+Maharashtra,Total,Male,3-35 years,45.5
+Maharashtra,Total,Male,3-5 years,37.6
+Maharashtra,Total,Male,5-29 years,56.7
+Maharashtra,Total,Male,6-10 years,98.6
+Maharashtra,Total,Person,11-13 years,97
+Maharashtra,Total,Person,14-17 years,86.2
+Maharashtra,Total,Person,18-23 years,36.2
+Maharashtra,Total,Person,24-29 years,2.3
+Maharashtra,Total,Person,30-35 years,0.2
+Maharashtra,Total,Person,3-35 years,43.6
+Maharashtra,Total,Person,3-5 years,39.1
+Maharashtra,Total,Person,5-29 years,53.8
+Maharashtra,Total,Person,6-10 years,98
+Maharashtra,Urban,Female,11-13 years,96.3
+Maharashtra,Urban,Female,14-17 years,90.3
+Maharashtra,Urban,Female,18-23 years,34.2
+Maharashtra,Urban,Female,24-29 years,1.9
+Maharashtra,Urban,Female,30-35 years,0.4
+Maharashtra,Urban,Female,3-35 years,40.8
+Maharashtra,Urban,Female,3-5 years,55.8
+Maharashtra,Urban,Female,5-29 years,49.3
+Maharashtra,Urban,Female,6-10 years,97.3
+Maharashtra,Urban,Male,11-13 years,98.4
+Maharashtra,Urban,Male,14-17 years,83.9
+Maharashtra,Urban,Male,18-23 years,42.7
+Maharashtra,Urban,Male,24-29 years,4.5
+Maharashtra,Urban,Male,30-35 years,0.3
+Maharashtra,Urban,Male,3-35 years,43.9
+Maharashtra,Urban,Male,3-5 years,44.4
+Maharashtra,Urban,Male,5-29 years,54.6
+Maharashtra,Urban,Male,6-10 years,98.5
+Maharashtra,Urban,Person,11-13 years,97.5
+Maharashtra,Urban,Person,14-17 years,86.6
+Maharashtra,Urban,Person,18-23 years,38.8
+Maharashtra,Urban,Person,24-29 years,3.2
+Maharashtra,Urban,Person,30-35 years,0.4
+Maharashtra,Urban,Person,3-35 years,42.5
+Maharashtra,Urban,Person,3-5 years,50
+Maharashtra,Urban,Person,5-29 years,52.2
+Maharashtra,Urban,Person,6-10 years,98
+Andhra Pradesh,Rural,Female,11-13 years,94.8
+Andhra Pradesh,Rural,Female,14-17 years,76.2
+Andhra Pradesh,Rural,Female,18-23 years,13.1
+Andhra Pradesh,Rural,Female,24-29 years,0.1
+Andhra Pradesh,Rural,Female,30-35 years,0
+Andhra Pradesh,Rural,Female,3-35 years,35.5
+Andhra Pradesh,Rural,Female,3-5 years,26.5
+Andhra Pradesh,Rural,Female,5-29 years,45.5
+Andhra Pradesh,Rural,Female,6-10 years,96.7
+Andhra Pradesh,Rural,Male,11-13 years,96.1
+Andhra Pradesh,Rural,Male,14-17 years,83.7
+Andhra Pradesh,Rural,Male,18-23 years,27.2
+Andhra Pradesh,Rural,Male,24-29 years,0.8
+Andhra Pradesh,Rural,Male,30-35 years,0
+Andhra Pradesh,Rural,Male,3-35 years,41.5
+Andhra Pradesh,Rural,Male,3-5 years,35.7
+Andhra Pradesh,Rural,Male,5-29 years,52.2
+Andhra Pradesh,Rural,Male,6-10 years,97.7
+Andhra Pradesh,Rural,Person,11-13 years,95.5
+Andhra Pradesh,Rural,Person,14-17 years,79.7
+Andhra Pradesh,Rural,Person,18-23 years,20.5
+Andhra Pradesh,Rural,Person,24-29 years,0.4
+Andhra Pradesh,Rural,Person,30-35 years,0
+Andhra Pradesh,Rural,Person,3-35 years,38.5
+Andhra Pradesh,Rural,Person,3-5 years,31.8
+Andhra Pradesh,Rural,Person,5-29 years,48.9
+Andhra Pradesh,Rural,Person,6-10 years,97.2
+Andhra Pradesh,Total,Female,11-13 years,96.2
+Andhra Pradesh,Total,Female,14-17 years,79.7
+Andhra Pradesh,Total,Female,18-23 years,22.6
+Andhra Pradesh,Total,Female,24-29 years,1.1
+Andhra Pradesh,Total,Female,30-35 years,0.2
+Andhra Pradesh,Total,Female,3-35 years,39.1
+Andhra Pradesh,Total,Female,3-5 years,34.7
+Andhra Pradesh,Total,Female,5-29 years,49.4
+Andhra Pradesh,Total,Female,6-10 years,96.6
+Andhra Pradesh,Total,Male,11-13 years,97.2
+Andhra Pradesh,Total,Male,14-17 years,86.3
+Andhra Pradesh,Total,Male,18-23 years,31.9
+Andhra Pradesh,Total,Male,24-29 years,1.6
+Andhra Pradesh,Total,Male,30-35 years,0
+Andhra Pradesh,Total,Male,3-35 years,44.3
+Andhra Pradesh,Total,Male,3-5 years,40
+Andhra Pradesh,Total,Male,5-29 years,55.5
+Andhra Pradesh,Total,Male,6-10 years,98.3
+Andhra Pradesh,Total,Person,11-13 years,96.7
+Andhra Pradesh,Total,Person,14-17 years,83
+Andhra Pradesh,Total,Person,18-23 years,27.2
+Andhra Pradesh,Total,Person,24-29 years,1.3
+Andhra Pradesh,Total,Person,30-35 years,0.1
+Andhra Pradesh,Total,Person,3-35 years,41.8
+Andhra Pradesh,Total,Person,3-5 years,37.9
+Andhra Pradesh,Total,Person,5-29 years,52.5
+Andhra Pradesh,Total,Person,6-10 years,97.5
+Andhra Pradesh,Urban,Female,11-13 years,98.8
+Andhra Pradesh,Urban,Female,14-17 years,88
+Andhra Pradesh,Urban,Female,18-23 years,39.9
+Andhra Pradesh,Urban,Female,24-29 years,3.4
+Andhra Pradesh,Urban,Female,30-35 years,0.7
+Andhra Pradesh,Urban,Female,3-35 years,47.1
+Andhra Pradesh,Urban,Female,3-5 years,58.7
+Andhra Pradesh,Urban,Female,5-29 years,57.5
+Andhra Pradesh,Urban,Female,6-10 years,96.3
+Andhra Pradesh,Urban,Male,11-13 years,99.4
+Andhra Pradesh,Urban,Male,14-17 years,90.5
+Andhra Pradesh,Urban,Male,18-23 years,43.7
+Andhra Pradesh,Urban,Male,24-29 years,3.3
+Andhra Pradesh,Urban,Male,30-35 years,0.1
+Andhra Pradesh,Urban,Male,3-35 years,50.3
+Andhra Pradesh,Urban,Male,3-5 years,48.7
+Andhra Pradesh,Urban,Male,5-29 years,62.4
+Andhra Pradesh,Urban,Male,6-10 years,99.5
+Andhra Pradesh,Urban,Person,11-13 years,99.1
+Andhra Pradesh,Urban,Person,14-17 years,89.4
+Andhra Pradesh,Urban,Person,18-23 years,41.6
+Andhra Pradesh,Urban,Person,24-29 years,3.3
+Andhra Pradesh,Urban,Person,30-35 years,0.4
+Andhra Pradesh,Urban,Person,3-35 years,48.7
+Andhra Pradesh,Urban,Person,3-5 years,52
+Andhra Pradesh,Urban,Person,5-29 years,60
+Andhra Pradesh,Urban,Person,6-10 years,98.1
+Karnataka,Rural,Female,11-13 years,97.7
+Karnataka,Rural,Female,14-17 years,79.2
+Karnataka,Rural,Female,18-23 years,18.5
+Karnataka,Rural,Female,24-29 years,0.1
+Karnataka,Rural,Female,30-35 years,0
+Karnataka,Rural,Female,3-35 years,37.1
+Karnataka,Rural,Female,3-5 years,21.5
+Karnataka,Rural,Female,5-29 years,48.4
+Karnataka,Rural,Female,6-10 years,96.3
+Karnataka,Rural,Male,11-13 years,98.6
+Karnataka,Rural,Male,14-17 years,83.1
+Karnataka,Rural,Male,18-23 years,27
+Karnataka,Rural,Male,24-29 years,1.7
+Karnataka,Rural,Male,30-35 years,0
+Karnataka,Rural,Male,3-35 years,42.9
+Karnataka,Rural,Male,3-5 years,8
+Karnataka,Rural,Male,5-29 years,55
+Karnataka,Rural,Male,6-10 years,97.6
+Karnataka,Rural,Person,11-13 years,98.3
+Karnataka,Rural,Person,14-17 years,81.5
+Karnataka,Rural,Person,18-23 years,23.4
+Karnataka,Rural,Person,24-29 years,0.9
+Karnataka,Rural,Person,30-35 years,0
+Karnataka,Rural,Person,3-35 years,40.3
+Karnataka,Rural,Person,3-5 years,14.3
+Karnataka,Rural,Person,5-29 years,52.1
+Karnataka,Rural,Person,6-10 years,97.1
+Karnataka,Total,Female,11-13 years,97.4
+Karnataka,Total,Female,14-17 years,83.7
+Karnataka,Total,Female,18-23 years,26.6
+Karnataka,Total,Female,24-29 years,0.7
+Karnataka,Total,Female,30-35 years,0.1
+Karnataka,Total,Female,3-35 years,38.4
+Karnataka,Total,Female,3-5 years,23.1
+Karnataka,Total,Female,5-29 years,48.5
+Karnataka,Total,Female,6-10 years,96.6
+Karnataka,Total,Male,11-13 years,98.6
+Karnataka,Total,Male,14-17 years,83.6
+Karnataka,Total,Male,18-23 years,33.3
+Karnataka,Total,Male,24-29 years,1.7
+Karnataka,Total,Male,30-35 years,0
+Karnataka,Total,Male,3-35 years,41.2
+Karnataka,Total,Male,3-5 years,14.3
+Karnataka,Total,Male,5-29 years,52.6
+Karnataka,Total,Male,6-10 years,98.2
+Karnataka,Total,Person,11-13 years,98.1
+Karnataka,Total,Person,14-17 years,83.6
+Karnataka,Total,Person,18-23 years,30.3
+Karnataka,Total,Person,24-29 years,1.2
+Karnataka,Total,Person,30-35 years,0
+Karnataka,Total,Person,3-35 years,39.9
+Karnataka,Total,Person,3-5 years,18.3
+Karnataka,Total,Person,5-29 years,50.8
+Karnataka,Total,Person,6-10 years,97.4
+Karnataka,Urban,Female,11-13 years,96.8
+Karnataka,Urban,Female,14-17 years,92.3
+Karnataka,Urban,Female,18-23 years,39.2
+Karnataka,Urban,Female,24-29 years,1.4
+Karnataka,Urban,Female,30-35 years,0.2
+Karnataka,Urban,Female,3-35 years,40.4
+Karnataka,Urban,Female,3-5 years,27.1
+Karnataka,Urban,Female,5-29 years,48.6
+Karnataka,Urban,Female,6-10 years,97
+Karnataka,Urban,Male,11-13 years,98.7
+Karnataka,Urban,Male,14-17 years,84.7
+Karnataka,Urban,Male,18-23 years,45
+Karnataka,Urban,Male,24-29 years,1.6
+Karnataka,Urban,Male,30-35 years,0.1
+Karnataka,Urban,Male,3-35 years,38.3
+Karnataka,Urban,Male,3-5 years,27
+Karnataka,Urban,Male,5-29 years,48.6
+Karnataka,Urban,Male,6-10 years,99.5
+Karnataka,Urban,Person,11-13 years,97.9
+Karnataka,Urban,Person,14-17 years,88
+Karnataka,Urban,Person,18-23 years,42.3
+Karnataka,Urban,Person,24-29 years,1.5
+Karnataka,Urban,Person,30-35 years,0.1
+Karnataka,Urban,Person,3-35 years,39.3
+Karnataka,Urban,Person,3-5 years,27
+Karnataka,Urban,Person,5-29 years,48.6
+Karnataka,Urban,Person,6-10 years,98.3
+Goa,Rural,Female,11-13 years,100
+Goa,Rural,Female,14-17 years,100
+Goa,Rural,Female,18-23 years,40.9
+Goa,Rural,Female,24-29 years,0.7
+Goa,Rural,Female,30-35 years,0
+Goa,Rural,Female,3-35 years,48.7
+Goa,Rural,Female,3-5 years,74.7
+Goa,Rural,Female,5-29 years,66.3
+Goa,Rural,Female,6-10 years,100
+Goa,Rural,Male,11-13 years,98.9
+Goa,Rural,Male,14-17 years,100
+Goa,Rural,Male,18-23 years,28
+Goa,Rural,Male,24-29 years,2.3
+Goa,Rural,Male,30-35 years,0
+Goa,Rural,Male,3-35 years,33
+Goa,Rural,Male,3-5 years,100
+Goa,Rural,Male,5-29 years,48.3
+Goa,Rural,Male,6-10 years,100
+Goa,Rural,Person,11-13 years,99.5
+Goa,Rural,Person,14-17 years,100
+Goa,Rural,Person,18-23 years,33.6
+Goa,Rural,Person,24-29 years,1.7
+Goa,Rural,Person,30-35 years,0
+Goa,Rural,Person,3-35 years,40.9
+Goa,Rural,Person,3-5 years,76.4
+Goa,Rural,Person,5-29 years,57.1
+Goa,Rural,Person,6-10 years,100
+Goa,Total,Female,11-13 years,100
+Goa,Total,Female,14-17 years,100
+Goa,Total,Female,18-23 years,40.3
+Goa,Total,Female,24-29 years,4
+Goa,Total,Female,30-35 years,0.2
+Goa,Total,Female,3-35 years,47.9
+Goa,Total,Female,3-5 years,66.6
+Goa,Total,Female,5-29 years,61.8
+Goa,Total,Female,6-10 years,100
+Goa,Total,Male,11-13 years,99.5
+Goa,Total,Male,14-17 years,99.8
+Goa,Total,Male,18-23 years,43.1
+Goa,Total,Male,24-29 years,2.3
+Goa,Total,Male,30-35 years,0.3
+Goa,Total,Male,3-35 years,46
+Goa,Total,Male,3-5 years,61.1
+Goa,Total,Male,5-29 years,58.3
+Goa,Total,Male,6-10 years,100
+Goa,Total,Person,11-13 years,99.7
+Goa,Total,Person,14-17 years,99.9
+Goa,Total,Person,18-23 years,42
+Goa,Total,Person,24-29 years,3
+Goa,Total,Person,30-35 years,0.3
+Goa,Total,Person,3-35 years,46.8
+Goa,Total,Person,3-5 years,64.5
+Goa,Total,Person,5-29 years,59.8
+Goa,Total,Person,6-10 years,100
+Goa,Urban,Female,11-13 years,100
+Goa,Urban,Female,14-17 years,100
+Goa,Urban,Female,18-23 years,40
+Goa,Urban,Female,24-29 years,5.5
+Goa,Urban,Female,30-35 years,0.4
+Goa,Urban,Female,3-35 years,47.3
+Goa,Urban,Female,3-5 years,59.3
+Goa,Urban,Female,5-29 years,58.9
+Goa,Urban,Female,6-10 years,100
+Goa,Urban,Male,11-13 years,99.6
+Goa,Urban,Male,14-17 years,99.7
+Goa,Urban,Male,18-23 years,52.4
+Goa,Urban,Male,24-29 years,2.3
+Goa,Urban,Male,30-35 years,0.7
+Goa,Urban,Male,3-35 years,52.7
+Goa,Urban,Male,3-5 years,58.9
+Goa,Urban,Male,5-29 years,62.9
+Goa,Urban,Male,6-10 years,100
+Goa,Urban,Person,11-13 years,99.8
+Goa,Urban,Person,14-17 years,99.8
+Goa,Urban,Person,18-23 years,47.4
+Goa,Urban,Person,24-29 years,3.7
+Goa,Urban,Person,30-35 years,0.6
+Goa,Urban,Person,3-35 years,50.4
+Goa,Urban,Person,3-5 years,59.1
+Goa,Urban,Person,5-29 years,61.3
+Goa,Urban,Person,6-10 years,100
+Lakshadweep,Rural,Female,11-13 years,100
+Lakshadweep,Rural,Female,14-17 years,96.7
+Lakshadweep,Rural,Female,18-23 years,0
+Lakshadweep,Rural,Female,24-29 years,0
+Lakshadweep,Rural,Female,30-35 years,0
+Lakshadweep,Rural,Female,3-35 years,46.5
+Lakshadweep,Rural,Female,3-5 years,18.7
+Lakshadweep,Rural,Female,5-29 years,61
+Lakshadweep,Rural,Female,6-10 years,100
+Lakshadweep,Rural,Male,11-13 years,100
+Lakshadweep,Rural,Male,14-17 years,51
+Lakshadweep,Rural,Male,18-23 years,2.4
+Lakshadweep,Rural,Male,24-29 years,0
+Lakshadweep,Rural,Male,30-35 years,0
+Lakshadweep,Rural,Male,3-35 years,30
+Lakshadweep,Rural,Male,3-5 years,63.1
+Lakshadweep,Rural,Male,5-29 years,33.6
+Lakshadweep,Rural,Male,6-10 years,100
+Lakshadweep,Rural,Person,11-13 years,100
+Lakshadweep,Rural,Person,14-17 years,62
+Lakshadweep,Rural,Person,18-23 years,0.8
+Lakshadweep,Rural,Person,24-29 years,0
+Lakshadweep,Rural,Person,30-35 years,0
+Lakshadweep,Rural,Person,3-35 years,40.8
+Lakshadweep,Rural,Person,3-5 years,35.8
+Lakshadweep,Rural,Person,5-29 years,50.9
+Lakshadweep,Rural,Person,6-10 years,100
+Lakshadweep,Total,Female,11-13 years,100
+Lakshadweep,Total,Female,14-17 years,93.4
+Lakshadweep,Total,Female,18-23 years,9.3
+Lakshadweep,Total,Female,24-29 years,0.3
+Lakshadweep,Total,Female,30-35 years,0
+Lakshadweep,Total,Female,3-35 years,39.8
+Lakshadweep,Total,Female,3-5 years,40
+Lakshadweep,Total,Female,5-29 years,53.7
+Lakshadweep,Total,Female,6-10 years,100
+Lakshadweep,Total,Male,11-13 years,100
+Lakshadweep,Total,Male,14-17 years,75.6
+Lakshadweep,Total,Male,18-23 years,10.4
+Lakshadweep,Total,Male,24-29 years,0.3
+Lakshadweep,Total,Male,30-35 years,0
+Lakshadweep,Total,Male,3-35 years,44.7
+Lakshadweep,Total,Male,3-5 years,58.7
+Lakshadweep,Total,Male,5-29 years,55.9
+Lakshadweep,Total,Male,6-10 years,100
+Lakshadweep,Total,Person,11-13 years,100
+Lakshadweep,Total,Person,14-17 years,86.7
+Lakshadweep,Total,Person,18-23 years,9.8
+Lakshadweep,Total,Person,24-29 years,0.3
+Lakshadweep,Total,Person,30-35 years,0
+Lakshadweep,Total,Person,3-35 years,42
+Lakshadweep,Total,Person,3-5 years,47.5
+Lakshadweep,Total,Person,5-29 years,54.7
+Lakshadweep,Total,Person,6-10 years,100
+Lakshadweep,Urban,Female,11-13 years,100
+Lakshadweep,Urban,Female,14-17 years,93
+Lakshadweep,Urban,Female,18-23 years,18.6
+Lakshadweep,Urban,Female,24-29 years,0.4
+Lakshadweep,Urban,Female,30-35 years,0
+Lakshadweep,Urban,Female,3-35 years,35.9
+Lakshadweep,Urban,Female,3-5 years,46.2
+Lakshadweep,Urban,Female,5-29 years,49.1
+Lakshadweep,Urban,Female,6-10 years,100
+Lakshadweep,Urban,Male,11-13 years,100
+Lakshadweep,Urban,Male,14-17 years,100
+Lakshadweep,Urban,Male,18-23 years,13.2
+Lakshadweep,Urban,Male,24-29 years,0.5
+Lakshadweep,Urban,Male,30-35 years,0
+Lakshadweep,Urban,Male,3-35 years,49.5
+Lakshadweep,Urban,Male,3-5 years,57.6
+Lakshadweep,Urban,Male,5-29 years,64
+Lakshadweep,Urban,Male,6-10 years,100
+Lakshadweep,Urban,Person,11-13 years,100
+Lakshadweep,Urban,Person,14-17 years,94.8
+Lakshadweep,Urban,Person,18-23 years,15.5
+Lakshadweep,Urban,Person,24-29 years,0.4
+Lakshadweep,Urban,Person,30-35 years,0
+Lakshadweep,Urban,Person,3-35 years,42.6
+Lakshadweep,Urban,Person,3-5 years,50.8
+Lakshadweep,Urban,Person,5-29 years,56.6
+Lakshadweep,Urban,Person,6-10 years,100
+Kerala,Rural,Female,11-13 years,100
+Kerala,Rural,Female,14-17 years,99.3
+Kerala,Rural,Female,18-23 years,45.5
+Kerala,Rural,Female,24-29 years,1.5
+Kerala,Rural,Female,30-35 years,0.4
+Kerala,Rural,Female,3-35 years,49.6
+Kerala,Rural,Female,3-5 years,55.6
+Kerala,Rural,Female,5-29 years,62.9
+Kerala,Rural,Female,6-10 years,100
+Kerala,Rural,Male,11-13 years,100
+Kerala,Rural,Male,14-17 years,97.4
+Kerala,Rural,Male,18-23 years,49.6
+Kerala,Rural,Male,24-29 years,4.8
+Kerala,Rural,Male,30-35 years,0.1
+Kerala,Rural,Male,3-35 years,57.5
+Kerala,Rural,Male,3-5 years,53.2
+Kerala,Rural,Male,5-29 years,69
+Kerala,Rural,Male,6-10 years,99.9
+Kerala,Rural,Person,11-13 years,100
+Kerala,Rural,Person,14-17 years,98.1
+Kerala,Rural,Person,18-23 years,47.6
+Kerala,Rural,Person,24-29 years,3.1
+Kerala,Rural,Person,30-35 years,0.3
+Kerala,Rural,Person,3-35 years,53.6
+Kerala,Rural,Person,3-5 years,54.5
+Kerala,Rural,Person,5-29 years,66.1
+Kerala,Rural,Person,6-10 years,99.9
+Kerala,Total,Female,11-13 years,100
+Kerala,Total,Female,14-17 years,99.5
+Kerala,Total,Female,18-23 years,48
+Kerala,Total,Female,24-29 years,1.6
+Kerala,Total,Female,30-35 years,0.3
+Kerala,Total,Female,3-35 years,50.5
+Kerala,Total,Female,3-5 years,60.2
+Kerala,Total,Female,5-29 years,62.9
+Kerala,Total,Female,6-10 years,100
+Kerala,Total,Male,11-13 years,100
+Kerala,Total,Male,14-17 years,97.4
+Kerala,Total,Male,18-23 years,46.8
+Kerala,Total,Male,24-29 years,5.6
+Kerala,Total,Male,30-35 years,0.1
+Kerala,Total,Male,3-35 years,56
+Kerala,Total,Male,3-5 years,56.6
+Kerala,Total,Male,5-29 years,67.1
+Kerala,Total,Male,6-10 years,99.9
+Kerala,Total,Person,11-13 years,100
+Kerala,Total,Person,14-17 years,98.3
+Kerala,Total,Person,18-23 years,47.4
+Kerala,Total,Person,24-29 years,3.6
+Kerala,Total,Person,30-35 years,0.2
+Kerala,Total,Person,3-35 years,53.3
+Kerala,Total,Person,3-5 years,58.3
+Kerala,Total,Person,5-29 years,65.1
+Kerala,Total,Person,6-10 years,100
+Kerala,Urban,Female,11-13 years,100
+Kerala,Urban,Female,14-17 years,99.8
+Kerala,Urban,Female,18-23 years,51
+Kerala,Urban,Female,24-29 years,1.8
+Kerala,Urban,Female,30-35 years,0.2
+Kerala,Urban,Female,3-35 years,51.5
+Kerala,Urban,Female,3-5 years,67.4
+Kerala,Urban,Female,5-29 years,63
+Kerala,Urban,Female,6-10 years,100
+Kerala,Urban,Male,11-13 years,100
+Kerala,Urban,Male,14-17 years,97.5
+Kerala,Urban,Male,18-23 years,43.6
+Kerala,Urban,Male,24-29 years,6.5
+Kerala,Urban,Male,30-35 years,0.1
+Kerala,Urban,Male,3-35 years,54.2
+Kerala,Urban,Male,3-5 years,60.1
+Kerala,Urban,Male,5-29 years,64.9
+Kerala,Urban,Male,6-10 years,100
+Kerala,Urban,Person,11-13 years,100
+Kerala,Urban,Person,14-17 years,98.5
+Kerala,Urban,Person,18-23 years,47.2
+Kerala,Urban,Person,24-29 years,4
+Kerala,Urban,Person,30-35 years,0.2
+Kerala,Urban,Person,3-35 years,52.9
+Kerala,Urban,Person,3-5 years,63.2
+Kerala,Urban,Person,5-29 years,64
+Kerala,Urban,Person,6-10 years,100
+Tamil Nadu,Rural,Female,11-13 years,99.5
+Tamil Nadu,Rural,Female,14-17 years,91.7
+Tamil Nadu,Rural,Female,18-23 years,28.7
+Tamil Nadu,Rural,Female,24-29 years,0.6
+Tamil Nadu,Rural,Female,30-35 years,0
+Tamil Nadu,Rural,Female,3-35 years,45.5
+Tamil Nadu,Rural,Female,3-5 years,46.6
+Tamil Nadu,Rural,Female,5-29 years,54.3
+Tamil Nadu,Rural,Female,6-10 years,99.4
+Tamil Nadu,Rural,Male,11-13 years,98.8
+Tamil Nadu,Rural,Male,14-17 years,86
+Tamil Nadu,Rural,Male,18-23 years,34.3
+Tamil Nadu,Rural,Male,24-29 years,0.9
+Tamil Nadu,Rural,Male,30-35 years,0
+Tamil Nadu,Rural,Male,3-35 years,44.8
+Tamil Nadu,Rural,Male,3-5 years,44.1
+Tamil Nadu,Rural,Male,5-29 years,54.9
+Tamil Nadu,Rural,Male,6-10 years,99.5
+Tamil Nadu,Rural,Person,11-13 years,99.1
+Tamil Nadu,Rural,Person,14-17 years,88.5
+Tamil Nadu,Rural,Person,18-23 years,31.6
+Tamil Nadu,Rural,Person,24-29 years,0.7
+Tamil Nadu,Rural,Person,30-35 years,0
+Tamil Nadu,Rural,Person,3-35 years,45.1
+Tamil Nadu,Rural,Person,3-5 years,45.5
+Tamil Nadu,Rural,Person,5-29 years,54.6
+Tamil Nadu,Rural,Person,6-10 years,99.5
+Tamil Nadu,Total,Female,11-13 years,99.7
+Tamil Nadu,Total,Female,14-17 years,91.6
+Tamil Nadu,Total,Female,18-23 years,29.9
+Tamil Nadu,Total,Female,24-29 years,0.8
+Tamil Nadu,Total,Female,30-35 years,0
+Tamil Nadu,Total,Female,3-35 years,43.3
+Tamil Nadu,Total,Female,3-5 years,54.3
+Tamil Nadu,Total,Female,5-29 years,51.9
+Tamil Nadu,Total,Female,6-10 years,99.6
+Tamil Nadu,Total,Male,11-13 years,99.3
+Tamil Nadu,Total,Male,14-17 years,88.2
+Tamil Nadu,Total,Male,18-23 years,40.6
+Tamil Nadu,Total,Male,24-29 years,1.1
+Tamil Nadu,Total,Male,30-35 years,0
+Tamil Nadu,Total,Male,3-35 years,46.8
+Tamil Nadu,Total,Male,3-5 years,53.5
+Tamil Nadu,Total,Male,5-29 years,56.9
+Tamil Nadu,Total,Male,6-10 years,99.5
+Tamil Nadu,Total,Person,11-13 years,99.5
+Tamil Nadu,Total,Person,14-17 years,89.8
+Tamil Nadu,Total,Person,18-23 years,35
+Tamil Nadu,Total,Person,24-29 years,0.9
+Tamil Nadu,Total,Person,30-35 years,0
+Tamil Nadu,Total,Person,3-35 years,45.1
+Tamil Nadu,Total,Person,3-5 years,53.9
+Tamil Nadu,Total,Person,5-29 years,54.4
+Tamil Nadu,Total,Person,6-10 years,99.6
+Tamil Nadu,Urban,Female,11-13 years,100
+Tamil Nadu,Urban,Female,14-17 years,91.6
+Tamil Nadu,Urban,Female,18-23 years,30.8
+Tamil Nadu,Urban,Female,24-29 years,1
+Tamil Nadu,Urban,Female,30-35 years,0
+Tamil Nadu,Urban,Female,3-35 years,40.9
+Tamil Nadu,Urban,Female,3-5 years,65.2
+Tamil Nadu,Urban,Female,5-29 years,49.1
+Tamil Nadu,Urban,Female,6-10 years,100
+Tamil Nadu,Urban,Male,11-13 years,100
+Tamil Nadu,Urban,Male,14-17 years,91.3
+Tamil Nadu,Urban,Male,18-23 years,48
+Tamil Nadu,Urban,Male,24-29 years,1.3
+Tamil Nadu,Urban,Male,30-35 years,0
+Tamil Nadu,Urban,Male,3-35 years,49.2
+Tamil Nadu,Urban,Male,3-5 years,63.3
+Tamil Nadu,Urban,Male,5-29 years,59.3
+Tamil Nadu,Urban,Male,6-10 years,99.5
+Tamil Nadu,Urban,Person,11-13 years,100
+Tamil Nadu,Urban,Person,14-17 years,91.4
+Tamil Nadu,Urban,Person,18-23 years,38.2
+Tamil Nadu,Urban,Person,24-29 years,1.1
+Tamil Nadu,Urban,Person,30-35 years,0
+Tamil Nadu,Urban,Person,3-35 years,45.1
+Tamil Nadu,Urban,Person,3-5 years,64.2
+Tamil Nadu,Urban,Person,5-29 years,54.3
+Tamil Nadu,Urban,Person,6-10 years,99.7
+Puducherry,Rural,Female,11-13 years,75.6
+Puducherry,Rural,Female,14-17 years,93.9
+Puducherry,Rural,Female,18-23 years,24.3
+Puducherry,Rural,Female,24-29 years,0
+Puducherry,Rural,Female,30-35 years,0
+Puducherry,Rural,Female,3-35 years,46.7
+Puducherry,Rural,Female,3-5 years,28.7
+Puducherry,Rural,Female,5-29 years,61.5
+Puducherry,Rural,Female,6-10 years,100
+Puducherry,Rural,Male,11-13 years,99.8
+Puducherry,Rural,Male,14-17 years,99.9
+Puducherry,Rural,Male,18-23 years,22.7
+Puducherry,Rural,Male,24-29 years,1.6
+Puducherry,Rural,Male,30-35 years,0
+Puducherry,Rural,Male,3-35 years,47
+Puducherry,Rural,Male,3-5 years,11.6
+Puducherry,Rural,Male,5-29 years,58.4
+Puducherry,Rural,Male,6-10 years,100
+Puducherry,Rural,Person,11-13 years,91.1
+Puducherry,Rural,Person,14-17 years,95.4
+Puducherry,Rural,Person,18-23 years,23.6
+Puducherry,Rural,Person,24-29 years,1
+Puducherry,Rural,Person,30-35 years,0
+Puducherry,Rural,Person,3-35 years,46.9
+Puducherry,Rural,Person,3-5 years,23.5
+Puducherry,Rural,Person,5-29 years,60
+Puducherry,Rural,Person,6-10 years,100
+Puducherry,Total,Female,11-13 years,88.9
+Puducherry,Total,Female,14-17 years,94.1
+Puducherry,Total,Female,18-23 years,39
+Puducherry,Total,Female,24-29 years,1.1
+Puducherry,Total,Female,30-35 years,0
+Puducherry,Total,Female,3-35 years,45.3
+Puducherry,Total,Female,3-5 years,48.7
+Puducherry,Total,Female,5-29 years,59.1
+Puducherry,Total,Female,6-10 years,100
+Puducherry,Total,Male,11-13 years,99.9
+Puducherry,Total,Male,14-17 years,87
+Puducherry,Total,Male,18-23 years,36.8
+Puducherry,Total,Male,24-29 years,1.6
+Puducherry,Total,Male,30-35 years,0
+Puducherry,Total,Male,3-35 years,48.8
+Puducherry,Total,Male,3-5 years,58.3
+Puducherry,Total,Male,5-29 years,59.5
+Puducherry,Total,Male,6-10 years,100
+Puducherry,Total,Person,11-13 years,96
+Puducherry,Total,Person,14-17 years,91.2
+Puducherry,Total,Person,18-23 years,37.9
+Puducherry,Total,Person,24-29 years,1.4
+Puducherry,Total,Person,30-35 years,0
+Puducherry,Total,Person,3-35 years,47.1
+Puducherry,Total,Person,3-5 years,53.6
+Puducherry,Total,Person,5-29 years,59.3
+Puducherry,Total,Person,6-10 years,100
+Puducherry,Urban,Female,11-13 years,100
+Puducherry,Urban,Female,14-17 years,94.5
+Puducherry,Urban,Female,18-23 years,53.1
+Puducherry,Urban,Female,24-29 years,1.4
+Puducherry,Urban,Female,30-35 years,0
+Puducherry,Urban,Female,3-35 years,44.2
+Puducherry,Urban,Female,3-5 years,70.8
+Puducherry,Urban,Female,5-29 years,57.2
+Puducherry,Urban,Female,6-10 years,100
+Puducherry,Urban,Male,11-13 years,100
+Puducherry,Urban,Male,14-17 years,81.6
+Puducherry,Urban,Male,18-23 years,44
+Puducherry,Urban,Male,24-29 years,1.6
+Puducherry,Urban,Male,30-35 years,0
+Puducherry,Urban,Male,3-35 years,49.7
+Puducherry,Urban,Male,3-5 years,71
+Puducherry,Urban,Male,5-29 years,60
+Puducherry,Urban,Male,6-10 years,100
+Puducherry,Urban,Person,11-13 years,100
+Puducherry,Urban,Person,14-17 years,87.5
+Puducherry,Urban,Person,18-23 years,47.9
+Puducherry,Urban,Person,24-29 years,1.5
+Puducherry,Urban,Person,30-35 years,0
+Puducherry,Urban,Person,3-35 years,47.2
+Puducherry,Urban,Person,3-5 years,70.9
+Puducherry,Urban,Person,5-29 years,58.8
+Puducherry,Urban,Person,6-10 years,100
+Andaman,Rural,Female,11-13 years,100
+Andaman,Rural,Female,14-17 years,95.6
+Andaman,Rural,Female,18-23 years,27.6
+Andaman,Rural,Female,24-29 years,0.1
+Andaman,Rural,Female,30-35 years,0
+Andaman,Rural,Female,3-35 years,47.6
+Andaman,Rural,Female,3-5 years,88.1
+Andaman,Rural,Female,5-29 years,54.4
+Andaman,Rural,Female,6-10 years,97.3
+Andaman,Rural,Male,11-13 years,96.2
+Andaman,Rural,Male,14-17 years,91.4
+Andaman,Rural,Male,18-23 years,11.8
+Andaman,Rural,Male,24-29 years,0.9
+Andaman,Rural,Male,30-35 years,0
+Andaman,Rural,Male,3-35 years,35.1
+Andaman,Rural,Male,3-5 years,57.4
+Andaman,Rural,Male,5-29 years,41.9
+Andaman,Rural,Male,6-10 years,97.3
+Andaman,Rural,Person,11-13 years,98.2
+Andaman,Rural,Person,14-17 years,93.3
+Andaman,Rural,Person,18-23 years,17.3
+Andaman,Rural,Person,24-29 years,0.6
+Andaman,Rural,Person,30-35 years,0
+Andaman,Rural,Person,3-35 years,40.5
+Andaman,Rural,Person,3-5 years,73.2
+Andaman,Rural,Person,5-29 years,47.4
+Andaman,Rural,Person,6-10 years,97.3
+Andaman,Total,Female,11-13 years,100
+Andaman,Total,Female,14-17 years,96.4
+Andaman,Total,Female,18-23 years,38.3
+Andaman,Total,Female,24-29 years,3.4
+Andaman,Total,Female,30-35 years,0.1
+Andaman,Total,Female,3-35 years,46.1
+Andaman,Total,Female,3-5 years,81.8
+Andaman,Total,Female,5-29 years,54
+Andaman,Total,Female,6-10 years,98.1
+Andaman,Total,Male,11-13 years,98
+Andaman,Total,Male,14-17 years,92.9
+Andaman,Total,Male,18-23 years,28.9
+Andaman,Total,Male,24-29 years,1
+Andaman,Total,Male,30-35 years,0
+Andaman,Total,Male,3-35 years,41.9
+Andaman,Total,Male,3-5 years,67.4
+Andaman,Total,Male,5-29 years,50.1
+Andaman,Total,Male,6-10 years,97.6
+Andaman,Total,Person,11-13 years,99
+Andaman,Total,Person,14-17 years,94.4
+Andaman,Total,Person,18-23 years,32.8
+Andaman,Total,Person,24-29 years,2.1
+Andaman,Total,Person,30-35 years,0
+Andaman,Total,Person,3-35 years,43.7
+Andaman,Total,Person,3-5 years,74
+Andaman,Total,Person,5-29 years,51.9
+Andaman,Total,Person,6-10 years,97.8
+Andaman,Urban,Female,11-13 years,100
+Andaman,Urban,Female,14-17 years,98.6
+Andaman,Urban,Female,18-23 years,48.4
+Andaman,Urban,Female,24-29 years,8.3
+Andaman,Urban,Female,30-35 years,0.2
+Andaman,Urban,Female,3-35 years,43.9
+Andaman,Urban,Female,3-5 years,73.6
+Andaman,Urban,Female,5-29 years,53.3
+Andaman,Urban,Female,6-10 years,99.9
+Andaman,Urban,Male,11-13 years,100
+Andaman,Urban,Male,14-17 years,95.9
+Andaman,Urban,Male,18-23 years,61.6
+Andaman,Urban,Male,24-29 years,1.3
+Andaman,Urban,Male,30-35 years,0
+Andaman,Urban,Male,3-35 years,53.1
+Andaman,Urban,Male,3-5 years,75.5
+Andaman,Urban,Male,5-29 years,64.6
+Andaman,Urban,Male,6-10 years,98.1
+Andaman,Urban,Person,11-13 years,100
+Andaman,Urban,Person,14-17 years,96.9
+Andaman,Urban,Person,18-23 years,54.8
+Andaman,Urban,Person,24-29 years,5
+Andaman,Urban,Person,30-35 years,0.1
+Andaman,Urban,Person,3-35 years,48.8
+Andaman,Urban,Person,3-5 years,74.7
+Andaman,Urban,Person,5-29 years,59.3
+Andaman,Urban,Person,6-10 years,98.8
+Telangana,Rural,Female,11-13 years,95
+Telangana,Rural,Female,14-17 years,88
+Telangana,Rural,Female,18-23 years,16.1
+Telangana,Rural,Female,24-29 years,1.3
+Telangana,Rural,Female,30-35 years,0
+Telangana,Rural,Female,3-35 years,42
+Telangana,Rural,Female,3-5 years,56.3
+Telangana,Rural,Female,5-29 years,50.5
+Telangana,Rural,Female,6-10 years,98.5
+Telangana,Rural,Male,11-13 years,99.8
+Telangana,Rural,Male,14-17 years,91.3
+Telangana,Rural,Male,18-23 years,33.5
+Telangana,Rural,Male,24-29 years,2.3
+Telangana,Rural,Male,30-35 years,0
+Telangana,Rural,Male,3-35 years,50.6
+Telangana,Rural,Male,3-5 years,55.5
+Telangana,Rural,Male,5-29 years,61.8
+Telangana,Rural,Male,6-10 years,100
+Telangana,Rural,Person,11-13 years,97.5
+Telangana,Rural,Person,14-17 years,89.9
+Telangana,Rural,Person,18-23 years,24.6
+Telangana,Rural,Person,24-29 years,1.8
+Telangana,Rural,Person,30-35 years,0
+Telangana,Rural,Person,3-35 years,46.4
+Telangana,Rural,Person,3-5 years,55.9
+Telangana,Rural,Person,5-29 years,56.2
+Telangana,Rural,Person,6-10 years,99.3
+Telangana,Total,Female,11-13 years,96.4
+Telangana,Total,Female,14-17 years,92.1
+Telangana,Total,Female,18-23 years,23.8
+Telangana,Total,Female,24-29 years,1.5
+Telangana,Total,Female,30-35 years,0
+Telangana,Total,Female,3-35 years,41.6
+Telangana,Total,Female,3-5 years,54
+Telangana,Total,Female,5-29 years,49.9
+Telangana,Total,Female,6-10 years,99
+Telangana,Total,Male,11-13 years,99.9
+Telangana,Total,Male,14-17 years,95.2
+Telangana,Total,Male,18-23 years,37.7
+Telangana,Total,Male,24-29 years,1.6
+Telangana,Total,Male,30-35 years,0.1
+Telangana,Total,Male,3-35 years,51
+Telangana,Total,Male,3-5 years,58.4
+Telangana,Total,Male,5-29 years,62.8
+Telangana,Total,Male,6-10 years,100
+Telangana,Total,Person,11-13 years,98.4
+Telangana,Total,Person,14-17 years,94
+Telangana,Total,Person,18-23 years,30.9
+Telangana,Total,Person,24-29 years,1.5
+Telangana,Total,Person,30-35 years,0
+Telangana,Total,Person,3-35 years,46.5
+Telangana,Total,Person,3-5 years,56.1
+Telangana,Total,Person,5-29 years,56.5
+Telangana,Total,Person,6-10 years,99.5
+Telangana,Urban,Female,11-13 years,99.9
+Telangana,Urban,Female,14-17 years,97
+Telangana,Urban,Female,18-23 years,34.3
+Telangana,Urban,Female,24-29 years,1.6
+Telangana,Urban,Female,30-35 years,0
+Telangana,Urban,Female,3-35 years,41.1
+Telangana,Urban,Female,3-5 years,50.4
+Telangana,Urban,Female,5-29 years,49.2
+Telangana,Urban,Female,6-10 years,99.5
+Telangana,Urban,Male,11-13 years,99.9
+Telangana,Urban,Male,14-17 years,98.9
+Telangana,Urban,Male,18-23 years,42.6
+Telangana,Urban,Male,24-29 years,0.8
+Telangana,Urban,Male,30-35 years,0.1
+Telangana,Urban,Male,3-35 years,51.5
+Telangana,Urban,Male,3-5 years,62.7
+Telangana,Urban,Male,5-29 years,63.9
+Telangana,Urban,Male,6-10 years,100
+Telangana,Urban,Person,11-13 years,99.9
+Telangana,Urban,Person,14-17 years,98.2
+Telangana,Urban,Person,18-23 years,38.7
+Telangana,Urban,Person,24-29 years,1.3
+Telangana,Urban,Person,30-35 years,0.1
+Telangana,Urban,Person,3-35 years,46.6
+Telangana,Urban,Person,3-5 years,56.5
+Telangana,Urban,Person,5-29 years,56.9
+Telangana,Urban,Person,6-10 years,99.8
+Ladakh,Rural,Female,11-13 years,95.4
+Ladakh,Rural,Female,14-17 years,87
+Ladakh,Rural,Female,18-23 years,40.3
+Ladakh,Rural,Female,24-29 years,0.8
+Ladakh,Rural,Female,30-35 years,0
+Ladakh,Rural,Female,3-35 years,45.1
+Ladakh,Rural,Female,3-5 years,23.7
+Ladakh,Rural,Female,5-29 years,55.7
+Ladakh,Rural,Female,6-10 years,97.8
+Ladakh,Rural,Male,11-13 years,98.4
+Ladakh,Rural,Male,14-17 years,89
+Ladakh,Rural,Male,18-23 years,47.6
+Ladakh,Rural,Male,24-29 years,2.7
+Ladakh,Rural,Male,30-35 years,0
+Ladakh,Rural,Male,3-35 years,50.4
+Ladakh,Rural,Male,3-5 years,24.9
+Ladakh,Rural,Male,5-29 years,63.9
+Ladakh,Rural,Male,6-10 years,98.5
+Ladakh,Rural,Person,11-13 years,97.1
+Ladakh,Rural,Person,14-17 years,88.1
+Ladakh,Rural,Person,18-23 years,44
+Ladakh,Rural,Person,24-29 years,1.7
+Ladakh,Rural,Person,30-35 years,0
+Ladakh,Rural,Person,3-35 years,48
+Ladakh,Rural,Person,3-5 years,24.4
+Ladakh,Rural,Person,5-29 years,60.1
+Ladakh,Rural,Person,6-10 years,98.2
+Ladakh,Total,Female,11-13 years,96.1
+Ladakh,Total,Female,14-17 years,86.9
+Ladakh,Total,Female,18-23 years,43.6
+Ladakh,Total,Female,24-29 years,2.5
+Ladakh,Total,Female,30-35 years,0
+Ladakh,Total,Female,3-35 years,45.5
+Ladakh,Total,Female,3-5 years,28.4
+Ladakh,Total,Female,5-29 years,56.4
+Ladakh,Total,Female,6-10 years,97.6
+Ladakh,Total,Male,11-13 years,98.1
+Ladakh,Total,Male,14-17 years,88
+Ladakh,Total,Male,18-23 years,49
+Ladakh,Total,Male,24-29 years,3
+Ladakh,Total,Male,30-35 years,0
+Ladakh,Total,Male,3-35 years,50.5
+Ladakh,Total,Male,3-5 years,28.1
+Ladakh,Total,Male,5-29 years,63.5
+Ladakh,Total,Male,6-10 years,98.1
+Ladakh,Total,Person,11-13 years,97.2
+Ladakh,Total,Person,14-17 years,87.6
+Ladakh,Total,Person,18-23 years,46.4
+Ladakh,Total,Person,24-29 years,2.7
+Ladakh,Total,Person,30-35 years,0
+Ladakh,Total,Person,3-35 years,48.2
+Ladakh,Total,Person,3-5 years,28.2
+Ladakh,Total,Person,5-29 years,60.2
+Ladakh,Total,Person,6-10 years,97.9
+Ladakh,Urban,Female,11-13 years,98.6
+Ladakh,Urban,Female,14-17 years,86.7
+Ladakh,Urban,Female,18-23 years,57.8
+Ladakh,Urban,Female,24-29 years,8.2
+Ladakh,Urban,Female,30-35 years,0
+Ladakh,Urban,Female,3-35 years,47.1
+Ladakh,Urban,Female,3-5 years,47.3
+Ladakh,Urban,Female,5-29 years,59
+Ladakh,Urban,Female,6-10 years,96.6
+Ladakh,Urban,Male,11-13 years,96.9
+Ladakh,Urban,Male,14-17 years,84.3
+Ladakh,Urban,Male,18-23 years,53
+Ladakh,Urban,Male,24-29 years,4
+Ladakh,Urban,Male,30-35 years,0
+Ladakh,Urban,Male,3-35 years,51
+Ladakh,Urban,Male,3-5 years,43.4
+Ladakh,Urban,Male,5-29 years,62.3
+Ladakh,Urban,Male,6-10 years,96.3
+Ladakh,Urban,Person,11-13 years,97.6
+Ladakh,Urban,Person,14-17 years,85.3
+Ladakh,Urban,Person,18-23 years,54.9
+Ladakh,Urban,Person,24-29 years,6.2
+Ladakh,Urban,Person,30-35 years,0
+Ladakh,Urban,Person,3-35 years,49.3
+Ladakh,Urban,Person,3-5 years,45.2
+Ladakh,Urban,Person,5-29 years,60.8
+Ladakh,Urban,Person,6-10 years,96.5
+Daman,Rural,Female,11-13 years,100
+Daman,Rural,Female,14-17 years,83.00581988
+Daman,Rural,Female,18-23 years,4.073108291
+Daman,Rural,Female,24-29 years,0
+Daman,Rural,Female,30-35 years,0
+Daman,Rural,Female,3-35 years,44.13982999
+Daman,Rural,Female,3-5 years,29.64678329
+Daman,Rural,Female,5-29 years,52.48468892
+Daman,Rural,Female,6-10 years,100
+Daman,Rural,Male,11-13 years,99.7767796
+Daman,Rural,Male,14-17 years,58.03406924
+Daman,Rural,Male,18-23 years,9.483957127
+Daman,Rural,Male,24-29 years,0
+Daman,Rural,Male,30-35 years,0
+Daman,Rural,Male,3-35 years,35.79841813
+Daman,Rural,Male,3-5 years,24.79610447
+Daman,Rural,Male,5-29 years,40.36570654
+Daman,Rural,Male,6-10 years,100
+Daman,Rural,Person,11-13 years,99.95039547
+Daman,Rural,Person,14-17 years,67.82508562
+Daman,Rural,Person,18-23 years,7.299775779
+Daman,Rural,Person,24-29 years,0
+Daman,Rural,Person,30-35 years,0
+Daman,Rural,Person,3-35 years,39.17994333
+Daman,Rural,Person,3-5 years,27.38028582
+Daman,Rural,Person,5-29 years,45.0976272
+Daman,Rural,Person,6-10 years,100
+Daman,Total,Female,11-13 years,99.29548399
+Daman,Total,Female,14-17 years,89.46220074
+Daman,Total,Female,18-23 years,16.29912685
+Daman,Total,Female,24-29 years,0.117115763
+Daman,Total,Female,30-35 years,0
+Daman,Total,Female,3-35 years,38.87377708
+Daman,Total,Female,3-5 years,22.77757021
+Daman,Total,Female,5-29 years,50.62337807
+Daman,Total,Female,6-10 years,86.53131155
+Daman,Total,Male,11-13 years,99.70990517
+Daman,Total,Male,14-17 years,76.99832884
+Daman,Total,Male,18-23 years,6.429790649
+Daman,Total,Male,24-29 years,0.224326355
+Daman,Total,Male,30-35 years,0
+Daman,Total,Male,3-35 years,29.02155664
+Daman,Total,Male,3-5 years,34.43715151
+Daman,Total,Male,5-29 years,33.12876723
+Daman,Total,Male,6-10 years,95.08113794
+Daman,Total,Person,11-13 years,99.58557882
+Daman,Total,Person,14-17 years,82.54603326
+Daman,Total,Person,18-23 years,9.486527099
+Daman,Total,Person,24-29 years,0.182884237
+Daman,Total,Person,30-35 years,0
+Daman,Total,Person,3-35 years,33.19271428
+Daman,Total,Person,3-5 years,24.66045445
+Daman,Total,Person,5-29 years,39.89453571
+Daman,Total,Person,6-10 years,87.42599752
+Daman,Urban,Female,11-13 years,98.13659644
+Daman,Urban,Female,14-17 years,94.89631674
+Daman,Urban,Female,18-23 years,26.91487104
+Daman,Urban,Female,24-29 years,0.187039593
+Daman,Urban,Female,30-35 years,0
+Daman,Urban,Female,3-35 years,35.61398473
+Daman,Urban,Female,3-5 years,21.92540865
+Daman,Urban,Female,5-29 years,49.37319287
+Daman,Urban,Female,6-10 years,81.31272427
+Daman,Urban,Male,11-13 years,99.68055939
+Daman,Urban,Male,14-17 years,100
+Daman,Urban,Male,18-23 years,5.537482748
+Daman,Urban,Male,24-29 years,0.312960407
+Daman,Urban,Male,30-35 years,0
+Daman,Urban,Male,3-35 years,24.53571013
+Daman,Urban,Male,3-5 years,49.09491827
+Daman,Urban,Male,5-29 years,28.67598982
+Daman,Urban,Male,6-10 years,88.16974575
+Daman,Urban,Person,11-13 years,99.30787868
+Daman,Urban,Person,14-17 years,97.50139847
+Daman,Urban,Person,18-23 years,10.91067562
+Daman,Urban,Person,24-29 years,0.253240102
+Daman,Urban,Person,30-35 years,0
+Daman,Urban,Person,3-35 years,29.40470758
+Daman,Urban,Person,3-5 years,24.63608428
+Daman,Urban,Person,5-29 years,36.62274972
+Daman,Urban,Person,6-10 years,79.38158371
