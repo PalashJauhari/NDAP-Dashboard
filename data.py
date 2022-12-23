@@ -156,6 +156,50 @@ class DataReader():
             df1 = df1.drop(columns="Course type")
             df_final = df_final.merge(df1,on=["State","Residence_Type","Gender"],how="inner")
         
+        df_final = df_final.drop_duplicates()
         df_courses = df_final.drop(columns="All")
 
-        return df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_course
+        
+        # Pre-Processing "df_institute_course" aggregation for all institute type.
+        df_final = pd.DataFrame()
+        all_state,all_gender,all_res,all_course,all_perc=[],[],[],[],[]
+        for i,j in df_institute_course.groupby(["Residence_Type","Gender","State",'Institution type']):
+            
+            res_type = i[0]
+            gender = i[1]
+            state = i[2]
+            course = i[3]
+            perc = np.sum(j["Distribution of students by institution type and course type (%)"])
+            
+            all_state.append(state)
+            all_gender.append(gender)
+            all_res.append(res_type)
+            all_course.append(course)
+            all_perc.append(perc)
+        
+        df_final = pd.DataFrame({"State":all_state,"Residence_Type":all_res,"Gender":all_gender,'Institution type':all_course,"Enrolement":all_perc})
+        df_institute_type = df_final.copy()
+        
+        
+        # Pre-Processing "df_institute_course" aggregation for all education level.
+
+        df_final = pd.DataFrame()
+        all_state,all_gender,all_res,all_course,all_perc=[],[],[],[],[]
+        for i,j in df_institute_course.groupby(["Residence_Type","Gender","State","Course type"]):
+            
+            res_type = i[0]
+            gender = i[1]
+            state = i[2]
+            course = i[3]
+            perc = np.sum(j["Distribution of students by institution type and course type (%)"])
+            
+            all_state.append(state)
+            all_gender.append(gender)
+            all_res.append(res_type)
+            all_course.append(course)
+            all_perc.append(perc)
+        
+        df_final = pd.DataFrame({"State":all_state,"Residence_Type":all_res,"Gender":all_gender,"Course type":all_course,"Enrolement":all_perc})
+        df_course_level = df_final.copy()
+        
+        return df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_type,df_course_level 

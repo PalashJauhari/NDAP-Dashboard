@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 def education_participation_layout(DataReader,inputDict):
 
 
-    df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_course = DataReader.extractEducationParticipationData()
+    df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_type,df_course_level  = DataReader.extractEducationParticipationData()
 
 
     #metric_dropdown = dcc.Dropdown(options=[{"label":"Attendance As Per Age Groups","value":"attendence_age_group"},

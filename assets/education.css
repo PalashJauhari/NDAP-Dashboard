@@ -18,20 +18,20 @@
 
 
 #education_all_states_metric_dropdown{
-    padding:5px 10px 5px 10px;
+    padding:5px 5px 5px 5px;
     font-weight: bold;
     display: inline-block;
     width:350px;
     flex:none
 }
 #education_all_states_residence_type_dropdown{
-    padding:5px 10px 5px 10px;
+    padding:5px 5px 5px 5px;
     font-weight: bold;
     display: inline-block;
     width:350px;
 }
 #education_all_states_gender_dropdown{
-    padding:5px 10px 5px 10px;
+    padding:5px 5px 5px 5px;
     font-weight: bold;
     display: inline-block;
     width:350px;
