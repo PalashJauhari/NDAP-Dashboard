@@ -14,19 +14,6 @@ def education_participation_layout(DataReader,inputDict):
 
     df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_type,df_course_level  = DataReader.extractEducationParticipationData()
 
-
-    #metric_dropdown = dcc.Dropdown(options=[{"label":"Attendance As Per Age Groups","value":"attendence_age_group"},
-    #                                        {"label":"Attendance As Per Education Level","value":"attendence_education_level"},
-    #                                        {"label":"Enrollement As Per Education Level","value":"enrollement_education_level"},
-    #                                        {"label":"Distribution As Per Education Level","value":"distribution_education_level"},
-    #                                        {"label":"Distribution As Per Different Courses","value":"distribution_courses"}],
-    #                                       
-    #                                       value=inputDict["value_education_all_states_metric_dropdown"],
-    #                                       id="education_all_states_metric_dropdown",
-    #                                       maxHeight=175)
-    
-    
-    
     metric_dropdown = dcc.Dropdown(options=[{"label":"Enrollement","value":"enrollement_education_level"},
                                             {"label":"Attendance","value":"attendence_age_group"},
                                             {"label":"Distribution As Per Education Level","value":"distribution_education_level"},
@@ -146,9 +133,59 @@ def education_participation_layout(DataReader,inputDict):
     graph_div = html.Div([graph_figure],id="education-all_states-graph_div")
     selection_div = html.Div([metric_dropdown,residence_type_dropdown ,gender_type_dropdown],id = "education_all_states_selection_div")
     all_states = html.Div([selection_div,graph_div],id="education-all_states")
+
+    # State Wise (Right Side Box)
+
+    state_list = [{'label': i, 'value': i} for i in np.unique(df_attendence_age["State"].values)]
+    state_wise_state_dropdown = dcc.Dropdown(options=state_list,
+                                             value=inputDict["value_education_state_wise_state_dropdown"],
+                                            id="education_state_wise_state_dropdown",
+                                            maxHeight=175)
+    
+    state_list_1 = [{'label': i, 'value': i} for i in np.unique(df_attendence_age["State"].values)]
+    state_list_1.append({'label': "India", 'value': "India"})
+    state_wise_state_dropdown_1 = dcc.Dropdown(options=state_list_1,
+                                             value=inputDict["value_education_state_wise_state_dropdown_1"],
+                                            id="education_state_wise_state_dropdown_1",
+                                            maxHeight=175)
+
+    state_wise_metric_dropdown = dcc.Dropdown(options=[{"label":"Enrollement As Per Education Level","value":"enrollement_education_level"},
+                                            {"label":"Attendance As Per Age Groups","value":"attendence_age_group"},
+                                            {"label":"Attendance As Per Education Level","value":"attendence_education_level"},
+                                            {"label":"Distribution As Per Education Level","value":"distribution_education_level"},
+                                            {"label":"Distribution As Per Different Courses","value":"distribution_courses"}],                                       
+                                           value=inputDict["value_education_state_wise_metric_dropdown"],
+                                           id="education_state_wise_metric_dropdown",
+                                           maxHeight=175)
+
+    residence_type_state_dropdown = dcc.Dropdown(options=[{"label":"Rural","value":"Rural"},
+                                                    {"label":"Urban","value":"Urban"},
+                                                    {"label":"Combined","value":"Total"}],
+                                           value=inputDict["value_education_states_residence_type_dropdown"],
+                                           id="education_state_residence_type_dropdown",
+                                           maxHeight=175)
+    
+    gender_type_state_dropdown = dcc.Dropdown(options=[{"label":"Male","value":"Male"},
+                                                 {"label":"Female","value":"Female"},
+                                                 {"label":"Male & Female","value":"Person"}],
+                                           value=inputDict["value_education_states_gender_dropdown"],
+                                           id="education_state_gender_dropdown",
+                                           maxHeight=175)
     
 
-    return html.Div([all_states])
+    state_dropdown_div = html.Div([state_wise_state_dropdown,html.Div(html.P("Vs")),
+                                  state_wise_state_dropdown_1],
+                                  id="state_dropdown_div")
+    selection_div_down = html.Div([state_wise_metric_dropdown,residence_type_state_dropdown,
+                                   gender_type_state_dropdown],id="state_selection_div_down")
+    
+    state_wise_metrics = html.Div([state_dropdown_div],
+                                 id="education_state_wise_metrics")
+
+    
+
+    return html.Div([all_states,state_wise_metrics])
+
 
 
 def educationLayout(DataReader,inputDict):
@@ -188,7 +225,4 @@ def educationLayout(DataReader,inputDict):
 
     all_states = education_participation_layout(DataReader,inputDict)
 
-
-    state_wise_metrics = html.Div([],id="education_state_wise_metrics")
-
-    return html.Div([selection_tabs,all_states,state_wise_metrics])
+    return html.Div([selection_tabs,all_states])

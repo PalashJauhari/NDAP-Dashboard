@@ -43,6 +43,28 @@
     height:1000px;
 }
 
+
+#state_dropdown_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(249, 250, 252);
+}
+#education_state_wise_state_dropdown{
+
+    padding: 5px 5px 5px 5px;
+    width: 350px;
+    display: inline-block;
+    font-weight: bold;
+}
+#education_state_wise_state_dropdown_1{
+
+    padding: 5px 5px 5px 5px;
+    width: 350px;
+    display: inline-block;
+    font-weight: bold
+}
+
 #education_state_wise_metrics {
     border:2px solid black;
     width: 664px;
@@ -55,22 +77,20 @@
     
 }
 
-#education_state_wise_state_dropdown{
-
-    padding: 5px 10px 5px 10px;
-    width: 48%;
-    position: absolute;
-    display: inline-block;
-    font-weight: bold
+#state_selection_div_down{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(249, 250, 252);
 }
-
 #education_state_wise_metric_dropdown{
-    padding: 5px 10px 5px 10px;
+    padding: 5px 5px 5px 5px;
     width: 48%;
     position: absolute;
     display: inline-block;
     font-weight: bold;
     margin-left: 325px;
+    flex:none
 }
 
 #education_state_wise_metrics_graph_div_top{
