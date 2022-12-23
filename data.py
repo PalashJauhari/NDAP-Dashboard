@@ -161,6 +161,16 @@ class DataReader():
 
         
         # Pre-Processing "df_institute_course" aggregation for all institute type.
+        
+
+        # aggregation
+        mapping_dict = {'Pre-Primary':'Primary','Upper Primary':'Primary','Primary':'Primary',
+                       'Secondary & Higher Secondary':'Secondary & Higher',
+                        'Diploma/Certificate below graduate level':'Diploma',
+                        'Graduate and above level including diploma':'Graduate & Above'}
+        
+        df_institute_course["Course type"]=df_institute_course["Course type"].apply(lambda x :mapping_dict[x] )
+        
         df_final = pd.DataFrame()
         all_state,all_gender,all_res,all_course,all_perc=[],[],[],[],[]
         for i,j in df_institute_course.groupby(["Residence_Type","Gender","State",'Institution type']):
@@ -178,6 +188,20 @@ class DataReader():
             all_perc.append(perc)
         
         df_final = pd.DataFrame({"State":all_state,"Residence_Type":all_res,"Gender":all_gender,'Institution type':all_course,"Enrolement":all_perc})
+        df_institute_type_1 = df_final.copy()
+
+        # now convert it into format which can be used by graphs
+        all_course_list = list(np.unique(df_institute_type_1["Institution type"]))
+        df_final = df_institute_type_1[["State","Residence_Type","Gender"]]
+        
+        for i in all_course_list:
+            df1=df_institute_type_1[df_institute_type_1["Institution type"]==i]
+            df1 = df1.rename(columns={"Enrolement":i})
+            df1 = df1.reset_index().drop(columns="index")
+            df1 = df1.drop(columns="Institution type")
+            df_final = df_final.merge(df1,on=["State","Residence_Type","Gender"],how="inner")
+        
+        df_final = df_final.drop_duplicates()
         df_institute_type = df_final.copy()
         
         
@@ -200,6 +224,20 @@ class DataReader():
             all_perc.append(perc)
         
         df_final = pd.DataFrame({"State":all_state,"Residence_Type":all_res,"Gender":all_gender,"Course type":all_course,"Enrolement":all_perc})
-        df_course_level = df_final.copy()
+        df_course_level_1 = df_final.copy()
+
+        # now convert it into format which can be used by graphs
+        all_course_list = list(np.unique(df_course_level_1["Course type"]))
+        df_final = df_course_level_1[["State","Residence_Type","Gender"]]
         
+        for i in all_course_list:
+            df1=df_course_level_1[df_course_level_1["Course type"]==i]
+            df1 = df1.rename(columns={"Enrolement":i})
+            df1 = df1.reset_index().drop(columns="index")
+            df1 = df1.drop(columns="Course type")
+            df_final = df_final.merge(df1,on=["State","Residence_Type","Gender"],how="inner")
+        
+        df_final = df_final.drop_duplicates()
+        df_course_level = df_final.copy()
+
         return df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_type,df_course_level 

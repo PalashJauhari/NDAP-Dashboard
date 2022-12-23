@@ -30,7 +30,8 @@ def education_participation_layout(DataReader,inputDict):
     metric_dropdown = dcc.Dropdown(options=[{"label":"Enrollement","value":"enrollement_education_level"},
                                             {"label":"Attendance","value":"attendence_age_group"},
                                             {"label":"Distribution As Per Education Level","value":"distribution_education_level"},
-                                            {"label":"Distribution As Per Courses","value":"distribution_courses"}],
+                                            {"label":"Distribution As Per Courses","value":"distribution_courses"},
+                                            {"label":"Distribution As Per Institute Type","value":"distribution_institute"}],
                                            value=inputDict["value_education_all_states_metric_dropdown"],
                                            id="education_all_states_metric_dropdown",
                                            maxHeight=175)
@@ -95,6 +96,42 @@ def education_participation_layout(DataReader,inputDict):
         all_values = ['Science','Engineering','Medical','IT','Law','Management','Humanities',
                       'Commerce','Medical','ITI','Upto X','Others']
         
+        fig = go.Figure()
+        for i in all_values:
+            x = list(df[i].values)
+            y = list(df["State"].values)
+            text = [str(np.round(i,1))+" %" for i in x]
+            fig.add_trace(go.Bar(x=x,y=y,orientation='h',name=i,text=text,textposition='inside'))
+        
+        fig.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),height=1000)
+    
+    if inputDict["value_education_all_states_metric_dropdown"]=="distribution_education_level":
+
+        df = df_course_level.copy()
+
+        df = df[df["Residence_Type"] == inputDict["value_education_all_states_residence_type_dropdown"]]
+        df = df[df["Gender"] == inputDict["value_education_all_states_gender_dropdown"]]
+        df = df.sort_values('Primary',ascending=True)
+        all_values = ['Primary','Secondary & Higher','Diploma','Graduate & Above']
+                                 
+        fig = go.Figure()
+        for i in all_values:
+            x = list(df[i].values)
+            y = list(df["State"].values)
+            text = [str(np.round(i,1))+" %" for i in x]
+            fig.add_trace(go.Bar(x=x,y=y,orientation='h',name=i,text=text,textposition='inside'))
+        
+        fig.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),height=1000)
+    
+    if inputDict["value_education_all_states_metric_dropdown"]=="distribution_institute":
+
+        df = df_institute_type.copy()
+
+        df = df[df["Residence_Type"] == inputDict["value_education_all_states_residence_type_dropdown"]]
+        df = df[df["Gender"] == inputDict["value_education_all_states_gender_dropdown"]]
+        df = df.sort_values('Government',ascending=True)
+        all_values = ['Government', 'Private Unaided', 'Private aided']
+         
         fig = go.Figure()
         for i in all_values:
             x = list(df[i].values)
