@@ -138,7 +138,7 @@ class DataReader():
         df_institute_course = pd.read_csv(self.data_folder_location+"/State_InstituteType_Course.csv")
 
         
-        # Pre-Processing "df_enrollement_education_level"
+        # Pre-Processing "df_courses"
         mapping_dict = {'IT/ computer courses':"IT",'commerce':'Commerce','courses from ITI/ recognised vocational institutes':'ITI',
                         'engineering':'Engineering','humanities':'Humanities','law':'Law','management':'Management','medicine':'Medical',
                         'others*':'Others','science':'Science','up to X':'Upto X','all (incl. n.r.)':'All'}
