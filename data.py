@@ -242,3 +242,57 @@ class DataReader():
         df_course_level = df_final.copy()
 
         return df_attendence_age,df_attendence_education_level,df_courses,df_courses_1,df_enrollement_education_level,df_institute_type,df_course_level,df_institute_type_1,df_course_level_1 
+    
+
+
+
+
+
+    def extractHealthData(self):
+
+        df_health_status = pd.read_csv(self.data_folder_location+"/State_General_Health_Status.csv")
+        df_health_infrastructure = pd.read_csv(self.data_folder_location+"/State_Health_Infrastructure.csv")
+        df_children_immunisation = pd.read_csv(self.data_folder_location+"/State_children_immunisation.csv")
+        df_populdation = pd.read_csv(self.data_folder_location+"/State_Population_Census.csv")
+        df_populdation = df_populdation[["Population","State"]]
+
+        # aggregate "df_health_status" to include all india metric .
+        
+        col_rename = {'Women suffering from high or very high blood sugar level (%)':'women_high_sugar',
+        'Women suffering from elevated blood pressure (%)':'women_high_bp',
+        'Women who are overweight or obese (%) ':'women_overweight',
+        'Men suffering from high or very high blood sugar level (%)':'men_high_sugar',
+        'Men suffering from elevated blood pressure (%)':'men_high_bp',
+        'Men who are overweight or obese (%)':'men_overweight',
+        'Infant mortality rate ( imr ) (%)':'imr',
+        'Fertility rate (%)': 'fertility_rate',
+        'Children under 5 years who are wasted ( weight-for-height ) (%)':"children_wasted",
+        "Population and household profile-sex ratio of the total population (females per 1,000 males)":'sex_ratio'}
+
+        df_health_status = df_health_status.rename(columns=col_rename)
+        
+        state_name,res_type = [],[]
+        df_final = pd.DataFrame()
+        for i,j in df_health_status.groupby("State"):
+            state_name.append(i)
+            res_type.append("Total")
+            df_temp = pd.DataFrame(j.drop(columns=["State", 'Residence_Type']).mean(axis=0)).T
+            df_final = pd.concat([df_final,df_temp],axis=0)
+        
+        df_final["State"]=state_name
+        df_final['Residence_Type']=res_type
+        df_health_status = pd.concat([df_health_status,df_final],axis=0)
+        df_health_status = df_health_status.reset_index().drop(columns="index")
+    
+        # children immunisation
+        df_children_immunisation_1 = df_children_immunisation[df_children_immunisation["Age group of children in months"]=="all (0-71 months)"]
+        df_children_immunisation_2 = df_children_immunisation_1[df_children_immunisation_1["Gender"]=="children"]
+        df_children_immunisation = df_children_immunisation_2.copy()
+
+        col_rename = {"Fully immunised children (%)":"fully_immunised"}
+        df_children_immunisation = df_children_immunisation.rename(columns=col_rename)
+
+        # Health Infrastructure
+        df_health_infrastructure = df_health_infrastructure.merge(df_populdation,on="State",how="inner")
+
+        return df_health_status,df_children_immunisation,df_health_infrastructure 

@@ -15,13 +15,19 @@
                  "value_education_all_states_gender_dropdown":"Male",
 
                  "value_education_state_wise_state_dropdown":"Maharashtra",
-                 "value_education_state_wise_state_dropdown_1":"Maharashtra",
+                 "value_education_state_wise_state_dropdown_1":"Delhi",
                  "value_education_state_wise_metric_dropdown":"enrolement_education_level",
                  "value_education_state_residence_type_dropdown":"Rural",
                  "value_education_state_gender_dropdown":"Male"},
     
-    "health":{"value_all_states_metric_dropdown":"women_overweight",
-    "value_health_state_wise_state_dropdown":"India",
-    "value_health_state_wise_metric_dropdown":"women_overweight"},
+    "health":{"value_all_states_metric_dropdown":"children_wasted",
+              "value_health_state_wise_state_dropdown":"Maharashtra",
+              "value_health_state_wise_metric_dropdown":"children_wasted",
+               
+              "value_health_state_residence_type_dropdown":"Rural",
+              "value_health_state_gender_dropdown":"Male"
+              },
+    
+    
     "employment":{}
 }

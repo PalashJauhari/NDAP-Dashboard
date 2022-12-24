@@ -1,0 +1,2632 @@
+State,Residence_Type,Gender,Age group of children in months,Children without any immunisation (%),Fully immunised children (%),Sample number of children
+J & K,Rural,boy,0<=AgW6,1,0,214.8724975
+J & K,Rural,boy,12<=AgW=23,0,75.3,57.62489707
+J & K,Rural,boy,24<=AgW=35,0.2,65.2,174.8280775
+J & K,Rural,boy,36<=Age<=l7,0,84.8,223.6627361
+J & K,Rural,boy,48<=Age<=59,6,82.8,228.5462019
+J & K,Rural,boy,60<=Age<=71,0,76.4,99.62270341
+J & K,Rural,boy,6<=AgW=11,0.3,13.9,300.8214966
+J & K,Rural,boy,all (0-71 months),1.9,65.4,1299.97861
+J & K,Rural,children,0<=AgW6,0.5,0,214.8724975
+J & K,Rural,children,12<=AgW=23,0,74.1,57.62489707
+J & K,Rural,children,24<=AgW=35,0.1,73,174.8280775
+J & K,Rural,children,36<=Age<=l7,1.8,75.3,223.6627361
+J & K,Rural,children,48<=Age<=59,6.6,79.8,228.5462019
+J & K,Rural,children,60<=Age<=71,0,74.6,99.62270341
+J & K,Rural,children,6<=AgW=11,0.3,15.3,300.8214966
+J & K,Rural,children,all (0-71 months),2,64,1299.97861
+J & K,Rural,girl,0<=AgW6,0,0,214.8724975
+J & K,Rural,girl,12<=AgW=23,0,67.9,57.62489707
+J & K,Rural,girl,24<=AgW=35,0,77.1,174.8280775
+J & K,Rural,girl,36<=Age<=l7,3.1,69,223.6627361
+J & K,Rural,girl,48<=Age<=59,7.5,75.1,228.5462019
+J & K,Rural,girl,60<=Age<=71,0,72.9,99.62270341
+J & K,Rural,girl,6<=AgW=11,0.4,17,300.8214966
+J & K,Rural,girl,all (0-71 months),2.2,62.7,1299.97861
+J & K,Total,boy,0<=AgW6,0.8,0,342.3452007
+J & K,Total,boy,12<=AgW=23,0,77.6,89.98788132
+J & K,Total,boy,24<=AgW=35,0.2,66.3,283.657452
+J & K,Total,boy,36<=Age<=t7,0.1,82.8,345.2795881
+J & K,Total,boy,48<=Age<=59,5.3,83.3,347.2358464
+J & K,Total,boy,60<=Age<=71,0,81.8,158.4569215
+J & K,Total,boy,6<=AgW=11,0.2,14.3,519.3865759
+J & K,Total,boy,all (0-71 months),1.6,65.5,2086.349466
+J & K,Total,children,0<=AgW6,0.4,0,342.3452007
+J & K,Total,children,12<=AgW=23,0,68.2,89.98788132
+J & K,Total,children,24<=AgW=35,0.1,73.2,283.657452
+J & K,Total,children,36<=Age<=t7,1.6,76.8,345.2795881
+J & K,Total,children,48<=Age<=59,5.6,80.7,347.2358464
+J & K,Total,children,60<=Age<=71,0,78.7,158.4569215
+J & K,Total,children,6<=AgW=11,0.3,15.8,519.3865759
+J & K,Total,children,all (0-71 months),1.7,64.5,2086.349466
+J & K,Total,girl,0<=AgW6,0,0,342.3452007
+J & K,Total,girl,12<=AgW=23,0,42.1,89.98788132
+J & K,Total,girl,24<=AgW=35,0,77.7,283.657452
+J & K,Total,girl,36<=Age<=t7,2.5,72.8,345.2795881
+J & K,Total,girl,48<=Age<=59,6.2,76.7,347.2358464
+J & K,Total,girl,60<=Age<=71,0,75.6,158.4569215
+J & K,Total,girl,6<=AgW=11,0.4,17.7,519.3865759
+J & K,Total,girl,all (0-71 months),1.8,63.6,2086.349466
+J & K,Urban,boy,0<=AgW6,0,0,127.6520239
+J & K,Urban,boy,12<=AgW=23,0,99.1,32.40397531
+J & K,Urban,boy,24<=AgW=35,0,68.6,108.9951897
+J & K,Urban,boy,36<=Age<=t7,0.6,72.9,121.7603921
+J & K,Urban,boy,48<=Age<=59,0.6,86.5,118.8145761
+J & K,Urban,boy,60<=Age<=71,0,98.7,58.91631874
+J & K,Urban,boy,6<=AgW=11,0,15.9,218.972318
+J & K,Urban,boy,all (0-71 months),0.2,65.7,787.5147939
+J & K,Urban,children,0<=AgW6,0,0,127.6520239
+J & K,Urban,children,12<=AgW=23,0,45.4,32.40397531
+J & K,Urban,children,24<=AgW=35,0,74,108.9951897
+J & K,Urban,children,36<=Age<=t7,0.2,84.3,121.7603921
+J & K,Urban,children,48<=Age<=59,0.4,85.5,118.8145761
+J & K,Urban,children,60<=Age<=71,0,93.8,58.91631874
+J & K,Urban,children,6<=AgW=11,0.2,17.7,218.972318
+J & K,Urban,children,all (0-71 months),0.2,66.8,787.5147939
+J & K,Urban,girl,0<=AgW6,0,0,127.6520239
+J & K,Urban,girl,12<=AgW=23,0,17.9,32.40397531
+J & K,Urban,girl,24<=AgW=35,0,81.4,108.9951897
+J & K,Urban,girl,36<=Age<=t7,0,91.6,121.7603921
+J & K,Urban,girl,48<=Age<=59,0,84.1,118.8145761
+J & K,Urban,girl,60<=Age<=71,0,87.1,58.91631874
+J & K,Urban,girl,6<=AgW=11,0.5,19.8,218.972318
+J & K,Urban,girl,all (0-71 months),0.1,68,787.5147939
+Himachal Pradesh,Rural,boy,0<=Age<6,1.4,0,192
+Himachal Pradesh,Rural,boy,12<=Age<=23,0,56.9,107
+Himachal Pradesh,Rural,boy,24<=AgW=35,0,87.9,153
+Himachal Pradesh,Rural,boy,36<=AgW=t7,13.5,64.4,144
+Himachal Pradesh,Rural,boy,48<=Age<=59,0,92.9,151
+Himachal Pradesh,Rural,boy,60<=Age<=71,0,98.6,92
+Himachal Pradesh,Rural,boy,6<=Age<=11,0,28.3,243
+Himachal Pradesh,Rural,boy,all (0-71 months),3.2,65.6,1082
+Himachal Pradesh,Rural,children,0<=Age<6,1.8,0,192
+Himachal Pradesh,Rural,children,12<=Age<=23,0,67.7,107
+Himachal Pradesh,Rural,children,24<=AgW=35,0,90.6,153
+Himachal Pradesh,Rural,children,36<=AgW=t7,8.6,78.1,144
+Himachal Pradesh,Rural,children,48<=Age<=59,0.1,95.7,151
+Himachal Pradesh,Rural,children,60<=Age<=71,0,97.4,92
+Himachal Pradesh,Rural,children,6<=Age<=11,0,21.9,243
+Himachal Pradesh,Rural,children,all (0-71 months),1.8,72.5,1082
+Himachal Pradesh,Rural,girl,0<=Age<6,2.3,0,192
+Himachal Pradesh,Rural,girl,12<=Age<=23,0,78.2,107
+Himachal Pradesh,Rural,girl,24<=AgW=35,0,93.6,153
+Himachal Pradesh,Rural,girl,36<=AgW=t7,1.4,98.3,144
+Himachal Pradesh,Rural,girl,48<=Age<=59,0.2,98.4,151
+Himachal Pradesh,Rural,girl,60<=Age<=71,0,96.8,92
+Himachal Pradesh,Rural,girl,6<=Age<=11,0,13.1,243
+Himachal Pradesh,Rural,girl,all (0-71 months),0.4,79.8,1082
+Himachal Pradesh,Total,boy,0<=Age<6,1.3,0,231
+Himachal Pradesh,Total,boy,12<=Age<=23,0,58.2,121
+Himachal Pradesh,Total,boy,24<=AgW=35,0,87.5,177
+Himachal Pradesh,Total,boy,36<=AgW=t7,13.1,65.1,174
+Himachal Pradesh,Total,boy,48<=Age<=59,0,93.7,181
+Himachal Pradesh,Total,boy,60<=Age<=71,0,98.8,111
+Himachal Pradesh,Total,boy,6<=Age<=11,0,27.9,308
+Himachal Pradesh,Total,boy,all (0-71 months),2.9,66.3,1303
+Himachal Pradesh,Total,children,0<=Age<6,1.7,0,231
+Himachal Pradesh,Total,children,12<=Age<=23,0,65.9,121
+Himachal Pradesh,Total,children,24<=AgW=35,0.1,89.6,177
+Himachal Pradesh,Total,children,36<=AgW=t7,7.7,75.6,174
+Himachal Pradesh,Total,children,48<=Age<=59,0.1,96.2,181
+Himachal Pradesh,Total,children,60<=Age<=71,0,97.6,111
+Himachal Pradesh,Total,children,6<=Age<=11,0,21.9,308
+Himachal Pradesh,Total,children,all (0-71 months),1.7,72,1303
+Himachal Pradesh,Total,girl,0<=Age<6,2.2,0,231
+Himachal Pradesh,Total,girl,12<=Age<=23,0,73.8,121
+Himachal Pradesh,Total,girl,24<=AgW=35,0.2,91.8,177
+Himachal Pradesh,Total,girl,36<=AgW=t7,1.1,88.3,174
+Himachal Pradesh,Total,girl,48<=Age<=59,0.2,98.5,181
+Himachal Pradesh,Total,girl,60<=Age<=71,0,97,111
+Himachal Pradesh,Total,girl,6<=Age<=11,0,14.1,308
+Himachal Pradesh,Total,girl,all (0-71 months),0.4,77.8,1303
+Himachal Pradesh,Urban,boy,0<=Age<6,0,0,39
+Himachal Pradesh,Urban,boy,12<=Age<=23,0,70.5,14
+Himachal Pradesh,Urban,boy,24<=AgW=35,0,77.5,24
+Himachal Pradesh,Urban,boy,36<=AgW=t7,0,86.4,30
+Himachal Pradesh,Urban,boy,48<=Age<=59,0,100,30
+Himachal Pradesh,Urban,boy,60<=Age<=71,0,100,19
+Himachal Pradesh,Urban,boy,6<=Age<=11,0,22,65
+Himachal Pradesh,Urban,boy,all (0-71 months),0,75.3,221
+Himachal Pradesh,Urban,children,0<=Age<6,0,0,39
+Himachal Pradesh,Urban,children,12<=Age<=23,0,46.4,14
+Himachal Pradesh,Urban,children,24<=AgW=35,1,77,24
+Himachal Pradesh,Urban,children,36<=AgW=t7,0,54.6,30
+Himachal Pradesh,Urban,children,48<=Age<=59,0.2,99.8,30
+Himachal Pradesh,Urban,children,60<=Age<=71,0,99.6,19
+Himachal Pradesh,Urban,children,6<=Age<=11,0,22.7,65
+Himachal Pradesh,Urban,children,all (0-71 months),0.2,66.9,221
+Himachal Pradesh,Urban,girl,0<=Age<6,0,0,39
+Himachal Pradesh,Urban,girl,12<=Age<=23,0,6.9,14
+Himachal Pradesh,Urban,girl,24<=AgW=35,1.5,76.8,24
+Himachal Pradesh,Urban,girl,36<=AgW=t7,0,48.5,30
+Himachal Pradesh,Urban,girl,48<=Age<=59,0.4,99.6,30
+Himachal Pradesh,Urban,girl,60<=Age<=71,0,98.8,19
+Himachal Pradesh,Urban,girl,6<=Age<=11,0,23.3,65
+Himachal Pradesh,Urban,girl,all (0-71 months),0.3,60.9,221
+Punjab,Rural,boy,0<=Age<6,1,0,186
+Punjab,Rural,boy,12<=Age<=23,0,42.3,52
+Punjab,Rural,boy,24<=AgW=35,5.3,62.1,124
+Punjab,Rural,boy,36<=AgW=t7,2.1,89.3,107
+Punjab,Rural,boy,48<=Age<=59,2.9,89.9,145
+Punjab,Rural,boy,60<=Age<=71,2.5,95.8,103
+Punjab,Rural,boy,6<=Age<=11,0,17.5,261
+Punjab,Rural,boy,all (0-71 months),2.4,62.4,978
+Punjab,Rural,children,0<=Age<6,1.3,0,186
+Punjab,Rural,children,12<=Age<=23,0,50.8,52
+Punjab,Rural,children,24<=AgW=35,9.5,68.7,124
+Punjab,Rural,children,36<=AgW=t7,1.4,89.3,107
+Punjab,Rural,children,48<=Age<=59,3.3,89.5,145
+Punjab,Rural,children,60<=Age<=71,1,91.9,103
+Punjab,Rural,children,6<=Age<=11,0.3,14.2,261
+Punjab,Rural,children,all (0-71 months),3.1,65.2,978
+Punjab,Rural,girl,0<=Age<6,1.8,0,186
+Punjab,Rural,girl,12<=Age<=23,0.1,60.9,52
+Punjab,Rural,girl,24<=AgW=35,13.6,75.2,124
+Punjab,Rural,girl,36<=AgW=t7,0.8,89.3,107
+Punjab,Rural,girl,48<=Age<=59,3.9,89,145
+Punjab,Rural,girl,60<=Age<=71,0,89.2,103
+Punjab,Rural,girl,6<=Age<=11,0.6,11,261
+Punjab,Rural,girl,all (0-71 months),3.8,68,978
+Punjab,Total,boy,0<=Age<6,1.8,0,356
+Punjab,Total,boy,12<=Age<=23,0,59.7,111
+Punjab,Total,boy,24<=AgW=35,3.5,55.5,252
+Punjab,Total,boy,36<=AgW=t7,1.9,85.9,245
+Punjab,Total,boy,48<=Age<=59,4.9,78.5,262
+Punjab,Total,boy,60<=Age<=71,2,96.8,184
+Punjab,Total,boy,6<=Age<=11,0.2,15.3,523
+Punjab,Total,boy,all (0-71 months),2.4,61.9,1933
+Punjab,Total,children,0<=Age<6,2.3,0,356
+Punjab,Total,children,12<=Age<=23,0.1,55,111
+Punjab,Total,children,24<=AgW=35,8.6,59,252
+Punjab,Total,children,36<=AgW=t7,3.2,83.3,245
+Punjab,Total,children,48<=Age<=59,4.7,80.4,262
+Punjab,Total,children,60<=Age<=71,1,93.7,184
+Punjab,Total,children,6<=Age<=11,0.3,13.8,523
+Punjab,Total,children,all (0-71 months),3.6,61.8,1933
+Punjab,Total,girl,0<=Age<6,3,0,356
+Punjab,Total,girl,12<=Age<=23,0.2,49.6,111
+Punjab,Total,girl,24<=AgW=35,14.3,62.9,252
+Punjab,Total,girl,36<=AgW=t7,4.6,79.8,245
+Punjab,Total,girl,48<=Age<=59,4.5,83,262
+Punjab,Total,girl,60<=Age<=71,0,90.7,184
+Punjab,Total,girl,6<=Age<=11,0.4,12.3,523
+Punjab,Total,girl,all (0-71 months),4.9,61.4,1933
+Punjab,Urban,boy,0<=Age<6,3,0,170
+Punjab,Urban,boy,12<=Age<=23,0,85.6,59
+Punjab,Urban,boy,24<=AgW=35,1.2,47.5,128
+Punjab,Urban,boy,36<=AgW=t7,1.8,83.3,138
+Punjab,Urban,boy,48<=Age<=59,8.1,59.8,117
+Punjab,Urban,boy,60<=Age<=71,1.4,98,81
+Punjab,Urban,boy,6<=Age<=11,0.5,11.3,262
+Punjab,Urban,boy,all (0-71 months),2.4,61.2,955
+Punjab,Urban,children,0<=Age<6,3.9,0,170
+Punjab,Urban,children,12<=Age<=23,0.2,60.9,59
+Punjab,Urban,children,24<=AgW=35,7.3,45.2,128
+Punjab,Urban,children,36<=AgW=t7,5,77.2,138
+Punjab,Urban,children,48<=Age<=59,7,65.9,117
+Punjab,Urban,children,60<=Age<=71,0.9,97.5,81
+Punjab,Urban,children,6<=Age<=11,0.3,13,262
+Punjab,Urban,children,all (0-71 months),4.2,56.7,955
+Punjab,Urban,girl,0<=Age<6,5.1,0,170
+Punjab,Urban,girl,12<=Age<=23,0.4,34.5,59
+Punjab,Urban,girl,24<=AgW=35,15.5,42.2,128
+Punjab,Urban,girl,36<=AgW=t7,10.6,64.6,138
+Punjab,Urban,girl,48<=Age<=59,5.5,73.6,117
+Punjab,Urban,girl,60<=Age<=71,0,96.3,81
+Punjab,Urban,girl,6<=Age<=11,0,14.7,262
+Punjab,Urban,girl,all (0-71 months),6.8,49.5,955
+Chandigarh,Rural,boy,0<=AgW6,0,0,7
+Chandigarh,Rural,boy,12<=AgW=23,0,0,4
+Chandigarh,Rural,boy,24<=Age<=35,0,98,5
+Chandigarh,Rural,boy,36<=AgW=47,0,100,5
+Chandigarh,Rural,boy,48<=AgW=59,52.5,47.5,6
+Chandigarh,Rural,boy,60<=AgW=71,24.7,75.3,5
+Chandigarh,Rural,boy,6<=AgW=11,0,0,12
+Chandigarh,Rural,boy,all (0-71 months),8.1,28.2,44
+Chandigarh,Rural,children,0<=AgW6,0,0,7
+Chandigarh,Rural,children,12<=AgW=23,0,0,4
+Chandigarh,Rural,children,24<=Age<=35,0,69,5
+Chandigarh,Rural,children,36<=AgW=47,0,21.3,5
+Chandigarh,Rural,children,48<=AgW=59,85.6,14.4,6
+Chandigarh,Rural,children,60<=AgW=71,4.2,92.3,5
+Chandigarh,Rural,children,6<=AgW=11,0,0,12
+Chandigarh,Rural,children,all (0-71 months),14.7,17.8,44
+Chandigarh,Rural,girl,0<=AgW6,0,0,7
+Chandigarh,Rural,girl,12<=AgW=23,0,0,4
+Chandigarh,Rural,girl,24<=Age<=35,0,0,5
+Chandigarh,Rural,girl,36<=AgW=47,0,14.5,5
+Chandigarh,Rural,girl,48<=AgW=59,100,0,6
+Chandigarh,Rural,girl,60<=AgW=71,0,95.7,5
+Chandigarh,Rural,girl,6<=AgW=11,0,0,12
+Chandigarh,Rural,girl,all (0-71 months),18.6,11.6,44
+Chandigarh,Total,boy,0<=AgW6,0,0,39
+Chandigarh,Total,boy,12<=AgW=23,0,78.3,13
+Chandigarh,Total,boy,24<=Age<=35,29.4,41.4,26
+Chandigarh,Total,boy,36<=Age<=47,0,84.5,16
+Chandigarh,Total,boy,48<=AgW=59,0.4,97.9,21
+Chandigarh,Total,boy,60<=AgW=71,0,98.9,19
+Chandigarh,Total,boy,6<=AgW=11,0,16.5,42
+Chandigarh,Total,boy,all (0-71 months),8.9,64.5,176
+Chandigarh,Total,children,0<=AgW6,0,0,39
+Chandigarh,Total,children,12<=AgW=23,0,62.3,13
+Chandigarh,Total,children,24<=Age<=35,26.5,44.5,26
+Chandigarh,Total,children,36<=Age<=47,0,91.8,16
+Chandigarh,Total,children,48<=AgW=59,1.8,92.9,21
+Chandigarh,Total,children,60<=AgW=71,0,99.2,19
+Chandigarh,Total,children,6<=AgW=11,0,14.1,42
+Chandigarh,Total,children,all (0-71 months),6.6,64.9,176
+Chandigarh,Total,girl,0<=AgW6,0,0,39
+Chandigarh,Total,girl,12<=AgW=23,0,51,13
+Chandigarh,Total,girl,24<=Age<=35,0,73.2,26
+Chandigarh,Total,girl,36<=Age<=47,0,98,16
+Chandigarh,Total,girl,48<=AgW=59,9.5,66.2,21
+Chandigarh,Total,girl,60<=AgW=71,0,99.9,19
+Chandigarh,Total,girl,6<=AgW=11,0,6.2,42
+Chandigarh,Total,girl,all (0-71 months),0.8,66,176
+Chandigarh,Urban,boy,0<=AgW6,0,0,32
+Chandigarh,Urban,boy,12<=AgW=23,0,81.4,9
+Chandigarh,Urban,boy,24<=Age<=35,29.5,41,21
+Chandigarh,Urban,boy,36<=Age<=47,0,84.5,11
+Chandigarh,Urban,boy,48<=AgW=59,0,98.3,15
+Chandigarh,Urban,boy,60<=AgW=71,0,98.9,14
+Chandigarh,Urban,boy,6<=AgW=11,0,16.9,30
+Chandigarh,Urban,boy,all (0-71 months),8.9,64.8,132
+Chandigarh,Urban,children,0<=AgW6,0,0,32
+Chandigarh,Urban,children,12<=AgW=23,0,63.5,9
+Chandigarh,Urban,children,24<=Age<=35,26.7,44.3,21
+Chandigarh,Urban,children,36<=Age<=47,0,92.8,11
+Chandigarh,Urban,children,48<=AgW=59,0,94.7,15
+Chandigarh,Urban,children,60<=AgW=71,0,99.2,14
+Chandigarh,Urban,children,6<=AgW=11,0,15.1,30
+Chandigarh,Urban,children,all (0-71 months),6.4,65.9,132
+Chandigarh,Urban,girl,0<=AgW6,0,0,32
+Chandigarh,Urban,girl,12<=AgW=23,0,51.2,9
+Chandigarh,Urban,girl,24<=Age<=35,0,74.9,21
+Chandigarh,Urban,girl,36<=Age<=47,0,100,11
+Chandigarh,Urban,girl,48<=AgW=59,0,73.2,15
+Chandigarh,Urban,girl,60<=AgW=71,0,100,14
+Chandigarh,Urban,girl,6<=AgW=11,0,7.8,30
+Chandigarh,Urban,girl,all (0-71 months),0,68.4,132
+Uttarakhand,Rural,boy,0<=AgW6,0.6,0,95
+Uttarakhand,Rural,boy,12<=AgW=23,0,60,37
+Uttarakhand,Rural,boy,24<=Age<=35,0,87,103
+Uttarakhand,Rural,boy,36<=Age<=47,0,72.6,122
+Uttarakhand,Rural,boy,48<=AgW=59,0,94.1,128
+Uttarakhand,Rural,boy,60<=AgW=71,0,99.2,58
+Uttarakhand,Rural,boy,6<=AgW=11,0,7.5,198
+Uttarakhand,Rural,boy,all (0-71 months),0,73.3,741
+Uttarakhand,Rural,children,0<=AgW6,1.5,0,95
+Uttarakhand,Rural,children,12<=AgW=23,0,45.9,37
+Uttarakhand,Rural,children,24<=Age<=35,0,73.6,103
+Uttarakhand,Rural,children,36<=Age<=47,0,74.8,122
+Uttarakhand,Rural,children,48<=AgW=59,0,92,128
+Uttarakhand,Rural,children,60<=AgW=71,0,95.8,58
+Uttarakhand,Rural,children,6<=AgW=11,0,13.3,198
+Uttarakhand,Rural,children,all (0-71 months),0.1,69.4,741
+Uttarakhand,Rural,girl,0<=AgW6,2.4,0,95
+Uttarakhand,Rural,girl,12<=AgW=23,0,35,37
+Uttarakhand,Rural,girl,24<=Age<=35,0,60.3,103
+Uttarakhand,Rural,girl,36<=Age<=47,0,75.8,122
+Uttarakhand,Rural,girl,48<=AgW=59,0,90.2,128
+Uttarakhand,Rural,girl,60<=AgW=71,0,94.3,58
+Uttarakhand,Rural,girl,6<=AgW=11,0,17.2,198
+Uttarakhand,Rural,girl,all (0-71 months),0.1,66.5,741
+Uttarakhand,Total,boy,0<=AgW6,0.6,0,167
+Uttarakhand,Total,boy,12<=AgW=23,0,56.7,56
+Uttarakhand,Total,boy,24<=Age<=35,0,83.6,150
+Uttarakhand,Total,boy,36<=Age<=47,0,81.2,176
+Uttarakhand,Total,boy,48<=AgW=59,0,94.1,206
+Uttarakhand,Total,boy,60<=AgW=71,0,99.2,85
+Uttarakhand,Total,boy,6<=AgW=11,0,9.7,330
+Uttarakhand,Total,boy,all (0-71 months),0,74.9,1170
+Uttarakhand,Total,children,0<=AgW6,1.9,0,167
+Uttarakhand,Total,children,12<=AgW=23,0,47.4,56
+Uttarakhand,Total,children,24<=Age<=35,0,71.3,150
+Uttarakhand,Total,children,36<=Age<=47,0,80.2,176
+Uttarakhand,Total,children,48<=AgW=59,0,90.7,206
+Uttarakhand,Total,children,60<=AgW=71,0,96.4,85
+Uttarakhand,Total,children,6<=AgW=11,0,14.7,330
+Uttarakhand,Total,children,all (0-71 months),0.1,70.5,1170
+Uttarakhand,Total,girl,0<=AgW6,3.2,0,167
+Uttarakhand,Total,girl,12<=AgW=23,0,39.3,56
+Uttarakhand,Total,girl,24<=Age<=35,0,59.2,150
+Uttarakhand,Total,girl,36<=Age<=47,0,79.6,176
+Uttarakhand,Total,girl,48<=AgW=59,0,86.7,206
+Uttarakhand,Total,girl,60<=AgW=71,0,94.5,85
+Uttarakhand,Total,girl,6<=AgW=11,0,18.6,330
+Uttarakhand,Total,girl,all (0-71 months),0.2,66.6,1170
+Uttarakhand,Urban,boy,0<=AgW6,0.7,0,72
+Uttarakhand,Urban,boy,12<=AgW=23,0,45.5,19
+Uttarakhand,Urban,boy,24<=Age<=35,0,67.1,47
+Uttarakhand,Urban,boy,36<=Age<=47,0,95.4,54
+Uttarakhand,Urban,boy,48<=AgW=59,0,94.1,78
+Uttarakhand,Urban,boy,60<=AgW=71,0,99.3,27
+Uttarakhand,Urban,boy,6<=AgW=11,0,15.7,132
+Uttarakhand,Urban,boy,all (0-71 months),0,78.5,429
+Uttarakhand,Urban,children,0<=AgW6,2.8,0,72
+Uttarakhand,Urban,children,12<=AgW=23,0,53.8,19
+Uttarakhand,Urban,children,24<=Age<=35,0,60.5,47
+Uttarakhand,Urban,children,36<=Age<=47,0,96.3,54
+Uttarakhand,Urban,children,48<=AgW=59,0,87.5,78
+Uttarakhand,Urban,children,60<=AgW=71,0,98.2,27
+Uttarakhand,Urban,children,6<=AgW=11,0,20.2,132
+Uttarakhand,Urban,children,all (0-71 months),0.2,74.2,429
+Uttarakhand,Urban,girl,0<=AgW6,6,0,72
+Uttarakhand,Urban,girl,12<=AgW=23,0,65.4,19
+Uttarakhand,Urban,girl,24<=Age<=35,0,54,47
+Uttarakhand,Urban,girl,36<=Age<=47,0,97.8,54
+Uttarakhand,Urban,girl,48<=AgW=59,0,71.1,78
+Uttarakhand,Urban,girl,60<=AgW=71,0,95.6,27
+Uttarakhand,Urban,girl,6<=AgW=11,0,26.5,132
+Uttarakhand,Urban,girl,all (0-71 months),0.4,67,429
+Haryana,Rural,boy,0<=AgW6,2.6,0,156
+Haryana,Rural,boy,12<=Age<=23,0,80.8,90
+Haryana,Rural,boy,24<=AgW=35,0,90.9,180
+Haryana,Rural,boy,36<=AgWm7,0.1,89,199
+Haryana,Rural,boy,48<=Age<=59,0.2,98.9,184
+Haryana,Rural,boy,60<=Age<-71,0,98.8,101
+Haryana,Rural,boy,6<=AgW=11,0.6,21.8,290
+Haryana,Rural,boy,all (0-71 months),0.3,76.2,1200
+Haryana,Rural,children,0<=AgW6,1.9,0,156
+Haryana,Rural,children,12<=Age<=23,0,79,90
+Haryana,Rural,children,24<=AgW=35,2,85.5,180
+Haryana,Rural,children,36<=AgWm7,0.1,91.8,199
+Haryana,Rural,children,48<=Age<=59,0.2,98.3,184
+Haryana,Rural,children,60<=Age<-71,1.4,91.3,101
+Haryana,Rural,children,6<=AgW=11,0.3,19,290
+Haryana,Rural,children,all (0-71 months),0.8,74.9,1200
+Haryana,Rural,girl,0<=AgW6,1,0,156
+Haryana,Rural,girl,12<=Age<=23,0,78,90
+Haryana,Rural,girl,24<=AgW=35,4.1,79.7,180
+Haryana,Rural,girl,36<=AgWm7,0.1,96.8,199
+Haryana,Rural,girl,48<=Age<=59,0.2,97.8,184
+Haryana,Rural,girl,60<=Age<-71,2.2,87,101
+Haryana,Rural,girl,6<=AgW=11,0,16.1,290
+Haryana,Rural,girl,all (0-71 months),1.3,73.6,1200
+Haryana,Total,boy,0<=AgW6,1.9,0,306
+Haryana,Total,boy,12<=Age<=23,0,65.2,174
+Haryana,Total,boy,24<=AgW=35,0,87,290
+Haryana,Total,boy,36<=AgWm7,0.1,87.9,331
+Haryana,Total,boy,48<=Age<=59,0.1,95.6,317
+Haryana,Total,boy,60<=Age<-71,0,98.6,174
+Haryana,Total,boy,6<=AgW=11,0.4,20.5,509
+Haryana,Total,boy,all (0-71 months),0.2,73.2,2101
+Haryana,Total,children,0<=AgW6,1.3,0,306
+Haryana,Total,children,12<=Age<=23,0,68.3,174
+Haryana,Total,children,24<=AgW=35,1.4,85.1,290
+Haryana,Total,children,36<=AgWm7,0.1,92.3,331
+Haryana,Total,children,48<=Age<=59,0.2,96.3,317
+Haryana,Total,children,60<=Age<-71,1.1,93,174
+Haryana,Total,children,6<=AgW=11,0.2,17.1,509
+Haryana,Total,children,all (0-71 months),0.5,72.1,2101
+Haryana,Total,girl,0<=AgW6,0.7,0,306
+Haryana,Total,girl,12<=Age<=23,0,72,174
+Haryana,Total,girl,24<=AgW=35,3.3,82.4,290
+Haryana,Total,girl,36<=AgWm7,0.1,98,331
+Haryana,Total,girl,48<=Age<=59,0.3,97.1,317
+Haryana,Total,girl,60<=Age<-71,1.9,88.9,174
+Haryana,Total,girl,6<=AgW=11,0,14.2,509
+Haryana,Total,girl,all (0-71 months),0.9,70.9,2101
+Haryana,Urban,boy,0<=AgW6,0.7,0,150
+Haryana,Urban,boy,12<=Age<=23,0,58.5,84
+Haryana,Urban,boy,24<=AgW=35,0,80.8,110
+Haryana,Urban,boy,36<=AgWm7,0,83.9,132
+Haryana,Urban,boy,48<=Age<=59,0,90.6,133
+Haryana,Urban,boy,60<=Age<-71,0,98.1,73
+Haryana,Urban,boy,6<=AgW=11,0,17.2,219
+Haryana,Urban,boy,all (0-71 months),0,68.2,901
+Haryana,Urban,children,0<=AgW6,0.5,0,150
+Haryana,Urban,children,12<=Age<=23,0,58.4,84
+Haryana,Urban,children,24<=AgW=35,0,84.3,110
+Haryana,Urban,children,36<=AgWm7,0.1,93.4,132
+Haryana,Urban,children,48<=Age<=59,0.2,92.3,133
+Haryana,Urban,children,60<=Age<-71,0,98.9,73
+Haryana,Urban,children,6<=AgW=11,0,13.5,219
+Haryana,Urban,children,all (0-71 months),0.1,66.9,901
+Haryana,Urban,girl,0<=AgW6,0.4,0,150
+Haryana,Urban,girl,12<=Age<=23,0,58.3,84
+Haryana,Urban,girl,24<=AgW=35,0,94.5,110
+Haryana,Urban,girl,36<=AgWm7,0.1,99.5,132
+Haryana,Urban,girl,48<=Age<=59,0.6,95.2,133
+Haryana,Urban,girl,60<=Age<-71,0,100,73
+Haryana,Urban,girl,6<=AgW=11,0,11.3,219
+Haryana,Urban,girl,all (0-71 months),0.2,65,901
+Delhi,Rural,boy,0<=Age<6,0,0,7
+Delhi,Rural,boy,12<=Age<=23,0,14.7,2
+Delhi,Rural,boy,24<=AgW=35,0,0,7
+Delhi,Rural,boy,36<=AgW=t7,0,0,4
+Delhi,Rural,boy,48<=Age<=59,0,0,5
+Delhi,Rural,boy,60<=Age<=71,0,100,6
+Delhi,Rural,boy,6<=Age<=11,0,2.3,9
+Delhi,Rural,boy,all (0-71 months),0,4.7,40
+Delhi,Rural,children,0<=Age<6,43.4,0,7
+Delhi,Rural,children,12<=Age<=23,0,14.7,2
+Delhi,Rural,children,24<=AgW=35,0,1.3,7
+Delhi,Rural,children,36<=AgW=t7,0,68.9,4
+Delhi,Rural,children,48<=Age<=59,0,96.9,5
+Delhi,Rural,children,60<=Age<=71,0,85.5,6
+Delhi,Rural,children,6<=Age<=11,0,1.5,9
+Delhi,Rural,children,all (0-71 months),4.7,23.3,40
+Delhi,Rural,girl,0<=Age<6,49.3,0,7
+Delhi,Rural,girl,12<=Age<=23,0,0,2
+Delhi,Rural,girl,24<=AgW=35,0,2,7
+Delhi,Rural,girl,36<=AgW=t7,0,100,4
+Delhi,Rural,girl,48<=Age<=59,0,100,5
+Delhi,Rural,girl,60<=Age<=71,0,84.6,6
+Delhi,Rural,girl,6<=Age<=11,0,0,9
+Delhi,Rural,girl,all (0-71 months),7.2,33.4,40
+Delhi,Total,boy,0<=Age<6,0.4,0,152
+Delhi,Total,boy,12<=Age<=23,0,13.1,37
+Delhi,Total,boy,24<=AgW=35,0.3,36.8,83
+Delhi,Total,boy,36<=AgW=t7,2.9,66.7,88
+Delhi,Total,boy,48<=Age<=59,0,94.6,91
+Delhi,Total,boy,60<=Age<=71,0.1,86.4,65
+Delhi,Total,boy,6<=Age<=11,0.1,11.8,201
+Delhi,Total,boy,all (0-71 months),0.7,52.7,717
+Delhi,Total,children,0<=Age<6,1.2,0,152
+Delhi,Total,children,12<=Age<=23,0,12,37
+Delhi,Total,children,24<=AgW=35,0.1,28.6,83
+Delhi,Total,children,36<=AgW=t7,20.2,53.4,88
+Delhi,Total,children,48<=Age<=59,0,82.2,91
+Delhi,Total,children,60<=Age<=71,0.1,91.7,65
+Delhi,Total,children,6<=Age<=11,0.1,15.3,201
+Delhi,Total,children,all (0-71 months),4.7,47.8,717
+Delhi,Total,girl,0<=Age<6,2,0,152
+Delhi,Total,girl,12<=Age<=23,0,9,37
+Delhi,Total,girl,24<=AgW=35,0,25.5,83
+Delhi,Total,girl,36<=AgW=t7,37.5,40.1,88
+Delhi,Total,girl,48<=Age<=59,0,66.1,91
+Delhi,Total,girl,60<=Age<=71,0,98.3,65
+Delhi,Total,girl,6<=Age<=11,0,19.5,201
+Delhi,Total,girl,all (0-71 months),9.3,42.3,717
+Delhi,Urban,boy,0<=Age<6,0.4,0,145
+Delhi,Urban,boy,12<=Age<=23,0,13.1,35
+Delhi,Urban,boy,24<=AgW=35,0.3,39.5,76
+Delhi,Urban,boy,36<=AgW=t7,2.9,66.8,84
+Delhi,Urban,boy,48<=Age<=59,0,94.7,86
+Delhi,Urban,boy,60<=Age<=71,0.1,86.3,59
+Delhi,Urban,boy,6<=Age<=11,0.1,12.2,192
+Delhi,Urban,boy,all (0-71 months),0.7,53.2,677
+Delhi,Urban,children,0<=Age<6,0.2,0,145
+Delhi,Urban,children,12<=Age<=23,0,12,35
+Delhi,Urban,children,24<=AgW=35,0.1,30.1,76
+Delhi,Urban,children,36<=AgW=t7,20.3,53.3,84
+Delhi,Urban,children,48<=Age<=59,0,82.2,86
+Delhi,Urban,children,60<=Age<=71,0.1,91.8,59
+Delhi,Urban,children,6<=Age<=11,0.1,15.9,192
+Delhi,Urban,children,all (0-71 months),4.7,48.2,677
+Delhi,Urban,girl,0<=Age<6,0,0,145
+Delhi,Urban,girl,12<=Age<=23,0,9,35
+Delhi,Urban,girl,24<=AgW=35,0,26.6,76
+Delhi,Urban,girl,36<=AgW=t7,37.7,39.7,84
+Delhi,Urban,girl,48<=Age<=59,0,66,86
+Delhi,Urban,girl,60<=Age<=71,0,98.9,59
+Delhi,Urban,girl,6<=Age<=11,0,20,192
+Delhi,Urban,girl,all (0-71 months),9.3,42.5,677
+Rajasthan,Rural,boy,0<=AgW6,3.9,0,399
+Rajasthan,Rural,boy,12<=AgW=23,0.6,48.4,233
+Rajasthan,Rural,boy,24<=AgW=35,4.1,54.1,372
+Rajasthan,Rural,boy,36<=Age<=t7,3.4,64.2,402
+Rajasthan,Rural,boy,48<=Age<=59,5.1,76.9,422
+Rajasthan,Rural,boy,60<=Age<=71,8.4,52.2,267
+Rajasthan,Rural,boy,6<=AgW=11,0,19.8,482
+Rajasthan,Rural,boy,all (0-71 months),3.8,51.7,2577
+Rajasthan,Rural,children,0<=AgW6,4,0,399
+Rajasthan,Rural,children,12<=AgW=23,0.3,55.5,233
+Rajasthan,Rural,children,24<=AgW=35,5.3,57.2,372
+Rajasthan,Rural,children,36<=Age<=t7,6.7,65.1,402
+Rajasthan,Rural,children,48<=Age<=59,4.8,79,422
+Rajasthan,Rural,children,60<=Age<=71,6.7,69.7,267
+Rajasthan,Rural,children,6<=AgW=11,0.1,21.7,482
+Rajasthan,Rural,children,all (0-71 months),4.5,56.6,2577
+Rajasthan,Rural,girl,0<=AgW6,4.1,0,399
+Rajasthan,Rural,girl,12<=AgW=23,0,62,233
+Rajasthan,Rural,girl,24<=AgW=35,6.9,61.4,372
+Rajasthan,Rural,girl,36<=Age<=t7,10.8,66.3,402
+Rajasthan,Rural,girl,48<=Age<=59,4.6,80.6,422
+Rajasthan,Rural,girl,60<=Age<=71,5.3,83.2,267
+Rajasthan,Rural,girl,6<=AgW=11,0.3,24,482
+Rajasthan,Rural,girl,all (0-71 months),5.1,61.6,2577
+Rajasthan,Total,boy,0<=AgW6,3.2,0,613
+Rajasthan,Total,boy,12<=AgW=23,1.1,44.3,327
+Rajasthan,Total,boy,24<=AgW=35,3.7,56.6,553
+Rajasthan,Total,boy,36<=Age<=t7,4.2,64.3,572
+Rajasthan,Total,boy,48<=Age<=59,4.5,76.5,620
+Rajasthan,Total,boy,60<=Age<=71,9,57.5,394
+Rajasthan,Total,boy,6<=AgW=11,0,19.7,761
+Rajasthan,Total,boy,all (0-71 months),3.9,52.5,3840
+Rajasthan,Total,children,0<=AgW6,3.3,0,613
+Rajasthan,Total,children,12<=AgW=23,0.5,55.6,327
+Rajasthan,Total,children,24<=AgW=35,4.7,59.2,553
+Rajasthan,Total,children,36<=Age<=t7,6.4,65.8,572
+Rajasthan,Total,children,48<=Age<=59,4.6,78.9,620
+Rajasthan,Total,children,60<=Age<=71,6.7,72.1,394
+Rajasthan,Total,children,6<=AgW=11,0.1,21,761
+Rajasthan,Total,children,all (0-71 months),4.2,57.3,3840
+Rajasthan,Total,girl,0<=AgW6,3.4,0,613
+Rajasthan,Total,girl,12<=AgW=23,0,65.5,327
+Rajasthan,Total,girl,24<=AgW=35,5.9,62.6,553
+Rajasthan,Total,girl,36<=Age<=t7,8.9,67.6,572
+Rajasthan,Total,girl,48<=Age<=59,4.7,81.1,620
+Rajasthan,Total,girl,60<=Age<=71,4.8,84.5,394
+Rajasthan,Total,girl,6<=AgW=11,0.2,22.4,761
+Rajasthan,Total,girl,all (0-71 months),4.5,62.3,3840
+Rajasthan,Urban,boy,0<=AgW6,0,0,214
+Rajasthan,Urban,boy,12<=AgW=23,3.8,22.7,94
+Rajasthan,Urban,boy,24<=AgW=35,1.2,72.7,181
+Rajasthan,Urban,boy,36<=Age<=t7,8.3,64.9,170
+Rajasthan,Urban,boy,48<=Age<=59,2.6,75,198
+Rajasthan,Urban,boy,60<=Age<=71,11,77,127
+Rajasthan,Urban,boy,6<=AgW=11,0,19.2,279
+Rajasthan,Urban,boy,all (0-71 months),4.3,56.3,1263
+Rajasthan,Urban,children,0<=AgW6,0.2,0,214
+Rajasthan,Urban,children,12<=AgW=23,1.5,56.1,94
+Rajasthan,Urban,children,24<=AgW=35,1.1,70.9,181
+Rajasthan,Urban,children,36<=Age<=t7,4.8,69,170
+Rajasthan,Urban,children,48<=Age<=59,3.7,78.9,198
+Rajasthan,Urban,children,60<=Age<=71,7,83.6,127
+Rajasthan,Urban,children,6<=AgW=11,0,18,279
+Rajasthan,Urban,children,all (0-71 months),3,60.9,1263
+Rajasthan,Urban,girl,0<=AgW6,0.5,0,214
+Rajasthan,Urban,girl,12<=AgW=23,0,79.1,94
+Rajasthan,Urban,girl,24<=AgW=35,1,68.9,181
+Rajasthan,Urban,girl,36<=Age<=t7,1.8,72.6,170
+Rajasthan,Urban,girl,48<=Age<=59,5,83.5,198
+Rajasthan,Urban,girl,60<=Age<=71,1.7,92.5,127
+Rajasthan,Urban,girl,6<=AgW=11,0,17,279
+Rajasthan,Urban,girl,all (0-71 months),1.8,65.4,1263
+Uttar Pradesh,Rural,boy,0<=AgW6,6.3,0,751
+Uttar Pradesh,Rural,boy,12<=Age<=23,0.2,43.1,395
+Uttar Pradesh,Rural,boy,24<=AgW=35,5.5,51.7,750
+Uttar Pradesh,Rural,boy,36<=AgWm7,1.6,71.4,872
+Uttar Pradesh,Rural,boy,48<=Age<=59,0.6,76,734
+Uttar Pradesh,Rural,boy,60<=Age<-71,1.3,82.6,517
+Uttar Pradesh,Rural,boy,6<=AgW=11,1.6,12,995
+Uttar Pradesh,Rural,boy,all (0-71 months),2.3,53.7,5014
+Uttar Pradesh,Rural,children,0<=AgW6,5.8,0,751
+Uttar Pradesh,Rural,children,12<=Age<=23,0.9,45.9,395
+Uttar Pradesh,Rural,children,24<=AgW=35,3.2,56.7,750
+Uttar Pradesh,Rural,children,36<=AgWm7,3,70.8,872
+Uttar Pradesh,Rural,children,48<=Age<=59,2.9,75.5,734
+Uttar Pradesh,Rural,children,60<=Age<-71,1,83.6,517
+Uttar Pradesh,Rural,children,6<=AgW=11,1.2,12.6,995
+Uttar Pradesh,Rural,children,all (0-71 months),2.6,54.7,5014
+Uttar Pradesh,Rural,girl,0<=AgW6,5.4,0,751
+Uttar Pradesh,Rural,girl,12<=Age<=23,1.7,49.1,395
+Uttar Pradesh,Rural,girl,24<=AgW=35,0.9,61.7,750
+Uttar Pradesh,Rural,girl,36<=AgWm7,4.5,70,872
+Uttar Pradesh,Rural,girl,48<=Age<=59,5.7,74.8,734
+Uttar Pradesh,Rural,girl,60<=Age<-71,0.7,84.5,517
+Uttar Pradesh,Rural,girl,6<=AgW=11,0.7,13.3,995
+Uttar Pradesh,Rural,girl,all (0-71 months),2.9,55.9,5014
+Uttar Pradesh,Total,boy,0<=AgW6,5.5,0,1275
+Uttar Pradesh,Total,boy,12<=AgH=23,0.2,44.4,657
+Uttar Pradesh,Total,boy,24<=AgW=35,4.9,53.9,1216
+Uttar Pradesh,Total,boy,36<=AgWm7,1.4,71.9,1302
+Uttar Pradesh,Total,boy,48<=Age<=59,1.4,75.2,1185
+Uttar Pradesh,Total,boy,60<=Age<-71,1.4,79.2,754
+Uttar Pradesh,Total,boy,6<=AgW=11,1.4,13.1,1673
+Uttar Pradesh,Total,boy,all (0-71 months),2.3,53.8,8062
+Uttar Pradesh,Total,children,0<=AgW6,5,0,1275
+Uttar Pradesh,Total,children,12<=AgH=23,0.7,45.2,657
+Uttar Pradesh,Total,children,24<=AgW=35,3.2,58.9,1216
+Uttar Pradesh,Total,children,36<=AgWm7,2.6,71.2,1302
+Uttar Pradesh,Total,children,48<=Age<=59,3.1,74.1,1185
+Uttar Pradesh,Total,children,60<=Age<-71,1.5,81.3,754
+Uttar Pradesh,Total,children,6<=AgW=11,1.1,12.8,1673
+Uttar Pradesh,Total,children,all (0-71 months),2.5,54.6,8062
+Uttar Pradesh,Total,girl,0<=AgW6,4.5,0,1275
+Uttar Pradesh,Total,girl,12<=AgH=23,1.2,46.1,657
+Uttar Pradesh,Total,girl,24<=AgW=35,1.5,64.2,1216
+Uttar Pradesh,Total,girl,36<=AgWm7,3.9,70.4,1302
+Uttar Pradesh,Total,girl,48<=Age<=59,5.2,72.8,1185
+Uttar Pradesh,Total,girl,60<=Age<-71,1.7,83.3,754
+Uttar Pradesh,Total,girl,6<=AgW=11,0.8,12.5,1673
+Uttar Pradesh,Total,girl,all (0-71 months),2.8,55.4,8062
+Uttar Pradesh,Urban,boy,0<=AgW6,1.7,0,524
+Uttar Pradesh,Urban,boy,12<=Age<=23,0.4,48.9,262
+Uttar Pradesh,Urban,boy,24<=AgW=35,3.2,60.5,466
+Uttar Pradesh,Urban,boy,36<=AgWm7,0.6,74.3,430
+Uttar Pradesh,Urban,boy,48<=Age<=59,4.8,71.3,451
+Uttar Pradesh,Urban,boy,60<=Age<-71,1.7,60.9,237
+Uttar Pradesh,Urban,boy,6<=AgW=11,0.4,18.6,678
+Uttar Pradesh,Urban,boy,all (0-71 months),2.1,54.2,3048
+Uttar Pradesh,Urban,children,0<=AgW6,1.5,0,524
+Uttar Pradesh,Urban,children,12<=Age<=23,0.2,43.1,262
+Uttar Pradesh,Urban,children,24<=AgW=35,3.3,66.4,466
+Uttar Pradesh,Urban,children,36<=AgWm7,0.8,73.2,430
+Uttar Pradesh,Urban,children,48<=Age<=59,4,67.9,451
+Uttar Pradesh,Urban,children,60<=Age<-71,3.9,70.1,237
+Uttar Pradesh,Urban,children,6<=AgW=11,0.9,13.9,678
+Uttar Pradesh,Urban,children,all (0-71 months),2.2,53.8,3048
+Uttar Pradesh,Urban,girl,0<=AgW6,1.3,0,524
+Uttar Pradesh,Urban,girl,12<=Age<=23,0,39.1,262
+Uttar Pradesh,Urban,girl,24<=AgW=35,3.4,73.2,466
+Uttar Pradesh,Urban,girl,36<=AgWm7,0.9,72,430
+Uttar Pradesh,Urban,girl,48<=Age<=59,3.1,64.2,451
+Uttar Pradesh,Urban,girl,60<=Age<-71,5.8,77.8,237
+Uttar Pradesh,Urban,girl,6<=AgW=11,1.5,8.7,678
+Uttar Pradesh,Urban,girl,all (0-71 months),2.3,53.5,3048
+Bihar,Rural,boy,0<=Age<6,1.3,0,451
+Bihar,Rural,boy,12<=Age<=23,3,51.7,153
+Bihar,Rural,boy,24<=AgW=35,1.5,44.6,469
+Bihar,Rural,boy,36<=AgW=t7,3,60.4,445
+Bihar,Rural,boy,48<=Age<=59,4.2,61.9,473
+Bihar,Rural,boy,60<=Age<=71,0.9,85,212
+Bihar,Rural,boy,6<=Age<=11,0.1,7.1,657
+Bihar,Rural,boy,all (0-71 months),2.2,46.5,2860
+Bihar,Rural,children,0<=Age<6,0.9,0,451
+Bihar,Rural,children,12<=Age<=23,1.5,42.2,153
+Bihar,Rural,children,24<=AgW=35,2.2,49.8,469
+Bihar,Rural,children,36<=AgW=t7,1.8,60.3,445
+Bihar,Rural,children,48<=Age<=59,8.5,62.9,473
+Bihar,Rural,children,60<=Age<=71,1.4,79.3,212
+Bihar,Rural,children,6<=Age<=11,0.1,9.3,657
+Bihar,Rural,children,all (0-71 months),3,48,2860
+Bihar,Rural,girl,0<=Age<6,0.5,0,451
+Bihar,Rural,girl,12<=Age<=23,0,32.6,153
+Bihar,Rural,girl,24<=AgW=35,3,55.5,469
+Bihar,Rural,girl,36<=AgW=t7,0.8,60.1,445
+Bihar,Rural,girl,48<=Age<=59,13.4,64,473
+Bihar,Rural,girl,60<=Age<=71,1.9,74,212
+Bihar,Rural,girl,6<=Age<=11,0,12.3,657
+Bihar,Rural,girl,all (0-71 months),3.8,49.6,2860
+Bihar,Total,boy,0<=Age<6,1.2,0,691
+Bihar,Total,boy,12<=Age<=23,3.2,48.8,233
+Bihar,Total,boy,24<=Age<=35,1.4,46.4,657
+Bihar,Total,boy,36<=AgW=t7,3.2,60.5,651
+Bihar,Total,boy,48<=AgW=59,4,62.4,659
+Bihar,Total,boy,60<=Age<=71,0.9,84.6,292
+Bihar,Total,boy,6<=Age<=11,0.1,7.5,921
+Bihar,Total,boy,all (0-71 months),2.2,46.8,4104
+Bihar,Total,children,0<=Age<6,0.9,0,691
+Bihar,Total,children,12<=Age<=23,1.6,40.6,233
+Bihar,Total,children,24<=Age<=35,2.2,50.4,657
+Bihar,Total,children,36<=AgW=t7,2,60.4,651
+Bihar,Total,children,48<=AgW=59,8.2,63.3,659
+Bihar,Total,children,60<=Age<=71,1.4,79.4,292
+Bihar,Total,children,6<=Age<=11,0.1,9.6,921
+Bihar,Total,children,all (0-71 months),2.9,48.1,4104
+Bihar,Total,girl,0<=Age<6,0.6,0,691
+Bihar,Total,girl,12<=Age<=23,0,32.4,233
+Bihar,Total,girl,24<=Age<=35,3.2,55,657
+Bihar,Total,girl,36<=AgW=t7,1,60.4,651
+Bihar,Total,girl,48<=AgW=59,13.2,64.3,659
+Bihar,Total,girl,60<=Age<=71,1.8,74.7,292
+Bihar,Total,girl,6<=Age<=11,0,12.6,921
+Bihar,Total,girl,all (0-71 months),3.7,49.4,4104
+Bihar,Urban,boy,0<=Age<6,0,0,240
+Bihar,Urban,boy,12<=Age<=23,4.4,29.4,80
+Bihar,Urban,boy,24<=Age<=35,0.4,61.9,188
+Bihar,Urban,boy,36<=AgW=t7,5.4,60.6,206
+Bihar,Urban,boy,48<=AgW=59,1,68.8,186
+Bihar,Urban,boy,60<=Age<=71,0,78.8,80
+Bihar,Urban,boy,6<=Age<=l 1,0,13.3,264
+Bihar,Urban,boy,all (0-71 months),1.8,50.6,1244
+Bihar,Urban,children,0<=Age<6,0.7,0,240
+Bihar,Urban,children,12<=Age<=23,2.3,30.2,80
+Bihar,Urban,children,24<=Age<=35,2.2,57.1,188
+Bihar,Urban,children,36<=AgW=t7,4.4,62.2,206
+Bihar,Urban,children,48<=AgW=59,3.4,69.4,186
+Bihar,Urban,children,60<=Age<=71,0.1,80.8,80
+Bihar,Urban,children,6<=Age<=l 1,0,14.7,264
+Bihar,Urban,children,all (0-71 months),2.4,49.1,1244
+Bihar,Urban,girl,0<=Age<6,1.5,0,240
+Bihar,Urban,girl,12<=Age<=23,0.3,30.9,80
+Bihar,Urban,girl,24<=Age<=35,7.4,43.2,188
+Bihar,Urban,girl,36<=AgW=t7,3.3,63.9,206
+Bihar,Urban,girl,48<=AgW=59,7.7,70.5,186
+Bihar,Urban,girl,60<=Age<=71,0.2,82,80
+Bihar,Urban,girl,6<=Age<=l 1,0.1,16.2,264
+Bihar,Urban,girl,all (0-71 months),3.1,47.1,1244
+Sikkim,Rural,boy,0<=AgW6,1.3,0,52
+Sikkim,Rural,boy,12<=AgW=23,0,15.2,4
+Sikkim,Rural,boy,24<=Age<=35,0,100,14
+Sikkim,Rural,boy,36<=Age<=47,0,98.7,24
+Sikkim,Rural,boy,48<=AgW=59,0,98.8,15
+Sikkim,Rural,boy,60<=AgW=71,0,100,6
+Sikkim,Rural,boy,6<=AgW=11,0,8.9,100
+Sikkim,Rural,boy,all (0-71 months),0.1,66,215
+Sikkim,Rural,children,0<=AgW6,0.9,0,52
+Sikkim,Rural,children,12<=AgW=23,0,15.2,4
+Sikkim,Rural,children,24<=Age<=35,0,100,14
+Sikkim,Rural,children,36<=Age<=47,0,98.1,24
+Sikkim,Rural,children,48<=AgW=59,0,99.3,15
+Sikkim,Rural,children,60<=AgW=71,0,94.8,6
+Sikkim,Rural,children,6<=AgW=11,0,7.2,100
+Sikkim,Rural,children,all (0-71 months),0.1,67.6,215
+Sikkim,Rural,girl,0<=AgW6,0,0,52
+Sikkim,Rural,girl,12<=AgW=23,0,0,4
+Sikkim,Rural,girl,24<=Age<=35,0,100,14
+Sikkim,Rural,girl,36<=Age<=47,0,97.3,24
+Sikkim,Rural,girl,48<=AgW=59,0,100,15
+Sikkim,Rural,girl,60<=AgW=71,0,27.1,6
+Sikkim,Rural,girl,6<=AgW=11,0,5.6,100
+Sikkim,Rural,girl,all (0-71 months),0,69.6,215
+Sikkim,Total,boy,0<=AgW6,1.2,0,71
+Sikkim,Total,boy,12<=AgW=23,0,19.1,7
+Sikkim,Total,boy,24<=Age<=35,0,74.9,21
+Sikkim,Total,boy,36<=Age<=47,0,99.1,32
+Sikkim,Total,boy,48<=AgW=59,0,98.6,22
+Sikkim,Total,boy,60<=AgW=71,0,100,6
+Sikkim,Total,boy,6<=AgW=11,0,7.8,122
+Sikkim,Total,boy,all (0-71 months),0.1,66,281
+Sikkim,Total,children,0<=AgW6,0.6,0,71
+Sikkim,Total,children,12<=AgW=23,0,26.6,7
+Sikkim,Total,children,24<=Age<=35,0,91.6,21
+Sikkim,Total,children,36<=Age<=47,0,98,32
+Sikkim,Total,children,48<=AgW=59,0,99.1,22
+Sikkim,Total,children,60<=AgW=71,0,94.8,6
+Sikkim,Total,children,6<=AgW=11,0,6,122
+Sikkim,Total,children,all (0-71 months),0.1,65.1,281
+Sikkim,Total,girl,0<=AgW6,0,0,71
+Sikkim,Total,girl,12<=AgW=23,0,100,7
+Sikkim,Total,girl,24<=Age<=35,0,96.8,21
+Sikkim,Total,girl,36<=Age<=47,0,96.2,32
+Sikkim,Total,girl,48<=AgW=59,0,100,22
+Sikkim,Total,girl,60<=AgW=71,0,27.1,6
+Sikkim,Total,girl,6<=AgW=11,0,4.4,122
+Sikkim,Total,girl,all (0-71 months),0,64.1,281
+Sikkim,Urban,boy,0<=AgW6,0,0,19
+Sikkim,Urban,boy,12<=AgW=23,0,100,3
+Sikkim,Urban,boy,24<=Age<=35,0,2.2,7
+Sikkim,Urban,boy,36<=Age<=47,0,100,8
+Sikkim,Urban,boy,48<=AgW=59,0,91.4,7
+Sikkim,Urban,boy,60<=AgW=71,0,0,0
+Sikkim,Urban,boy,6<=AgW=11,0,4.1,22
+Sikkim,Urban,boy,all (0-71 months),0,65.5,66
+Sikkim,Urban,children,0<=AgW6,0,0,19
+Sikkim,Urban,children,12<=AgW=23,0,100,3
+Sikkim,Urban,children,24<=Age<=35,0,51.4,7
+Sikkim,Urban,children,36<=Age<=47,0,97.6,8
+Sikkim,Urban,children,48<=AgW=59,0,96.2,7
+Sikkim,Urban,children,60<=AgW=71,0,0,0
+Sikkim,Urban,children,6<=AgW=11,0,2,22
+Sikkim,Urban,children,all (0-71 months),0,53.5,66
+Sikkim,Urban,girl,0<=AgW6,0,0,19
+Sikkim,Urban,girl,12<=AgW=23,0,100,3
+Sikkim,Urban,girl,24<=Age<=35,0,78.1,7
+Sikkim,Urban,girl,36<=Age<=47,0,86.9,8
+Sikkim,Urban,girl,48<=AgW=59,0,100,7
+Sikkim,Urban,girl,60<=AgW=71,0,0,0
+Sikkim,Urban,girl,6<=AgW=11,0,0,22
+Sikkim,Urban,girl,all (0-71 months),0,39.7,66
+Arunachal Pradesh,Rural,boy,0<=AgW6,0,0,52
+Arunachal Pradesh,Rural,boy,12<=AgH=23,0,37.4,35
+Arunachal Pradesh,Rural,boy,24<=AgW-35,7.4,49,88
+Arunachal Pradesh,Rural,boy,36<=AgW=47,14.9,41.2,102
+Arunachal Pradesh,Rural,boy,48<=AgW=59,6.9,46.2,90
+Arunachal Pradesh,Rural,boy,60<=Age<=71,0.4,57.9,64
+Arunachal Pradesh,Rural,boy,6<=AgW=11,0.7,12.3,281
+Arunachal Pradesh,Rural,boy,all (0-71 months),5.2,34.6,712
+Arunachal Pradesh,Rural,children,0<=AgW6,3.9,0,52
+Arunachal Pradesh,Rural,children,12<=AgH=23,9.2,24.3,35
+Arunachal Pradesh,Rural,children,24<=AgW-35,5.8,65.8,88
+Arunachal Pradesh,Rural,children,36<=AgW=47,14.1,47.4,102
+Arunachal Pradesh,Rural,children,48<=AgW=59,7.2,43.9,90
+Arunachal Pradesh,Rural,children,60<=Age<=71,2,48.6,64
+Arunachal Pradesh,Rural,children,6<=AgW=11,2,15,281
+Arunachal Pradesh,Rural,children,all (0-71 months),5.9,38.2,712
+Arunachal Pradesh,Rural,girl,0<=AgW6,12.8,0,52
+Arunachal Pradesh,Rural,girl,12<=AgH=23,22.8,4.8,35
+Arunachal Pradesh,Rural,girl,24<=AgW-35,4.3,81.1,88
+Arunachal Pradesh,Rural,girl,36<=AgW=47,13.2,56,102
+Arunachal Pradesh,Rural,girl,48<=AgW=59,7.7,40.3,90
+Arunachal Pradesh,Rural,girl,60<=Age<=71,3.8,38.5,64
+Arunachal Pradesh,Rural,girl,6<=AgW=11,3.3,17.9,281
+Arunachal Pradesh,Rural,girl,all (0-71 months),6.7,42.5,712
+Arunachal Pradesh,Total,boy,0<=Age<6,0,0,88
+Arunachal Pradesh,Total,boy,12<=AgW=23,0,35.2,49
+Arunachal Pradesh,Total,boy,24<=AgH=35,5.7,54.1,114
+Arunachal Pradesh,Total,boy,36<=AgWm7,13.5,46.4,130
+Arunachal Pradesh,Total,boy,48<=AgW=59,5.6,55.1,129
+Arunachal Pradesh,Total,boy,60<=Age<=71,4.5,56.7,97
+Arunachal Pradesh,Total,boy,6<=AgW=11,0.9,14.4,406
+Arunachal Pradesh,Total,boy,all (0-71 months),4.9,38.4,1013
+Arunachal Pradesh,Total,children,0<=Age<6,3.1,0,88
+Arunachal Pradesh,Total,children,12<=AgW=23,7.6,28.3,49
+Arunachal Pradesh,Total,children,24<=AgH=35,4.7,68.8,114
+Arunachal Pradesh,Total,children,36<=AgWm7,13.1,50.8,130
+Arunachal Pradesh,Total,children,48<=AgW=59,7.5,51.7,129
+Arunachal Pradesh,Total,children,60<=Age<=71,4,49.4,97
+Arunachal Pradesh,Total,children,6<=AgW=11,1.9,16.5,406
+Arunachal Pradesh,Total,children,all (0-71 months),5.5,41.3,1013
+Arunachal Pradesh,Total,girl,0<=Age<6,8.2,0,88
+Arunachal Pradesh,Total,girl,12<=AgW=23,18.9,18.1,49
+Arunachal Pradesh,Total,girl,24<=AgH=35,3.7,83.6,114
+Arunachal Pradesh,Total,girl,36<=AgWm7,12.4,57.2,130
+Arunachal Pradesh,Total,girl,48<=AgW=59,10.5,46.6,129
+Arunachal Pradesh,Total,girl,60<=Age<=71,3.5,40.3,97
+Arunachal Pradesh,Total,girl,6<=AgW=11,2.9,18.9,406
+Arunachal Pradesh,Total,girl,all (0-71 months),6.3,44.8,1013
+Arunachal Pradesh,Urban,boy,0<=Age<6,0,0,36
+Arunachal Pradesh,Urban,boy,12<=AgW=23,0,23.9,14
+Arunachal Pradesh,Urban,boy,24<=AgH=35,0,70.7,26
+Arunachal Pradesh,Urban,boy,36<=AgWm7,0,98,28
+Arunachal Pradesh,Urban,boy,48<=AgW=59,0,92.4,39
+Arunachal Pradesh,Urban,boy,60<=Age<=71,22.9,51,33
+Arunachal Pradesh,Urban,boy,6<=AgW=11,2.4,25.8,125
+Arunachal Pradesh,Urban,boy,all (0-71 months),3.3,57.6,301
+Arunachal Pradesh,Urban,children,0<=Age<6,0,0,36
+Arunachal Pradesh,Urban,children,12<=AgW=23,0,47.8,14
+Arunachal Pradesh,Urban,children,24<=AgH=35,0,81.3,26
+Arunachal Pradesh,Urban,children,36<=AgWm7,0,91.5,28
+Arunachal Pradesh,Urban,children,48<=AgW=59,8.8,82.6,39
+Arunachal Pradesh,Urban,children,60<=Age<=71,18,54.7,33
+Arunachal Pradesh,Urban,children,6<=AgW=11,1.4,25.8,125
+Arunachal Pradesh,Urban,children,all (0-71 months),3.5,58.3,301
+Arunachal Pradesh,Urban,girl,0<=Age<6,0,0,36
+Arunachal Pradesh,Urban,girl,12<=AgW=23,0,81.8,14
+Arunachal Pradesh,Urban,girl,24<=AgH=35,0,97.6,26
+Arunachal Pradesh,Urban,girl,36<=AgWm7,0,76.4,28
+Arunachal Pradesh,Urban,girl,48<=AgW=59,20.6,69.4,39
+Arunachal Pradesh,Urban,girl,60<=Age<=71,0,68.3,33
+Arunachal Pradesh,Urban,girl,6<=AgW=11,0,25.8,125
+Arunachal Pradesh,Urban,girl,all (0-71 months),3.7,59.4,301
+Nagaland,Rural,boy,0<=AgW6,0,0,74
+Nagaland,Rural,boy,12<=AgW=23,0,4.5,13
+Nagaland,Rural,boy,24<=Age<=35,9.6,6.6,76
+Nagaland,Rural,boy,36<=Age<=47,1.4,23.2,74
+Nagaland,Rural,boy,48<=AgW=59,15,16.9,73
+Nagaland,Rural,boy,60<=AgW=71,0.5,19.1,35
+Nagaland,Rural,boy,6<=AgW=11,0,25.1,144
+Nagaland,Rural,boy,all (0-71 months),5.3,13.8,489
+Nagaland,Rural,children,0<=AgW6,0,0,74
+Nagaland,Rural,children,12<=AgW=23,0,3.1,13
+Nagaland,Rural,children,24<=Age<=35,5.4,4.5,76
+Nagaland,Rural,children,36<=Age<=47,16.1,23.3,74
+Nagaland,Rural,children,48<=AgW=59,8.4,11.7,73
+Nagaland,Rural,children,60<=AgW=71,6.7,5.9,35
+Nagaland,Rural,children,6<=AgW=11,0,15.1,144
+Nagaland,Rural,children,all (0-71 months),5.8,9.3,489
+Nagaland,Rural,girl,0<=AgW6,0,0,74
+Nagaland,Rural,girl,12<=AgW=23,0,0,13
+Nagaland,Rural,girl,24<=Age<=35,1.7,2.7,76
+Nagaland,Rural,girl,36<=Age<=47,56.3,23.4,74
+Nagaland,Rural,girl,48<=AgW=59,0,5,73
+Nagaland,Rural,girl,60<=AgW=71,9.3,0.5,35
+Nagaland,Rural,girl,6<=AgW=11,0,3.8,144
+Nagaland,Rural,girl,all (0-71 months),6.5,4.2,489
+Nagaland,Total,boy,0<=AgW6,0,0,119
+Nagaland,Total,boy,12<=AgW=23,0,4.4,18
+Nagaland,Total,boy,24<=Age<=35,8.4,9.4,105
+Nagaland,Total,boy,36<=AgW=47,1.2,24.8,110
+Nagaland,Total,boy,48<=AgW=59,18.8,15.6,103
+Nagaland,Total,boy,60<=AgW=71,1.8,38,46
+Nagaland,Total,boy,6<=AgW=11,0,27.8,213
+Nagaland,Total,boy,all (0-71 months),5.5,16.4,714
+Nagaland,Total,children,0<=AgW6,0,0,119
+Nagaland,Total,children,12<=AgW=23,0,3.1,18
+Nagaland,Total,children,24<=Age<=35,5.3,5.9,105
+Nagaland,Total,children,36<=AgW=47,11.5,33.6,110
+Nagaland,Total,children,48<=AgW=59,9.9,10.1,103
+Nagaland,Total,children,60<=AgW=71,6.3,14,46
+Nagaland,Total,children,6<=AgW=11,0,17.4,213
+Nagaland,Total,children,all (0-71 months),5.5,12.8,714
+Nagaland,Total,girl,0<=AgW6,0,0,119
+Nagaland,Total,girl,12<=AgW=23,0,0.2,18
+Nagaland,Total,girl,24<=Age<=35,2.4,2.5,105
+Nagaland,Total,girl,36<=AgW=47,29.4,49,110
+Nagaland,Total,girl,48<=AgW=59,0.1,4.2,103
+Nagaland,Total,girl,60<=AgW=71,8.9,0.5,46
+Nagaland,Total,girl,6<=AgW=11,0,6.5,213
+Nagaland,Total,girl,all (0-71 months),5.5,8.7,714
+Nagaland,Urban,boy,0<=AgW6,0,0,45
+Nagaland,Urban,boy,12<=AgW=23,0,0,5
+Nagaland,Urban,boy,24<=Age<=35,0.7,27,29
+Nagaland,Urban,boy,36<=Age<=47,0.6,30.6,36
+Nagaland,Urban,boy,48<=AgW=59,34,10.5,30
+Nagaland,Urban,boy,60<=AgW=71,4.7,80.4,11
+Nagaland,Urban,boy,6<=AgW=11,0,36.1,69
+Nagaland,Urban,boy,all (0-71 months),6.6,27.1,225
+Nagaland,Urban,children,0<=AgW6,0,0,45
+Nagaland,Urban,children,12<=AgW=23,0,3.8,5
+Nagaland,Urban,children,24<=Age<=35,4.4,18.7,29
+Nagaland,Urban,children,36<=Age<=47,1.3,56.3,36
+Nagaland,Urban,children,48<=AgW=59,14.1,5.8,30
+Nagaland,Urban,children,60<=AgW=71,3.8,64.5,11
+Nagaland,Urban,children,6<=AgW=11,0,24,69
+Nagaland,Urban,children,all (0-71 months),4.1,26.2,225
+Nagaland,Urban,girl,0<=AgW6,0,0,45
+Nagaland,Urban,girl,12<=AgW=23,0,5,5
+Nagaland,Urban,girl,24<=Age<=35,13.5,0,29
+Nagaland,Urban,girl,36<=Age<=47,1.8,75.4,36
+Nagaland,Urban,girl,48<=AgW=59,0.4,2.5,30
+Nagaland,Urban,girl,60<=AgW=71,0,0,11
+Nagaland,Urban,girl,6<=AgW=11,0,13.1,69
+Nagaland,Urban,girl,all (0-71 months),1.6,25.4,225
+Manipur,Rural,boy,0<=AgW6,0,0,73
+Manipur,Rural,boy,12<=Age<=23,0,84.1,40
+Manipur,Rural,boy,24<=AgW=35,5,87.4,138
+Manipur,Rural,boy,36<=AgWm7,6.8,85.3,203
+Manipur,Rural,boy,48<=Age<=59,20.5,77.7,115
+Manipur,Rural,boy,60<=Age<-71,5,94.7,86
+Manipur,Rural,boy,6<=AgW=11,0,24.4,290
+Manipur,Rural,boy,all (0-71 months),7.4,76,945
+Manipur,Rural,children,0<=AgW6,0,0,73
+Manipur,Rural,children,12<=Age<=23,0.2,81.4,40
+Manipur,Rural,children,24<=AgW=35,9.4,82.4,138
+Manipur,Rural,children,36<=AgWm7,11.4,80.1,203
+Manipur,Rural,children,48<=Age<=59,14.5,80.4,115
+Manipur,Rural,children,60<=Age<-71,3.4,96,86
+Manipur,Rural,children,6<=AgW=11,0,27.1,290
+Manipur,Rural,children,all (0-71 months),7.6,72.7,945
+Manipur,Rural,girl,0<=AgW6,0,0,73
+Manipur,Rural,girl,12<=Age<=23,0.4,78.8,40
+Manipur,Rural,girl,24<=AgW=35,13.5,77.7,138
+Manipur,Rural,girl,36<=AgWm7,14.9,76.4,203
+Manipur,Rural,girl,48<=Age<=59,2.8,85.6,115
+Manipur,Rural,girl,60<=Age<-71,0.2,98.6,86
+Manipur,Rural,girl,6<=AgW=11,0,29.3,290
+Manipur,Rural,girl,all (0-71 months),7.8,69.3,945
+Manipur,Total,boy,0<=AgW6,0,0,169
+Manipur,Total,boy,12<=AgH=23,0,88.8,71
+Manipur,Total,boy,24<=AgW=35,4.6,89.7,231
+Manipur,Total,boy,36<=AgWm7,7.3,86.3,353
+Manipur,Total,boy,48<=Age<=59,15.3,83.2,197
+Manipur,Total,boy,60<=Age<-71,4.1,95,154
+Manipur,Total,boy,6<=AgW=11,0,29.8,503
+Manipur,Total,boy,all (0-71 months),6.2,77.7,1678
+Manipur,Total,children,0<=AgW6,0,0,169
+Manipur,Total,children,12<=AgH=23,0.1,81.7,71
+Manipur,Total,children,24<=AgW=35,7.3,86.2,231
+Manipur,Total,children,36<=AgWm7,9,83.4,353
+Manipur,Total,children,48<=Age<=59,10.1,85.3,197
+Manipur,Total,children,60<=Age<-71,2.6,95.6,154
+Manipur,Total,children,6<=AgW=11,0,29.1,503
+Manipur,Total,children,all (0-71 months),5.8,75.1,1678
+Manipur,Total,girl,0<=AgW6,0,0,169
+Manipur,Total,girl,12<=AgH=23,0.3,74.8,71
+Manipur,Total,girl,24<=AgW=35,9.9,83,231
+Manipur,Total,girl,36<=AgWm7,10.3,81.1,353
+Manipur,Total,girl,48<=Age<=59,2,88.7,197
+Manipur,Total,girl,60<=Age<-71,0.1,96.5,154
+Manipur,Total,girl,6<=AgW=11,0,28.5,503
+Manipur,Total,girl,all (0-71 months),5.5,72.5,1678
+Manipur,Urban,boy,0<=AgW6,0,0,96
+Manipur,Urban,boy,12<=Age<=23,0,97.9,31
+Manipur,Urban,boy,24<=AgW=35,3.6,95.3,93
+Manipur,Urban,boy,36<=AgWm7,8.2,88,150
+Manipur,Urban,boy,48<=Age<=59,0,99.5,82
+Manipur,Urban,boy,60<=Age<-71,0,96.2,68
+Manipur,Urban,boy,6<=AgW=11,0,41.7,213
+Manipur,Urban,boy,all (0-71 months),3.2,81.9,733
+Manipur,Urban,children,0<=AgW6,0,0,96
+Manipur,Urban,children,12<=Age<=23,0,82.2,31
+Manipur,Urban,children,24<=AgW=35,1.8,96.2,93
+Manipur,Urban,children,36<=AgWm7,4.3,89.7,150
+Manipur,Urban,children,48<=Age<=59,0.4,96.4,82
+Manipur,Urban,children,60<=Age<-71,0,94.2,68
+Manipur,Urban,children,6<=AgW=11,0,34.4,213
+Manipur,Urban,children,all (0-71 months),1.7,80.7,733
+Manipur,Urban,girl,0<=AgW6,0,0,96
+Manipur,Urban,girl,12<=Age<=23,0,66.4,31
+Manipur,Urban,girl,24<=AgW=35,0,97.1,93
+Manipur,Urban,girl,36<=AgWm7,0.6,91.3,150
+Manipur,Urban,girl,48<=Age<=59,0.8,93.3,82
+Manipur,Urban,girl,60<=Age<-71,0,92.5,68
+Manipur,Urban,girl,6<=AgW=11,0,25.8,213
+Manipur,Urban,girl,all (0-71 months),0.3,79.5,733
+Mizoram,Rural,boy,0<=AgW6,0,0,63
+Mizoram,Rural,boy,12<=AgW=23,0,100,22
+Mizoram,Rural,boy,24<=AgW=35,0,79.8,72
+Mizoram,Rural,boy,36<=Age<=t7,0,96.9,108
+Mizoram,Rural,boy,48<=Age<=59,0,86.3,70
+Mizoram,Rural,boy,60<=Age<=71,0,92.3,29
+Mizoram,Rural,boy,6<=AgW=11,0,21.1,116
+Mizoram,Rural,boy,all (0-71 months),0,75.1,480
+Mizoram,Rural,children,0<=AgW6,0,0,63
+Mizoram,Rural,children,12<=AgW=23,0,81,22
+Mizoram,Rural,children,24<=AgW=35,0,83.7,72
+Mizoram,Rural,children,36<=Age<=t7,0,96.4,108
+Mizoram,Rural,children,48<=Age<=59,0,92.6,70
+Mizoram,Rural,children,60<=Age<=71,0,94.4,29
+Mizoram,Rural,children,6<=AgW=11,0,27.3,116
+Mizoram,Rural,children,all (0-71 months),0,76.1,480
+Mizoram,Rural,girl,0<=AgW6,0,0,63
+Mizoram,Rural,girl,12<=AgW=23,0,71.4,22
+Mizoram,Rural,girl,24<=AgW=35,0,87.3,72
+Mizoram,Rural,girl,36<=Age<=t7,0,95.9,108
+Mizoram,Rural,girl,48<=Age<=59,0,98.6,70
+Mizoram,Rural,girl,60<=Age<=71,0,100,29
+Mizoram,Rural,girl,6<=AgW=11,0,31.8,116
+Mizoram,Rural,girl,all (0-71 months),0,77.2,480
+Mizoram,Total,boy,0<=AgW6,0,0,153
+Mizoram,Total,boy,12<=AgW=23,0,99.3,32
+Mizoram,Total,boy,24<=AgW=35,5,71.2,144
+Mizoram,Total,boy,36<=Age<=t7,0,97.7,210
+Mizoram,Total,boy,48<=Age<=59,0,89.5,137
+Mizoram,Total,boy,60<=Age<=71,12.1,81.9,51
+Mizoram,Total,boy,6<=AgW=11,0,25,241
+Mizoram,Total,boy,all (0-71 months),2.1,71.4,968
+Mizoram,Total,children,0<=AgW6,0.6,0,153
+Mizoram,Total,children,12<=AgW=23,0,76.2,32
+Mizoram,Total,children,24<=AgW=35,2.4,79.8,144
+Mizoram,Total,children,36<=Age<=t7,0.2,96.8,210
+Mizoram,Total,children,48<=Age<=59,0,93.5,137
+Mizoram,Total,children,60<=Age<=71,7.4,88.4,51
+Mizoram,Total,children,6<=AgW=11,0.3,28.6,241
+Mizoram,Total,children,all (0-71 months),1.1,73.4,968
+Mizoram,Total,girl,0<=AgW6,1.1,0,153
+Mizoram,Total,girl,12<=AgW=23,0,65.4,32
+Mizoram,Total,girl,24<=AgW=35,0,87.5,144
+Mizoram,Total,girl,36<=Age<=t7,0.4,95.9,210
+Mizoram,Total,girl,48<=Age<=59,0,97.1,137
+Mizoram,Total,girl,60<=Age<=71,0,98.5,51
+Mizoram,Total,girl,6<=AgW=11,0.6,31.4,241
+Mizoram,Total,girl,all (0-71 months),0.3,75.1,968
+Mizoram,Urban,boy,0<=AgW6,0,0,90
+Mizoram,Urban,boy,12<=AgW=23,0,97.5,10
+Mizoram,Urban,boy,24<=AgW=35,14.1,55.5,72
+Mizoram,Urban,boy,36<=Age<=t7,0,99.8,102
+Mizoram,Urban,boy,48<=Age<=59,0,98.1,67
+Mizoram,Urban,boy,60<=Age<=71,53.9,46.1,22
+Mizoram,Urban,boy,6<=AgW=11,0,31.3,125
+Mizoram,Urban,boy,all (0-71 months),6.7,63.2,488
+Mizoram,Urban,children,0<=AgW6,1.4,0,90
+Mizoram,Urban,children,12<=AgW=23,0,64.9,10
+Mizoram,Urban,children,24<=AgW=35,6.4,73.2,72
+Mizoram,Urban,children,36<=Age<=t7,0.7,97.7,102
+Mizoram,Urban,children,48<=Age<=59,0,95.6,67
+Mizoram,Urban,children,60<=Age<=71,21.6,76.7,22
+Mizoram,Urban,children,6<=AgW=11,0.9,30.9,125
+Mizoram,Urban,children,all (0-71 months),3.3,67.8,488
+Mizoram,Urban,girl,0<=AgW6,2.4,0,90
+Mizoram,Urban,girl,12<=AgW=23,0,52.3,10
+Mizoram,Urban,girl,24<=AgW=35,0,87.8,72
+Mizoram,Urban,girl,36<=Age<=t7,1.4,96,102
+Mizoram,Urban,girl,48<=Age<=59,0,93.9,67
+Mizoram,Urban,girl,60<=Age<=71,0,97.2,22
+Mizoram,Urban,girl,6<=AgW=11,1.6,30.6,125
+Mizoram,Urban,girl,all (0-71 months),0.7,71.3,488
+Tripura,Rural,boy,0<=AgW6,0,0,112
+Tripura,Rural,boy,12<=AgW=23,34.9,34.5,42
+Tripura,Rural,boy,24<=AgW=35,2.6,35.4,97
+Tripura,Rural,boy,36<=Age<=t7,20.3,46.1,80
+Tripura,Rural,boy,48<=Age<=59,2.2,58.3,73
+Tripura,Rural,boy,60<=Age<=71,0.1,67.3,43
+Tripura,Rural,boy,6<=AgW=11,7.6,15.1,231
+Tripura,Rural,boy,all (0-71 months),7.4,35.2,678
+Tripura,Rural,children,0<=AgW6,0,0,112
+Tripura,Rural,children,12<=AgW=23,21.7,29.4,42
+Tripura,Rural,children,24<=AgW=35,4.7,48.5,97
+Tripura,Rural,children,36<=Age<=t7,27.2,36.6,80
+Tripura,Rural,children,48<=Age<=59,8.8,50.5,73
+Tripura,Rural,children,60<=Age<=71,19.9,58.3,43
+Tripura,Rural,children,6<=AgW=11,5.2,13.2,231
+Tripura,Rural,children,all (0-71 months),11.3,37.4,678
+Tripura,Rural,girl,0<=AgW6,0,0,112
+Tripura,Rural,girl,12<=AgW=23,0.7,21.3,42
+Tripura,Rural,girl,24<=AgW=35,7.6,66.6,97
+Tripura,Rural,girl,36<=Age<=t7,32,29.8,80
+Tripura,Rural,girl,48<=Age<=59,13.7,44.5,73
+Tripura,Rural,girl,60<=Age<=71,38.5,49.9,43
+Tripura,Rural,girl,6<=AgW=11,1.1,10,231
+Tripura,Rural,girl,all (0-71 months),15.8,40,678
+Tripura,Total,boy,0<=AgW6,0,0,166
+Tripura,Total,boy,12<=AgW=23,28.8,31,56
+Tripura,Total,boy,24<=AgW=35,2.1,43.8,131
+Tripura,Total,boy,36<=Age<=l7,17.2,46.2,98
+Tripura,Total,boy,48<=Age<=59,1.8,63.4,85
+Tripura,Total,boy,60<=Age<=71,0.8,71,55
+Tripura,Total,boy,6<=AgW=11,7.3,15,327
+Tripura,Total,boy,all (0-71 months),6.4,39.2,918
+Tripura,Total,children,0<=AgW6,4.3,0,166
+Tripura,Total,children,12<=AgW=23,18.8,27.4,56
+Tripura,Total,children,24<=AgW=35,5.2,51.4,131
+Tripura,Total,children,36<=Age<=l7,23.7,40,98
+Tripura,Total,children,48<=Age<=59,7.7,54.7,85
+Tripura,Total,children,60<=Age<=71,18.9,61.2,55
+Tripura,Total,children,6<=AgW=11,4.9,13.3,327
+Tripura,Total,children,all (0-71 months),10.6,39.6,918
+Tripura,Total,girl,0<=AgW6,9.8,0,166
+Tripura,Total,girl,12<=AgW=23,1.3,21.1,56
+Tripura,Total,girl,24<=AgW=35,9.3,61.8,131
+Tripura,Total,girl,36<=Age<=l7,28.7,35.3,98
+Tripura,Total,girl,48<=Age<=59,12.9,47,85
+Tripura,Total,girl,60<=Age<=71,38.1,50.8,55
+Tripura,Total,girl,6<=AgW=11,0.9,10.4,327
+Tripura,Total,girl,all (0-71 months),15.7,40.1,918
+Tripura,Urban,boy,0<=AgW6,0,0,54
+Tripura,Urban,boy,12<=AgW=23,0,14.2,14
+Tripura,Urban,boy,24<=AgW=35,0,78.7,34
+Tripura,Urban,boy,36<=Age<=t7,1.6,47.1,18
+Tripura,Urban,boy,48<=Age<=59,0,85.4,12
+Tripura,Urban,boy,60<=Age<=71,4.8,91.6,12
+Tripura,Urban,boy,6<=AgW=11,5.1,14.5,96
+Tripura,Urban,boy,all (0-71 months),1.2,59.7,240
+Tripura,Urban,children,0<=AgW6,27.3,0,54
+Tripura,Urban,children,12<=AgW=23,1.8,15.3,14
+Tripura,Urban,children,24<=AgW=35,7,63.1,34
+Tripura,Urban,children,36<=Age<=t7,0.9,63.1,18
+Tripura,Urban,children,48<=Age<=59,0,85.8,12
+Tripura,Urban,children,60<=Age<=71,8.9,88.2,12
+Tripura,Urban,children,6<=AgW=11,2.9,13.8,96
+Tripura,Urban,children,all (0-71 months),6.8,51.9,240
+Tripura,Urban,girl,0<=AgW6,40,0,54
+Tripura,Urban,girl,12<=AgW=23,8.3,19,14
+Tripura,Urban,girl,24<=AgW=35,16.2,42.7,34
+Tripura,Urban,girl,36<=Age<=t7,0,83.3,18
+Tripura,Urban,girl,48<=Age<=59,0,87,12
+Tripura,Urban,girl,60<=Age<=71,26.7,73.3,12
+Tripura,Urban,girl,6<=AgW=11,0,12.8,96
+Tripura,Urban,girl,all (0-71 months),14.7,41,240
+Meghalaya,Rural,boy,0<=Age<6,0,0,129
+Meghalaya,Rural,boy,12<=Age<=23,0,57.7,29
+Meghalaya,Rural,boy,24<=AgW=35,0,64.8,97
+Meghalaya,Rural,boy,36<=AgW=t7,0,34.1,107
+Meghalaya,Rural,boy,48<=Age<=59,0,91.4,108
+Meghalaya,Rural,boy,60<=Age<=71,0,38.3,60
+Meghalaya,Rural,boy,6<=Age<=11,0,22.1,164
+Meghalaya,Rural,boy,all (0-71 months),0,46.7,694
+Meghalaya,Rural,children,0<=Age<6,0,0,129
+Meghalaya,Rural,children,12<=Age<=23,0,36.2,29
+Meghalaya,Rural,children,24<=AgW=35,0,65.8,97
+Meghalaya,Rural,children,36<=AgW=t7,0,46.3,107
+Meghalaya,Rural,children,48<=Age<=59,0,92.1,108
+Meghalaya,Rural,children,60<=Age<=71,0,54.3,60
+Meghalaya,Rural,children,6<=Age<=11,0.7,18.6,164
+Meghalaya,Rural,children,all (0-71 months),0.1,49.8,694
+Meghalaya,Rural,girl,0<=Age<6,0,0,129
+Meghalaya,Rural,girl,12<=Age<=23,0,5.8,29
+Meghalaya,Rural,girl,24<=AgW=35,0,67,97
+Meghalaya,Rural,girl,36<=AgW=t7,0,61.7,107
+Meghalaya,Rural,girl,48<=Age<=59,0,92.5,108
+Meghalaya,Rural,girl,60<=Age<=71,0,65.6,60
+Meghalaya,Rural,girl,6<=Age<=11,1.1,16.2,164
+Meghalaya,Rural,girl,all (0-71 months),0.2,52.7,694
+Meghalaya,Total,boy,0<=Age<6,0,0,172
+Meghalaya,Total,boy,12<=Age<=23,0,44.7,42
+Meghalaya,Total,boy,24<=AgW=35,0,65.6,133
+Meghalaya,Total,boy,36<=AgW=t7,0,41.8,146
+Meghalaya,Total,boy,48<=Age<=59,0,90.5,149
+Meghalaya,Total,boy,60<=Age<=71,0,55.9,86
+Meghalaya,Total,boy,6<=Age<=11,0,22.1,235
+Meghalaya,Total,boy,all (0-71 months),0,49.8,963
+Meghalaya,Total,children,0<=Age<6,0,0,172
+Meghalaya,Total,children,12<=Age<=23,0,38.1,42
+Meghalaya,Total,children,24<=AgW=35,0,66.3,133
+Meghalaya,Total,children,36<=AgW=t7,0,52.6,146
+Meghalaya,Total,children,48<=Age<=59,0,88.2,149
+Meghalaya,Total,children,60<=Age<=71,0,61.7,86
+Meghalaya,Total,children,6<=Age<=11,0.6,19,235
+Meghalaya,Total,children,all (0-71 months),0.1,52,963
+Meghalaya,Total,girl,0<=Age<6,0,0,172
+Meghalaya,Total,girl,12<=Age<=23,0,28.7,42
+Meghalaya,Total,girl,24<=AgW=35,0,67,133
+Meghalaya,Total,girl,36<=AgW=t7,0,66.8,146
+Meghalaya,Total,girl,48<=Age<=59,0,86.4,149
+Meghalaya,Total,girl,60<=Age<=71,0,67.2,86
+Meghalaya,Total,girl,6<=Age<=11,1,16.7,235
+Meghalaya,Total,girl,all (0-71 months),0.2,54,963
+Meghalaya,Urban,boy,0<=Age<6,0,0,43
+Meghalaya,Urban,boy,12<=Age<=23,0,3.9,13
+Meghalaya,Urban,boy,24<=AgW=35,0,81.1,36
+Meghalaya,Urban,boy,36<=AgW=t7,0,76.7,39
+Meghalaya,Urban,boy,48<=Age<=59,0,87.1,41
+Meghalaya,Urban,boy,60<=Age<=71,0,98.2,26
+Meghalaya,Urban,boy,6<=Age<=11,0,21.5,71
+Meghalaya,Urban,boy,all (0-71 months),0,66.1,269
+Meghalaya,Urban,children,0<=Age<6,0,0,43
+Meghalaya,Urban,children,12<=Age<=23,0,43.7,13
+Meghalaya,Urban,children,24<=AgW=35,0,69.4,36
+Meghalaya,Urban,children,36<=AgW=t7,0,83.2,39
+Meghalaya,Urban,children,48<=Age<=59,0,69.4,41
+Meghalaya,Urban,children,60<=Age<=71,0,97.1,26
+Meghalaya,Urban,children,6<=Age<=11,0,21.7,71
+Meghalaya,Urban,children,all (0-71 months),0,64,269
+Meghalaya,Urban,girl,0<=Age<6,0,0,43
+Meghalaya,Urban,girl,12<=Age<=23,0,97.1,13
+Meghalaya,Urban,girl,24<=AgW=35,0,67.1,36
+Meghalaya,Urban,girl,36<=AgW=t7,0,92.7,39
+Meghalaya,Urban,girl,48<=Age<=59,0,48.8,41
+Meghalaya,Urban,girl,60<=Age<=71,0,91.9,26
+Meghalaya,Urban,girl,6<=Age<=11,0,21.9,71
+Meghalaya,Urban,girl,all (0-71 months),0,61.9,269
+Assam,Rural,boy,0<=AgW6,0,0,386
+Assam,Rural,boy,12<=AgW=23,0,54.1,64
+Assam,Rural,boy,24<=Age<=35,5.5,49.8,155
+Assam,Rural,boy,36<=AgWN7,0.1,67.8,267
+Assam,Rural,boy,48<=Age<=59,7.1,58.3,246
+Assam,Rural,boy,60<=Age<=71,16.5,60.3,113
+Assam,Rural,boy,6<=AgW=11,0,13.5,562
+Assam,Rural,boy,all (0-71 months),4.1,49,1793
+Assam,Rural,children,0<=AgW6,0.4,0,386
+Assam,Rural,children,12<=AgW=23,0,46,64
+Assam,Rural,children,24<=Age<=35,6.1,49.5,155
+Assam,Rural,children,36<=AgWN7,0.9,60.2,267
+Assam,Rural,children,48<=Age<=59,5.2,61.4,246
+Assam,Rural,children,60<=Age<=71,19.2,48.3,113
+Assam,Rural,children,6<=AgW=11,0,14.2,562
+Assam,Rural,children,all (0-71 months),4,45.9,1793
+Assam,Rural,girl,0<=AgW6,0.7,0,386
+Assam,Rural,girl,12<=AgW=23,0,40.2,64
+Assam,Rural,girl,24<=Age<=35,6.7,49.2,155
+Assam,Rural,girl,36<=AgWN7,1.8,51.3,267
+Assam,Rural,girl,48<=Age<=59,3,65.3,246
+Assam,Rural,girl,60<=Age<=71,24.1,26.9,113
+Assam,Rural,girl,6<=AgW=11,0,14.9,562
+Assam,Rural,girl,all (0-71 months),3.8,42.4,1793
+Assam,Total,boy,0<=AgW6,0.1,0,490
+Assam,Total,boy,12<=AgH=23,0,57.4,91
+Assam,Total,boy,24<=Age<=35,4.7,50.9,205
+Assam,Total,boy,36<=Age<m7,0.2,68.1,324
+Assam,Total,boy,48<=AgW=59,6.6,61.2,311
+Assam,Total,boy,60<=Age<=71,16.4,60.5,136
+Assam,Total,boy,6<=AgW=11,0,13.8,734
+Assam,Total,boy,all (0-71 months),3.9,49.9,2291
+Assam,Total,children,0<=AgW6,0.4,0,490
+Assam,Total,children,12<=AgH=23,0,48.5,91
+Assam,Total,children,24<=Age<=35,5.3,48.7,205
+Assam,Total,children,36<=Age<m7,0.9,60.1,324
+Assam,Total,children,48<=AgW=59,5,63.2,311
+Assam,Total,children,60<=Age<=71,18.1,47.3,136
+Assam,Total,children,6<=AgW=11,0,14.6,734
+Assam,Total,children,all (0-71 months),3.7,46.1,2291
+Assam,Total,girl,0<=AgW6,0.7,0,490
+Assam,Total,girl,12<=AgH=23,0,42,91
+Assam,Total,girl,24<=Age<=35,6,46.3,205
+Assam,Total,girl,36<=Age<m7,1.8,50.5,324
+Assam,Total,girl,48<=AgW=59,3,65.7,311
+Assam,Total,girl,60<=Age<=71,20.8,26.6,136
+Assam,Total,girl,6<=AgW=11,0,15.4,734
+Assam,Total,girl,all (0-71 months),3.5,41.7,2291
+Assam,Urban,boy,0<=AgW6,0.6,0,104
+Assam,Urban,boy,12<=AgH=23,0,90.6,27
+Assam,Urban,boy,24<=Age<=35,0,57.5,50
+Assam,Urban,boy,36<=Age<m7,2.2,72.7,57
+Assam,Urban,boy,48<=AgW=59,0.7,94.6,65
+Assam,Urban,boy,60<=Age<=71,13,66.3,23
+Assam,Urban,boy,6<=AgW=l1,0,15.9,172
+Assam,Urban,boy,all (0-71 months),0.9,59.5,498
+Assam,Urban,children,0<=AgW6,0.4,0,104
+Assam,Urban,children,12<=AgH=23,0,82.2,27
+Assam,Urban,children,24<=Age<=35,0,43.1,50
+Assam,Urban,children,36<=Age<m7,1.5,59.4,57
+Assam,Urban,children,48<=AgW=59,1.3,92.5,65
+Assam,Urban,children,60<=Age<=71,2.8,33.5,23
+Assam,Urban,children,6<=AgW=l1,0,18.7,172
+Assam,Urban,children,all (0-71 months),0.7,48.5,498
+Assam,Urban,girl,0<=AgW6,0,0,104
+Assam,Urban,girl,12<=AgH=23,0,72.1,27
+Assam,Urban,girl,24<=Age<=35,0,22.3,50
+Assam,Urban,girl,36<=Age<m7,0,32.6,57
+Assam,Urban,girl,48<=AgW=59,3.6,83.9,65
+Assam,Urban,girl,60<=Age<=71,0,24.5,23
+Assam,Urban,girl,6<=AgW=l1,0,22.8,172
+Assam,Urban,girl,all (0-71 months),0.3,31.1,498
+West Bengal,Rural,boy,0<=Age<6,0,0,441
+West Bengal,Rural,boy,12<=Age<=23,0,70.5,192
+West Bengal,Rural,boy,24<=AgW=35,9.7,66.7,294
+West Bengal,Rural,boy,36<=AgW=t7,10.6,81,328
+West Bengal,Rural,boy,48<=Age<=59,6,84.2,323
+West Bengal,Rural,boy,60<=Age<=71,1.9,89.2,152
+West Bengal,Rural,boy,6<=Age<=11,0,31.6,628
+West Bengal,Rural,boy,all (0-71 months),5.2,64.5,2358
+West Bengal,Rural,children,0<=Age<6,0.1,0,441
+West Bengal,Rural,children,12<=Age<=23,0,75.5,192
+West Bengal,Rural,children,24<=AgW=35,7.6,68.5,294
+West Bengal,Rural,children,36<=AgW=t7,4.9,87.7,328
+West Bengal,Rural,children,48<=Age<=59,6.5,79.3,323
+West Bengal,Rural,children,60<=Age<=71,1.8,91.4,152
+West Bengal,Rural,children,6<=Age<=11,0,29.9,628
+West Bengal,Rural,children,all (0-71 months),4.1,66.3,2358
+West Bengal,Rural,girl,0<=Age<6,0.1,0,441
+West Bengal,Rural,girl,12<=Age<=23,0,82.5,192
+West Bengal,Rural,girl,24<=AgW=35,5.3,70.4,294
+West Bengal,Rural,girl,36<=AgW=t7,1.2,92.2,328
+West Bengal,Rural,girl,48<=Age<=59,7.1,73.5,323
+West Bengal,Rural,girl,60<=Age<=71,1.6,93.4,152
+West Bengal,Rural,girl,6<=Age<=11,0,27.8,628
+West Bengal,Rural,girl,all (0-71 months),3,68.2,2358
+West Bengal,Total,boy,0<=Age<6,0,0,726
+West Bengal,Total,boy,12<=Age<=23,2.9,69.7,273
+West Bengal,Total,boy,24<=AgW=35,8,67.6,430
+West Bengal,Total,boy,36<=AgW=t7,8,78.6,483
+West Bengal,Total,boy,48<=Age<=59,6.1,81.5,461
+West Bengal,Total,boy,60<=Age<=71,4.2,88,241
+West Bengal,Total,boy,6<=Age<=11,0,30,1002
+West Bengal,Total,boy,all (0-71 months),5,64,3616
+West Bengal,Total,children,0<=Age<6,0.1,0,726
+West Bengal,Total,children,12<=Age<=23,1.6,73.6,273
+West Bengal,Total,children,24<=AgW=35,6.7,68.4,430
+West Bengal,Total,children,36<=AgW=t7,4.1,85.2,483
+West Bengal,Total,children,48<=Age<=59,6.8,79.2,461
+West Bengal,Total,children,60<=Age<=71,2.7,91.8,241
+West Bengal,Total,children,6<=Age<=11,0,29,1002
+West Bengal,Total,children,all (0-71 months),4,66.2,3616
+West Bengal,Total,girl,0<=Age<6,0.1,0,726
+West Bengal,Total,girl,12<=Age<=23,0,78.5,273
+West Bengal,Total,girl,24<=AgW=35,5.4,69.4,430
+West Bengal,Total,girl,36<=AgW=t7,1.4,89.9,483
+West Bengal,Total,girl,48<=Age<=59,7.5,76.8,461
+West Bengal,Total,girl,60<=Age<=71,1.4,95.1,241
+West Bengal,Total,girl,6<=Age<=11,0,28,1002
+West Bengal,Total,girl,all (0-71 months),3.1,68.5,3616
+West Bengal,Urban,boy,0<=Age<6,0,0,285
+West Bengal,Urban,boy,12<=Age<=23,11.5,67.5,81
+West Bengal,Urban,boy,24<=AgW=35,0.6,71.3,136
+West Bengal,Urban,boy,36<=AgW=t7,1.5,72.6,155
+West Bengal,Urban,boy,48<=Age<=59,6.4,72,138
+West Bengal,Urban,boy,60<=Age<=71,9.6,85.1,89
+West Bengal,Urban,boy,6<=Age<=11,0,23.1,374
+West Bengal,Urban,boy,all (0-71 months),4.4,62.3,1258
+West Bengal,Urban,children,0<=Age<6,0,0,285
+West Bengal,Urban,children,12<=Age<=23,5.9,68.3,81
+West Bengal,Urban,children,24<=AgW=35,3.2,68.3,136
+West Bengal,Urban,children,36<=AgW=t7,1.8,78.3,155
+West Bengal,Urban,children,48<=Age<=59,7.4,79,138
+West Bengal,Urban,children,60<=Age<=71,4.6,92.6,89
+West Bengal,Urban,children,6<=Age<=11,0,25.8,374
+West Bengal,Urban,children,all (0-71 months),3.8,66.1,1258
+West Bengal,Urban,girl,0<=Age<6,0.1,0,285
+West Bengal,Urban,girl,12<=Age<=23,0,69.3,81
+West Bengal,Urban,girl,24<=AgW=35,5.8,65.1,136
+West Bengal,Urban,girl,36<=AgW=t7,2,82.7,155
+West Bengal,Urban,girl,48<=Age<=59,8.3,85.2,138
+West Bengal,Urban,girl,60<=Age<=71,0.9,98.2,89
+West Bengal,Urban,girl,6<=Age<=11,0,28.7,374
+West Bengal,Urban,girl,all (0-71 months),3.3,69.4,1258
+Jharkhand,Rural,boy,0<=AgW6,3.6,0,306
+Jharkhand,Rural,boy,12<=AgW=23,0,46.2,96
+Jharkhand,Rural,boy,24<=Age<=35,0,62.4,247
+Jharkhand,Rural,boy,36<=AgW=47,1.4,62.2,322
+Jharkhand,Rural,boy,48<=AgW=59,4.3,88.3,258
+Jharkhand,Rural,boy,60<=AgW=71,0.1,87.2,122
+Jharkhand,Rural,boy,6<=AgW=11,1.1,18.3,451
+Jharkhand,Rural,boy,all (0-71 months),1.4,59,1802
+Jharkhand,Rural,children,0<=AgW6,3.2,0,306
+Jharkhand,Rural,children,12<=AgW=23,0.3,41.3,96
+Jharkhand,Rural,children,24<=Age<=35,0.4,62.2,247
+Jharkhand,Rural,children,36<=AgW=47,2.4,67.1,322
+Jharkhand,Rural,children,48<=AgW=59,3.7,84.5,258
+Jharkhand,Rural,children,60<=AgW=71,0.2,83.6,122
+Jharkhand,Rural,children,6<=AgW=11,0.8,17.3,451
+Jharkhand,Rural,children,all (0-71 months),1.6,58.5,1802
+Jharkhand,Rural,girl,0<=AgW6,2.9,0,306
+Jharkhand,Rural,girl,12<=AgW=23,0.6,37,96
+Jharkhand,Rural,girl,24<=Age<=35,0.8,62,247
+Jharkhand,Rural,girl,36<=AgW=47,3.2,71.3,322
+Jharkhand,Rural,girl,48<=AgW=59,3.1,81.1,258
+Jharkhand,Rural,girl,60<=AgW=71,0.3,78.6,122
+Jharkhand,Rural,girl,6<=AgW=11,0.4,16.2,451
+Jharkhand,Rural,girl,all (0-71 months),1.8,58,1802
+Jharkhand,Total,boy,0<=AgW6,3.1,0,420
+Jharkhand,Total,boy,12<=AgW=23,0,44,134
+Jharkhand,Total,boy,24<=Age<=35,0,66.2,325
+Jharkhand,Total,boy,36<=Age<=47,1.2,66.6,428
+Jharkhand,Total,boy,48<=AgW=59,3.7,84.8,342
+Jharkhand,Total,boy,60<=AgW=71,0.1,86.9,147
+Jharkhand,Total,boy,6<=AgW=11,0.9,17.5,627
+Jharkhand,Total,boy,all (0-71 months),1.2,59.4,2423
+Jharkhand,Total,children,0<=AgW6,2.7,0,420
+Jharkhand,Total,children,12<=AgW=23,0.3,40.4,134
+Jharkhand,Total,children,24<=Age<=35,0.4,63,325
+Jharkhand,Total,children,36<=Age<=47,2,68.5,428
+Jharkhand,Total,children,48<=AgW=59,3.1,83.8,342
+Jharkhand,Total,children,60<=AgW=71,0.2,83.8,147
+Jharkhand,Total,children,6<=AgW=11,0.7,16.3,627
+Jharkhand,Total,children,all (0-71 months),1.4,58.4,2423
+Jharkhand,Total,girl,0<=AgW6,2.3,0,420
+Jharkhand,Total,girl,12<=AgW=23,0.5,36.6,134
+Jharkhand,Total,girl,24<=Age<=35,0.8,59.7,325
+Jharkhand,Total,girl,36<=Age<=47,2.8,70.2,428
+Jharkhand,Total,girl,48<=AgW=59,2.6,82.9,342
+Jharkhand,Total,girl,60<=AgW=71,0.3,79.5,147
+Jharkhand,Total,girl,6<=AgW=11,0.6,15,627
+Jharkhand,Total,girl,all (0-71 months),1.6,57.4,2423
+Jharkhand,Urban,boy,0<=AgW6,0.4,0,114
+Jharkhand,Urban,boy,12<=AgW=23,0,33.7,38
+Jharkhand,Urban,boy,24<=Age<=35,0,89.4,78
+Jharkhand,Urban,boy,36<=Age<=47,0,86.8,106
+Jharkhand,Urban,boy,48<=AgW=59,0,65,84
+Jharkhand,Urban,boy,60<=AgW=71,0,75,25
+Jharkhand,Urban,boy,6<=AgW=11,0,12.5,176
+Jharkhand,Urban,boy,all (0-71 months),0,61.8,621
+Jharkhand,Urban,children,0<=AgW6,0.2,0,114
+Jharkhand,Urban,children,12<=AgW=23,0,32.1,38
+Jharkhand,Urban,children,24<=Age<=35,0,68.7,78
+Jharkhand,Urban,children,36<=Age<=47,0,76.9,106
+Jharkhand,Urban,children,48<=AgW=59,0,79.8,84
+Jharkhand,Urban,children,60<=AgW=71,0,90,25
+Jharkhand,Urban,children,6<=AgW=11,0.6,10.1,176
+Jharkhand,Urban,children,all (0-71 months),0.1,57.9,621
+Jharkhand,Urban,girl,0<=AgW6,0,0,114
+Jharkhand,Urban,girl,12<=AgW=23,0,20.8,38
+Jharkhand,Urban,girl,24<=Age<=35,0,38.9,78
+Jharkhand,Urban,girl,36<=Age<=47,0,61.7,106
+Jharkhand,Urban,girl,48<=AgW=59,0,93,84
+Jharkhand,Urban,girl,60<=AgW=71,0,98.6,25
+Jharkhand,Urban,girl,6<=AgW=11,1.4,7.2,176
+Jharkhand,Urban,girl,all (0-71 months),0.2,52.6,621
+Odisha,Rural,boy,0<=AgW6,2.5,0,348
+Odisha,Rural,boy,12<=Age<=23,0,72.5,129
+Odisha,Rural,boy,24<=AgW=35,0,81.3,178
+Odisha,Rural,boy,36<=AgWm7,0,58.4,239
+Odisha,Rural,boy,48<=Age<=59,0,94.3,248
+Odisha,Rural,boy,60<=Age<-71,0,94.4,141
+Odisha,Rural,boy,6<=AgW=11,0,24.6,482
+Odisha,Rural,boy,all (0-71 months),0.2,65.6,1765
+Odisha,Rural,children,0<=AgW6,2,0,348
+Odisha,Rural,children,12<=Age<=23,0,74.5,129
+Odisha,Rural,children,24<=AgW=35,0,70.5,178
+Odisha,Rural,children,36<=AgWm7,0,73.4,239
+Odisha,Rural,children,48<=Age<=59,0.2,92,248
+Odisha,Rural,children,60<=Age<-71,0.2,86.7,141
+Odisha,Rural,children,6<=AgW=11,0,22,482
+Odisha,Rural,children,all (0-71 months),0.2,65.5,1765
+Odisha,Rural,girl,0<=AgW6,1.4,0,348
+Odisha,Rural,girl,12<=Age<=23,0,77.5,129
+Odisha,Rural,girl,24<=AgW=35,0,59.6,178
+Odisha,Rural,girl,36<=AgWm7,0,93.5,239
+Odisha,Rural,girl,48<=Age<=59,0.6,88.5,248
+Odisha,Rural,girl,60<=Age<-71,0.4,79.1,141
+Odisha,Rural,girl,6<=AgW=11,0,19.6,482
+Odisha,Rural,girl,all (0-71 months),0.3,65.5,1765
+Odisha,Total,boy,0<=AgW6,2.3,0,462
+Odisha,Total,boy,12<=Age<=23,0,72.9,160
+Odisha,Total,boy,24<=AgW=35,0,82.8,226
+Odisha,Total,boy,36<=AgWm7,0,62.9,320
+Odisha,Total,boy,48<=Age<=59,0,90.6,326
+Odisha,Total,boy,60<=Age<-71,0,93.7,172
+Odisha,Total,boy,6<=AgW=11,0,25.1,624
+Odisha,Total,boy,all (0-71 months),0.2,67.4,2290
+Odisha,Total,children,0<=AgW6,1.8,0,462
+Odisha,Total,children,12<=Age<=23,0,74.9,160
+Odisha,Total,children,24<=AgW=35,0,72.3,226
+Odisha,Total,children,36<=AgWm7,0,76.7,320
+Odisha,Total,children,48<=Age<=59,0.2,88.9,326
+Odisha,Total,children,60<=Age<-71,0.2,87.3,172
+Odisha,Total,children,6<=AgW=11,0,22.9,624
+Odisha,Total,children,all (0-71 months),0.2,66.8,2290
+Odisha,Total,girl,0<=AgW6,1.3,0,462
+Odisha,Total,girl,12<=Age<=23,0,78.1,160
+Odisha,Total,girl,24<=AgW=35,0,59.7,226
+Odisha,Total,girl,36<=AgWm7,0,92.9,320
+Odisha,Total,girl,48<=Age<=59,0.5,85.7,326
+Odisha,Total,girl,60<=Age<-71,0.4,80.6,172
+Odisha,Total,girl,6<=AgW=11,0,21,624
+Odisha,Total,girl,all (0-71 months),0.2,66.1,2290
+Odisha,Urban,boy,0<=AgW6,1.1,0,114
+Odisha,Urban,boy,12<=Age<=23,0,75.2,31
+Odisha,Urban,boy,24<=AgW=35,0,88.7,48
+Odisha,Urban,boy,36<=AgWm7,0.2,96.6,81
+Odisha,Urban,boy,48<=Age<=59,0,80.3,78
+Odisha,Urban,boy,60<=Age<-71,0,89.7,31
+Odisha,Urban,boy,6<=AgW=11,0,28.9,142
+Odisha,Urban,boy,all (0-71 months),0.1,76.2,525
+Odisha,Urban,children,0<=AgW6,0.9,0,114
+Odisha,Urban,children,12<=Age<=23,0,77.7,31
+Odisha,Urban,children,24<=AgW=35,0,82,48
+Odisha,Urban,children,36<=AgWm7,0.1,93.1,81
+Odisha,Urban,children,48<=Age<=59,0,77.8,78
+Odisha,Urban,children,60<=Age<-71,0.1,91.9,31
+Odisha,Urban,children,6<=AgW=11,0,29.5,142
+Odisha,Urban,children,all (0-71 months),0.1,73.8,525
+Odisha,Urban,girl,0<=AgW6,0.7,0,114
+Odisha,Urban,girl,12<=Age<=23,0,84,31
+Odisha,Urban,girl,24<=AgW=35,0,61.5,48
+Odisha,Urban,girl,36<=AgWm7,0.1,90.9,81
+Odisha,Urban,girl,48<=Age<=59,0,70.1,78
+Odisha,Urban,girl,60<=Age<-71,0.2,95.5,31
+Odisha,Urban,girl,6<=AgW=11,0,30,142
+Odisha,Urban,girl,all (0-71 months),0.1,70.1,525
+Chhattisgarh,Rural,boy,0<=AgW6,0,0,228
+Chhattisgarh,Rural,boy,12<=Age<=23,0,52.2,57
+Chhattisgarh,Rural,boy,24<=AgW=35,0.2,69.5,180
+Chhattisgarh,Rural,boy,36<=AgWm7,1.6,72.9,232
+Chhattisgarh,Rural,boy,48<=Age<=59,0,91.8,177
+Chhattisgarh,Rural,boy,60<=Age<-71,0.2,90.3,131
+Chhattisgarh,Rural,boy,6<=AgW=11,0,11.4,302
+Chhattisgarh,Rural,boy,all (0-71 months),0.4,65.1,1307
+Chhattisgarh,Rural,children,0<=AgW6,1.8,0,228
+Chhattisgarh,Rural,children,12<=Age<=23,0,71.7,57
+Chhattisgarh,Rural,children,24<=AgW=35,0.1,73.8,180
+Chhattisgarh,Rural,children,36<=AgWm7,1,71.6,232
+Chhattisgarh,Rural,children,48<=Age<=59,0.5,90.7,177
+Chhattisgarh,Rural,children,60<=Age<-71,0.2,91.7,131
+Chhattisgarh,Rural,children,6<=AgW=11,0,15.7,302
+Chhattisgarh,Rural,children,all (0-71 months),0.5,65.4,1307
+Chhattisgarh,Rural,girl,0<=AgW6,2.9,0,228
+Chhattisgarh,Rural,girl,12<=Age<=23,0,95.1,57
+Chhattisgarh,Rural,girl,24<=AgW=35,0,76.7,180
+Chhattisgarh,Rural,girl,36<=AgWm7,0.1,69.9,232
+Chhattisgarh,Rural,girl,48<=Age<=59,0.9,89.8,177
+Chhattisgarh,Rural,girl,60<=Age<-71,0,94.6,131
+Chhattisgarh,Rural,girl,6<=AgW=11,0,20.6,302
+Chhattisgarh,Rural,girl,all (0-71 months),0.6,65.8,1307
+Chhattisgarh,Total,boy,0<=AgW6,0,0,341
+Chhattisgarh,Total,boy,12<=Age<=23,0,47.3,102
+Chhattisgarh,Total,boy,24<=AgW=35,1,66.8,268
+Chhattisgarh,Total,boy,36<=AgWm7,1.4,74.6,333
+Chhattisgarh,Total,boy,48<=Age<=59,0.5,90.3,275
+Chhattisgarh,Total,boy,60<=Age<-71,0.3,91.4,187
+Chhattisgarh,Total,boy,6<=AgW=11,0,12.5,499
+Chhattisgarh,Total,boy,all (0-71 months),0.6,64.8,2005
+Chhattisgarh,Total,children,0<=AgW6,1.6,0,341
+Chhattisgarh,Total,children,12<=Age<=23,0,64.3,102
+Chhattisgarh,Total,children,24<=AgW=35,0.5,72.3,268
+Chhattisgarh,Total,children,36<=AgWm7,0.9,72.1,333
+Chhattisgarh,Total,children,48<=Age<=59,1,89.7,275
+Chhattisgarh,Total,children,60<=Age<-71,0.2,92.5,187
+Chhattisgarh,Total,children,6<=AgW=11,0.1,17.1,499
+Chhattisgarh,Total,children,all (0-71 months),0.6,65.2,2005
+Chhattisgarh,Total,girl,0<=AgW6,2.6,0,341
+Chhattisgarh,Total,girl,12<=Age<=23,0,85.9,102
+Chhattisgarh,Total,girl,24<=AgW=35,0,76.9,268
+Chhattisgarh,Total,girl,36<=AgWm7,0.1,68.6,333
+Chhattisgarh,Total,girl,48<=Age<=59,1.3,89.1,275
+Chhattisgarh,Total,girl,60<=Age<-71,0,94.8,187
+Chhattisgarh,Total,girl,6<=AgW=11,0.1,22.6,499
+Chhattisgarh,Total,girl,all (0-71 months),0.6,65.7,2005
+Chhattisgarh,Urban,boy,0<=AgW6,0,0,113
+Chhattisgarh,Urban,boy,12<=Age<=23,0,36.4,45
+Chhattisgarh,Urban,boy,24<=AgW=35,2.9,60.4,88
+Chhattisgarh,Urban,boy,36<=AgWm7,0,85,101
+Chhattisgarh,Urban,boy,48<=Age<=59,2.8,84.1,98
+Chhattisgarh,Urban,boy,60<=Age<-71,0.9,96.6,56
+Chhattisgarh,Urban,boy,6<=AgW=11,0,17.9,197
+Chhattisgarh,Urban,boy,all (0-71 months),1.3,64,698
+Chhattisgarh,Urban,children,0<=AgW6,0,0,113
+Chhattisgarh,Urban,children,12<=Age<=23,0,46.5,45
+Chhattisgarh,Urban,children,24<=AgW=35,1.9,66.9,88
+Chhattisgarh,Urban,children,36<=AgWm7,0.1,75.3,101
+Chhattisgarh,Urban,children,48<=Age<=59,3.4,84.2,98
+Chhattisgarh,Urban,children,60<=Age<-71,0.6,96.2,56
+Chhattisgarh,Urban,children,6<=AgW=11,0.4,25,197
+Chhattisgarh,Urban,children,all (0-71 months),1.2,64.3,698
+Chhattisgarh,Urban,girl,0<=AgW6,0,0,113
+Chhattisgarh,Urban,girl,12<=Age<=23,0,61.2,45
+Chhattisgarh,Urban,girl,24<=AgW=35,0,78.1,88
+Chhattisgarh,Urban,girl,36<=AgWm7,0.3,59.1,101
+Chhattisgarh,Urban,girl,48<=Age<=59,4.2,84.4,98
+Chhattisgarh,Urban,girl,60<=Age<-71,0,95.4,56
+Chhattisgarh,Urban,girl,6<=AgW=11,0.9,34.4,197
+Chhattisgarh,Urban,girl,all (0-71 months),1.1,64.7,698
+Madhya Pradesh,Rural,boy,0<=AgW6,1.2,0,428
+Madhya Pradesh,Rural,boy,12<=AgW=23,7.1,63.9,146
+Madhya Pradesh,Rural,boy,24<=AgW=35,0.9,83.2,335
+Madhya Pradesh,Rural,boy,36<=Age<=t7,5.6,54.4,400
+Madhya Pradesh,Rural,boy,48<=Age<=59,9.4,79,366
+Madhya Pradesh,Rural,boy,60<=Age<=71,5.4,85.5,179
+Madhya Pradesh,Rural,boy,6<=AgW=11,0,17.4,601
+Madhya Pradesh,Rural,boy,all (0-71 months),5.1,60.6,2455
+Madhya Pradesh,Rural,children,0<=AgW6,2.4,0,428
+Madhya Pradesh,Rural,children,12<=AgW=23,2.3,63.6,146
+Madhya Pradesh,Rural,children,24<=AgW=35,1,74.4,335
+Madhya Pradesh,Rural,children,36<=Age<=t7,4.5,64.8,400
+Madhya Pradesh,Rural,children,48<=Age<=59,8.3,77.4,366
+Madhya Pradesh,Rural,children,60<=Age<=71,3.5,87.2,179
+Madhya Pradesh,Rural,children,6<=AgW=11,0,19.8,601
+Madhya Pradesh,Rural,children,all (0-71 months),3.8,60.9,2455
+Madhya Pradesh,Rural,girl,0<=AgW6,3.8,0,428
+Madhya Pradesh,Rural,girl,12<=AgW=23,0,63.5,146
+Madhya Pradesh,Rural,girl,24<=AgW=35,1.2,68.6,335
+Madhya Pradesh,Rural,girl,36<=Age<=t7,3,79.7,400
+Madhya Pradesh,Rural,girl,48<=Age<=59,6.7,75,366
+Madhya Pradesh,Rural,girl,60<=Age<=71,0.7,89.8,179
+Madhya Pradesh,Rural,girl,6<=AgW=11,0,22.1,601
+Madhya Pradesh,Rural,girl,all (0-71 months),2.4,61.6,2455
+Madhya Pradesh,Total,boy,0<=AgW6,1.4,0,711
+Madhya Pradesh,Total,boy,12<=AgW=23,4.2,66.5,271
+Madhya Pradesh,Total,boy,24<=AgW=35,0.8,80.9,523
+Madhya Pradesh,Total,boy,36<=Age<=t7,4.8,58.4,615
+Madhya Pradesh,Total,boy,48<=Age<=59,7.7,81.7,577
+Madhya Pradesh,Total,boy,60<=Age<=71,4,85,292
+Madhya Pradesh,Total,boy,6<=AgW=11,0,18.8,975
+Madhya Pradesh,Total,boy,all (0-71 months),4.1,62.3,3964
+Madhya Pradesh,Total,children,0<=AgW6,2.1,0,711
+Madhya Pradesh,Total,children,12<=AgW=23,1.7,65.4,271
+Madhya Pradesh,Total,children,24<=AgW=35,0.8,75.2,523
+Madhya Pradesh,Total,children,36<=Age<=t7,4.2,67.6,615
+Madhya Pradesh,Total,children,48<=Age<=59,7.5,79.7,577
+Madhya Pradesh,Total,children,60<=Age<=71,2.7,87.9,292
+Madhya Pradesh,Total,children,6<=AgW=11,0,20.5,975
+Madhya Pradesh,Total,children,all (0-71 months),3.3,62.8,3964
+Madhya Pradesh,Total,girl,0<=AgW6,2.9,0,711
+Madhya Pradesh,Total,girl,12<=AgW=23,0,64.7,271
+Madhya Pradesh,Total,girl,24<=AgW=35,0.9,72.3,523
+Madhya Pradesh,Total,girl,36<=Age<=t7,3.4,80.2,615
+Madhya Pradesh,Total,girl,48<=Age<=59,7,76.6,577
+Madhya Pradesh,Total,girl,60<=Age<=71,0.9,92,292
+Madhya Pradesh,Total,girl,6<=AgW=11,0,22.2,975
+Madhya Pradesh,Total,girl,all (0-71 months),2.4,63.7,3964
+Madhya Pradesh,Urban,boy,0<=AgW6,2,0,283
+Madhya Pradesh,Urban,boy,12<=AgW=23,0,70.2,125
+Madhya Pradesh,Urban,boy,24<=AgW=35,0.6,72,188
+Madhya Pradesh,Urban,boy,36<=Age<=t7,1.1,76.9,215
+Madhya Pradesh,Urban,boy,48<=Age<=59,1.2,91.9,211
+Madhya Pradesh,Urban,boy,60<=Age<=71,0.1,83.7,113
+Madhya Pradesh,Urban,boy,6<=AgW=11,0,23.6,374
+Madhya Pradesh,Urban,boy,all (0-71 months),0.7,67.8,1509
+Madhya Pradesh,Urban,children,0<=AgW6,1.1,0,283
+Madhya Pradesh,Urban,children,12<=AgW=23,0,71.1,125
+Madhya Pradesh,Urban,children,24<=AgW=35,0.4,77.3,188
+Madhya Pradesh,Urban,children,36<=Age<=t7,2.8,79.3,215
+Madhya Pradesh,Urban,children,48<=Age<=59,4,88.3,211
+Madhya Pradesh,Urban,children,60<=Age<=71,0.7,89.5,113
+Madhya Pradesh,Urban,children,6<=AgW=11,0,23.2,374
+Madhya Pradesh,Urban,children,all (0-71 months),1.5,69.2,1509
+Madhya Pradesh,Urban,girl,0<=AgW6,0,0,283
+Madhya Pradesh,Urban,girl,12<=AgW=23,0,73.3,125
+Madhya Pradesh,Urban,girl,24<=AgW=35,0.3,79.5,188
+Madhya Pradesh,Urban,girl,36<=Age<=t7,4.7,81.8,215
+Madhya Pradesh,Urban,girl,48<=Age<=59,8.3,82.8,211
+Madhya Pradesh,Urban,girl,60<=Age<=71,1.3,97.4,113
+Madhya Pradesh,Urban,girl,6<=AgW=11,0,22.6,374
+Madhya Pradesh,Urban,girl,all (0-71 months),2.4,70.8,1509
+Gujarat,Rural,boy,0<=AgW6,0.9,0,206
+Gujarat,Rural,boy,12<=AgW=23,0,34.1,76
+Gujarat,Rural,boy,24<=Age<=35,0,46.6,174
+Gujarat,Rural,boy,36<=AgW=47,0,84.1,201
+Gujarat,Rural,boy,48<=AgW=59,0.1,73.8,209
+Gujarat,Rural,boy,60<=AgW=71,1.2,64.3,97
+Gujarat,Rural,boy,6<=AgW=11,0,21.3,313
+Gujarat,Rural,boy,all (0-71 months),0.2,54.8,1276
+Gujarat,Rural,children,0<=AgW6,1,0,206
+Gujarat,Rural,children,12<=AgW=23,2.9,31.6,76
+Gujarat,Rural,children,24<=Age<=35,0.2,60.2,174
+Gujarat,Rural,children,36<=AgW=47,3.5,73.9,201
+Gujarat,Rural,children,48<=AgW=59,2.4,79,209
+Gujarat,Rural,children,60<=AgW=71,0.8,76.6,97
+Gujarat,Rural,children,6<=AgW=11,0,23.6,313
+Gujarat,Rural,children,all (0-71 months),1.6,57.1,1276
+Gujarat,Rural,girl,0<=AgW6,1.1,0,206
+Gujarat,Rural,girl,12<=AgW=23,10.8,24.9,76
+Gujarat,Rural,girl,24<=Age<=35,0.3,71.1,174
+Gujarat,Rural,girl,36<=AgW=47,8.8,58.2,201
+Gujarat,Rural,girl,48<=AgW=59,5.2,85.5,209
+Gujarat,Rural,girl,60<=AgW=71,0,97.4,97
+Gujarat,Rural,girl,6<=AgW=11,0,26.3,313
+Gujarat,Rural,girl,all (0-71 months),3.5,60,1276
+Gujarat,Total,boy,0<=AgW6,0.6,0,431
+Gujarat,Total,boy,12<=AgW=23,0,40.4,148
+Gujarat,Total,boy,24<=Age<=35,0,52,350
+Gujarat,Total,boy,36<=Age<=47,0,74.2,377
+Gujarat,Total,boy,48<=AgW=59,1,78.8,385
+Gujarat,Total,boy,60<=AgW=71,0.9,73.3,185
+Gujarat,Total,boy,6<=AgW=11,0.7,19.2,664
+Gujarat,Total,boy,all (0-71 months),0.4,56.3,2540
+Gujarat,Total,children,0<=AgW6,1.2,0,431
+Gujarat,Total,children,12<=AgW=23,3.3,44.7,148
+Gujarat,Total,children,24<=Age<=35,0.1,65.8,350
+Gujarat,Total,children,36<=Age<=47,2,70.8,377
+Gujarat,Total,children,48<=AgW=59,2.2,81.9,385
+Gujarat,Total,children,60<=AgW=71,0.5,83.1,185
+Gujarat,Total,children,6<=AgW=11,0.4,22,664
+Gujarat,Total,children,all (0-71 months),1.4,59.6,2540
+Gujarat,Total,girl,0<=AgW6,1.8,0,431
+Gujarat,Total,girl,12<=AgW=23,8.8,51.7,148
+Gujarat,Total,girl,24<=Age<=35,0.2,74.1,350
+Gujarat,Total,girl,36<=Age<=47,4.9,66.1,377
+Gujarat,Total,girl,48<=AgW=59,3.8,86.1,385
+Gujarat,Total,girl,60<=AgW=71,0,96.9,185
+Gujarat,Total,girl,6<=AgW=11,0,25.2,664
+Gujarat,Total,girl,all (0-71 months),2.5,63.3,2540
+Gujarat,Urban,boy,0<=AgW6,0,0,225
+Gujarat,Urban,boy,12<=AgW=23,0,52.6,72
+Gujarat,Urban,boy,24<=Age<=35,0,64.3,176
+Gujarat,Urban,boy,36<=Age<=47,0,60.6,176
+Gujarat,Urban,boy,48<=AgW=59,3.1,90,176
+Gujarat,Urban,boy,60<=AgW=71,0,97.5,88
+Gujarat,Urban,boy,6<=AgW=11,2.1,14.8,351
+Gujarat,Urban,boy,all (0-71 months),0.8,59,1264
+Gujarat,Urban,children,0<=AgW6,1.5,0,225
+Gujarat,Urban,children,12<=AgW=23,3.8,61.5,72
+Gujarat,Urban,children,24<=Age<=35,0,73.8,176
+Gujarat,Urban,children,36<=Age<=47,0.2,67,176
+Gujarat,Urban,children,48<=AgW=59,1.9,89.2,176
+Gujarat,Urban,children,60<=AgW=71,0,96.8,88
+Gujarat,Urban,children,6<=AgW=11,1.1,18.8,351
+Gujarat,Urban,children,all (0-71 months),1,63.7,1264
+Gujarat,Urban,girl,0<=AgW6,3.2,0,225
+Gujarat,Urban,girl,12<=AgW=23,7.4,69.7,72
+Gujarat,Urban,girl,24<=Age<=35,0,77.4,176
+Gujarat,Urban,girl,36<=Age<=47,0.4,75.1,176
+Gujarat,Urban,girl,48<=AgW=59,0,87.9,176
+Gujarat,Urban,girl,60<=AgW=71,0.1,96.2,88
+Gujarat,Urban,girl,6<=AgW=11,0,23,351
+Gujarat,Urban,girl,all (0-71 months),1.1,68,1264
+Maharashtra,Rural,boy,0<=AgW6,1.7,0,421
+Maharashtra,Rural,boy,12<=AgW=23,0,58.1,187
+Maharashtra,Rural,boy,24<=Age<=35,8.1,63.1,404
+Maharashtra,Rural,boy,36<=AgW=47,1.3,59.1,453
+Maharashtra,Rural,boy,48<=AgW=59,6.3,71,386
+Maharashtra,Rural,boy,60<=AgW=71,9.9,73.8,211
+Maharashtra,Rural,boy,6<=AgW=11,0,19.4,660
+Maharashtra,Rural,boy,all (0-71 months),4.6,57,2722
+Maharashtra,Rural,children,0<=AgW6,1.2,0,421
+Maharashtra,Rural,children,12<=AgW=23,0,54.9,187
+Maharashtra,Rural,children,24<=Age<=35,5.2,64.1,404
+Maharashtra,Rural,children,36<=AgW=47,4.4,64,453
+Maharashtra,Rural,children,48<=AgW=59,6.3,74.4,386
+Maharashtra,Rural,children,60<=AgW=71,6.5,82,211
+Maharashtra,Rural,children,6<=AgW=11,0,17.9,660
+Maharashtra,Rural,children,all (0-71 months),4.1,58.8,2722
+Maharashtra,Rural,girl,0<=AgW6,0.8,0,421
+Maharashtra,Rural,girl,12<=AgW=23,0,52.1,187
+Maharashtra,Rural,girl,24<=Age<=35,2.9,64.9,404
+Maharashtra,Rural,girl,36<=AgW=47,7.6,69.1,453
+Maharashtra,Rural,girl,48<=AgW=59,6.3,79.2,386
+Maharashtra,Rural,girl,60<=AgW=71,1.1,94.9,211
+Maharashtra,Rural,girl,6<=AgW=11,0,16.1,660
+Maharashtra,Rural,girl,all (0-71 months),3.5,60.8,2722
+Maharashtra,Total,boy,0<=AgW6,1,0,864
+Maharashtra,Total,boy,12<=AgW=23,0,49.1,380
+Maharashtra,Total,boy,24<=Age<=35,6,68.4,724
+Maharashtra,Total,boy,36<=Age<=47,1.8,70.7,801
+Maharashtra,Total,boy,48<=AgW=59,5.2,67.6,761
+Maharashtra,Total,boy,60<=AgW=71,5.4,80.1,450
+Maharashtra,Total,boy,6<=AgW=11,0.1,15.8,1370
+Maharashtra,Total,boy,all (0-71 months),3.4,58.5,5350
+Maharashtra,Total,children,0<=AgW6,0.8,0,864
+Maharashtra,Total,children,12<=AgW=23,0.3,50.9,380
+Maharashtra,Total,children,24<=Age<=35,3.9,65.9,724
+Maharashtra,Total,children,36<=Age<=47,3.9,68.4,801
+Maharashtra,Total,children,48<=AgW=59,5.3,70.5,761
+Maharashtra,Total,children,60<=AgW=71,3.8,85.1,450
+Maharashtra,Total,children,6<=AgW=11,0,15.9,1370
+Maharashtra,Total,children,all (0-71 months),3.2,58.6,5350
+Maharashtra,Total,girl,0<=AgW6,0.7,0,864
+Maharashtra,Total,girl,12<=AgW=23,0.5,52.6,380
+Maharashtra,Total,girl,24<=Age<=35,2.1,63.6,724
+Maharashtra,Total,girl,36<=Age<=47,6.2,66.1,801
+Maharashtra,Total,girl,48<=AgW=59,5.4,74,761
+Maharashtra,Total,girl,60<=AgW=71,0.8,94,450
+Maharashtra,Total,girl,6<=AgW=11,0,15.9,1370
+Maharashtra,Total,girl,all (0-71 months),3,58.7,5350
+Maharashtra,Urban,boy,0<=AgW6,0.2,0,443
+Maharashtra,Urban,boy,12<=AgW=23,0.1,37.6,193
+Maharashtra,Urban,boy,24<=Age<=35,3.2,75.5,320
+Maharashtra,Urban,boy,36<=Age<=47,2.4,86.2,348
+Maharashtra,Urban,boy,48<=AgW=59,3.1,60.5,375
+Maharashtra,Urban,boy,60<=AgW=71,0.4,87.3,239
+Maharashtra,Urban,boy,6<=AgW=11,0.2,10,710
+Maharashtra,Urban,boy,all (0-71 months),1.7,60.7,2628
+Maharashtra,Urban,children,0<=AgW6,0.4,0,443
+Maharashtra,Urban,children,12<=AgW=23,0.7,45.4,193
+Maharashtra,Urban,children,24<=Age<=35,1.9,68.9,320
+Maharashtra,Urban,children,36<=Age<=47,3.3,74.3,348
+Maharashtra,Urban,children,48<=AgW=59,3.7,64.1,375
+Maharashtra,Urban,children,60<=AgW=71,0.4,89,239
+Maharashtra,Urban,children,6<=AgW=11,0.1,12.9,710
+Maharashtra,Urban,children,all (0-71 months),1.9,58.3,2628
+Maharashtra,Urban,girl,0<=AgW6,0.5,0,443
+Maharashtra,Urban,girl,12<=AgW=23,1.3,53.2,193
+Maharashtra,Urban,girl,24<=Age<=35,0.3,61,320
+Maharashtra,Urban,girl,36<=Age<=47,4.3,62.2,348
+Maharashtra,Urban,girl,48<=AgW=59,4.1,67.3,375
+Maharashtra,Urban,girl,60<=AgW=71,0.3,92.7,239
+Maharashtra,Urban,girl,6<=AgW=11,0,15.7,710
+Maharashtra,Urban,girl,all (0-71 months),2.1,55.5,2628
+Andhra Pradesh,Rural,boy,0<=Age<6,2.6,0,278
+Andhra Pradesh,Rural,boy,12<=AgW=23,0,77.5,110
+Andhra Pradesh,Rural,boy,24<=AgW=35,0.1,63.3,170
+Andhra Pradesh,Rural,boy,36<=AgW=47,0.2,85.3,236
+Andhra Pradesh,Rural,boy,48<=Age<-59,0.1,93.9,170
+Andhra Pradesh,Rural,boy,60<=AgW=71,0,79.3,96
+Andhra Pradesh,Rural,boy,6<=Age<=11,0,29.2,369
+Andhra Pradesh,Rural,boy,all (0-71 months),0.3,72.4,1429
+Andhra Pradesh,Rural,children,0<=Age<6,2.4,0,278
+Andhra Pradesh,Rural,children,12<=AgW=23,0,70.8,110
+Andhra Pradesh,Rural,children,24<=AgW=35,0.1,82.2,170
+Andhra Pradesh,Rural,children,36<=AgW=47,0.1,81.1,236
+Andhra Pradesh,Rural,children,48<=Age<-59,0.1,89.7,170
+Andhra Pradesh,Rural,children,60<=AgW=71,0,93.3,96
+Andhra Pradesh,Rural,children,6<=Age<=11,0,22.2,369
+Andhra Pradesh,Rural,children,all (0-71 months),0.2,72.8,1429
+Andhra Pradesh,Rural,girl,0<=Age<6,2.3,0,278
+Andhra Pradesh,Rural,girl,12<=AgW=23,0,57.8,110
+Andhra Pradesh,Rural,girl,24<=AgW=35,0,96.9,170
+Andhra Pradesh,Rural,girl,36<=AgW=47,0,75.6,236
+Andhra Pradesh,Rural,girl,48<=Age<-59,0,84.1,170
+Andhra Pradesh,Rural,girl,60<=AgW=71,0,99.4,96
+Andhra Pradesh,Rural,girl,6<=Age<=11,0,13.7,369
+Andhra Pradesh,Rural,girl,all (0-71 months),0.1,73.2,1429
+Andhra Pradesh,Total,boy,0<=Age<6,2.9,0,402
+Andhra Pradesh,Total,boy,12<=AgW=23,0,79.4,172
+Andhra Pradesh,Total,boy,24<=AgW=35,0.1,75.1,253
+Andhra Pradesh,Total,boy,36<=AgW=t7,0.1,86.6,347
+Andhra Pradesh,Total,boy,48<=Age<-59,0.2,87.3,262
+Andhra Pradesh,Total,boy,60<=AgW=71,0.6,82.6,145
+Andhra Pradesh,Total,boy,6<=Age<=11,0,30.9,632
+Andhra Pradesh,Total,boy,all (0-71 months),0.3,73,2213
+Andhra Pradesh,Total,children,0<=Age<6,2.5,0,402
+Andhra Pradesh,Total,children,12<=AgW=23,0,76.8,172
+Andhra Pradesh,Total,children,24<=AgW=35,0,82.5,253
+Andhra Pradesh,Total,children,36<=AgW=t7,0.2,82.7,347
+Andhra Pradesh,Total,children,48<=Age<-59,0.1,87.6,262
+Andhra Pradesh,Total,children,60<=AgW=71,0.2,93.4,145
+Andhra Pradesh,Total,children,6<=Age<=11,0,25.4,632
+Andhra Pradesh,Total,children,all (0-71 months),0.3,73.6,2213
+Andhra Pradesh,Total,girl,0<=Age<6,2,0,402
+Andhra Pradesh,Total,girl,12<=AgW=23,0,71.8,172
+Andhra Pradesh,Total,girl,24<=AgW=35,0,89.3,253
+Andhra Pradesh,Total,girl,36<=AgW=t7,0.4,77.6,347
+Andhra Pradesh,Total,girl,48<=Age<-59,0,88,262
+Andhra Pradesh,Total,girl,60<=AgW=71,0,99.2,145
+Andhra Pradesh,Total,girl,6<=Age<=11,0,19.1,632
+Andhra Pradesh,Total,girl,all (0-71 months),0.2,74.2,2213
+Andhra Pradesh,Urban,boy,0<=Age<6,3.8,0,124
+Andhra Pradesh,Urban,boy,12<=AgW=23,0,82.4,62
+Andhra Pradesh,Urban,boy,24<=AgW=35,0,92.1,83
+Andhra Pradesh,Urban,boy,36<=AgW=t7,0,91.7,111
+Andhra Pradesh,Urban,boy,48<=Age<-59,0.4,71.9,92
+Andhra Pradesh,Urban,boy,60<=AgW=71,2.3,91.4,49
+Andhra Pradesh,Urban,boy,6<=Age<=11,0,34.7,263
+Andhra Pradesh,Urban,boy,all (0-71 months),0.5,74.4,784
+Andhra Pradesh,Urban,children,0<=Age<6,2.7,0,124
+Andhra Pradesh,Urban,children,12<=AgW=23,0,86.1,62
+Andhra Pradesh,Urban,children,24<=AgW=35,0,83.1,83
+Andhra Pradesh,Urban,children,36<=AgW=t7,0.7,88.7,111
+Andhra Pradesh,Urban,children,48<=Age<-59,0.2,83.5,92
+Andhra Pradesh,Urban,children,60<=AgW=71,1.3,94,49
+Andhra Pradesh,Urban,children,6<=Age<=11,0,32.4,263
+Andhra Pradesh,Urban,children,all (0-71 months),0.4,75.4,784
+Andhra Pradesh,Urban,girl,0<=Age<6,1.1,0,124
+Andhra Pradesh,Urban,girl,12<=AgW=23,0,93.2,62
+Andhra Pradesh,Urban,girl,24<=AgW=35,0,71.9,83
+Andhra Pradesh,Urban,girl,36<=AgW=t7,1.6,85.2,111
+Andhra Pradesh,Urban,girl,48<=Age<-59,0,94.1,92
+Andhra Pradesh,Urban,girl,60<=AgW=71,0,97.5,49
+Andhra Pradesh,Urban,girl,6<=Age<=11,0,30.1,263
+Andhra Pradesh,Urban,girl,all (0-71 months),0.3,76.6,784
+Karnataka,Rural,boy,0<=AgW6,0.4,0,229
+Karnataka,Rural,boy,12<=Age<=23,0,35.5,75
+Karnataka,Rural,boy,24<=AgW=35,11.3,60.1,206
+Karnataka,Rural,boy,36<=AgWm7,13.2,69.6,260
+Karnataka,Rural,boy,48<=Age<=59,23.1,54.7,240
+Karnataka,Rural,boy,60<=Age<-71,2,97,85
+Karnataka,Rural,boy,6<=AgW=11,0,12.8,393
+Karnataka,Rural,boy,all (0-71 months),10.6,54.1,1488
+Karnataka,Rural,children,0<=AgW6,0.2,0,229
+Karnataka,Rural,children,12<=Age<=23,0.6,46.4,75
+Karnataka,Rural,children,24<=AgW=35,5.6,65.8,206
+Karnataka,Rural,children,36<=AgWm7,15,68.5,260
+Karnataka,Rural,children,48<=Age<=59,21.5,65.6,240
+Karnataka,Rural,children,60<=Age<-71,8.8,87.5,85
+Karnataka,Rural,children,6<=AgW=11,0,16.1,393
+Karnataka,Rural,children,all (0-71 months),10.8,57.5,1488
+Karnataka,Rural,girl,0<=AgW6,0,0,229
+Karnataka,Rural,girl,12<=Age<=23,1.3,58.9,75
+Karnataka,Rural,girl,24<=AgW=35,0.9,70.5,206
+Karnataka,Rural,girl,36<=AgWm7,16.5,67.7,260
+Karnataka,Rural,girl,48<=Age<=59,20.4,73.9,240
+Karnataka,Rural,girl,60<=Age<-71,25.8,63.4,85
+Karnataka,Rural,girl,6<=AgW=11,0,19.3,393
+Karnataka,Rural,girl,all (0-71 months),11,60.5,1488
+Karnataka,Total,boy,0<=AgW6,0.4,0,443
+Karnataka,Total,boy,12<=Age<=23,0.2,62.2,127
+Karnataka,Total,boy,24<=AgW=35,8.4,63.1,352
+Karnataka,Total,boy,36<=AgWm7,12.4,74.1,418
+Karnataka,Total,boy,48<=Age<=59,18.8,65.3,389
+Karnataka,Total,boy,60<=Age<-71,4.9,94.2,166
+Karnataka,Total,boy,6<=AgW=11,0,15.3,742
+Karnataka,Total,boy,all (0-71 months),9.2,60.1,2637
+Karnataka,Total,children,0<=AgW6,0.2,0,443
+Karnataka,Total,children,12<=Age<=23,0.4,66.2,127
+Karnataka,Total,children,24<=AgW=35,4.1,67.5,352
+Karnataka,Total,children,36<=AgWm7,11.7,73.3,418
+Karnataka,Total,children,48<=Age<=59,16.8,72.3,389
+Karnataka,Total,children,60<=Age<-71,9,86.4,166
+Karnataka,Total,children,6<=AgW=11,0,18.6,742
+Karnataka,Total,children,all (0-71 months),8.5,61.7,2637
+Karnataka,Total,girl,0<=AgW6,0,0,443
+Karnataka,Total,girl,12<=Age<=23,0.6,71,127
+Karnataka,Total,girl,24<=AgW=35,0.9,70.8,352
+Karnataka,Total,girl,36<=AgWm7,11,72.5,418
+Karnataka,Total,girl,48<=Age<=59,15.1,78.1,389
+Karnataka,Total,girl,60<=Age<-71,20,65.6,166
+Karnataka,Total,girl,6<=AgW=11,0,21.9,742
+Karnataka,Total,girl,all (0-71 months),7.8,63.4,2637
+Karnataka,Urban,boy,0<=AgW6,0.3,0,214
+Karnataka,Urban,boy,12<=Age<=23,0.4,84.5,52
+Karnataka,Urban,boy,24<=AgW=35,1,71.1,146
+Karnataka,Urban,boy,36<=AgWm7,11.5,79.5,158
+Karnataka,Urban,boy,48<=Age<=59,11.3,83.8,149
+Karnataka,Urban,boy,60<=Age<-71,9.4,89.8,81
+Karnataka,Urban,boy,6<=AgW=11,0,20.1,349
+Karnataka,Urban,boy,all (0-71 months),7,69.6,1149
+Karnataka,Urban,children,0<=AgW6,0.2,0,214
+Karnataka,Urban,children,12<=Age<=23,0.2,83.5,52
+Karnataka,Urban,children,24<=AgW=35,0.9,71.3,146
+Karnataka,Urban,children,36<=AgWm7,7,79.8,158
+Karnataka,Urban,children,48<=Age<=59,7,85.9,149
+Karnataka,Urban,children,60<=Age<-71,9.4,84.8,81
+Karnataka,Urban,children,6<=AgW=11,0,23.6,349
+Karnataka,Urban,children,all (0-71 months),4.5,69.1,1149
+Karnataka,Urban,girl,0<=AgW6,0,0,214
+Karnataka,Urban,girl,12<=Age<=23,0,82.2,52
+Karnataka,Urban,girl,24<=AgW=35,0.9,71.4,146
+Karnataka,Urban,girl,36<=AgWm7,2.2,80.1,158
+Karnataka,Urban,girl,48<=Age<=59,2.5,88.1,149
+Karnataka,Urban,girl,60<=Age<-71,9.3,69.7,81
+Karnataka,Urban,girl,6<=AgW=11,0,27.2,349
+Karnataka,Urban,girl,all (0-71 months),1.8,68.7,1149
+Goa,Rural,boy,0<=AgW6,0,0,15
+Goa,Rural,boy,12<=AgW=23,0,2.1,5
+Goa,Rural,boy,24<=AgW=35,0,100,7
+Goa,Rural,boy,36<=Age<=t7,0,100,8
+Goa,Rural,boy,48<=Age<=59,0,100,7
+Goa,Rural,boy,60<=Age<=71,0,100,9
+Goa,Rural,boy,6<=AgW=11,0,30.7,26
+Goa,Rural,boy,all (0-71 months),0,62.5,77
+Goa,Rural,children,0<=AgW6,0,0,15
+Goa,Rural,children,12<=AgW=23,0,12.5,5
+Goa,Rural,children,24<=AgW=35,0,48,7
+Goa,Rural,children,36<=Age<=t7,0,98.9,8
+Goa,Rural,children,48<=Age<=59,0,100,7
+Goa,Rural,children,60<=Age<=71,0,100,9
+Goa,Rural,children,6<=AgW=11,0,34.3,26
+Goa,Rural,children,all (0-71 months),0,74.4,77
+Goa,Rural,girl,0<=AgW6,0,0,15
+Goa,Rural,girl,12<=AgW=23,0,36.8,5
+Goa,Rural,girl,24<=AgW=35,0,40.2,7
+Goa,Rural,girl,36<=Age<=t7,0,98.7,8
+Goa,Rural,girl,48<=Age<=59,0,100,7
+Goa,Rural,girl,60<=Age<=71,0,100,9
+Goa,Rural,girl,6<=AgW=11,0,35.9,26
+Goa,Rural,girl,all (0-71 months),0,82.5,77
+Goa,Total,boy,0<=AgW6,0,0,41
+Goa,Total,boy,12<=AgW=23,0,3.4,11
+Goa,Total,boy,24<=AgW=35,0,9.2,21
+Goa,Total,boy,36<=Age<=t7,0,76.1,22
+Goa,Total,boy,48<=Age<=59,0,85.1,30
+Goa,Total,boy,60<=Age<=71,0,88.5,25
+Goa,Total,boy,6<=AgW=11,0,10.5,57
+Goa,Total,boy,all (0-71 months),0,51.7,207
+Goa,Total,children,0<=AgW6,0,0,41
+Goa,Total,children,12<=AgW=23,0,17.7,11
+Goa,Total,children,24<=AgW=35,0,47.3,21
+Goa,Total,children,36<=Age<=t7,0,85.2,22
+Goa,Total,children,48<=Age<=59,0,90.7,30
+Goa,Total,children,60<=Age<=71,0,75.1,25
+Goa,Total,children,6<=AgW=11,0,14.4,57
+Goa,Total,children,all (0-71 months),0,59.7,207
+Goa,Total,girl,0<=AgW6,0,0,41
+Goa,Total,girl,12<=AgW=23,0,55.1,11
+Goa,Total,girl,24<=AgW=35,0,84.6,21
+Goa,Total,girl,36<=Age<=t7,0,97.7,22
+Goa,Total,girl,48<=Age<=59,0,93.6,30
+Goa,Total,girl,60<=Age<=71,0,62.3,25
+Goa,Total,girl,6<=AgW=11,0,16.6,57
+Goa,Total,girl,all (0-71 months),0,67.8,207
+Goa,Urban,boy,0<=AgW6,0,0,26
+Goa,Urban,boy,12<=AgW=23,0,5.6,6
+Goa,Urban,boy,24<=AgW=35,0,7.2,14
+Goa,Urban,boy,36<=Age<=t7,0,74.2,14
+Goa,Urban,boy,48<=Age<=59,0,83.2,23
+Goa,Urban,boy,60<=Age<=71,0,69.3,16
+Goa,Urban,boy,6<=AgW=11,0,0,31
+Goa,Urban,boy,all (0-71 months),0,45.5,130
+Goa,Urban,children,0<=AgW6,0,0,26
+Goa,Urban,children,12<=AgW=23,0,27.6,6
+Goa,Urban,children,24<=AgW=35,0,47.3,14
+Goa,Urban,children,36<=Age<=t7,0,76.3,14
+Goa,Urban,children,48<=Age<=59,0,85.5,23
+Goa,Urban,children,60<=Age<=71,0,35.4,16
+Goa,Urban,children,6<=AgW=11,0,1.1,31
+Goa,Urban,children,all (0-71 months),0,48,130
+Goa,Urban,girl,0<=AgW6,0,0,26
+Goa,Urban,girl,12<=AgW=23,0,100,6
+Goa,Urban,girl,24<=AgW=35,0,91.7,14
+Goa,Urban,girl,36<=Age<=t7,0,92.7,14
+Goa,Urban,girl,48<=Age<=59,0,87.6,23
+Goa,Urban,girl,60<=Age<=71,0,4.7,16
+Goa,Urban,girl,6<=AgW=11,0,1.9,31
+Goa,Urban,girl,all (0-71 months),0,51.4,130
+Lakshadweep,Rural,boy,0<=AgW6,0,0,7
+Lakshadweep,Rural,boy,12<=AgW=23,0,0,3
+Lakshadweep,Rural,boy,24<=AgW=35,0,100,8
+Lakshadweep,Rural,boy,36<=Age<=t7,0,79.8,9
+Lakshadweep,Rural,boy,48<=Age<=59,0,100,11
+Lakshadweep,Rural,boy,60<=Age<=71,0,100,1
+Lakshadweep,Rural,boy,6<=AgW=11,0,4.5,11
+Lakshadweep,Rural,boy,all (0-71 months),0,57.5,50
+Lakshadweep,Rural,children,0<=AgW6,0,0,7
+Lakshadweep,Rural,children,12<=AgW=23,0,0,3
+Lakshadweep,Rural,children,24<=AgW=35,0,55.4,8
+Lakshadweep,Rural,children,36<=Age<=t7,0,89.3,9
+Lakshadweep,Rural,children,48<=Age<=59,0,51.4,11
+Lakshadweep,Rural,children,60<=Age<=71,0,100,1
+Lakshadweep,Rural,children,6<=AgW=11,0,2.4,11
+Lakshadweep,Rural,children,all (0-71 months),0,49.7,50
+Lakshadweep,Rural,girl,0<=AgW6,0,0,7
+Lakshadweep,Rural,girl,12<=AgW=23,0,0,3
+Lakshadweep,Rural,girl,24<=AgW=35,0,0,8
+Lakshadweep,Rural,girl,36<=Age<=t7,0,90.4,9
+Lakshadweep,Rural,girl,48<=Age<=59,0,49.3,11
+Lakshadweep,Rural,girl,60<=Age<=71,0,0,1
+Lakshadweep,Rural,girl,6<=AgW=11,0,0,11
+Lakshadweep,Rural,girl,all (0-71 months),0,45.4,50
+Lakshadweep,Total,boy,0<=AgW6,0,0,22
+Lakshadweep,Total,boy,12<=AgW=23,0,22.6,12
+Lakshadweep,Total,boy,24<=AgW=35,0,100,18
+Lakshadweep,Total,boy,36<=Age<=t7,0,90.1,27
+Lakshadweep,Total,boy,48<=Age<=59,0,80.8,22
+Lakshadweep,Total,boy,60<=Age<=71,0,92.4,7
+Lakshadweep,Total,boy,6<=AgW=11,0,3.2,29
+Lakshadweep,Total,boy,all (0-71 months),0,68.4,137
+Lakshadweep,Total,children,0<=AgW6,0,0,22
+Lakshadweep,Total,children,12<=AgW=23,0,32.3,12
+Lakshadweep,Total,children,24<=AgW=35,0,80.4,18
+Lakshadweep,Total,children,36<=Age<=t7,0,91.2,27
+Lakshadweep,Total,children,48<=Age<=59,0,74.3,22
+Lakshadweep,Total,children,60<=Age<=71,0,93.6,7
+Lakshadweep,Total,children,6<=AgW=11,0,32.6,29
+Lakshadweep,Total,children,all (0-71 months),0,70.2,137
+Lakshadweep,Total,girl,0<=AgW6,0,0,22
+Lakshadweep,Total,girl,12<=AgW=23,0,50.3,12
+Lakshadweep,Total,girl,24<=AgW=35,0,72.5,18
+Lakshadweep,Total,girl,36<=Age<=t7,0,91.5,27
+Lakshadweep,Total,girl,48<=Age<=59,0,66,22
+Lakshadweep,Total,girl,60<=Age<=71,0,100,7
+Lakshadweep,Total,girl,6<=AgW=11,0,64.3,29
+Lakshadweep,Total,girl,all (0-71 months),0,71.7,137
+Lakshadweep,Urban,boy,0<=AgW6,0,0,15
+Lakshadweep,Urban,boy,12<=AgW=23,0,66.2,9
+Lakshadweep,Urban,boy,24<=AgW=35,0,100,10
+Lakshadweep,Urban,boy,36<=Age<=t7,0,91.7,18
+Lakshadweep,Urban,boy,48<=Age<=59,0,80.4,11
+Lakshadweep,Urban,boy,60<=Age<=71,0,92.2,6
+Lakshadweep,Urban,boy,6<=AgW=11,0,2.6,18
+Lakshadweep,Urban,boy,all (0-71 months),0,72,87
+Lakshadweep,Urban,children,0<=AgW6,0,0,15
+Lakshadweep,Urban,children,12<=AgW=23,0,67.6,9
+Lakshadweep,Urban,children,24<=AgW=35,0,99.4,10
+Lakshadweep,Urban,children,36<=Age<=t7,0,92,18
+Lakshadweep,Urban,children,48<=Age<=59,0,83.8,11
+Lakshadweep,Urban,children,60<=Age<=71,0,93.4,6
+Lakshadweep,Urban,children,6<=AgW=11,0,44.2,18
+Lakshadweep,Urban,children,all (0-71 months),0,79.7,87
+Lakshadweep,Urban,girl,0<=AgW6,0,0,15
+Lakshadweep,Urban,girl,12<=AgW=23,0,68.8,9
+Lakshadweep,Urban,girl,24<=AgW=35,0,99.4,10
+Lakshadweep,Urban,girl,36<=Age<=t7,0,92.1,18
+Lakshadweep,Urban,girl,48<=Age<=59,0,95.4,11
+Lakshadweep,Urban,girl,60<=Age<=71,0,100,6
+Lakshadweep,Urban,girl,6<=AgW=11,0,88.6,18
+Lakshadweep,Urban,girl,all (0-71 months),0,86.9,87
+Kerala,Rural,boy,0<=Age<6,0,0,265
+Kerala,Rural,boy,12<=Age<=23,0,79.4,111
+Kerala,Rural,boy,24<=AgW=35,0,86.6,170
+Kerala,Rural,boy,36<=AgW=t7,0.1,88.7,144
+Kerala,Rural,boy,48<=Age<=59,1,93.2,207
+Kerala,Rural,boy,60<=Age<=71,0,96.1,124
+Kerala,Rural,boy,6<=Age<=11,0,25.1,349
+Kerala,Rural,boy,all (0-71 months),0.3,77.6,1370
+Kerala,Rural,children,0<=Age<6,0,0,265
+Kerala,Rural,children,12<=Age<=23,0,82,111
+Kerala,Rural,children,24<=AgW=35,0,82.1,170
+Kerala,Rural,children,36<=AgW=t7,0.1,87.6,144
+Kerala,Rural,children,48<=Age<=59,1.7,90.1,207
+Kerala,Rural,children,60<=Age<=71,0,92.2,124
+Kerala,Rural,children,6<=Age<=11,0,21.9,349
+Kerala,Rural,children,all (0-71 months),0.4,74.4,1370
+Kerala,Rural,girl,0<=Age<6,0,0,265
+Kerala,Rural,girl,12<=Age<=23,0,83.9,111
+Kerala,Rural,girl,24<=AgW=35,0,76.7,170
+Kerala,Rural,girl,36<=AgW=t7,0,86.5,144
+Kerala,Rural,girl,48<=Age<=59,2.7,86,207
+Kerala,Rural,girl,60<=Age<=71,0,88.5,124
+Kerala,Rural,girl,6<=Age<=11,0,19.1,349
+Kerala,Rural,girl,all (0-71 months),0.5,71,1370
+Kerala,Total,boy,0<=Age<6,0.3,0,465
+Kerala,Total,boy,12<=Age<=23,0,72.5,207
+Kerala,Total,boy,24<=AgW=35,0,86.9,301
+Kerala,Total,boy,36<=AgW=t7,0.1,87.3,300
+Kerala,Total,boy,48<=Age<=59,1.1,93.8,353
+Kerala,Total,boy,60<=Age<=71,0,95.5,228
+Kerala,Total,boy,6<=Age<=11,0,26.4,636
+Kerala,Total,boy,all (0-71 months),0.3,75.8,2490
+Kerala,Total,children,0<=Age<6,0.3,0,465
+Kerala,Total,children,12<=Age<=23,0,71,207
+Kerala,Total,children,24<=AgW=35,0,82.8,301
+Kerala,Total,children,36<=AgW=t7,0,88.4,300
+Kerala,Total,children,48<=Age<=59,1.5,88.6,353
+Kerala,Total,children,60<=Age<=71,0,93.2,228
+Kerala,Total,children,6<=Age<=11,0,23.3,636
+Kerala,Total,children,all (0-71 months),0.3,72.8,2490
+Kerala,Total,girl,0<=Age<6,0.2,0,465
+Kerala,Total,girl,12<=Age<=23,0,69.5,207
+Kerala,Total,girl,24<=AgW=35,0,77.6,301
+Kerala,Total,girl,36<=AgW=t7,0,89.3,300
+Kerala,Total,girl,48<=Age<=59,2.1,82.1,353
+Kerala,Total,girl,60<=Age<=71,0,91,228
+Kerala,Total,girl,6<=Age<=11,0,20.3,636
+Kerala,Total,girl,all (0-71 months),0.4,69.6,2490
+Kerala,Urban,boy,0<=Age<6,0.7,0,200
+Kerala,Urban,boy,12<=Age<=23,0,67,96
+Kerala,Urban,boy,24<=AgW=35,0,87.2,131
+Kerala,Urban,boy,36<=AgW=t7,0,85.7,156
+Kerala,Urban,boy,48<=Age<=59,1.1,95,146
+Kerala,Urban,boy,60<=Age<=71,0,94.5,104
+Kerala,Urban,boy,6<=Age<=11,0,27.5,287
+Kerala,Urban,boy,all (0-71 months),0.2,73.3,1120
+Kerala,Urban,children,0<=Age<6,0.7,0,200
+Kerala,Urban,children,12<=Age<=23,0,59,96
+Kerala,Urban,children,24<=AgW=35,0,83.8,131
+Kerala,Urban,children,36<=AgW=t7,0,89.2,156
+Kerala,Urban,children,48<=Age<=59,1.2,86.1,146
+Kerala,Urban,children,60<=Age<=71,0,94.9,104
+Kerala,Urban,children,6<=Age<=11,0,24.8,287
+Kerala,Urban,children,all (0-71 months),0.3,70.7,1120
+Kerala,Urban,girl,0<=Age<6,0.6,0,200
+Kerala,Urban,girl,12<=Age<=23,0,47.4,96
+Kerala,Urban,girl,24<=AgW=35,0,79,131
+Kerala,Urban,girl,36<=AgW=t7,0,92,156
+Kerala,Urban,girl,48<=Age<=59,1.2,76.5,146
+Kerala,Urban,girl,60<=Age<=71,0,95.2,104
+Kerala,Urban,girl,6<=Age<=11,0,21.8,287
+Kerala,Urban,girl,all (0-71 months),0.3,67.7,1120
+Tamil Nadu,Rural,boy,0<=AgW6,0.2,0,411
+Tamil Nadu,Rural,boy,12<=Age<=23,1.4,28.8,129
+Tamil Nadu,Rural,boy,24<=AgW=35,0.6,77.3,240
+Tamil Nadu,Rural,boy,36<=AgWm7,25,65.6,267
+Tamil Nadu,Rural,boy,48<=Age<=59,4.5,59.8,231
+Tamil Nadu,Rural,boy,60<=Age<-71,2.6,85.5,147
+Tamil Nadu,Rural,boy,6<=AgW=11,0,24.2,519
+Tamil Nadu,Rural,boy,all (0-71 months),7.1,54.6,1944
+Tamil Nadu,Rural,children,0<=AgW6,0.1,0,411
+Tamil Nadu,Rural,children,12<=Age<=23,0.7,40.9,129
+Tamil Nadu,Rural,children,24<=AgW=35,4,62.7,240
+Tamil Nadu,Rural,children,36<=AgWm7,18.1,71.1,267
+Tamil Nadu,Rural,children,48<=Age<=59,7.5,68.5,231
+Tamil Nadu,Rural,children,60<=Age<-71,8.9,84.3,147
+Tamil Nadu,Rural,children,6<=AgW=11,0,23.9,519
+Tamil Nadu,Rural,children,all (0-71 months),6.9,57.3,1944
+Tamil Nadu,Rural,girl,0<=AgW6,0,0,411
+Tamil Nadu,Rural,girl,12<=Age<=23,0,53.6,129
+Tamil Nadu,Rural,girl,24<=AgW=35,6.4,52.4,240
+Tamil Nadu,Rural,girl,36<=AgWm7,8.5,78.8,267
+Tamil Nadu,Rural,girl,48<=Age<=59,10.2,76.8,231
+Tamil Nadu,Rural,girl,60<=Age<-71,14.4,83.3,147
+Tamil Nadu,Rural,girl,6<=AgW=11,0,23.5,519
+Tamil Nadu,Rural,girl,all (0-71 months),6.8,59.9,1944
+Tamil Nadu,Total,boy,0<=AgW6,0.1,0,695
+Tamil Nadu,Total,boy,12<=Age<=23,1.1,49.5,226
+Tamil Nadu,Total,boy,24<=AgW=35,2.7,67.6,420
+Tamil Nadu,Total,boy,36<=AgWm7,16,70.5,456
+Tamil Nadu,Total,boy,48<=Age<=59,3.8,65,383
+Tamil Nadu,Total,boy,60<=Age<-71,7.9,84.9,271
+Tamil Nadu,Total,boy,6<=AgW=11,0,24,977
+Tamil Nadu,Total,boy,all (0-71 months),5.8,58.4,3428
+Tamil Nadu,Total,children,0<=AgW6,0.1,0,695
+Tamil Nadu,Total,children,12<=Age<=23,0.6,50.3,226
+Tamil Nadu,Total,children,24<=AgW=35,4.7,61.8,420
+Tamil Nadu,Total,children,36<=AgWm7,16.2,65.4,456
+Tamil Nadu,Total,children,48<=Age<=59,7.6,70.6,383
+Tamil Nadu,Total,children,60<=Age<-71,11,82.9,271
+Tamil Nadu,Total,children,6<=AgW=11,0,27.3,977
+Tamil Nadu,Total,children,all (0-71 months),7.1,57.5,3428
+Tamil Nadu,Total,girl,0<=AgW6,0.2,0,695
+Tamil Nadu,Total,girl,12<=Age<=23,0,51,226
+Tamil Nadu,Total,girl,24<=AgW=35,6.5,56.4,420
+Tamil Nadu,Total,girl,36<=AgWm7,16.3,60,456
+Tamil Nadu,Total,girl,48<=Age<=59,11,75.6,383
+Tamil Nadu,Total,girl,60<=Age<-71,14.3,80.7,271
+Tamil Nadu,Total,girl,6<=AgW=11,0,30.8,977
+Tamil Nadu,Total,girl,all (0-71 months),8.4,56.6,3428
+Tamil Nadu,Urban,boy,0<=AgW6,0,0,284
+Tamil Nadu,Urban,boy,12<=AgH=23,0.7,86.1,97
+Tamil Nadu,Urban,boy,24<=AgW=35,5.3,55.6,180
+Tamil Nadu,Urban,boy,36<=AgWm7,1.1,78.8,189
+Tamil Nadu,Urban,boy,48<=Age<=59,2,77.7,152
+Tamil Nadu,Urban,boy,60<=Age<-71,12.9,84.3,124
+Tamil Nadu,Urban,boy,6<=AgW=11,0,23.7,458
+Tamil Nadu,Urban,boy,all (0-71 months),3.9,64,1484
+Tamil Nadu,Urban,children,0<=AgW6,0.2,0,284
+Tamil Nadu,Urban,children,12<=AgH=23,0.3,65,97
+Tamil Nadu,Urban,children,24<=AgW=35,5.9,60.1,180
+Tamil Nadu,Urban,children,36<=AgWm7,13.8,58.4,189
+Tamil Nadu,Urban,children,48<=Age<=59,8,75.1,152
+Tamil Nadu,Urban,children,60<=Age<-71,13.4,81.2,124
+Tamil Nadu,Urban,children,6<=AgW=11,0,31.1,458
+Tamil Nadu,Urban,children,all (0-71 months),7.4,57.8,1484
+Tamil Nadu,Urban,girl,0<=AgW6,0.4,0,284
+Tamil Nadu,Urban,girl,12<=AgH=23,0,47.1,97
+Tamil Nadu,Urban,girl,24<=AgW=35,7,67.3,180
+Tamil Nadu,Urban,girl,36<=AgWm7,23.3,43.1,189
+Tamil Nadu,Urban,girl,48<=Age<=59,12.4,73.2,152
+Tamil Nadu,Urban,girl,60<=Age<-71,14.1,76.7,124
+Tamil Nadu,Urban,girl,6<=AgW=11,0,37.6,458
+Tamil Nadu,Urban,girl,all (0-71 months),10.8,51.8,1484
+Puducherry,Rural,boy,0<=AgW6,0,0,16
+Puducherry,Rural,boy,12<=AgW=23,0,0,2
+Puducherry,Rural,boy,24<=Age<=35,0,0,5
+Puducherry,Rural,boy,36<=Age<=47,0,0,8
+Puducherry,Rural,boy,48<=AgW=59,0,15.7,12
+Puducherry,Rural,boy,60<=AgW=71,0,100,3
+Puducherry,Rural,boy,6<=AgW=11,0,0,17
+Puducherry,Rural,boy,all (0-71 months),0,28.2,63
+Puducherry,Rural,children,0<=AgW6,0,0,16
+Puducherry,Rural,children,12<=AgW=23,0,0,2
+Puducherry,Rural,children,24<=Age<=35,0,0,5
+Puducherry,Rural,children,36<=Age<=47,0,1.2,8
+Puducherry,Rural,children,48<=AgW=59,0,13.1,12
+Puducherry,Rural,children,60<=AgW=71,0,100,3
+Puducherry,Rural,children,6<=AgW=11,0,0,17
+Puducherry,Rural,children,all (0-71 months),0,29.1,63
+Puducherry,Rural,girl,0<=AgW6,0,0,16
+Puducherry,Rural,girl,12<=AgW=23,0,0,2
+Puducherry,Rural,girl,24<=Age<=35,0,0,5
+Puducherry,Rural,girl,36<=Age<=47,0,1.2,8
+Puducherry,Rural,girl,48<=AgW=59,0,11.6,12
+Puducherry,Rural,girl,60<=AgW=71,0,100,3
+Puducherry,Rural,girl,6<=AgW=11,0,0,17
+Puducherry,Rural,girl,all (0-71 months),0,29.4,63
+Puducherry,Total,boy,0<=AgW6,2.3,0,59
+Puducherry,Total,boy,12<=AgW=23,0,11.3,16
+Puducherry,Total,boy,24<=Age<=35,0,44.3,24
+Puducherry,Total,boy,36<=Age<=47,0,67,42
+Puducherry,Total,boy,48<=AgW=59,0,16.4,31
+Puducherry,Total,boy,60<=AgW=71,0,34.9,12
+Puducherry,Total,boy,6<=AgW=11,0,0,81
+Puducherry,Total,boy,all (0-71 months),0.2,32.1,265
+Puducherry,Total,children,0<=AgW6,1.1,0,59
+Puducherry,Total,children,12<=AgW=23,0,58.6,16
+Puducherry,Total,children,24<=Age<=35,0,38.2,24
+Puducherry,Total,children,36<=Age<=47,0,25.5,42
+Puducherry,Total,children,48<=AgW=59,0,40.9,31
+Puducherry,Total,children,60<=AgW=71,0,60.7,12
+Puducherry,Total,children,6<=AgW=11,0,0.6,81
+Puducherry,Total,children,all (0-71 months),0.1,34.1,265
+Puducherry,Total,girl,0<=AgW6,0,0,59
+Puducherry,Total,girl,12<=AgW=23,0,76,16
+Puducherry,Total,girl,24<=Age<=35,0,19.4,24
+Puducherry,Total,girl,36<=Age<=47,0,4,42
+Puducherry,Total,girl,48<=AgW=59,0,52.2,31
+Puducherry,Total,girl,60<=AgW=71,0,74.9,12
+Puducherry,Total,girl,6<=AgW=11,0,0.8,81
+Puducherry,Total,girl,all (0-71 months),0,35.4,265
+Puducherry,Urban,boy,0<=AgW6,3.4,0,43
+Puducherry,Urban,boy,12<=AgW=23,0,11.8,14
+Puducherry,Urban,boy,24<=Age<=35,0,54.2,19
+Puducherry,Urban,boy,36<=Age<=47,0,68.1,34
+Puducherry,Urban,boy,48<=AgW=59,0,17.7,19
+Puducherry,Urban,boy,60<=AgW=71,0,7.8,9
+Puducherry,Urban,boy,6<=AgW=11,0,0,64
+Puducherry,Urban,boy,all (0-71 months),0.3,33.5,202
+Puducherry,Urban,children,0<=AgW6,2,0,43
+Puducherry,Urban,children,12<=AgW=23,0,61.3,14
+Puducherry,Urban,children,24<=Age<=35,0,53.2,19
+Puducherry,Urban,children,36<=Age<=47,0,49.3,34
+Puducherry,Urban,children,48<=AgW=59,0,73,19
+Puducherry,Urban,children,60<=AgW=71,0,8.3,9
+Puducherry,Urban,children,6<=AgW=11,0,1.1,64
+Puducherry,Urban,children,all (0-71 months),0.2,38.6,202
+Puducherry,Urban,girl,0<=AgW6,0,0,43
+Puducherry,Urban,girl,12<=AgW=23,0,79.4,14
+Puducherry,Urban,girl,24<=Age<=35,0,46.9,19
+Puducherry,Urban,girl,36<=Age<=47,0,12,34
+Puducherry,Urban,girl,48<=AgW=59,0,91.8,19
+Puducherry,Urban,girl,60<=AgW=71,0,8.9,9
+Puducherry,Urban,girl,6<=AgW=11,0,1.7,64
+Puducherry,Urban,girl,all (0-71 months),0,44,202
+Andaman,Rural,boy,0<=AgW6,0,0,27
+Andaman,Rural,boy,12<=AgW=23,0,98,10
+Andaman,Rural,boy,24<=AgW=35,0,100,22
+Andaman,Rural,boy,36<=Age<=t7,0,96.1,13
+Andaman,Rural,boy,48<=Age<=59,0,100,11
+Andaman,Rural,boy,60<=Age<=71,19.4,80.6,9
+Andaman,Rural,boy,6<=AgW=11,0,17.9,43
+Andaman,Rural,boy,all (0-71 months),0.5,84.5,135
+Andaman,Rural,children,0<=AgW6,0,0,27
+Andaman,Rural,children,12<=AgW=23,0,74.1,10
+Andaman,Rural,children,24<=AgW=35,0,91.4,22
+Andaman,Rural,children,36<=Age<=t7,0,45.4,13
+Andaman,Rural,children,48<=Age<=59,22.3,66.4,11
+Andaman,Rural,children,60<=Age<=71,22.7,77.3,9
+Andaman,Rural,children,6<=AgW=11,0,16.4,43
+Andaman,Rural,children,all (0-71 months),1.6,64.2,135
+Andaman,Rural,girl,0<=AgW6,0,0,27
+Andaman,Rural,girl,12<=AgW=23,0,25.3,10
+Andaman,Rural,girl,24<=AgW=35,0,67.4,22
+Andaman,Rural,girl,36<=Age<=t7,0,23,13
+Andaman,Rural,girl,48<=Age<=59,28.1,57.8,11
+Andaman,Rural,girl,60<=Age<=71,26.2,73.8,9
+Andaman,Rural,girl,6<=AgW=11,0,15.4,43
+Andaman,Rural,girl,all (0-71 months),3.1,35.9,135
+Andaman,Total,boy,0<=AgW6,0,0,57
+Andaman,Total,boy,12<=AgW=23,0,97.6,19
+Andaman,Total,boy,24<=AgW=35,0,86.6,33
+Andaman,Total,boy,36<=Age<=t7,0,35.7,23
+Andaman,Total,boy,48<=Age<=59,1.5,59.5,30
+Andaman,Total,boy,60<=Age<=71,3.8,95.8,18
+Andaman,Total,boy,6<=AgW=11,0,17.1,78
+Andaman,Total,boy,all (0-71 months),0.5,68.4,258
+Andaman,Total,children,0<=AgW6,0.9,0,57
+Andaman,Total,children,12<=AgW=23,0,72.6,19
+Andaman,Total,children,24<=AgW=35,0,82.5,33
+Andaman,Total,children,36<=Age<=t7,0,50.5,23
+Andaman,Total,children,48<=Age<=59,3.8,81.8,30
+Andaman,Total,children,60<=Age<=71,5,94.7,18
+Andaman,Total,children,6<=AgW=11,0,16,78
+Andaman,Total,children,all (0-71 months),1.1,63.2,258
+Andaman,Total,girl,0<=AgW6,1.7,0,57
+Andaman,Total,girl,12<=AgW=23,0,29.5,19
+Andaman,Total,girl,24<=AgW=35,0,70.1,33
+Andaman,Total,girl,36<=Age<=t7,0,62.3,23
+Andaman,Total,girl,48<=Age<=59,5,92.5,30
+Andaman,Total,girl,60<=Age<=71,6.9,93.1,18
+Andaman,Total,girl,6<=AgW=11,0,15.3,78
+Andaman,Total,girl,all (0-71 months),1.9,57,258
+Andaman,Urban,boy,0<=AgW6,0,0,30
+Andaman,Urban,boy,12<=AgW=23,0,88.8,9
+Andaman,Urban,boy,24<=AgW=35,0,9.7,11
+Andaman,Urban,boy,36<=Age<=l7,0,14,10
+Andaman,Urban,boy,48<=Age<=59,1.6,55.2,19
+Andaman,Urban,boy,60<=Age<=71,0,99.5,9
+Andaman,Urban,boy,6<=AgW=11,0,14.8,35
+Andaman,Urban,boy,all (0-71 months),0.4,39.8,123
+Andaman,Urban,children,0<=AgW6,2.3,0,30
+Andaman,Urban,children,12<=AgW=23,0,58.4,9
+Andaman,Urban,children,24<=AgW=35,0,24.3,11
+Andaman,Urban,children,36<=Age<=l7,0,53.7,10
+Andaman,Urban,children,48<=Age<=59,0.6,84.6,19
+Andaman,Urban,children,60<=Age<=71,0,99.7,9
+Andaman,Urban,children,6<=AgW=11,0,14.8,35
+Andaman,Urban,children,all (0-71 months),0.3,61.9,123
+Andaman,Urban,girl,0<=AgW6,5.2,0,30
+Andaman,Urban,girl,12<=AgW=23,0,47.5,9
+Andaman,Urban,girl,24<=AgW=35,0,100,11
+Andaman,Urban,girl,36<=Age<=l7,0,98.8,10
+Andaman,Urban,girl,48<=Age<=59,0,100,19
+Andaman,Urban,girl,60<=Age<=71,0,100,9
+Andaman,Urban,girl,6<=AgW=11,0,14.8,35
+Andaman,Urban,girl,all (0-71 months),0.3,83.4,123
+Telangana,Rural,boy,0<=Age<6,0,0,169
+Telangana,Rural,boy,12<=Age<=23,0.1,75.2,56
+Telangana,Rural,boy,24<=AgW=35,0.2,85.3,118
+Telangana,Rural,boy,36<=AgW=t7,0.4,70.6,141
+Telangana,Rural,boy,48<=Age<=59,1,96.3,111
+Telangana,Rural,boy,60<=Age<=71,5.3,94.7,52
+Telangana,Rural,boy,6<=Age<=11,0,24.8,334
+Telangana,Rural,boy,all (0-71 months),0.8,69.3,981
+Telangana,Rural,children,0<=Age<6,0,0,169
+Telangana,Rural,children,12<=Age<=23,0.1,70.2,56
+Telangana,Rural,children,24<=AgW=35,0.7,89.2,118
+Telangana,Rural,children,36<=AgW=t7,0.6,76.1,141
+Telangana,Rural,children,48<=Age<=59,0.9,96.1,111
+Telangana,Rural,children,60<=Age<=71,3.5,96.4,52
+Telangana,Rural,children,6<=Age<=11,0,31.5,334
+Telangana,Rural,children,all (0-71 months),0.7,68.3,981
+Telangana,Rural,girl,0<=Age<6,0,0,169
+Telangana,Rural,girl,12<=Age<=23,0,57.2,56
+Telangana,Rural,girl,24<=AgW=35,1.3,95.1,118
+Telangana,Rural,girl,36<=AgW=t7,0.8,81.7,141
+Telangana,Rural,girl,48<=Age<=59,0.7,95.4,111
+Telangana,Rural,girl,60<=Age<=71,0,99.7,52
+Telangana,Rural,girl,6<=Age<=11,0,38.1,334
+Telangana,Rural,girl,all (0-71 months),0.5,67,981
+Telangana,Total,boy,0<=Age<6,0,0,291
+Telangana,Total,boy,12<=Age<=23,0.1,72,107
+Telangana,Total,boy,24<=AgW=35,0.1,79.4,238
+Telangana,Total,boy,36<=AgW=t7,0.4,83.4,284
+Telangana,Total,boy,48<=Age<=59,0.8,95.1,180
+Telangana,Total,boy,60<=Age<=71,3,97,90
+Telangana,Total,boy,6<=Age<=11,0,25.6,645
+Telangana,Total,boy,all (0-71 months),0.5,69.5,1835
+Telangana,Total,children,0<=Age<6,0,0,291
+Telangana,Total,children,12<=Age<=23,0.1,65.7,107
+Telangana,Total,children,24<=AgW=35,0.3,85.9,238
+Telangana,Total,children,36<=AgW=t7,0.4,82.8,284
+Telangana,Total,children,48<=Age<=59,0.6,95,180
+Telangana,Total,children,60<=Age<=71,1.7,98.2,90
+Telangana,Total,children,6<=Age<=11,0,28.8,645
+Telangana,Total,children,all (0-71 months),0.4,70.1,1835
+Telangana,Total,girl,0<=Age<6,0,0,291
+Telangana,Total,girl,12<=Age<=23,0.1,56.8,107
+Telangana,Total,girl,24<=AgW=35,0.5,93,238
+Telangana,Total,girl,36<=AgW=t7,0.4,82.3,284
+Telangana,Total,girl,48<=Age<=59,0.3,94.8,180
+Telangana,Total,girl,60<=Age<=71,0,99.9,90
+Telangana,Total,girl,6<=Age<=11,0,32,645
+Telangana,Total,girl,all (0-71 months),0.3,70.8,1835
+Telangana,Urban,boy,0<=Age<6,0,0,122
+Telangana,Urban,boy,12<=Age<=23,0,51.7,51
+Telangana,Urban,boy,24<=AgW=35,0,74.4,120
+Telangana,Urban,boy,36<=AgW=t7,0.4,96.8,143
+Telangana,Urban,boy,48<=Age<=59,0,91.4,69
+Telangana,Urban,boy,60<=Age<=71,0,100,38
+Telangana,Urban,boy,6<=Age<=11,0,26.5,311
+Telangana,Urban,boy,all (0-71 months),0.1,69.8,854
+Telangana,Urban,children,0<=Age<6,0,0,122
+Telangana,Urban,children,12<=Age<=23,0.1,55.1,51
+Telangana,Urban,children,24<=AgW=35,0.1,83.6,120
+Telangana,Urban,children,36<=AgW=t7,0.2,90.1,143
+Telangana,Urban,children,48<=Age<=59,0,93.1,69
+Telangana,Urban,children,60<=Age<=71,0,100,38
+Telangana,Urban,children,6<=Age<=11,0,25.2,311
+Telangana,Urban,children,all (0-71 months),0.1,72.2,854
+Telangana,Urban,girl,0<=Age<6,0,0,122
+Telangana,Urban,girl,12<=Age<=23,0.2,56.4,51
+Telangana,Urban,girl,24<=AgW=35,0.1,91.9,120
+Telangana,Urban,girl,36<=AgW=t7,0,82.9,143
+Telangana,Urban,girl,48<=Age<=59,0,94.3,69
+Telangana,Urban,girl,60<=Age<=71,0,100,38
+Telangana,Urban,girl,6<=Age<=11,0,23.9,311
+Telangana,Urban,girl,all (0-71 months),0.1,74.4,854
+Ladakh,Rural,boy,0<=AgW6,1,0,5.127502454
+Ladakh,Rural,boy,12<=AgW=23,0,75.3,1.375102931
+Ladakh,Rural,boy,24<=AgW=35,0.2,65.2,4.171922451
+Ladakh,Rural,boy,36<=Age<=l7,0,84.8,5.337263918
+Ladakh,Rural,boy,48<=Age<=59,6,82.8,5.453798065
+Ladakh,Rural,boy,60<=Age<=71,0,76.4,2.377296592
+Ladakh,Rural,boy,6<=AgW=11,0.3,13.9,7.178503435
+Ladakh,Rural,boy,all (0-71 months),1.9,65.4,31.02138985
+Ladakh,Rural,children,0<=AgW6,0.5,0,5.127502454
+Ladakh,Rural,children,12<=AgW=23,0,74.1,1.375102931
+Ladakh,Rural,children,24<=AgW=35,0.1,73,4.171922451
+Ladakh,Rural,children,36<=Age<=l7,1.8,75.3,5.337263918
+Ladakh,Rural,children,48<=Age<=59,6.6,79.8,5.453798065
+Ladakh,Rural,children,60<=Age<=71,0,74.6,2.377296592
+Ladakh,Rural,children,6<=AgW=11,0.3,15.3,7.178503435
+Ladakh,Rural,children,all (0-71 months),2,64,31.02138985
+Ladakh,Rural,girl,0<=AgW6,0,0,5.127502454
+Ladakh,Rural,girl,12<=AgW=23,0,67.9,1.375102931
+Ladakh,Rural,girl,24<=AgW=35,0,77.1,4.171922451
+Ladakh,Rural,girl,36<=Age<=l7,3.1,69,5.337263918
+Ladakh,Rural,girl,48<=Age<=59,7.5,75.1,5.453798065
+Ladakh,Rural,girl,60<=Age<=71,0,72.9,2.377296592
+Ladakh,Rural,girl,6<=AgW=11,0.4,17,7.178503435
+Ladakh,Rural,girl,all (0-71 months),2.2,62.7,31.02138985
+Ladakh,Total,boy,0<=AgW6,0.8,0,7.654799318
+Ladakh,Total,boy,12<=AgW=23,0,77.6,2.012118678
+Ladakh,Total,boy,24<=AgW=35,0.2,66.3,6.342548007
+Ladakh,Total,boy,36<=Age<=t7,0.1,82.8,7.720411884
+Ladakh,Total,boy,48<=Age<=59,5.3,83.3,7.764153594
+Ladakh,Total,boy,60<=Age<=71,0,81.8,3.543078542
+Ladakh,Total,boy,6<=AgW=11,0.2,14.3,11.61342411
+Ladakh,Total,boy,all (0-71 months),1.6,65.5,46.65053413
+Ladakh,Total,children,0<=AgW6,0.4,0,7.654799318
+Ladakh,Total,children,12<=AgW=23,0,68.2,2.012118678
+Ladakh,Total,children,24<=AgW=35,0.1,73.2,6.342548007
+Ladakh,Total,children,36<=Age<=t7,1.6,76.8,7.720411884
+Ladakh,Total,children,48<=Age<=59,5.6,80.7,7.764153594
+Ladakh,Total,children,60<=Age<=71,0,78.7,3.543078542
+Ladakh,Total,children,6<=AgW=11,0.3,15.8,11.61342411
+Ladakh,Total,children,all (0-71 months),1.7,64.5,46.65053413
+Ladakh,Total,girl,0<=AgW6,0,0,7.654799318
+Ladakh,Total,girl,12<=AgW=23,0,42.1,2.012118678
+Ladakh,Total,girl,24<=AgW=35,0,77.7,6.342548007
+Ladakh,Total,girl,36<=Age<=t7,2.5,72.8,7.720411884
+Ladakh,Total,girl,48<=Age<=59,6.2,76.7,7.764153594
+Ladakh,Total,girl,60<=Age<=71,0,75.6,3.543078542
+Ladakh,Total,girl,6<=AgW=11,0.4,17.7,11.61342411
+Ladakh,Total,girl,all (0-71 months),1.8,63.6,46.65053413
+Ladakh,Urban,boy,0<=AgW6,0,0,2.347976053
+Ladakh,Urban,boy,12<=AgW=23,0,99.1,0.59602469
+Ladakh,Urban,boy,24<=AgW=35,0,68.6,2.004810322
+Ladakh,Urban,boy,36<=Age<=t7,0.6,72.9,2.239607927
+Ladakh,Urban,boy,48<=Age<=59,0.6,86.5,2.185423865
+Ladakh,Urban,boy,60<=Age<=71,0,98.7,1.083681255
+Ladakh,Urban,boy,6<=AgW=11,0,15.9,4.027681999
+Ladakh,Urban,boy,all (0-71 months),0.2,65.7,14.48520611
+Ladakh,Urban,children,0<=AgW6,0,0,2.347976053
+Ladakh,Urban,children,12<=AgW=23,0,45.4,0.59602469
+Ladakh,Urban,children,24<=AgW=35,0,74,2.004810322
+Ladakh,Urban,children,36<=Age<=t7,0.2,84.3,2.239607927
+Ladakh,Urban,children,48<=Age<=59,0.4,85.5,2.185423865
+Ladakh,Urban,children,60<=Age<=71,0,93.8,1.083681255
+Ladakh,Urban,children,6<=AgW=11,0.2,17.7,4.027681999
+Ladakh,Urban,children,all (0-71 months),0.2,66.8,14.48520611
+Ladakh,Urban,girl,0<=AgW6,0,0,2.347976053
+Ladakh,Urban,girl,12<=AgW=23,0,17.9,0.59602469
+Ladakh,Urban,girl,24<=AgW=35,0,81.4,2.004810322
+Ladakh,Urban,girl,36<=Age<=t7,0,91.6,2.239607927
+Ladakh,Urban,girl,48<=Age<=59,0,84.1,2.185423865
+Ladakh,Urban,girl,60<=Age<=71,0,87.1,1.083681255
+Ladakh,Urban,girl,6<=AgW=11,0.5,19.8,4.027681999
+Ladakh,Urban,girl,all (0-71 months),0.1,68,14.48520611
+Daman,Rural,boy,0<=Age<6,0,0,11
+Daman,Rural,boy,0<=AgW6,0,0,8
+Daman,Rural,boy,12<=Age<=23,0,97.66887027,13
+Daman,Rural,boy,24<=AgW=35,0,34.21496858,7
+Daman,Rural,boy,36<=AgWm7,0,75.19773315,15
+Daman,Rural,boy,36<=AgW=t7,0,24.80226685,8
+Daman,Rural,boy,48<=Age<=59,0,82.36558827,23
+Daman,Rural,boy,60<=Age<=71,0,24.80226685,9
+Daman,Rural,boy,60<=Age<-71,0,75.19773315,7
+Daman,Rural,boy,6<=Age<=11,0,0,12
+Daman,Rural,boy,6<=AgW=11,0,23.46169274,17
+Daman,Rural,boy,all (0-71 months),0,67.88937539,130
+Daman,Rural,children,0<=Age<6,0,0,11
+Daman,Rural,children,0<=AgW6,0,0,8
+Daman,Rural,children,12<=Age<=23,0,90.85672293,13
+Daman,Rural,children,24<=AgW=35,0,8.196552914,7
+Daman,Rural,children,36<=AgWm7,0,71.28745103,15
+Daman,Rural,children,36<=AgW=t7,0,24.80226685,8
+Daman,Rural,children,48<=Age<=59,0,44.83480103,23
+Daman,Rural,children,60<=Age<=71,0,24.80226685,9
+Daman,Rural,children,60<=Age<-71,0,75.19773315,7
+Daman,Rural,children,6<=Age<=11,0,0,12
+Daman,Rural,children,6<=AgW=11,0,11.35485771,17
+Daman,Rural,children,all (0-71 months),0,49.71395343,130
+Daman,Rural,girl,0<=Age<6,0,0,11
+Daman,Rural,girl,0<=AgW6,0,0,8
+Daman,Rural,girl,12<=Age<=23,0,63.17304916,13
+Daman,Rural,girl,24<=AgW=35,0,1.955141062,7
+Daman,Rural,girl,36<=AgWm7,0,70.15948503,15
+Daman,Rural,girl,36<=AgW=t7,0,24.80226685,8
+Daman,Rural,girl,48<=Age<=59,0,20.24418628,23
+Daman,Rural,girl,60<=Age<=71,0,24.80226685,9
+Daman,Rural,girl,60<=Age<-71,0,75.19773315,7
+Daman,Rural,girl,6<=Age<=11,0,0,12
+Daman,Rural,girl,6<=AgW=11,0,0,17
+Daman,Rural,girl,all (0-71 months),0,34.81531108,130
+Daman,Total,boy,0<=Age<6,0,0,26
+Daman,Total,boy,0<=AgW6,0,0,18
+Daman,Total,boy,12<=Age<=23,0,41.44211832,3
+Daman,Total,boy,12<=AgH=23,0,55.57142972,12
+Daman,Total,boy,24<=AgW=35,0,51.86542126,23
+Daman,Total,boy,36<=AgWm7,0,55.33719819,26
+Daman,Total,boy,36<=AgW=t7,0,41.44211832,15
+Daman,Total,boy,48<=Age<=59,0,70.32744328,36
+Daman,Total,boy,60<=Age<=71,0,41.44211832,10
+Daman,Total,boy,60<=Age<-71,0,58.55788168,9
+Daman,Total,boy,6<=Age<=11,0,0,25
+Daman,Total,boy,6<=AgW=11,0,7.553966737,32
+Daman,Total,boy,all (0-71 months),0,50.85104676,235
+Daman,Total,children,0<=Age<6,0,0,26
+Daman,Total,children,0<=AgW6,0,0,18
+Daman,Total,children,12<=Age<=23,0,36.59339048,3
+Daman,Total,children,12<=AgH=23,0,52.81920928,12
+Daman,Total,children,24<=AgW=35,0,34.85855788,23
+Daman,Total,children,36<=AgWm7,0,56.03989277,26
+Daman,Total,children,36<=AgW=t7,0,25.40401853,15
+Daman,Total,children,48<=Age<=59,0,48.49169086,36
+Daman,Total,children,60<=Age<=71,0,41.44211832,10
+Daman,Total,children,60<=Age<-71,0,58.55788168,9
+Daman,Total,children,6<=Age<=11,0,0,25
+Daman,Total,children,6<=AgW=11,0,6.207135458,32
+Daman,Total,children,all (0-71 months),0,55.07916624,235
+Daman,Total,girl,0<=Age<6,0,0,26
+Daman,Total,girl,0<=AgW6,0,0,18
+Daman,Total,girl,12<=Age<=23,0,18.60751113,3
+Daman,Total,girl,12<=AgH=23,0,40.52205412,12
+Daman,Total,girl,24<=AgW=35,0,26.99518346,23
+Daman,Total,girl,36<=AgWm7,0,56.2741243,26
+Daman,Total,girl,36<=AgW=t7,0,25.27969217,15
+Daman,Total,girl,48<=Age<=59,0,28.80481655,36
+Daman,Total,girl,60<=Age<=71,0,41.44211832,10
+Daman,Total,girl,60<=Age<-71,0,58.55788168,9
+Daman,Total,girl,6<=Age<=11,0,0,25
+Daman,Total,girl,6<=AgW=11,0,4.333283244,32
+Daman,Total,girl,all (0-71 months),0,54.65404187,235
+Daman,Urban,boy,0<=Age<6,0,0,15
+Daman,Urban,boy,0<=AgW6,0,0,10
+Daman,Urban,boy,12<=Age<=23,0,23.426709,2
+Daman,Urban,boy,24<=AgW=35,0,58.57073019,16
+Daman,Urban,boy,36<=AgWm7,0,43.01910635,11
+Daman,Urban,boy,36<=AgW=t7,0,53.24010179,7
+Daman,Urban,boy,48<=Age<=59,0,46.75989821,13
+Daman,Urban,boy,60<=Age<=71,0,0,1
+Daman,Urban,boy,60<=Age<-71,0,46.75989821,2
+Daman,Urban,boy,6<=Age<=11,0,0,13
+Daman,Urban,boy,6<=AgW=11,0,0,15
+Daman,Urban,boy,all (0-71 months),0,29.94754809,105
+Daman,Urban,children,0<=Age<6,0,0,15
+Daman,Urban,children,0<=AgW6,0,0,10
+Daman,Urban,children,12<=Age<=23,0,23.426709,2
+Daman,Urban,children,24<=AgW=35,0,41.95426443,16
+Daman,Urban,children,36<=AgWm7,0,44.98302208,11
+Daman,Urban,children,36<=AgW=t7,0,32.31674179,7
+Daman,Urban,children,48<=Age<=59,0,59.05836172,13
+Daman,Urban,children,60<=Age<=71,0,53.24010179,1
+Daman,Urban,children,60<=Age<-71,0,46.75989821,2
+Daman,Urban,children,6<=Age<=11,0,0,13
+Daman,Urban,children,6<=AgW=11,0,2.852353791,15
+Daman,Urban,children,all (0-71 months),0,59.44829638,105
+Daman,Urban,girl,0<=Age<6,0,0,15
+Daman,Urban,girl,0<=AgW6,0,0,10
+Daman,Urban,girl,12<=Age<=23,0,0,2
+Daman,Urban,girl,24<=AgW=35,0,43.62698503,16
+Daman,Urban,girl,36<=AgWm7,0,45.82470024,11
+Daman,Urban,girl,36<=AgW=t7,0,32.21026158,7
+Daman,Urban,girl,48<=Age<=59,0,63.05136936,13
+Daman,Urban,girl,60<=Age<=71,0,53.24010179,1
+Daman,Urban,girl,60<=Age<-71,0,46.75989821,2
+Daman,Urban,girl,6<=Age<=11,0,0,13
+Daman,Urban,girl,6<=AgW=11,0,9.071420252,15
+Daman,Urban,girl,all (0-71 months),0,68.96824916,105
