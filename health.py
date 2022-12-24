@@ -83,42 +83,93 @@ def healthLayout(DataReader,inputDict):
                                             id="health_state_wise_state_dropdown",
                                             maxHeight=175)
 
-    state_wise_metric_dropdown = dcc.Dropdown(options=[{'label': 'Women Overweight', 'value': 'women_overweight'},
-                                                       {'label': 'Women with High B.P', 'value': 'women_high_bp'},
-                                                       {'label': 'Women with High Sugar', 'value': 'women_high_sugar'},
-                                                       {'label': 'Men Overweight', 'value': 'women_overweight'},
-                                                       {'label': 'Men with High B.P', 'value': 'men_high_bp'},
-                                                       {'label': 'Men with High Sugar', 'value': 'men_high_sugar'},
-                                                       {'label': 'Infant mortality rate', 'value': 'imr'},
+    state_wise_state_dropdown_1 = dcc.Dropdown(options=state_list,
+                                             value=inputDict["value_health_state_wise_state_dropdown_1"],
+                                            id="health_state_wise_state_dropdown_1",
+                                            maxHeight=175)
+
+    state_wise_metric_dropdown = dcc.Dropdown(options=[{"label":"Children Wasted","value":"children_wasted"},
+                                                       {'label': 'Infant Mortality Rate', 'value': 'imr'},
                                                        {'label': 'Fertility Rate', 'value': 'fertility_rate'},
                                                        {'label': 'Sex Ratio', 'value': 'sex_ratio'},
-                                                       {"label":'Fully immunised children',"value":"fully_immunised"}],
+                                                       {"label":'Fully Immunised Children',"value":"fully_immunised"},
+                                                       {"label":'Health Facilities / Population',"value":"health_facility"},
+                                                       {'label': 'Women Overweight', 'value': 'women_overweight'},
+                                                       {'label': 'Men Overweight', 'value': 'men_overweight'}],
                                                       value=inputDict["value_health_state_wise_metric_dropdown"],
                                             id="health_state_wise_metric_dropdown",
                                             maxHeight=175)
 
 
-    residence_type_state_dropdown = dcc.Dropdown(options=[{"label":"Rural","value":"Rural"},
-                                                    {"label":"Urban","value":"Urban"},
-                                                    {"label":"Combined","value":"Total"}],
-                                           value=inputDict["value_health_state_residence_type_dropdown"],
-                                           id="health_state_residence_type_dropdown",
-                                           maxHeight=175)
-    
-    gender_type_state_dropdown = dcc.Dropdown(options=[{"label":"Male","value":"Male"},
-                                                 {"label":"Female","value":"Female"},
-                                                 {"label":"Male & Female","value":"Person"}],
-                                           value=inputDict["value_health_state_gender_dropdown"],
-                                           id="health_state_gender_dropdown",
-                                           maxHeight=175)
-
     state_dropdown_div = html.Div([state_wise_metric_dropdown],id="health_metric_dropdown_div")
 
-    selection_div_down = html.Div([state_wise_state_dropdown,residence_type_state_dropdown,
-                                   gender_type_state_dropdown],id="health_state_selection_div_down")
+    selection_div_down = html.Div([state_wise_state_dropdown,html.Div(html.P("Vs"),id="health_vs"),
+                                   state_wise_state_dropdown_1],
+                                   id="health_state_selection_div_down")
 
     all_selection_div = html.Div([state_dropdown_div,selection_div_down],id="health_state_all_selection_div")
     
 
-    state_wise_metrics = html.Div([all_selection_div],id="health_state_wise_metrics")
+    if inputDict["value_health_state_wise_metric_dropdown"] in ['women_overweight',"women_high_bp", 'women_high_sugar',
+                                                                'men_overweight','men_high_bp','men_high_sugar',"children_wasted",
+                                                                "imr",'fertility_rate','sex_ratio']:
+
+        var1 = inputDict["value_health_state_wise_metric_dropdown"]
+        state1 = inputDict["value_health_state_wise_state_dropdown"]
+        state2 = inputDict["value_health_state_wise_state_dropdown_1"]
+        
+        df = df_health_status.copy()
+
+        df1 = df[df["Residence_Type"]=="Rural"]
+        df2 = df[df["Residence_Type"]=="Urban"]
+        df3 = df[df["Residence_Type"]=="Total"]
+        
+        x1 = [df1[df1["State"]==inputDict["value_health_state_wise_state_dropdown"]][var1].values[0],
+              df2[df2["State"]==inputDict["value_health_state_wise_state_dropdown"]][var1].values[0],
+              df3[df3["State"]==inputDict["value_health_state_wise_state_dropdown"]][var1].values[0]]
+        
+        x2 = [df1[df1["State"]==inputDict["value_health_state_wise_state_dropdown_1"]][var1].values[0],
+              df2[df2["State"]==inputDict["value_health_state_wise_state_dropdown_1"]][var1].values[0],
+              df3[df3["State"]==inputDict["value_health_state_wise_state_dropdown_1"]][var1].values[0]]
+
+        labels = ["Rural","Urban","Combined"]
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=x1,y=labels,orientation='h',name=state1,textposition='inside'))
+        fig.add_trace(go.Bar(x=x2,y=labels,orientation='h',name=state2,textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
+    if inputDict["value_health_state_wise_metric_dropdown"] in ["fully_immunised"]:
+
+        var1 = inputDict["value_health_state_wise_metric_dropdown"]
+        state1 = inputDict["value_health_state_wise_state_dropdown"]
+        state2 = inputDict["value_health_state_wise_state_dropdown_1"]
+        
+        df = df_children_immunisation.copy()
+
+        df1 = df[df["Residence_Type"]=="Rural"]
+        df2 = df[df["Residence_Type"]=="Urban"]
+        df3 = df[df["Residence_Type"]=="Total"]
+        
+        x1 = [df1[df1["State"]==inputDict["value_health_state_wise_state_dropdown"]][var1].values[0],
+              df2[df2["State"]==inputDict["value_health_state_wise_state_dropdown"]][var1].values[0],
+              df3[df3["State"]==inputDict["value_health_state_wise_state_dropdown"]][var1].values[0]]
+        
+        x2 = [df1[df1["State"]==inputDict["value_health_state_wise_state_dropdown_1"]][var1].values[0],
+              df2[df2["State"]==inputDict["value_health_state_wise_state_dropdown_1"]][var1].values[0],
+              df3[df3["State"]==inputDict["value_health_state_wise_state_dropdown_1"]][var1].values[0]]
+
+        labels = ["Rural","Urban","Combined"]
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=x1,y=labels,orientation='h',name=state1,textposition='inside'))
+        fig.add_trace(go.Bar(x=x2,y=labels,orientation='h',name=state2,textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
+    
+    graph_figure_bottom = dcc.Graph(figure=fig)
+    graph_div_bottom = html.Div([graph_figure_bottom],id="health_state_wise_metrics_graph_div_bottom")
+    
+    state_wise_metrics = html.Div([all_selection_div,graph_div_bottom ],id="health_state_wise_metrics")
+    
     return html.Div([all_states, state_wise_metrics])

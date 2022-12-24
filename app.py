@@ -26,15 +26,13 @@ DataReader = DataReader()
 # This is the input json file used to pass intput to callback functions.
 f = open("inputParameters.json")
 inputParameter  = json.load(f)
-inputParameter_default = inputParameter
 
 
 
 @app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
               [Input(component_id='masterlayout-selection-tabs-parent', component_property='value')])
 
-def renderFunction(value_selected_tab):
-    inputParameter = inputParameter_default
+def renderFunction(value_selected_tab):    
     inputParameter["value_selected_tab"] = value_selected_tab
     return UIDisplay(DataReader,inputParameter)
 
@@ -117,17 +115,22 @@ def renderFunction3(value_education_dropdown,
 
 @app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
               [Input(component_id='health-all_states-dropdown', component_property='value'),
+               Input(component_id='health_state_wise_metric_dropdown', component_property='value'),
                Input(component_id='health_state_wise_state_dropdown', component_property='value'),
-               Input(component_id='health_state_wise_metric_dropdown', component_property='value')])
+               Input(component_id='health_state_wise_state_dropdown_1', component_property='value')])
 
 def renderFunction4(value_all_metric_states_dropdown,
-                   value_health_state_wise_state_dropdown,
-                   value_health_state_wise_metric_dropdown ):
+                    value_health_state_wise_metric_dropdown,
+                    value_health_state_wise_state_dropdown,
+                    value_health_state_wise_state_dropdown_1):
 
     inputDict = inputParameter[inputParameter["value_selected_tab"]]
     inputDict["value_all_states_metric_dropdown"] = value_all_metric_states_dropdown
-    inputDict["value_socioeconomic_state_wise_state_dropdown"] = value_health_state_wise_state_dropdown
-    inputDict["value_socioeconomic_state_wise_metric_dropdown"] = value_health_state_wise_metric_dropdown
+    inputDict["value_health_state_wise_metric_dropdown"] = value_health_state_wise_metric_dropdown
+    inputDict["value_health_state_wise_state_dropdown"] = value_health_state_wise_state_dropdown
+    inputDict["value_health_state_wise_state_dropdown_1"] = value_health_state_wise_state_dropdown_1
+    
+    
     inputParameter[inputParameter["value_selected_tab"]] = inputDict
   
     return UIDisplay(DataReader,inputParameter)

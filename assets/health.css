@@ -34,7 +34,7 @@
     border-radius: 15px;
 }
 #health_state_wise_metric_dropdown {
-    
+
     padding: 5px 5px 5px 5px;
     display: inline-block; 
     border-radius: 15px;
@@ -57,36 +57,20 @@
     font-weight: bold;
     width : 350px
 }
+#health_state_wise_state_dropdown_1{
 
-#health_state_residence_type_dropdown{
     padding: 5px 5px 5px 5px;
     display: inline-block;
     font-weight: bold;
-    width:350px
+    width : 350px
 }
-#health_state_gender_dropdown{
-    padding: 5px 5px 5px 5px;
-    display: inline-block;
+#health_vs{
+    margin-top: 11px;
     font-weight: bold;
-    width:350px
-}
-
-
-
-
-
-#health_state_wise_metrics_graph_div_top{
-    display: block;
-    position:absolute;
-    height: 225px;
-    margin-top:50px;
 }
 
 #health_state_wise_metrics_graph_div_bottom{
     display: block;
-    position:absolute;
-    height: 225px;
-    margin-top:300px;
 }
 
 #health_state_wise_metrics {

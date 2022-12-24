@@ -245,9 +245,6 @@ class DataReader():
     
 
 
-
-
-
     def extractHealthData(self):
 
         df_health_status = pd.read_csv(self.data_folder_location+"/State_General_Health_Status.csv")
@@ -269,7 +266,10 @@ class DataReader():
         'Children under 5 years who are wasted ( weight-for-height ) (%)':"children_wasted",
         "Population and household profile-sex ratio of the total population (females per 1,000 males)":'sex_ratio'}
 
+        for i in list(col_rename.keys()):
+            df_health_status[i] = df_health_status[i].apply(lambda x : abs(x))
         df_health_status = df_health_status.rename(columns=col_rename)
+
         
         state_name,res_type = [],[]
         df_final = pd.DataFrame()
