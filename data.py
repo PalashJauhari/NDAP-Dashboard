@@ -294,5 +294,10 @@ class DataReader():
 
         # Health Infrastructure
         df_health_infrastructure = df_health_infrastructure.merge(df_populdation,on="State",how="inner")
+        df_health_infrastructure["Total Health Centers"] = df_health_infrastructure[["Functional sub centres","Functional primary health centres",
+                                                               "Functional community health centres","Functional sub divisional hospitals",
+                                                                "Functional district hospitals"]].sum(axis=1)
+        df_health_infrastructure["health_facility"] = df_health_infrastructure["Total Health Centers"]/df_health_infrastructure["Population"]
+
 
         return df_health_status,df_children_immunisation,df_health_infrastructure 
