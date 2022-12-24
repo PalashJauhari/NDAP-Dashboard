@@ -15,9 +15,9 @@
                  "value_education_all_states_gender_dropdown":"Male",
                  "value_education_state_wise_state_dropdown":"Maharashtra",
                  "value_education_state_wise_state_dropdown_1":"Maharashtra",
-                 "value_education_state_wise_metric_dropdown":"enrollement_education_level",
-                 "value_education_states_residence_type_dropdown":"Rural",
-                 "value_education_states_gender_dropdown":"Male"},
+                 "value_education_state_wise_metric_dropdown":"attendence_age_group",
+                 "value_education_state_residence_type_dropdown":"Rural",
+                 "value_education_state_gender_dropdown":"Male"},
     
     "health":{},
     "employment":{}

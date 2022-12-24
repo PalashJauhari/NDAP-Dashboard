@@ -76,20 +76,43 @@ def renderFunction2(value_all_metric_states_dropdown,
               [Input(component_id='education_dropdown', component_property='value'),
                Input(component_id='education_all_states_metric_dropdown', component_property='value'),
                Input(component_id='education_all_states_residence_type_dropdown', component_property='value'),
-               Input(component_id='education_all_states_gender_dropdown', component_property='value')])
+               Input(component_id='education_all_states_gender_dropdown', component_property='value'),
+               
+               Input(component_id='education_state_wise_state_dropdown', component_property='value'),
+               Input(component_id='education_state_wise_state_dropdown_1', component_property='value'),
+               Input(component_id='education_state_wise_metric_dropdown', component_property='value'),
+               Input(component_id='education_state_residence_type_dropdown', component_property='value'),
+               Input(component_id='education_state_gender_dropdown', component_property='value')])
 
 def renderFunction3(value_education_dropdown,
                     value_education_all_states_metric_dropdown,
                     value_education_all_states_residence_type_dropdown,
-                    value_education_all_states_gender_dropdown):
+                    value_education_all_states_gender_dropdown,
+                    
+                    value_education_state_wise_state_dropdown,
+                    value_education_state_wise_state_dropdown_1,
+                    value_education_state_wise_metric_dropdown,
+                    value_education_state_residence_type_dropdown,
+                    value_education_state_gender_dropdown):
 
     inputDict = inputParameter[inputParameter["value_selected_tab"]]
+    
+    # all states input
     inputDict["value_education_dropdown"] = value_education_dropdown
     inputDict["value_education_all_states_metric_dropdown"] = value_education_all_states_metric_dropdown
     inputDict["value_education_all_states_residence_type_dropdown"] = value_education_all_states_residence_type_dropdown
     inputDict["value_education_all_states_gender_dropdown"] = value_education_all_states_gender_dropdown
+
+    # statewise inputs
+    inputDict["value_education_state_wise_state_dropdown"]=value_education_state_wise_state_dropdown
+    inputDict["value_education_state_wise_state_dropdown_1"]=value_education_state_wise_state_dropdown_1
+    inputDict["value_education_state_wise_metric_dropdown"]=value_education_state_wise_metric_dropdown
+    inputDict["value_education_state_residence_type_dropdown"]=value_education_state_residence_type_dropdown
+    inputDict["value_education_state_gender_dropdown"]=value_education_state_gender_dropdown
+
     inputParameter[inputParameter["value_selected_tab"]] = inputDict
   
+    
     return UIDisplay(DataReader,inputParameter)
 
 

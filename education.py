@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 def education_participation_layout(DataReader,inputDict):
 
 
-    df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_type,df_course_level  = DataReader.extractEducationParticipationData()
+    df_attendence_age,df_attendence_education_level,df_courses,df_courses_1 ,df_enrollement_education_level,df_institute_type,df_course_level,df_institute_type_1,df_course_level_1  = DataReader.extractEducationParticipationData()
 
     metric_dropdown = dcc.Dropdown(options=[{"label":"Enrollement","value":"enrollement_education_level"},
                                             {"label":"Attendance","value":"attendence_age_group"},
@@ -149,11 +149,11 @@ def education_participation_layout(DataReader,inputDict):
                                             id="education_state_wise_state_dropdown_1",
                                             maxHeight=175)
 
-    state_wise_metric_dropdown = dcc.Dropdown(options=[{"label":"Enrollement As Per Education Level","value":"enrollement_education_level"},
+    state_wise_metric_dropdown = dcc.Dropdown(options=[
                                             {"label":"Attendance As Per Age Groups","value":"attendence_age_group"},
-                                            {"label":"Attendance As Per Education Level","value":"attendence_education_level"},
                                             {"label":"Distribution As Per Education Level","value":"distribution_education_level"},
-                                            {"label":"Distribution As Per Different Courses","value":"distribution_courses"}],                                       
+                                            {"label":"Distribution As Per Different Courses","value":"distribution_courses"},
+                                            {"label":"Distribution As Per Institute Type","value":"distribution_institute"}],                                       
                                            value=inputDict["value_education_state_wise_metric_dropdown"],
                                            id="education_state_wise_metric_dropdown",
                                            maxHeight=175)
@@ -161,14 +161,14 @@ def education_participation_layout(DataReader,inputDict):
     residence_type_state_dropdown = dcc.Dropdown(options=[{"label":"Rural","value":"Rural"},
                                                     {"label":"Urban","value":"Urban"},
                                                     {"label":"Combined","value":"Total"}],
-                                           value=inputDict["value_education_states_residence_type_dropdown"],
+                                           value=inputDict["value_education_state_residence_type_dropdown"],
                                            id="education_state_residence_type_dropdown",
                                            maxHeight=175)
     
     gender_type_state_dropdown = dcc.Dropdown(options=[{"label":"Male","value":"Male"},
                                                  {"label":"Female","value":"Female"},
                                                  {"label":"Male & Female","value":"Person"}],
-                                           value=inputDict["value_education_states_gender_dropdown"],
+                                           value=inputDict["value_education_state_gender_dropdown"],
                                            id="education_state_gender_dropdown",
                                            maxHeight=175)
     
@@ -182,20 +182,20 @@ def education_participation_layout(DataReader,inputDict):
     all_selection_div = html.Div([state_dropdown_div,selection_div_down],id="state_all_selection_div")
     
 
-    if inputDict["value_education_all_states_metric_dropdown"]=="enrollement_education_level":
+    if inputDict["value_education_state_wise_metric_dropdown"]=="attendence_age_group":
 
-        df = df_enrollement_education_level.copy()
+        df = df_attendence_age.copy()
+        var1 = "Age group"
+        var2 = "Attendance ratio"
         
-        df =  df[df["Level of current enrolment"].isin(['Primary','Secondary','Higher Secondary'])]
-        df1 = df[df["Residence_Type"]==inputDict["value_education_states_residence_type_dropdown"]]
-        df1 = df1[df1["Gender"]==inputDict["value_education_states_gender_dropdown"]]
+        df1 = df[df["Residence_Type"]==inputDict["value_education_state_residence_type_dropdown"]]
+        df1 = df1[df1["Gender"]==inputDict["value_education_state_gender_dropdown"]]
         df1 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown"]]
-        df2 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown_1"]]
+        
+        df2 = df[df["Residence_Type"]==inputDict["value_education_state_residence_type_dropdown"]]
+        df2 = df2[df2["Gender"]==inputDict["value_education_state_gender_dropdown"]]
+        df2 = df2[df2["State"]==inputDict["value_education_state_wise_state_dropdown_1"]]
 
-        var1 = "Level of current enrolment"
-        var2 = "Gross enrolment ratio ( ger )"
-        
-        
         labels = list(np.unique(df1[var1]))
 
         y1, y2 = [],[]
@@ -207,6 +207,87 @@ def education_participation_layout(DataReader,inputDict):
         fig.add_trace(go.Bar(x=y1,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown"],textposition='inside'))
         fig.add_trace(go.Bar(x=y2,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown_1"],textposition='inside'))
         fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
+    if inputDict["value_education_state_wise_metric_dropdown"]=="distribution_education_level":
+
+        df = df_course_level_1.copy()
+        var1 = "Course type"
+        var2 = "Enrolement"
+        
+        df1 = df[df["Residence_Type"]==inputDict["value_education_state_residence_type_dropdown"]]
+        df1 = df1[df1["Gender"]==inputDict["value_education_state_gender_dropdown"]]
+        df1 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown"]]
+        
+        df2 = df[df["Residence_Type"]==inputDict["value_education_state_residence_type_dropdown"]]
+        df2 = df2[df2["Gender"]==inputDict["value_education_state_gender_dropdown"]]
+        df2 = df2[df2["State"]==inputDict["value_education_state_wise_state_dropdown_1"]]
+
+        labels = list(np.unique(df1[var1]))
+
+        y1, y2 = [],[]
+        for i in labels:
+            y1.append(df1[df1[var1]==i][var2].values[0])
+            y2.append(df2[df2[var1]==i][var2].values[0])
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=y1,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown"],textposition='inside'))
+        fig.add_trace(go.Bar(x=y2,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown_1"],textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
+    if inputDict["value_education_state_wise_metric_dropdown"]=="distribution_courses":
+
+        df = df_courses_1.copy()
+        df=df[~df["Course type"].isin(["All"])]
+        var1 = "Course type"
+        var2 = "Distribution of students pursuing various courses (%)"
+        
+        df1 = df[df["Residence_Type"]==inputDict["value_education_state_residence_type_dropdown"]]
+        df1 = df1[df1["Gender"]==inputDict["value_education_state_gender_dropdown"]]
+        df1 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown"]]
+        
+        df2 = df[df["Residence_Type"]==inputDict["value_education_state_residence_type_dropdown"]]
+        df2 = df2[df2["Gender"]==inputDict["value_education_state_gender_dropdown"]]
+        df2 = df2[df2["State"]==inputDict["value_education_state_wise_state_dropdown_1"]]
+
+        labels = list(np.unique(df1[var1]))
+
+        y1, y2 = [],[]
+        for i in labels:
+            y1.append(df1[df1[var1]==i][var2].values[0])
+            y2.append(df2[df2[var1]==i][var2].values[0])
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=y1,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown"],textposition='inside'))
+        fig.add_trace(go.Bar(x=y2,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown_1"],textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
+    if inputDict["value_education_state_wise_metric_dropdown"]=="distribution_institute":
+
+        df = df_institute_type_1.copy()
+        var1 = "Institution type"
+        var2 = "Enrolement"
+        
+        df1 = df[df["Residence_Type"]==inputDict["value_education_state_residence_type_dropdown"]]
+        df1 = df1[df1["Gender"]==inputDict["value_education_state_gender_dropdown"]]
+        df1 = df1[df1["State"]==inputDict["value_education_state_wise_state_dropdown"]]
+        
+        df2 = df[df["Residence_Type"]==inputDict["value_education_state_residence_type_dropdown"]]
+        df2 = df2[df2["Gender"]==inputDict["value_education_state_gender_dropdown"]]
+        df2 = df2[df2["State"]==inputDict["value_education_state_wise_state_dropdown_1"]]
+
+        labels = list(np.unique(df1[var1]))
+
+        y1, y2 = [],[]
+        for i in labels:
+            y1.append(df1[df1[var1]==i][var2].values[0])
+            y2.append(df2[df2[var1]==i][var2].values[0])
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=y1,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown"],textposition='inside'))
+        fig.add_trace(go.Bar(x=y2,y=labels,orientation='h',name=inputDict["value_education_state_wise_state_dropdown_1"],textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
+    
     
 
     graph_figure_bottom = dcc.Graph(figure=fig)

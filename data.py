@@ -144,6 +144,7 @@ class DataReader():
                         'others*':'Others','science':'Science','up to X':'Upto X','all (incl. n.r.)':'All'}
         
         df_courses["Course type"] = df_courses["Course type"].apply(lambda x : mapping_dict[x])
+        df_courses_1 = df_courses.copy()
 
         all_course_list = list(np.unique(df_courses["Course type"]))
         
@@ -240,4 +241,4 @@ class DataReader():
         df_final = df_final.drop_duplicates()
         df_course_level = df_final.copy()
 
-        return df_attendence_age,df_attendence_education_level,df_courses,df_enrollement_education_level,df_institute_type,df_course_level 
+        return df_attendence_age,df_attendence_education_level,df_courses,df_courses_1,df_enrollement_education_level,df_institute_type,df_course_level,df_institute_type_1,df_course_level_1 
