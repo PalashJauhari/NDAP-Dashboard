@@ -8,6 +8,7 @@ from masterlayout import masterLayout
 from populationcensus import populationcensusLayout
 from socioeconomic import socioeconomicLayout
 from education import educationLayout
+from health import healthLayout
 
 def UIDisplay(DataReader,inputDict):
 
@@ -28,7 +29,7 @@ def UIDisplay(DataReader,inputDict):
         return educationLayout(DataReader,inputDict["education"])
 
     if value_selected_tab=="health":
-        pass
+        return healthLayout(DataReader,inputDict["health"])
     
     if value_selected_tab=="employment":
         pass
