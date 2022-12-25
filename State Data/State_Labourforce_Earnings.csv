@@ -1,0 +1,325 @@
+State,Residence_Type,Gender,Average Salaried Earnings,Average Casual Labour Earning
+Jammu And Kashmir,Rural,Female,17763.56,394.38
+Jammu And Kashmir,Rural,Male,20502.29,443.15
+Jammu And Kashmir,Rural,Person,19983.31,442.75
+Jammu And Kashmir,Total,Female,19225.43,400.53
+Jammu And Kashmir,Total,Male,21877.98,445.86
+Jammu And Kashmir,Total,Person,21344.28,444.89
+Jammu And Kashmir,Urban,Female,22088.92,403.72
+Jammu And Kashmir,Urban,Male,25299.15,475.26
+Jammu And Kashmir,Urban,Person,24564.35,464.82
+Himachal Pradesh,Rural,Female,11155.04,318.34
+Himachal Pradesh,Rural,Male,18477.69,352.87
+Himachal Pradesh,Rural,Person,16406.63,351.74
+Himachal Pradesh,Total,Female,12151.48,318.34
+Himachal Pradesh,Total,Male,19011.45,349.31
+Himachal Pradesh,Total,Person,17065.71,348.39
+Himachal Pradesh,Urban,Female,16267.01,0.0
+Himachal Pradesh,Urban,Male,21261.82,313.49
+Himachal Pradesh,Urban,Person,19828.21,313.49
+Punjab,Rural,Female,7469.97,282.07
+Punjab,Rural,Male,10675.33,337.98
+Punjab,Rural,Person,9583.19,335.53
+Punjab,Total,Female,9722.11,253.58
+Punjab,Total,Male,13448.58,342.22
+Punjab,Total,Person,12371.55,337.93
+Punjab,Urban,Female,12508.96,165.42
+Punjab,Urban,Male,15583.91,364.55
+Punjab,Urban,Person,14835.68,350.15
+Chandigarh,Rural,Female,5986.61,0.0
+Chandigarh,Rural,Male,12166.72,384.75
+Chandigarh,Rural,Person,9854.59,384.75
+Chandigarh,Total,Female,21035.3,319.48
+Chandigarh,Total,Male,22574.67,348.96
+Chandigarh,Total,Person,22227.97,342.51
+Chandigarh,Urban,Female,22010.15,319.48
+Chandigarh,Urban,Male,22891.98,335.18
+Chandigarh,Urban,Person,22698.36,330.79
+Uttarakhand,Rural,Female,11723.35,201.39
+Uttarakhand,Rural,Male,11383.88,357.15
+Uttarakhand,Rural,Person,11485.32,336.74
+Uttarakhand,Total,Female,12346.47,204.61
+Uttarakhand,Total,Male,14602.27,359.23
+Uttarakhand,Total,Person,14027.65,340.65
+Uttarakhand,Urban,Female,13516.11,390.32
+Uttarakhand,Urban,Male,18134.91,376.02
+Uttarakhand,Urban,Person,17213.51,376.32
+Haryana,Rural,Female,7119.27,292.17
+Haryana,Rural,Male,19869.1,382.81
+Haryana,Rural,Person,18438.11,372.57
+Haryana,Total,Female,18601.24,297.79
+Haryana,Total,Male,20451.13,384.93
+Haryana,Total,Person,20144.89,375.53
+Haryana,Urban,Female,23658.33,318.32
+Haryana,Urban,Male,20987.99,391.13
+Haryana,Urban,Person,21547.01,384.39
+Delhi,Rural,Female,900.0,220.0
+Delhi,Rural,Male,16263.52,361.93
+Delhi,Rural,Person,15514.71,302.72
+Delhi,Total,Female,26296.68,286.23
+Delhi,Total,Male,23061.63,396.51
+Delhi,Total,Person,23728.35,381.84
+Delhi,Urban,Female,26334.66,300.0
+Delhi,Urban,Male,23113.46,397.83
+Delhi,Urban,Person,23780.55,386.43
+Rajasthan,Rural,Female,5151.39,192.87
+Rajasthan,Rural,Male,12569.43,315.04
+Rajasthan,Rural,Person,11648.12,286.99
+Rajasthan,Total,Female,10985.77,192.82
+Rajasthan,Total,Male,15314.41,315.86
+Rajasthan,Total,Person,14659.43,289.59
+Rajasthan,Urban,Female,15096.76,192.2
+Rajasthan,Urban,Male,18284.37,320.21
+Rajasthan,Urban,Person,17714.37,305.24
+Uttar Pradesh,Rural,Female,6521.03,198.01
+Uttar Pradesh,Rural,Male,12019.79,289.94
+Uttar Pradesh,Rural,Person,10643.85,280.67
+Uttar Pradesh,Total,Female,10298.31,201.98
+Uttar Pradesh,Total,Male,15107.88,297.38
+Uttar Pradesh,Total,Person,14234.54,287.81
+Uttar Pradesh,Urban,Female,14743.46,225.13
+Uttar Pradesh,Urban,Male,16840.46,338.93
+Uttar Pradesh,Urban,Person,16552.61,327.9
+Bihar,Rural,Female,4934.18,262.75
+Bihar,Rural,Male,15829.84,313.05
+Bihar,Rural,Person,14812.9,305.62
+Bihar,Total,Female,11131.9,262.38
+Bihar,Total,Male,16782.15,314.97
+Bihar,Total,Person,16155.32,307.54
+Bihar,Urban,Female,19151.79,210.82
+Bihar,Urban,Male,18841.14,346.48
+Bihar,Urban,Person,18886.73,343.77
+Sikkim,Rural,Female,20608.36,0.0
+Sikkim,Rural,Male,16165.27,527.38
+Sikkim,Rural,Person,18596.48,527.38
+Sikkim,Total,Female,21053.94,0.0
+Sikkim,Total,Male,19437.62,529.07
+Sikkim,Total,Person,20143.67,529.07
+Sikkim,Urban,Female,22169.58,0.0
+Sikkim,Urban,Male,22210.33,537.8
+Sikkim,Urban,Person,22198.5,537.8
+Arunachal Pradesh,Rural,Female,15795.03,350.0
+Arunachal Pradesh,Rural,Male,30772.15,372.12
+Arunachal Pradesh,Rural,Person,26657.65,368.3
+Arunachal Pradesh,Total,Female,18957.29,357.58
+Arunachal Pradesh,Total,Male,31571.89,379.35
+Arunachal Pradesh,Total,Person,28347.48,376.75
+Arunachal Pradesh,Urban,Female,26870.63,378.28
+Arunachal Pradesh,Urban,Male,33042.32,385.85
+Arunachal Pradesh,Urban,Person,31698.67,385.37
+Nagaland,Rural,Female,17543.41,0.0
+Nagaland,Rural,Male,17012.1,400.0
+Nagaland,Rural,Person,17091.14,400.0
+Nagaland,Total,Female,21545.14,0.0
+Nagaland,Total,Male,20380.47,398.06
+Nagaland,Total,Person,20589.5,398.06
+Nagaland,Urban,Female,24980.37,0.0
+Nagaland,Urban,Male,24996.66,396.03
+Nagaland,Urban,Person,24993.11,396.03
+Manipur,Rural,Female,15851.1,329.72
+Manipur,Rural,Male,20873.13,362.29
+Manipur,Rural,Person,19695.2,360.68
+Manipur,Total,Female,16321.16,316.35
+Manipur,Total,Male,20961.51,366.28
+Manipur,Total,Person,19720.52,363.27
+Manipur,Urban,Female,16950.92,290.19
+Manipur,Urban,Male,21151.21,384.06
+Manipur,Urban,Person,19768.15,374.12
+Mizoram,Rural,Female,25397.9,200.0
+Mizoram,Rural,Male,28751.9,360.52
+Mizoram,Rural,Person,28296.22,349.17
+Mizoram,Total,Female,24381.59,272.51
+Mizoram,Total,Male,28539.11,371.96
+Mizoram,Total,Person,27498.14,363.68
+Mizoram,Urban,Female,24179.64,318.77
+Mizoram,Urban,Male,28423.44,381.9
+Mizoram,Urban,Person,27147.09,375.97
+Tripura,Rural,Female,8162.77,265.16
+Tripura,Rural,Male,20661.35,335.95
+Tripura,Rural,Person,15481.21,321.41
+Tripura,Total,Female,11569.8,262.9
+Tripura,Total,Male,21274.76,343.65
+Tripura,Total,Person,17609.24,328.13
+Tripura,Urban,Female,20761.2,242.07
+Tripura,Urban,Male,22299.65,381.29
+Tripura,Urban,Person,21830.78,364.49
+Meghalaya,Rural,Female,5596.29,251.04
+Meghalaya,Rural,Male,15636.49,311.1
+Meghalaya,Rural,Person,11270.8,299.11
+Meghalaya,Total,Female,10876.02,251.89
+Meghalaya,Total,Male,17819.82,314.46
+Meghalaya,Total,Person,14978.96,302.5
+Meghalaya,Urban,Female,23237.98,284.58
+Meghalaya,Urban,Male,21547.49,355.22
+Meghalaya,Urban,Person,22155.04,350.12
+Assam,Rural,Female,7692.4,296.99
+Assam,Rural,Male,14838.03,307.29
+Assam,Rural,Person,12360.3,305.66
+Assam,Total,Female,8940.41,295.92
+Assam,Total,Male,16276.44,309.54
+Assam,Total,Person,13841.94,307.45
+Assam,Urban,Female,16740.66,261.14
+Assam,Urban,Male,22277.54,342.21
+Assam,Urban,Person,20828.99,335.91
+West Bengal,Rural,Female,4866.21,191.69
+West Bengal,Rural,Male,11660.0,250.76
+West Bengal,Rural,Person,9711.81,242.89
+West Bengal,Total,Female,7320.76,192.81
+West Bengal,Total,Male,14043.67,258.34
+West Bengal,Total,Person,12191.39,250.36
+West Bengal,Urban,Female,9155.06,207.51
+West Bengal,Urban,Male,15663.13,297.67
+West Bengal,Urban,Person,13921.07,292.51
+Jharkhand,Rural,Female,11005.8,168.32
+Jharkhand,Rural,Male,13067.56,267.22
+Jharkhand,Rural,Person,12600.88,256.56
+Jharkhand,Total,Female,13668.73,202.08
+Jharkhand,Total,Male,17296.65,271.45
+Jharkhand,Total,Person,16477.32,262.53
+Jharkhand,Urban,Female,16209.35,263.83
+Jharkhand,Urban,Male,21308.57,287.29
+Jharkhand,Urban,Person,20159.44,282.64
+Odisha,Rural,Female,5759.15,182.17
+Odisha,Rural,Male,15907.74,270.44
+Odisha,Rural,Person,13342.96,247.84
+Odisha,Total,Female,7506.46,184.09
+Odisha,Total,Male,19003.61,273.39
+Odisha,Total,Person,16159.68,251.12
+Odisha,Urban,Female,10064.73,222.89
+Odisha,Urban,Male,23233.83,307.29
+Odisha,Urban,Person,20074.51,293.47
+Chhattisgarh,Rural,Female,8525.14,130.55
+Chhattisgarh,Rural,Male,13299.93,188.3
+Chhattisgarh,Rural,Person,12792.84,159.68
+Chhattisgarh,Total,Female,13828.06,133.05
+Chhattisgarh,Total,Male,17522.69,199.75
+Chhattisgarh,Total,Person,16835.1,168.76
+Chhattisgarh,Urban,Female,15610.15,189.47
+Chhattisgarh,Urban,Male,21484.36,262.66
+Chhattisgarh,Urban,Person,20021.17,248.51
+Madhya Pradesh,Rural,Female,9486.76,182.15
+Madhya Pradesh,Rural,Male,9791.41,224.67
+Madhya Pradesh,Rural,Person,9718.47,209.71
+Madhya Pradesh,Total,Female,11712.89,182.21
+Madhya Pradesh,Total,Male,14547.74,232.14
+Madhya Pradesh,Total,Person,13901.14,215.89
+Madhya Pradesh,Urban,Female,12946.64,183.38
+Madhya Pradesh,Urban,Male,16940.9,272.04
+Madhya Pradesh,Urban,Person,16053.14,259.75
+Gujarat,Rural,Female,6582.6,183.08
+Gujarat,Rural,Male,10373.22,242.93
+Gujarat,Rural,Person,9917.21,222.88
+Gujarat,Total,Female,11291.66,185.09
+Gujarat,Total,Male,15319.76,253.96
+Gujarat,Total,Person,14667.3,232.04
+Gujarat,Urban,Female,12637.53,208.75
+Gujarat,Urban,Male,17585.71,318.55
+Gujarat,Urban,Person,16696.14,296.51
+Maharashtra,Rural,Female,8946.78,148.88
+Maharashtra,Rural,Male,15145.91,257.35
+Maharashtra,Rural,Person,14047.97,208.97
+Maharashtra,Total,Female,16721.4,150.98
+Maharashtra,Total,Male,19786.75,275.62
+Maharashtra,Total,Person,19055.9,225.25
+Maharashtra,Urban,Female,18483.51,190.7
+Maharashtra,Urban,Male,21492.46,348.83
+Maharashtra,Urban,Person,20713.97,325.83
+Andhra Pradesh,Rural,Female,7377.83,224.65
+Andhra Pradesh,Rural,Male,14638.78,372.06
+Andhra Pradesh,Rural,Person,13125.17,307.91
+Andhra Pradesh,Total,Female,11082.8,227.07
+Andhra Pradesh,Total,Male,17045.93,378.52
+Andhra Pradesh,Total,Person,15528.16,317.14
+Andhra Pradesh,Urban,Female,13045.84,252.32
+Andhra Pradesh,Urban,Male,19007.49,405.47
+Andhra Pradesh,Urban,Person,17288.88,369.34
+Karnataka,Rural,Female,8424.42,186.32
+Karnataka,Rural,Male,13693.08,367.03
+Karnataka,Rural,Person,12138.77,291.13
+Karnataka,Total,Female,13786.11,191.13
+Karnataka,Total,Male,19430.5,368.8
+Karnataka,Total,Person,17832.9,302.6
+Karnataka,Urban,Female,16787.13,236.01
+Karnataka,Urban,Male,22367.13,373.86
+Karnataka,Urban,Person,20822.82,348.82
+Goa,Rural,Female,13865.17,500.0
+Goa,Rural,Male,19311.34,549.33
+Goa,Rural,Person,18489.72,517.87
+Goa,Total,Female,19777.83,472.05
+Goa,Total,Male,20727.14,505.17
+Goa,Total,Person,20515.56,494.99
+Goa,Urban,Female,21644.02,364.15
+Goa,Urban,Male,21622.02,494.12
+Goa,Urban,Person,21627.79,480.81
+Lakshadweep,Rural,Female,28500.0,0.0
+Lakshadweep,Rural,Male,14885.98,0.0
+Lakshadweep,Rural,Person,25790.23,0.0
+Lakshadweep,Total,Female,11279.01,0.0
+Lakshadweep,Total,Male,18976.57,632.63
+Lakshadweep,Total,Person,14630.05,632.63
+Lakshadweep,Urban,Female,6662.38,0.0
+Lakshadweep,Urban,Male,19275.7,632.63
+Lakshadweep,Urban,Person,12675.44,632.63
+Kerala,Rural,Female,12523.08,395.56
+Kerala,Rural,Male,15938.84,721.39
+Kerala,Rural,Person,14834.09,678.36
+Kerala,Total,Female,15939.97,387.41
+Kerala,Total,Male,18996.99,727.78
+Kerala,Total,Person,17822.38,689.27
+Kerala,Urban,Female,17909.81,369.43
+Kerala,Urban,Male,21789.87,736.51
+Kerala,Urban,Person,20117.8,704.96
+Tamil Nadu,Rural,Female,8466.23,219.52
+Tamil Nadu,Rural,Male,13203.96,442.78
+Tamil Nadu,Rural,Person,11973.68,372.9
+Tamil Nadu,Total,Female,11644.19,228.51
+Tamil Nadu,Total,Male,16267.02,448.53
+Tamil Nadu,Total,Person,14847.29,387.59
+Tamil Nadu,Urban,Female,12979.1,267.36
+Tamil Nadu,Urban,Male,18095.38,460.93
+Tamil Nadu,Urban,Person,16393.5,425.13
+Puducherry,Rural,Female,8025.92,135.87
+Puducherry,Rural,Male,14370.66,581.54
+Puducherry,Rural,Person,12934.77,392.75
+Puducherry,Total,Female,16146.44,143.19
+Puducherry,Total,Male,16705.04,539.92
+Puducherry,Total,Person,16541.57,431.83
+Puducherry,Urban,Female,18908.45,207.09
+Puducherry,Urban,Male,18012.21,504.87
+Puducherry,Urban,Person,18303.53,485.16
+Andaman And Nicobar Islands,Rural,Female,24821.91,248.53
+Andaman And Nicobar Islands,Rural,Male,27592.04,547.82
+Andaman And Nicobar Islands,Rural,Person,26584.32,358.96
+Andaman And Nicobar Islands,Total,Female,23998.22,246.31
+Andaman And Nicobar Islands,Total,Male,28861.87,570.56
+Andaman And Nicobar Islands,Total,Person,27357.95,460.49
+Andaman And Nicobar Islands,Urban,Female,22493.0,135.0
+Andaman And Nicobar Islands,Urban,Male,30162.46,580.06
+Andaman And Nicobar Islands,Urban,Person,28301.12,573.81
+Telangana,Rural,Female,11510.33,194.76
+Telangana,Rural,Male,13360.44,254.62
+Telangana,Rural,Person,12276.32,226.62
+Telangana,Total,Female,12100.77,201.33
+Telangana,Total,Male,18437.05,288.27
+Telangana,Total,Person,16101.76,249.76
+Telangana,Urban,Female,12971.97,323.55
+Telangana,Urban,Male,20091.64,492.05
+Telangana,Urban,Person,18395.95,454.55
+Ladakh,Rural,Female,45000.0,0.0
+Ladakh,Rural,Male,16077.17,0.0
+Ladakh,Rural,Person,18181.47,0.0
+Ladakh,Total,Female,29222.8,0.0
+Ladakh,Total,Male,16812.58,0.0
+Ladakh,Total,Person,18665.33,0.0
+Ladakh,Urban,Female,19011.33,0.0
+Ladakh,Urban,Male,22144.66,0.0
+Ladakh,Urban,Person,20678.89,0.0
+The Dadra And Nagar Haveli And Daman And Diu,Rural,Female,6055.3174672909,0.0
+The Dadra And Nagar Haveli And Daman And Diu,Rural,Male,12125.3833603548,74.4068005421
+The Dadra And Nagar Haveli And Daman And Diu,Rural,Person,10538.5490057903,74.4068005421
+The Dadra And Nagar Haveli And Daman And Diu,Total,Female,7969.6597806139,42.2612232092
+The Dadra And Nagar Haveli And Daman And Diu,Total,Male,13302.5390079154,333.7820419418
+The Dadra And Nagar Haveli And Daman And Diu,Total,Person,12293.1240648021,188.95083318
+The Dadra And Nagar Haveli And Daman And Diu,Urban,Female,11166.2606871531,33.7466185368
+The Dadra And Nagar Haveli And Daman And Diu,Urban,Male,13843.8019006481,167.2554799008
+The Dadra And Nagar Haveli And Daman And Diu,Urban,Person,13275.5483073322,51.6042236625

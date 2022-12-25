@@ -301,3 +301,52 @@ class DataReader():
 
 
         return df_health_status,df_children_immunisation,df_health_infrastructure 
+    
+    def extractEmploymentData(self):
+
+        df_employment_type = pd.read_csv(self.data_folder_location+"/State_Employment_Type.csv")
+        df_industry_name = pd.read_csv(self.data_folder_location+"/State_Industry_Name.csv")
+        df_labourforce_earning = pd.read_csv(self.data_folder_location+"/State_Labourforce_Earnings.csv")
+        df_labourforce_participation_age = pd.read_csv(self.data_folder_location+"/State_Labourforce_Particiaption_Age_Gender.csv")
+        df_labourforce_participation_education = pd.read_csv(self.data_folder_location+"/State_Labourforce_Particiaption_Education_Level.csv")
+
+
+        # processing employment type.
+        df_employment_type = df_employment_type[['State','Households','Households paying income tax or professional tax ',
+                                           'Landless households deriving major part of their income from manual casual labour',
+                                            'Households with salaried job in government','Households with salaried job in public',
+                                            'Households with salaried job in private',
+                                            'Households with monthly income of highest earning member less than 5000',
+                                            'Households with monthly income of highest earning member between 5000 and 10000',
+                                            'Households with monthly income of highest earning member greater than 10000']]
+        
+        df_employment_type = df_employment_type.rename(columns = {'Households paying income tax or professional tax ':"Income Tax",
+                                                                    'Landless households deriving major part of their income from manual casual labour':"Casual Labour",
+                                                                    'Households with salaried job in government':"Government Job",
+                                                                    'Households with salaried job in public':"Pubic Sector Job",
+                                                                    'Households with salaried job in private':"Private Sector Job",
+                                                                    'Households with monthly income of highest earning member less than 5000':"Househld Income < 5000",
+                                                                    'Households with monthly income of highest earning member between 5000 and 10000':"Househld Income Between 5000 & 10000",
+                                                                    'Households with monthly income of highest earning member greater than 10000':"Househld Income > 10000"})
+        
+        for i in ['Income Tax', 'Casual Labour', 'Government Job','Pubic Sector Job', 'Private Sector Job', 'Househld Income < 5000',
+                  'Househld Income Between 5000 & 10000', 'Househld Income > 10000']:
+                  df_employment_type[i] = 100*df_employment_type[i]/df_employment_type['Households']
+        
+        df_employment_type["Other Jobs"] = 100-df_employment_type[['Casual Labour', 'Government Job',
+                                                        'Pubic Sector Job', 'Private Sector Job']].sum(axis=1)
+        
+        # process labourforce age gender
+
+        df_labourforce_participation_age = df_labourforce_participation_age[['State', 'Residence_Type', 'Age group', 'Gender',
+                                                                   ' unemployment rate according to usual status (ps+ss)']]
+        df_labourforce_participation_age = df_labourforce_participation_age.rename(columns={' unemployment rate according to usual status (ps+ss)':"Unemployment Rate %"})                                                                   
+        
+        # process labourforce education level
+
+        df_labourforce_participation_education = df_labourforce_participation_education[['State', 'Residence_Type', 'Gender', 'Education level',
+                                                                                         'Unemployment rate according to usual status based on different general education level']]
+        df_labourforce_participation_education = df_labourforce_participation_education.rename(columns={'Unemployment rate according to usual status based on different general education level':"Unemployment Rate %"})
+
+
+        return df_employment_type,df_labourforce_participation_age,df_labourforce_participation_education,df_labourforce_earning 

@@ -1,0 +1,109 @@
+#employment-all_states {
+    border:2px solid black;
+    width: 664px;
+    height: 540px;
+    margin-top: 5px;
+    border-radius: 15px;
+    display: inline-block;
+    position: absolute;
+    overflow-y: scroll;
+}
+
+/* styling for left side box. */
+#employment_all_states_selection_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(249, 250, 252);
+}
+
+#employment_all_states_metric_dropdown{
+    padding:5px 5px 5px 5px;
+    font-weight: bold;
+}
+
+#education-all_states-graph_div{
+    height:1000px;
+}
+
+/* styling for right side box*/
+
+#employment_state_wise_metrics{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(249, 250, 252);
+    border-radius: 15px;
+}
+
+#employment_state_dropdown_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(249, 250, 252);
+    border-radius: 15px;
+}
+
+#employment_state_wise_state_dropdown{
+
+    padding: 5px 5px 5px 5px;
+    width: 350px;
+    display: inline-block;
+    font-weight: bold
+}
+#employment_vs{
+    margin-top: 11px;
+    font-weight: bold;
+}
+#employment_state_wise_state_dropdown_1{
+
+    padding: 5px 5px 5px 5px;
+    width: 350px;
+    display: inline-block;
+    font-weight: bold
+}
+
+#employment_state_selection_div_down{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(249, 250, 252);
+    border-radius: 15px;
+}
+#employment_state_wise_metric_dropdown{
+    padding: 5px 5px 5px 5px;
+    display: inline-block;
+    font-weight: bold;
+    width:350px;
+    flex: none;
+}
+#employment_state_residence_type_dropdown{
+    padding: 5px 5px 5px 5px;
+    display: inline-block;
+    font-weight: bold;
+    width:350px
+}
+#employment_state_gender_dropdown{
+    padding: 5px 5px 5px 5px;
+    display: inline-block;
+    font-weight: bold;
+    width:350px
+}
+
+
+#employment_state_wise_metrics_graph_div_bottom{
+    display: block;
+}
+
+
+#employment_state_wise_metrics {
+    border:2px solid black;
+    width: 664px;
+    height: 540px;
+    margin-top: 5px;
+    border-radius: 15px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 680px;
+
+}
