@@ -135,6 +135,34 @@ def renderFunction4(value_all_metric_states_dropdown,
   
     return UIDisplay(DataReader,inputParameter)
 
+@app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
+              [Input(component_id='employment_all_states_metric_dropdown', component_property='value'),
+               Input(component_id='employment_state_wise_state_dropdown', component_property='value'),
+               Input(component_id='employment_state_wise_state_dropdown_1', component_property='value'),
+               Input(component_id='employment_state_wise_metric_dropdown', component_property='value'),
+               Input(component_id='employment_state_residence_type_dropdown', component_property='value'),
+               Input(component_id='employment_state_gender_dropdown', component_property='value')])
+
+def renderFunction5(value_employment_all_states_metric_dropdown,
+                    value_employment_state_wise_state_dropdown,
+                    value_employment_state_wise_state_dropdown_1,
+                    value_employment_state_wise_metric_dropdown,
+                    value_employment_state_residence_type_dropdown,
+                    value_employment_state_gender_dropdown):
+
+    inputDict = inputParameter[inputParameter["value_selected_tab"]]
+    inputDict["value_employment_all_states_metric_dropdown"] = value_employment_all_states_metric_dropdown
+    inputDict["value_employment_state_wise_state_dropdown"] = value_employment_state_wise_state_dropdown
+    inputDict["value_employment_state_wise_state_dropdown_1"] = value_employment_state_wise_state_dropdown_1
+    inputDict["value_employment_state_wise_metric_dropdown"] = value_employment_state_wise_metric_dropdown
+    inputDict["value_employment_state_residence_type_dropdown"] = value_employment_state_residence_type_dropdown
+    inputDict["value_employment_state_gender_dropdown"] = value_employment_state_gender_dropdown
+    
+    
+    inputParameter[inputParameter["value_selected_tab"]] = inputDict
+  
+    return UIDisplay(DataReader,inputParameter)
+
 
 if __name__ == "__main__":
     app.run_server()

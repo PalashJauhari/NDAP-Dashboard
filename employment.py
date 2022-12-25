@@ -13,7 +13,7 @@ def employmentLayout(DataReader,inputDict):
     df_employment_type,df_labourforce_participation_age,df_labourforce_participation_education,df_labourforce_earning = DataReader.extractEmploymentData()
     
     metric_dropdown = dcc.Dropdown(options=[{"label":"Households Paying Income Tax","value":"income_tax"},
-                                            {"label":"Distribution of Job Sector","value":"job_sector"},
+                                            {"label":"Distribution of Job Sector","value":"distribution_job_sector"},
                                             {"label":"Distribution of Households Income","value":"distribution_household_income"},
                                             {"label":"Average Salary - Salaried Employee","value":"average_salary_salaried"},
                                             {"label":"Average Salary - Casual Labour","value":"average_salary_casual"},
@@ -22,11 +22,112 @@ def employmentLayout(DataReader,inputDict):
                                            id="employment_all_states_metric_dropdown",
                                            maxHeight=175)
     
-    all_states = html.Div([metric_dropdown],id="employment-all_states")
+    if inputDict["value_employment_all_states_metric_dropdown"] in ["income_tax"]:
 
-
+        var1 = 'Income Tax'
+        df = df_employment_type.copy()
+        df = df.sort_values(var1,ascending=True)
+        x = list(np.round(df[var1].values,1))
+        y = list(df["State"].values)
+        fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=[str(int(i))+" %" for i in x],
+                               textposition='inside',marker=dict(color=x,colorscale='turbo')))
+        fig.update_layout(title={"text":"<b>{} : {} %</b>".format(var1,int(np.mean(df[var1])))},
+                          margin=dict(l=0, r=0, t=25, b=0),height=1000)
+        fig.add_vline(x=np.mean(df[var1]), line_width=3, line_dash="dash", line_color="black")
     
+    if inputDict["value_employment_all_states_metric_dropdown"] in ["unemployment_rate"]:
 
+        var1 = 'Unemployment Rate %'
+        df = df_labourforce_participation_age.copy()
+        df = df.sort_values(var1,ascending=True)
+        df = df[df["Residence_Type"]=="Total"]
+        df = df[df["Age group"]=="all ages"]
+        df = df[df["Gender"]=="Person"]
+
+        x = list(np.round(df[var1].values,1))
+        y = list(df["State"].values)
+        fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=[str(int(i))+" %" for i in x],
+                               textposition='inside',marker=dict(color=x,colorscale='turbo')))
+        fig.update_layout(title={"text":"<b>{} : {} %</b>".format(var1,int(np.mean(df[var1])))},
+                          margin=dict(l=0, r=0, t=25, b=0),height=1000)
+        fig.add_vline(x=np.mean(df[var1]), line_width=3, line_dash="dash", line_color="black")
+    
+    if inputDict["value_employment_all_states_metric_dropdown"] in ["average_salary_salaried","average_salary_casual"]:
+        
+        mapping_dict = {"average_salary_salaried":'Average Salaried Earnings',"average_salary_casual":'Average Casual Labour Earning'}
+        var1 = mapping_dict[inputDict["value_employment_all_states_metric_dropdown"]]
+        df = df_labourforce_earning.copy()
+        df = df[df["Residence_Type"]=="Total"]
+        df = df[df["Gender"]=="Person"]
+        df = df.sort_values(var1,ascending=True)
+        x = list(np.round(df[var1].values,1))
+        y = list(df["State"].values)
+        fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=list(df[var1].values),
+                               textposition='inside',marker=dict(color=x,colorscale='turbo')))
+        fig.update_layout(title={"text":"<b>{} : {} </b>".format(var1,int(np.mean(df[var1])))},
+                          margin=dict(l=0, r=0, t=25, b=0),height=1000)
+        fig.add_vline(x=np.mean(df[var1]), line_width=3, line_dash="dash", line_color="black")
+    
+    if inputDict["value_employment_all_states_metric_dropdown"] == "distribution_job_sector":
+
+        df = df_employment_type.copy()
+        
+        df = df.sort_values( 'Government Job',ascending=True)
+        x1 = list(df[ 'Government Job'].values)
+        y1 = list(df["State"].values)
+
+        x2 = list(df['Pubic Sector Job'].values)
+        y2 = list(df["State"].values)
+
+        x3 = list(df['Private Sector Job'].values)
+        y3 = list(df["State"].values)
+
+        x4 = list(df["Other Jobs"].values)
+        y4 = list(df["State"].values)
+
+        x5 = list(df["Casual Labour"].values)
+        y5 = list(df["State"].values)
+
+        text1 = [str(np.round(i,1))+" %" for i in x1]
+        text2 = [str(np.round(i,1))+" %" for i in x2]
+        text3 = [str(np.round(i,1))+" %" for i in x3]
+        text4 = [str(np.round(i,1))+" %" for i in x4]
+        text5 = [str(np.round(i,1))+" %" for i in x5]
+
+        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name='Government Job',text=text1,textposition='inside'))
+        fig.add_trace(go.Bar(x=x2,y=y2,orientation='h',name='Pubic Sector Job',text=text2,textposition='inside'))
+        fig.add_trace(go.Bar(x=x3,y=y3,orientation='h',name='Private Sector Job',text=text3,textposition='inside'))
+        fig.add_trace(go.Bar(x=x5,y=y5,orientation='h',name="Casual Labour",text=text5,textposition='inside'))
+        fig.add_trace(go.Bar(x=x4,y=y4,orientation='h',name="Other Jobs",text=text4,textposition='inside'))
+        fig.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),height=1000)
+    
+    if inputDict["value_employment_all_states_metric_dropdown"] == "distribution_household_income":
+
+        df = df_employment_type.copy()
+        
+        df = df.sort_values( 'Househld Income < 5000',ascending=True)
+        x1 = list(df[ 'Househld Income < 5000'].values)
+        y1 = list(df["State"].values)
+
+        x2 = list(df['Househld Income Between 5000 & 10000'].values)
+        y2 = list(df["State"].values)
+
+        x3 = list(df[ 'Househld Income > 10000'].values)
+        y3 = list(df["State"].values)
+
+        text1 = [str(np.round(i,1))+" %" for i in x1]
+        text2 = [str(np.round(i,1))+" %" for i in x2]
+        text3 = [str(np.round(i,1))+" %" for i in x3]
+
+        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name='Income < 5k',text=text1,textposition='inside'))
+        fig.add_trace(go.Bar(x=x2,y=y2,orientation='h',name='Income 5k-10k',text=text2,textposition='inside'))
+        fig.add_trace(go.Bar(x=x3,y=y3,orientation='h',name= 'Income > 10k',text=text3,textposition='inside'))
+        fig.update_layout(barmode='relative',margin=dict(l=0, r=0, t=25, b=0),height=1000)
+    
+    graph_figure = dcc.Graph(figure=fig)  
+    graph_div = html.Div([graph_figure],id="employment-all_states-graph_div")
+    all_states = html.Div([metric_dropdown, graph_div ],id="employment-all_states")
+    # statewise 
     state_list = [{'label': i, 'value': i} for i in list(np.unique(df_employment_type["State"]))]
     state_wise_state_dropdown = dcc.Dropdown(options=state_list,
                                              value=inputDict["value_employment_state_wise_state_dropdown"],
@@ -39,7 +140,7 @@ def employmentLayout(DataReader,inputDict):
                                             maxHeight=175)
 
     state_wise_metric_dropdown = dcc.Dropdown(options=[{"label":"Households Paying Income Tax","value":"income_tax"},
-                                            {"label":"Distribution of Job Sector","value":"job_sector"},
+                                            {"label":"Distribution of Job Sector","value":"distribution_job_sector"},
                                             {"label":"Distribution of Households Income","value":"distribution_household_income"},
                                             {"label":"Average Salary - Salaried Employee","value":"average_salary_salaried"},
                                             {"label":"Average Salary - Casual Labour","value":"average_salary_casual"},
