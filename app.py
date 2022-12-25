@@ -158,7 +158,6 @@ def renderFunction5(value_employment_all_states_metric_dropdown,
     inputDict["value_employment_state_residence_type_dropdown"] = value_employment_state_residence_type_dropdown
     inputDict["value_employment_state_gender_dropdown"] = value_employment_state_gender_dropdown
     
-    
     inputParameter[inputParameter["value_selected_tab"]] = inputDict
   
     return UIDisplay(DataReader,inputParameter)

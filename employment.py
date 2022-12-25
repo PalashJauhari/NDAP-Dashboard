@@ -139,13 +139,10 @@ def employmentLayout(DataReader,inputDict):
                                             id="employment_state_wise_state_dropdown_1",
                                             maxHeight=175)
 
-    state_wise_metric_dropdown = dcc.Dropdown(options=[{"label":"Households Paying Income Tax","value":"income_tax"},
-                                            {"label":"Distribution of Job Sector","value":"distribution_job_sector"},
-                                            {"label":"Distribution of Households Income","value":"distribution_household_income"},
-                                            {"label":"Average Salary - Salaried Employee","value":"average_salary_salaried"},
-                                            {"label":"Average Salary - Casual Labour","value":"average_salary_casual"},
+    state_wise_metric_dropdown = dcc.Dropdown(options=[
+                                            {"label":"Average Salary","value":"average_salary"},
                                             {"label":"Unemployment Rate By Age","value":"unemployment_rate_age"},
-                                            {"label":"Unemployment Rate By Education Level","value":"unemployment_rate_education"}],                                       
+                                            {"label":"Unemployment Rate By employment Level","value":"unemployment_rate_employment"}],                                       
                                            value=inputDict["value_employment_state_wise_metric_dropdown"],
                                            id="employment_state_wise_metric_dropdown",
                                            maxHeight=175)
@@ -153,7 +150,7 @@ def employmentLayout(DataReader,inputDict):
     residence_type_state_dropdown = dcc.Dropdown(options=[{"label":"Rural","value":"Rural"},
                                                     {"label":"Urban","value":"Urban"},
                                                     {"label":"Combined","value":"Total"}],
-                                           value=inputDict["value_employment_state_residence_type_dropdown"],
+                                            value=inputDict["value_employment_state_residence_type_dropdown"],
                                            id="employment_state_residence_type_dropdown",
                                            maxHeight=175)
     
@@ -165,15 +162,107 @@ def employmentLayout(DataReader,inputDict):
                                            maxHeight=175)
     
 
+    if inputDict["value_employment_state_wise_metric_dropdown"] in ["average_salary"]:
+        
+        df1 = df_labourforce_earning.drop(columns='Average Salaried Earnings')
+        df1 = df1.rename(columns = {'Average Casual Labour Earning':"Salary"})
+        df1["Employment_Type"] = "Casual Labour"
+        df1["Salary"] = df1["Salary"].apply(lambda x : 26*x) # 26 is multiplied because for casula labour daily wages is given.
+        
+        df2 = df_labourforce_earning.drop(columns='Average Casual Labour Earning')
+        df2 = df2.rename(columns = {'Average Salaried Earnings':"Salary"})
+        df2["Employment_Type"] = "Salaried Employee"
+        df = pd.concat([df1,df2],axis=0)
+
+        var1 = "Employment_Type"
+        var2 = "Salary"
+        
+        df1 = df[df["Residence_Type"]==inputDict["value_employment_state_residence_type_dropdown"]]
+        df1 = df1[df1["Gender"]==inputDict["value_employment_state_gender_dropdown"]]
+        df1 = df1[df1["State"]==inputDict["value_employment_state_wise_state_dropdown"]]
+        
+        df2 = df[df["Residence_Type"]==inputDict["value_employment_state_residence_type_dropdown"]]
+        df2 = df2[df2["Gender"]==inputDict["value_employment_state_gender_dropdown"]]
+        df2 = df2[df2["State"]==inputDict["value_employment_state_wise_state_dropdown_1"]]
+
+        labels = list(np.unique(df1[var1]))
+
+        y1, y2 = [],[]
+        for i in labels:
+            y1.append(df1[df1[var1]==i][var2].values[0])
+            y2.append(df2[df2[var1]==i][var2].values[0])
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=y1,y=labels,orientation='h',name=inputDict["value_employment_state_wise_state_dropdown"],textposition='inside'))
+        fig.add_trace(go.Bar(x=y2,y=labels,orientation='h',name=inputDict["value_employment_state_wise_state_dropdown_1"],textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
+    if inputDict["value_employment_state_wise_metric_dropdown"] in ["unemployment_rate_age"]:
+        
+        
+        df = df_labourforce_participation_age.copy()
+
+        var1 = "Age group"
+        var2 = 'Unemployment Rate %'
+        
+        df1 = df[df["Residence_Type"]==inputDict["value_employment_state_residence_type_dropdown"]]
+        df1 = df1[df1["Gender"]==inputDict["value_employment_state_gender_dropdown"]]
+        df1 = df1[df1["State"]==inputDict["value_employment_state_wise_state_dropdown"]]
+        
+        df2 = df[df["Residence_Type"]==inputDict["value_employment_state_residence_type_dropdown"]]
+        df2 = df2[df2["Gender"]==inputDict["value_employment_state_gender_dropdown"]]
+        df2 = df2[df2["State"]==inputDict["value_employment_state_wise_state_dropdown_1"]]
+
+        labels = list(np.unique(df1[var1]))
+
+        y1, y2 = [],[]
+        for i in labels:
+            y1.append(df1[df1[var1]==i][var2].values[0])
+            y2.append(df2[df2[var1]==i][var2].values[0])
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=y1,y=labels,orientation='h',name=inputDict["value_employment_state_wise_state_dropdown"],textposition='inside'))
+        fig.add_trace(go.Bar(x=y2,y=labels,orientation='h',name=inputDict["value_employment_state_wise_state_dropdown_1"],textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+    
+    if inputDict["value_employment_state_wise_metric_dropdown"] in ["unemployment_rate_employment"]:
+        
+        
+        df = df_labourforce_participation_education.copy()
+
+        var1 = 'Education level'
+        var2 = 'Unemployment Rate %'
+        
+        df1 = df[df["Residence_Type"]==inputDict["value_employment_state_residence_type_dropdown"]]
+        df1 = df1[df1["Gender"]==inputDict["value_employment_state_gender_dropdown"]]
+        df1 = df1[df1["State"]==inputDict["value_employment_state_wise_state_dropdown"]]
+        
+        df2 = df[df["Residence_Type"]==inputDict["value_employment_state_residence_type_dropdown"]]
+        df2 = df2[df2["Gender"]==inputDict["value_employment_state_gender_dropdown"]]
+        df2 = df2[df2["State"]==inputDict["value_employment_state_wise_state_dropdown_1"]]
+
+        labels = list(np.unique(df1[var1]))
+
+        y1, y2 = [],[]
+        for i in labels:
+            y1.append(df1[df1[var1]==i][var2].values[0])
+            y2.append(df2[df2[var1]==i][var2].values[0])
+        
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=y1,y=labels,orientation='h',name=inputDict["value_employment_state_wise_state_dropdown"],textposition='inside'))
+        fig.add_trace(go.Bar(x=y2,y=labels,orientation='h',name=inputDict["value_employment_state_wise_state_dropdown_1"],textposition='inside'))
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),width=660,height=380)
+
+    graph_figure_bottom = dcc.Graph(figure=fig)
+    graph_div_bottom = html.Div([graph_figure_bottom],id="employment_state_wise_metrics_graph_div_bottom")
+
     state_dropdown_div = html.Div([state_wise_state_dropdown,html.Div(html.P("Vs"),id="employment_vs"),
                                   state_wise_state_dropdown_1],
                                   id="employment_state_dropdown_div")
     selection_div_down = html.Div([state_wise_metric_dropdown,residence_type_state_dropdown,
                                    gender_type_state_dropdown],id="employment_state_selection_div_down")
 
-    #all_selection_div = html.Div([state_dropdown_div,selection_div_down],id="employment_state_all_selection_div")
-
-    state_wise_metrics = html.Div([state_dropdown_div,selection_div_down,],
+    state_wise_metrics = html.Div([state_dropdown_div,selection_div_down,graph_div_bottom],
                                  id="employment_state_wise_metrics")
     
     return html.Div([all_states,state_wise_metrics])

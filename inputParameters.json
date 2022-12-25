@@ -31,8 +31,8 @@
     
     "employment":{"value_employment_all_states_metric_dropdown":"income_tax",
                   "value_employment_state_wise_state_dropdown":"Maharashtra",
-                  "value_employment_state_wise_state_dropdown_1":"Maharashtra",
-                  "value_employment_state_wise_metric_dropdown":"income_tax",
+                  "value_employment_state_wise_state_dropdown_1":"Delhi",
+                  "value_employment_state_wise_metric_dropdown":"average_salary",
                   "value_employment_state_residence_type_dropdown":"Rural",
                   "value_employment_state_gender_dropdown":"Male"
                 }
