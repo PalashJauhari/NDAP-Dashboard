@@ -7,6 +7,7 @@ import seaborn as sns
 from dash import Dash, html, dcc 
 from dash_extensions.enrich import Output, DashProxy, Input, MultiplexerTransform, html
 import plotly.graph_objects as go
+import dash_bootstrap_components as dbc
 
 
 def education_participation_layout(DataReader,inputDict):
@@ -326,6 +327,73 @@ def education_participation_layout(DataReader,inputDict):
 
     return html.Div([all_states,state_wise_metrics])
 
+def education_teachers_layout(DataReader,inputDict):
+
+    metric_dropdown = dcc.Dropdown(options=[{"label":"Teachers Per Population","value":"teachers_per_population"},
+                                            {"label":"Male Teachers %","value":"male_teachers_pct"},
+                                            {"label":"Female Teachers %","value":"male_teachers_pct"},
+                                            {"label":"Permanent Teachers","value":"permanent"}],
+                                           value=inputDict["value_education_teachers_all_states_metric_dropdown"],
+                                           id="education_teachers_all_states_metric_dropdown",
+                                           maxHeight=175)
+
+    all_states = html.Div([metric_dropdown],id="education-all_states")
+
+
+    card_avergae_teacher_per_population = dbc.Card(dbc.CardBody(
+        [
+            html.H6("India", className="card-title",id="card-title-et"),
+            html.P("Average Teachers / Population", className="card-title",id="card-title-et"),
+            html.P("0.5",className="card-text",id="card-text-et")
+        ]),style={"width": "20rem","height":"12rem","border":"1px solid black","border-radius":"8px"})
+    
+    card_male_pct = dbc.Card(dbc.CardBody(
+        [
+            html.H6("India", className="card-title",id="card-title-et"),
+            html.P("Average Male Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("0.5",className="card-text")
+        ]),style={"width": "30rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+    card_female_pct = dbc.Card(dbc.CardBody(
+        [
+            html.H6("India", className="card-title",id="card-title-et"),
+            html.P("Average Female Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("0.5",className="card-text")
+        ]),style={"width": "30rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+    
+    card_permanent_pct = dbc.Card(dbc.CardBody(
+        [
+            html.H6("India", className="card-title",id="card-title-et"),
+            html.P("Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("0.5",className="card-text")
+        ]),style={"width": "20rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+    
+    card_contract_pct = dbc.Card(dbc.CardBody(
+        [
+            html.H6("India", className="card-title",id="card-title-et"),
+            html.P("Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("0.5",className="card-text")
+        ]),style={"width": "20rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+    card_parttime_pct = dbc.Card(dbc.CardBody(
+        [
+            html.H6("India", className="card-title",id="card-title-et"),
+            html.P("Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("0.5",className="card-text")
+        ]),style={"width": "20rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+
+    gender_pct = html.Div([card_male_pct,card_female_pct ],id="education_teacher_gender_pct")
+    jobtype_pct = html.Div([card_permanent_pct,card_contract_pct,card_parttime_pct],id="education_teacher_jobtype_pct")
+    teacher_avg = html.Div([card_avergae_teacher_per_population],id="education_teacher_avg_pct")
+
+    summary_card_header_1 = html.Div([gender_pct,jobtype_pct ],id="education_teacher_summary_card_header_1")
+    summary_card_header_2 = html.Div([teacher_avg,summary_card_header_1 ],id="education_teacher_summary_card_header_2")
+    
+    #summary_card_header = html.Div([],id = "education_teachers_summary_card_header")
+
+    state_wise_metrics = html.Div([summary_card_header_2 ],id="education_state_wise_metrics")
+
+    return html.Div([all_states,state_wise_metrics])
+
+
 
 
 def educationLayout(DataReader,inputDict):
@@ -363,6 +431,12 @@ def educationLayout(DataReader,inputDict):
             id="education_dropdown",
             maxHeight=175)
 
-    all_states = education_participation_layout(DataReader,inputDict)
+    
+    if inputDict["value_education_dropdown"]=="participation":
+        all_states = education_participation_layout(DataReader,inputDict)
+    elif inputDict["value_education_dropdown"]=="faculty":
+        all_states = education_teachers_layout(DataReader,inputDict)
+    else:
+        all_states = education_participation_layout(DataReader,inputDict)
 
     return html.Div([selection_tabs,all_states])
