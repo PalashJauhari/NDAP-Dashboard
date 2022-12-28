@@ -342,43 +342,45 @@ def education_teachers_layout(DataReader,inputDict):
 
     card_avergae_teacher_per_population = dbc.Card(dbc.CardBody(
         [
-            html.H6("India", className="card-title",id="card-title-et"),
-            html.P("Average Teachers / Population", className="card-title",id="card-title-et"),
+            
+            html.P("National Average Teachers/Population", className="card-title",id="card-title-et"),
             html.P("0.5",className="card-text",id="card-text-et")
-        ]),style={"width": "20rem","height":"12rem","border":"1px solid black","border-radius":"8px"})
+        ]),className="card_average",style={"width": "150px","height":"110px",
+                                           "border":"2px solid black","border-radius":"8px",
+                                           "margin-right":"3px"})
     
     card_male_pct = dbc.Card(dbc.CardBody(
         [
-            html.H6("India", className="card-title",id="card-title-et"),
-            html.P("Average Male Teacher %", className="card-subtitle",id="card-title-et"),
+            #html.P("India", className="card-title",id="card-title-et"),
+            html.P("National Average Male Teacher %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),style={"width": "30rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+        ]),className="card_gender",style={"width":"245px","height":"50px","border":"2px solid black","border-radius":"8px"})
     card_female_pct = dbc.Card(dbc.CardBody(
         [
-            html.H6("India", className="card-title",id="card-title-et"),
-            html.P("Average Female Teacher %", className="card-subtitle",id="card-title-et"),
+            #html.P("India", className="card-title",id="card-title-et"),
+            html.P("National Average Female Teacher %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),style={"width": "30rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+        ]),className="card_gender",style={"width":"245px","height":"50px","border":"2px solid black","border-radius":"8px"})
     
     card_permanent_pct = dbc.Card(dbc.CardBody(
         [
-            html.H6("India", className="card-title",id="card-title-et"),
-            html.P("Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            #html.H6("India", className="card-title",id="card-title-et"),
+            html.P("National Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),style={"width": "20rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+        ]),className="card_job",style={"width": "160px","height":"50px","border":"2px solid black","border-radius":"8px"})
     
     card_contract_pct = dbc.Card(dbc.CardBody(
         [
-            html.H6("India", className="card-title",id="card-title-et"),
-            html.P("Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            
+            html.P("National Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),style={"width": "20rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+        ]),className="card_jon",style={"width": "160px","height":"50px","border":"2px solid black","border-radius":"8px"})
     card_parttime_pct = dbc.Card(dbc.CardBody(
         [
-            html.H6("India", className="card-title",id="card-title-et"),
-            html.P("Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            #html.H6("India", className="card-title",id="card-title-et"),
+            html.P("National Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),style={"width": "20rem","height":"6rem","border":"1px solid black","border-radius":"8px"})
+        ]),className="card_job",style={"width": "160px","height":"50px","border":"2px solid black","border-radius":"8px"})
 
     gender_pct = html.Div([card_male_pct,card_female_pct ],id="education_teacher_gender_pct")
     jobtype_pct = html.Div([card_permanent_pct,card_contract_pct,card_parttime_pct],id="education_teacher_jobtype_pct")
