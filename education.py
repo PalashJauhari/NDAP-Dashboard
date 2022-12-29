@@ -328,59 +328,113 @@ def education_participation_layout(DataReader,inputDict):
     return html.Div([all_states,state_wise_metrics])
 
 def education_teachers_layout(DataReader,inputDict):
-
-    metric_dropdown = dcc.Dropdown(options=[{"label":"Teachers Per Population","value":"teachers_per_population"},
+    
+    df_teachers = DataReader.extractEducationFacultyData()
+    
+    metric_dropdown = dcc.Dropdown(options=[{"label":"Number of Teachers Per 1000 Population","value":"teachers_per_population"},
                                             {"label":"Male Teachers %","value":"male_teachers_pct"},
-                                            {"label":"Female Teachers %","value":"male_teachers_pct"},
-                                            {"label":"Permanent Teachers","value":"permanent"}],
+                                            {"label":"Female Teachers %","value":"female_teachers_pct"},
+                                            {"label":"Permanent Teachers %","value":"permanent_pct"}],
                                            value=inputDict["value_education_teachers_all_states_metric_dropdown"],
                                            id="education_teachers_all_states_metric_dropdown",
                                            maxHeight=175)
 
-    all_states = html.Div([metric_dropdown],id="education-all_states")
 
+    title_dict = {"teachers_per_population":"Teacher/1000 Population","male_teachers_pct":"Male Teachers %",
+                  "female_teachers_pct":"Female Teachers %","permanent_pct":"Permanent Teachers %"}                   
+    
+    if inputDict["value_education_teachers_all_states_metric_dropdown"] in ['teachers_per_population',
+                                                                            "male_teachers_pct",
+                                                                            "female_teachers_pct",
+                                                                            "permanent_pct"]:
+        
+        var1 = inputDict["value_education_teachers_all_states_metric_dropdown"]
+        df = df_teachers.copy()
+        df = df.sort_values(var1,ascending=True)
+        df = df.reset_index().drop(columns="index")
+        
+        x1 = list(np.abs(df[var1].values))
+        y1 = list(df["State"].values)
+        text1 = [str(np.round(i,1)) for i in x1]
+        fig = go.Figure(go.Bar(x=x1,y=y1,orientation='h',name=var1,text=text1,textposition='inside',
+                               marker=dict(color=x1,colorscale="turbo_r")))
+        fig.update_layout(title={"text":"<b>{} : {}</b>".format(title_dict[var1],np.round(np.mean(df[var1]),1))},
+                          margin=dict(l=0, r=0, t=25, b=0),height=1000)
+        fig.add_vline(x=np.mean(df[var1]), line_width=3, line_dash="dash", line_color="black")
+        fig.update_layout(margin=dict(l=0, r=0, t=25, b=0),height=1000)
+        
+        # create right side graph
+
+        # gender based
+        df_state = df[df["State"]==inputDict["value_education_teachers_all_states_graph_hover"]]
+        labels_gender = ["Male","Female"]
+        values_gender = [df_state["male_teachers_pct"].values[0],df_state["female_teachers_pct"].values[0]]
+
+        fig_gender = go.Figure(data=[go.Pie(labels=labels_gender, values=values_gender)])
+        fig_gender.update_layout(margin=dict(l=0, r=0, t=25, b=0), autosize=False,width=331,height=300)
+        fig_gender.update_layout(title={"text":"<b>Gender Distribution</b>","x":0.5,"y":1.0},
+                                 legend=dict(bgcolor='rgba(0, 0, 0, 0)', orientation='h',x=0.25,y=0))
+        fig_state_gender = dcc.Graph(figure = fig_gender,id="education_teachers_states_gender_graph_hover")
+        
+
+        # job based
+        df_state = df[df["State"]==inputDict["value_education_teachers_all_states_graph_hover"]]
+        labels_job = ["Permanent","Contract"]
+        values_job = [df_state["permanent_pct"].values[0],df_state["contract_pct"].values[0]]
+        #,df_state["part_time_pct"].values[0]
+
+        fig_job = go.Figure(data=[go.Pie(labels=labels_job, values=values_job)])
+        fig_job.update_layout(margin=dict(l=0, r=0, t=25, b=0), autosize=False,width=331,height=300)
+        fig_job.update_layout(title={"text":"<b>Job Type Distribution</b>","x":0.5,"y":1.0},
+                             legend=dict(bgcolor='rgba(0, 0, 0, 0)', orientation='h',x=0.20,y=0))
+        fig_state_job = dcc.Graph(figure = fig_job,id="education_teachers_states_job_graph_hover")
+
+    graph_figure = dcc.Graph(figure=fig,id="education_teachers-all_states_graph_hover")  
+    graph_div = html.Div([graph_figure],id="education_teachers-all_states-graph_div")
+    all_states = html.Div([metric_dropdown,graph_div],id="education-all_states")
+
+    selected_state_name = html.Div([inputDict["value_education_teachers_all_states_graph_hover"]],id="education_teachers_statename")
+    graph_div_state = html.Div([fig_state_gender,fig_state_job ],id="education_teachers-states-graph_div")
 
     card_avergae_teacher_per_population = dbc.Card(dbc.CardBody(
         [
             
             html.P("National Average Teachers/Population", className="card-title",id="card-title-et"),
             html.P("0.5",className="card-text",id="card-text-et")
-        ]),className="card_average",style={"width": "150px","height":"110px",
-                                           "border":"2px solid black","border-radius":"8px",
-                                           "margin-right":"3px"})
+        ]),className="card_average")
     
+
     card_male_pct = dbc.Card(dbc.CardBody(
         [
-            #html.P("India", className="card-title",id="card-title-et"),
-            html.P("National Average Male Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("National Male %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),className="card_gender",style={"width":"245px","height":"50px","border":"2px solid black","border-radius":"8px"})
+        ]),className="card_gender")
+
     card_female_pct = dbc.Card(dbc.CardBody(
         [
-            #html.P("India", className="card-title",id="card-title-et"),
-            html.P("National Average Female Teacher %", className="card-subtitle",id="card-title-et"),
+            
+            html.P("National Female %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),className="card_gender",style={"width":"245px","height":"50px","border":"2px solid black","border-radius":"8px"})
+        ]),className="card_gender")
     
+
     card_permanent_pct = dbc.Card(dbc.CardBody(
         [
-            #html.H6("India", className="card-title",id="card-title-et"),
-            html.P("National Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("National Permanent %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),className="card_job",style={"width": "160px","height":"50px","border":"2px solid black","border-radius":"8px"})
+        ]),className="card_job")
     
     card_contract_pct = dbc.Card(dbc.CardBody(
         [
             
-            html.P("National Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("National Contract %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),className="card_jon",style={"width": "160px","height":"50px","border":"2px solid black","border-radius":"8px"})
+        ]),className="card_job")
     card_parttime_pct = dbc.Card(dbc.CardBody(
         [
-            #html.H6("India", className="card-title",id="card-title-et"),
-            html.P("National Average Permanent Teacher %", className="card-subtitle",id="card-title-et"),
+            html.P("National Part-Time %", className="card-subtitle",id="card-title-et"),
             html.P("0.5",className="card-text")
-        ]),className="card_job",style={"width": "160px","height":"50px","border":"2px solid black","border-radius":"8px"})
+        ]),className="card_job")
 
     gender_pct = html.Div([card_male_pct,card_female_pct ],id="education_teacher_gender_pct")
     jobtype_pct = html.Div([card_permanent_pct,card_contract_pct,card_parttime_pct],id="education_teacher_jobtype_pct")
@@ -389,13 +443,9 @@ def education_teachers_layout(DataReader,inputDict):
     summary_card_header_1 = html.Div([gender_pct,jobtype_pct ],id="education_teacher_summary_card_header_1")
     summary_card_header_2 = html.Div([teacher_avg,summary_card_header_1 ],id="education_teacher_summary_card_header_2")
     
-    #summary_card_header = html.Div([],id = "education_teachers_summary_card_header")
-
-    state_wise_metrics = html.Div([summary_card_header_2 ],id="education_state_wise_metrics")
+    state_wise_metrics = html.Div([summary_card_header_2,selected_state_name,graph_div_state],id="education_state_wise_metrics")
 
     return html.Div([all_states,state_wise_metrics])
-
-
 
 
 def educationLayout(DataReader,inputDict):
@@ -433,7 +483,6 @@ def educationLayout(DataReader,inputDict):
             id="education_dropdown",
             maxHeight=175)
 
-    
     if inputDict["value_education_dropdown"]=="participation":
         all_states = education_participation_layout(DataReader,inputDict)
     elif inputDict["value_education_dropdown"]=="faculty":

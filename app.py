@@ -41,7 +41,7 @@ def renderFunction(value_selected_tab):
                Input(component_id='populationcensus_state_wise_state_dropdown', component_property='value'),
                Input(component_id='populationcensus_state_wise_metric_dropdown', component_property='value')])
 
-def renderFunction1(value_all_metric_states_dropdown,
+def renderFunction_populationcensus(value_all_metric_states_dropdown,
                    value_populationcensus_state_wise_state_dropdown,
                    value_populationcensus_state_wise_metric_dropdown ):
 
@@ -58,7 +58,7 @@ def renderFunction1(value_all_metric_states_dropdown,
                Input(component_id='socioeconomic_state_wise_state_dropdown', component_property='value'),
                Input(component_id='socioeconomic_state_wise_metric_dropdown', component_property='value')])
 
-def renderFunction2(value_all_metric_states_dropdown,
+def renderFunction_socioeconomic(value_all_metric_states_dropdown,
                    value_socioeconomic_state_wise_state_dropdown,
                    value_socioeconomic_state_wise_metric_dropdown ):
 
@@ -70,19 +70,22 @@ def renderFunction2(value_all_metric_states_dropdown,
   
     return UIDisplay(DataReader,inputParameter)
 
+
+
 @app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
               [Input(component_id='education_dropdown', component_property='value'),
                Input(component_id='education_all_states_metric_dropdown', component_property='value'),
                Input(component_id='education_all_states_residence_type_dropdown', component_property='value'),
                Input(component_id='education_all_states_gender_dropdown', component_property='value'),
-               
+
                Input(component_id='education_state_wise_state_dropdown', component_property='value'),
                Input(component_id='education_state_wise_state_dropdown_1', component_property='value'),
                Input(component_id='education_state_wise_metric_dropdown', component_property='value'),
                Input(component_id='education_state_residence_type_dropdown', component_property='value'),
                Input(component_id='education_state_gender_dropdown', component_property='value')])
 
-def renderFunction3(value_education_dropdown,
+
+def renderFunction_education_participation(value_education_dropdown,
                     value_education_all_states_metric_dropdown,
                     value_education_all_states_residence_type_dropdown,
                     value_education_all_states_gender_dropdown,
@@ -109,8 +112,40 @@ def renderFunction3(value_education_dropdown,
     inputDict["value_education_state_gender_dropdown"]=value_education_state_gender_dropdown
 
     inputParameter[inputParameter["value_selected_tab"]] = inputDict
+    inputDict["value_selected_tab"] = value_education_dropdown
   
+    return UIDisplay(DataReader,inputParameter)
+
+@app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
+              [Input(component_id='education_teachers_all_states_metric_dropdown', component_property='value')])
+
+
+def renderFunction_education_faculty(value_education_teachers_all_states_metric_dropdown):
+
+     
+    inputDict = inputParameter["education"]
+    inputDict["value_education_teachers_all_states_metric_dropdown"]=value_education_teachers_all_states_metric_dropdown
+    inputParameter["education"] = inputDict
+    inputDict["value_selected_tab"] = "faculty"
+  
+    return UIDisplay(DataReader,inputParameter)
+
+@app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
+              [Input(component_id='education_teachers-all_states_graph_hover', component_property='clickData')])
+
+
+def renderFunction_education_faculty_1(value_education_teachers_all_states_graph_hover):
+
     
+    inputDict = inputParameter["education"]
+
+    if value_education_teachers_all_states_graph_hover is not None:
+        print(value_education_teachers_all_states_graph_hover['points'][0]["label"])
+        inputDict["value_education_teachers_all_states_graph_hover"]=value_education_teachers_all_states_graph_hover['points'][0]["label"]
+    
+    inputParameter["education"] = inputDict
+    inputDict["value_selected_tab"] = "faculty"
+  
     return UIDisplay(DataReader,inputParameter)
 
 @app.callback(Output(component_id='masterlayout-dynamic-layout', component_property='children'),
@@ -119,7 +154,7 @@ def renderFunction3(value_education_dropdown,
                Input(component_id='health_state_wise_state_dropdown', component_property='value'),
                Input(component_id='health_state_wise_state_dropdown_1', component_property='value')])
 
-def renderFunction4(value_all_metric_states_dropdown,
+def renderFunction_health(value_all_metric_states_dropdown,
                     value_health_state_wise_metric_dropdown,
                     value_health_state_wise_state_dropdown,
                     value_health_state_wise_state_dropdown_1):
@@ -143,7 +178,7 @@ def renderFunction4(value_all_metric_states_dropdown,
                Input(component_id='employment_state_residence_type_dropdown', component_property='value'),
                Input(component_id='employment_state_gender_dropdown', component_property='value')])
 
-def renderFunction5(value_employment_all_states_metric_dropdown,
+def renderFunction_employment(value_employment_all_states_metric_dropdown,
                     value_employment_state_wise_state_dropdown,
                     value_employment_state_wise_state_dropdown_1,
                     value_employment_state_wise_metric_dropdown,

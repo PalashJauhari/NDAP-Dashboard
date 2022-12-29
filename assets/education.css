@@ -1,5 +1,5 @@
 #education-all_states {
-    border:2px solid black;
+    border:0px solid black;
     width: 664px;
     height: 485px;
     margin-top: 5px;
@@ -113,7 +113,7 @@
 
 
 #education_state_wise_metrics {
-    border:2px solid black;
+    border:0px solid black;
     width: 664px;
     height: 485px;
     margin-top: 5px;
@@ -130,26 +130,40 @@
     padding:5px 5px 5px 5px;
     font-weight: bold;
     display: inline-block;
-    width:645px;
+    width:648px;
     flex:none
 
 }
 
-
-.class_average{
-    margin: 0px;
+.card_average{
+    width:150px;
+    height:109px;
+    border:0px solid black;
+    border-radius: 8px;
+    margin-right: 3px;
+    background-color: rgb(162, 187, 241);
 }
-.class_gender{
+.card_gender{
+    width:246px;
+    height:50px;
+    border:0px solid black;
+    border-radius:8px;
     margin:0px;
+    background-color: rgb(241, 138, 90);
 }
-.class_job{
+.card_job{
+    width:160px;
+    height:50px;
+    border:0px solid black;
+    border-radius:8px;
     margin:0px;
+    background-color: rgb(170, 250, 138);
 }
 #education_teacher_gender_pct{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: rgb(249, 250, 252);
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
     width: 500px;
     height:50px;
@@ -159,7 +173,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: rgb(249, 250, 252);
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
     height:50px;
     flex: auto;
@@ -169,7 +183,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: rgb(249, 250, 252);
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
 
 }
@@ -178,7 +192,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-color: rgb(249, 250, 252);
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
     flex: auto;
 }
@@ -186,7 +200,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: rgb(249, 250, 252);
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
     flex: none;
     margin: 3px 3px 0px 3px;
@@ -196,13 +210,55 @@
     text-align: center;
     font-weight: bold;
     padding: 0px;
-    margin:0px;
+    margin-top:7px;
+    margin-bottom:0px;
     font-size: 11px;
 }
 #card-text-et{
+    text-align: center;
+    font-weight: bolder;
+    padding: 0px;
+    margin-top:25px;
+    
+}
+.card-text{
     text-align: center;
     font-weight: bold;
     padding: 0px;
     margin:0px;
     font-size: 11px;
+}
+
+#education_teachers-all_states-graph_div{
+    height:1000px;
+}
+
+
+#education_teachers_statename{
+    width:664px;
+    height:50px;
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(193, 222, 245);
+    display: flex;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+#education_teachers-states-graph_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin-top:10px;
+}
+#education_teachers_states_gender_graph_hover{
+    padding:0px;
+    width:331px;
+}
+#education_teachers_states_job_graph_hover{
+    padding:0px;
+    width:331px;
+
 }

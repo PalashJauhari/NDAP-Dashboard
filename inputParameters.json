@@ -1,41 +1,42 @@
 {
-    "value_selected_tab":"population_census",
-    
-    "population_census":{"value_all_states_metric_dropdown":"population",
-                         "value_populationcensus_state_wise_state_dropdown":"Maharashtra",
-                         "value_populationcensus_state_wise_metric_dropdown":"population"},
-    
-    "socio_economic_condition":{"value_all_states_metric_dropdown":"homeless_household",
-                                "value_socioeconomic_state_wise_state_dropdown":"Maharashtra",
-                                "value_socioeconomic_state_wise_metric_dropdown":"homeless_household"},
-    
-    "education":{"value_education_dropdown":"participation",
-                 "value_education_all_states_metric_dropdown":"enrollement_education_level",
-                 "value_education_all_states_residence_type_dropdown":"Rural",
-                 "value_education_all_states_gender_dropdown":"Male",
+  "value_selected_tab":"population_census",
+  
+  "population_census":{"value_all_states_metric_dropdown":"population",
+                       "value_populationcensus_state_wise_state_dropdown":"Maharashtra",
+                       "value_populationcensus_state_wise_metric_dropdown":"population"},
+  
+  "socio_economic_condition":{"value_all_states_metric_dropdown":"homeless_household",
+                              "value_socioeconomic_state_wise_state_dropdown":"Maharashtra",
+                              "value_socioeconomic_state_wise_metric_dropdown":"homeless_household"},
+  
+  "education":{"value_education_dropdown":"participation",
+               "value_education_all_states_metric_dropdown":"enrollement_education_level",
+               "value_education_all_states_residence_type_dropdown":"Rural",
+               "value_education_all_states_gender_dropdown":"Male",
 
-                 "value_education_state_wise_state_dropdown":"Maharashtra",
-                 "value_education_state_wise_state_dropdown_1":"Delhi",
-                 "value_education_state_wise_metric_dropdown":"enrolement_education_level",
-                 "value_education_state_residence_type_dropdown":"Rural",
-                 "value_education_state_gender_dropdown":"Male",
-                
-                 "value_education_teachers_all_states_metric_dropdown":"teachers_per_population"},
-    
-    "health":{"value_all_states_metric_dropdown":"children_wasted",
+               "value_education_state_wise_state_dropdown":"Maharashtra",
+               "value_education_state_wise_state_dropdown_1":"Delhi",
+               "value_education_state_wise_metric_dropdown":"enrolement_education_level",
+               "value_education_state_residence_type_dropdown":"Rural",
+               "value_education_state_gender_dropdown":"Male",
+              
+               "value_education_teachers_all_states_metric_dropdown":"teachers_per_population",
+               "value_education_teachers_all_states_graph_hover":"Delhi"},
+  
+  "health":{"value_all_states_metric_dropdown":"children_wasted",
 
-              "value_health_state_wise_state_dropdown":"Maharashtra",
-              "value_health_state_wise_state_dropdown_1":"Delhi",
-              "value_health_state_wise_metric_dropdown":"children_wasted",
-              "value_health_state_residence_type_dropdown":"Rural"
-              },
-    
-    
-    "employment":{"value_employment_all_states_metric_dropdown":"income_tax",
-                  "value_employment_state_wise_state_dropdown":"Maharashtra",
-                  "value_employment_state_wise_state_dropdown_1":"Delhi",
-                  "value_employment_state_wise_metric_dropdown":"average_salary",
-                  "value_employment_state_residence_type_dropdown":"Rural",
-                  "value_employment_state_gender_dropdown":"Male"
-                }
+            "value_health_state_wise_state_dropdown":"Maharashtra",
+            "value_health_state_wise_state_dropdown_1":"Delhi",
+            "value_health_state_wise_metric_dropdown":"children_wasted",
+            "value_health_state_residence_type_dropdown":"Rural"
+            },
+  
+  
+  "employment":{"value_employment_all_states_metric_dropdown":"income_tax",
+                "value_employment_state_wise_state_dropdown":"Maharashtra",
+                "value_employment_state_wise_state_dropdown_1":"Delhi",
+                "value_employment_state_wise_metric_dropdown":"average_salary",
+                "value_employment_state_residence_type_dropdown":"Rural",
+                "value_employment_state_gender_dropdown":"Male"
+              }
 }

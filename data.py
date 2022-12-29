@@ -127,7 +127,22 @@ class DataReader():
 
 
         return df
-    
+    def extractEducationFacultyData(self):
+
+        df_population = pd.read_csv(self.data_folder_location+"/State_Population_Census.csv")
+        df_population=df_population[["State","Population"]]
+        df = pd.read_csv(self.data_folder_location+"/State_Education_Teachers.csv")
+        df = df.merge(df_population , on = "State",how="inner")
+
+        df["teachers_per_population"] = df["Total teachers"]/(df["Population"]/(1000))
+        df["male_teachers_pct"] = 100*df["Male teachers"]/df["Total teachers"]
+        df["female_teachers_pct"] = 100 - df["male_teachers_pct"]
+        df["permanent_pct"] = 100*df["Regular teachers"]/df["Total teachers"]
+        df["contract_pct"] = 100*df["Contract teachers"]/df["Total teachers"]
+        df["part_time_pct"] = 100 - df["permanent_pct"] - df["contract_pct"]
+
+        return df
+
     def extractEducationParticipationData(self):
 
         # Read Raw Data Frames
