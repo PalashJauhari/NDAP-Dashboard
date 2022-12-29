@@ -140,7 +140,6 @@ def renderFunction_education_faculty_1(value_education_teachers_all_states_graph
     inputDict = inputParameter["education"]
 
     if value_education_teachers_all_states_graph_hover is not None:
-        print(value_education_teachers_all_states_graph_hover['points'][0]["label"])
         inputDict["value_education_teachers_all_states_graph_hover"]=value_education_teachers_all_states_graph_hover['points'][0]["label"]
     
     inputParameter["education"] = inputDict

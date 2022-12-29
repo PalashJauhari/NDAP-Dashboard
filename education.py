@@ -396,44 +396,51 @@ def education_teachers_layout(DataReader,inputDict):
     selected_state_name = html.Div([inputDict["value_education_teachers_all_states_graph_hover"]],id="education_teachers_statename")
     graph_div_state = html.Div([fig_state_gender,fig_state_job ],id="education_teachers-states-graph_div")
 
+
+    metric  = np.round(np.mean(df_teachers["teachers_per_population"]),1)
     card_avergae_teacher_per_population = dbc.Card(dbc.CardBody(
         [
             
             html.P("National Average Teachers/Population", className="card-title",id="card-title-et"),
-            html.P("0.5",className="card-text",id="card-text-et")
+            html.P(str(metric),className="card-text",id="card-text-et")
         ]),className="card_average")
     
-
+    metric  = np.round(np.mean(df_teachers["male_teachers_pct"]),1)
     card_male_pct = dbc.Card(dbc.CardBody(
         [
             html.P("National Male %", className="card-subtitle",id="card-title-et"),
-            html.P("0.5",className="card-text")
+            html.P(str(metric),className="card-text")
         ]),className="card_gender")
 
+    metric  = np.round(np.mean(df_teachers["female_teachers_pct"]),1)
     card_female_pct = dbc.Card(dbc.CardBody(
         [
             
             html.P("National Female %", className="card-subtitle",id="card-title-et"),
-            html.P("0.5",className="card-text")
+            html.P(str(metric),className="card-text")
         ]),className="card_gender")
     
 
+    metric  = np.round(np.mean(df_teachers["permanent_pct"]),1)
     card_permanent_pct = dbc.Card(dbc.CardBody(
         [
             html.P("National Permanent %", className="card-subtitle",id="card-title-et"),
-            html.P("0.5",className="card-text")
+            html.P(str(metric),className="card-text")
         ]),className="card_job")
     
+    metric  = np.round(np.mean(df_teachers["contract_pct"]),1)
     card_contract_pct = dbc.Card(dbc.CardBody(
         [
             
             html.P("National Contract %", className="card-subtitle",id="card-title-et"),
-            html.P("0.5",className="card-text")
+            html.P(str(metric),className="card-text")
         ]),className="card_job")
+    
+    metric  = np.round(np.mean(df_teachers["part_time_pct"]),1)
     card_parttime_pct = dbc.Card(dbc.CardBody(
         [
             html.P("National Part-Time %", className="card-subtitle",id="card-title-et"),
-            html.P("0.5",className="card-text")
+            html.P(str(metric),className="card-text")
         ]),className="card_job")
 
     gender_pct = html.Div([card_male_pct,card_female_pct ],id="education_teacher_gender_pct")
