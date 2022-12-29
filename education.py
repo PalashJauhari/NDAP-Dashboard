@@ -340,7 +340,7 @@ def education_teachers_layout(DataReader,inputDict):
                                            maxHeight=175)
 
 
-    title_dict = {"teachers_per_population":"Teacher/1000 Population","male_teachers_pct":"Male Teachers %",
+    title_dict = {"teachers_per_population":"Number of Teacher/1000 Population","male_teachers_pct":"Male Teachers %",
                   "female_teachers_pct":"Female Teachers %","permanent_pct":"Permanent Teachers %"}                   
     
     if inputDict["value_education_teachers_all_states_metric_dropdown"] in ['teachers_per_population',
@@ -473,15 +473,15 @@ def educationLayout(DataReader,inputDict):
         
            {"label": html.Div(
                 [
-                    html.Img(src="assets/paticipation.png", height=30),
+                    html.Img(src="assets/paticipation.png", height=30,width=30),
                     html.Div("Student Participation", style={"font-weight":"bold",'font-size': 16, 'padding-left': 10}),
                 ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
             ), "value":'participation'},
           
            {"label": html.Div(
                 [
-                    html.Img(src="assets/faculty.png", height=30),
-                    html.Div("Faculty", style={"font-weight":"bold",'font-size': 16, 'padding-left': 10}),
+                    html.Img(src="assets/faculty.png", height=30,width=30),
+                    html.Div("Teaching Staff", style={"font-weight":"bold",'font-size': 16, 'padding-left': 10}),
                 ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
             ), "value" : 'faculty'}],
             

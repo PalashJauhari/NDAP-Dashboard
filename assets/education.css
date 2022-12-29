@@ -1,3 +1,6 @@
+#education_dropdown{
+    margin-top:4px;
+}
 #education-all_states {
     border:0px solid black;
     width: 664px;
@@ -105,13 +108,9 @@
     font-weight: bold;
     width:350px
 }
-
-
 #education_state_wise_metrics_graph_div_bottom{
     display: block;
 }
-
-
 #education_state_wise_metrics {
     border:0px solid black;
     width: 664px;
