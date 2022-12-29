@@ -16,7 +16,7 @@ def masterLayout():
  
 
 
-    heading = html.Div(["Social and Economic Indicators of Indian States"],
+    heading = html.Div(["India's Regional Social and Economic Trends"],
                        id="masterlayout-heading")
 
     selection_tabs = html.Div(dcc.Tabs(id="masterlayout-selection-tabs-parent", value='population_census', 

@@ -1,5 +1,5 @@
 #populationcensus-all_states {
-    border:2px solid black;
+    border:0px solid black;
     width: 664px;
     height: 540px;
     margin-top: 5px;
@@ -18,7 +18,7 @@
 }
 
 #populationcensus_state_wise_metrics {
-    border:2px solid black;
+    border:0px solid black;
     width: 664px;
     height: 540px;
     margin-top: 5px;

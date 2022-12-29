@@ -27,7 +27,7 @@
     font-weight: bold;
     font-size: x-large;
     background-color:#6b7edb9c;
-    border: 2px solid black;
+    border: 0px solid black;
     border-radius: 15px;
     height: 40px;
     color:black
@@ -35,7 +35,7 @@
 
 #masterlayout-selection-tabs-parent {
     margin-top: 1px;
-    border: 2px solid black;
+    border: 0px solid black;
     border-radius: 12px;
     background-color: #cfa02a9c;
 }

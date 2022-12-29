@@ -17,7 +17,8 @@ def socioeconomicLayout(DataReader,inputDict):
 
     df_household,df_electricity_toilets,df_cooking_gas,df_banking,df_gini = DataReader.extractSocioEconomicData()
 
-    all_states_metric_dropdown = dcc.Dropdown(options=[{'label': 'Homeless Households', 'value': 'homeless_household'},
+    #{'label': 'Homeless Households', 'value': 'homeless_household'},
+    all_states_metric_dropdown = dcc.Dropdown(options=[
                                                        {'label': 'Electricity and Sanitisation', 'value': 'electricity_toilets'},
                                                        {'label': 'Cooking Gas', 'value': 'cooking_gas'},
                                                        {'label': 'Bank Accounts', 'value': 'banking'},
@@ -149,8 +150,8 @@ def socioeconomicLayout(DataReader,inputDict):
                                              value=inputDict["value_socioeconomic_state_wise_state_dropdown"],
                                             id="socioeconomic_state_wise_state_dropdown",
                                             maxHeight=175)
-
-    state_wise_metric_dropdown = dcc.Dropdown(options=[{'label': 'Homeless Households', 'value': 'homeless_household'},
+    #{'label': 'Homeless Households', 'value': 'homeless_household'},
+    state_wise_metric_dropdown = dcc.Dropdown(options=[
                                                        {'label': 'Electricity and Sanitisation', 'value': 'electricity_toilets'},
                                                        {'label': 'Cooking Gas', 'value': 'cooking_gas'},
                                                        {'label': 'Bank Accounts', 'value': 'banking'},

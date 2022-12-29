@@ -5,9 +5,9 @@
                        "value_populationcensus_state_wise_state_dropdown":"Maharashtra",
                        "value_populationcensus_state_wise_metric_dropdown":"population"},
   
-  "socio_economic_condition":{"value_all_states_metric_dropdown":"homeless_household",
+  "socio_economic_condition":{"value_all_states_metric_dropdown":"electricity_toilets",
                               "value_socioeconomic_state_wise_state_dropdown":"Maharashtra",
-                              "value_socioeconomic_state_wise_metric_dropdown":"homeless_household"},
+                              "value_socioeconomic_state_wise_metric_dropdown":"electricity_toilets"},
   
   "education":{"value_education_dropdown":"participation",
                "value_education_all_states_metric_dropdown":"enrollement_education_level",

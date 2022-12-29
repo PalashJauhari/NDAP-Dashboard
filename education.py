@@ -455,6 +455,13 @@ def education_teachers_layout(DataReader,inputDict):
     return html.Div([all_states,state_wise_metrics])
 
 
+
+#{"label": html.Div(
+#                [
+#                    html.Img(src="assets/infrastructure.jpg", height=30),
+#                    html.Div("Infrastructure", style={"font-weight":"bold",'font-size': 16, 'padding-left': 10}),
+#                ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
+#            ), "value":'infrastructure'},
 def educationLayout(DataReader,inputDict):
 
     """
@@ -471,14 +478,6 @@ def educationLayout(DataReader,inputDict):
                 ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
             ), "value":'participation'},
           
-           {"label": html.Div(
-                [
-                    html.Img(src="assets/infrastructure.jpg", height=30),
-                    html.Div("Infrastructure", style={"font-weight":"bold",'font-size': 16, 'padding-left': 10}),
-                ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
-            ), "value":'infrastructure'},
-           
-           
            {"label": html.Div(
                 [
                     html.Img(src="assets/faculty.png", height=30),

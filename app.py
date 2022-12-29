@@ -17,6 +17,9 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css',"/assets/ma
 app = DashProxy(__name__,external_stylesheets=external_stylesheets,transforms=[MultiplexerTransform()],
                 prevent_initial_callbacks=False)
 
+# name and Icon
+app._favicon = 'Application_Icon.PNG'
+app.title = "India's Regional Social and Economic Trends"
 # Master Layout
 app.layout = masterLayout()
 
