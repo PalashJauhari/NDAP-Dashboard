@@ -23,6 +23,8 @@ app.title = "India's Regional Social and Economic Trends"
 # Master Layout
 app.layout = masterLayout()
 
+server = app.server
+
 # Import data reader module
 DataReader = DataReader()
 
@@ -201,4 +203,4 @@ def renderFunction_employment(value_employment_all_states_metric_dropdown,
 
 
 if __name__ == "__main__":
-    app.run_server()
+    app.run_server(debug=False)
