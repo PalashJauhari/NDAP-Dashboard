@@ -9,3 +9,4 @@ plotly==5.11.0
 openpyxl
 matplotlib
 seaborn
+dash_extensions
