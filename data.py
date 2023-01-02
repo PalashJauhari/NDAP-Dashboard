@@ -298,6 +298,8 @@ class DataReader():
         df_final['Residence_Type']=res_type
         df_health_status = pd.concat([df_health_status,df_final],axis=0)
         df_health_status = df_health_status.reset_index().drop(columns="index")
+        
+        df_health_status["imr"]=df_health_status["imr"]/10 # imr is for per 1000 births. to get % value we need it per 100 birth. so dividing by 10.
     
         # children immunisation
         df_children_immunisation_1 = df_children_immunisation[df_children_immunisation["Age group of children in months"]=="all (0-71 months)"]
