@@ -13,5 +13,4 @@ COPY . /app
 WORKDIR /app
 
 # run the app when the container is started
-#CMD ["python", "app.py"]
-CMD [gunicorn app:server]
+CMD ["python", "app.py"]
