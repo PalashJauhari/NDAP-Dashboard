@@ -214,6 +214,7 @@ def employmentLayout(DataReader,inputDict):
         df2 = df2[df2["State"]==inputDict["value_employment_state_wise_state_dropdown_1"]]
 
         labels = list(np.unique(df1[var1]))
+        labels.remove("all ages")
 
         y1, y2 = [],[]
         for i in labels:
