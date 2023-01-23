@@ -47,7 +47,7 @@ def employmentLayout(DataReader,inputDict):
         x = list(np.round(df[var1].values,1))
         y = list(df["State"].values)
         fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=[str(int(i))+" %" for i in x],
-                               textposition='inside',marker=dict(color=x,colorscale='turbo_r')))
+                               textposition='inside',marker=dict(color=x,colorscale='turbo')))
         fig.update_layout(title={"text":"<b>{} : {} %</b>".format(var1,int(np.mean(df[var1])))},
                           margin=dict(l=0, r=0, t=25, b=0),height=1000)
         fig.add_vline(x=np.mean(df[var1]), line_width=3, line_dash="dash", line_color="black")
