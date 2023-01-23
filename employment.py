@@ -15,8 +15,8 @@ def employmentLayout(DataReader,inputDict):
     metric_dropdown = dcc.Dropdown(options=[{"label":"Households Paying Income Tax","value":"income_tax"},
                                             {"label":"Distribution of Job Sector","value":"distribution_job_sector"},
                                             {"label":"Distribution of Households Income","value":"distribution_household_income"},
-                                            {"label":"Average Salary - Salaried Employee","value":"average_salary_salaried"},
-                                            {"label":"Average Salary - Casual Labour","value":"average_salary_casual"},
+                                            {"label":"Average Monthly Salary - Salaried Employee","value":"average_salary_salaried"},
+                                            {"label":"Average Daily Salary - Casual Labour","value":"average_salary_casual"},
                                             {"label":"Unemployment Rate","value":"unemployment_rate"}],
                                            value=inputDict["value_employment_all_states_metric_dropdown"],
                                            id="employment_all_states_metric_dropdown",
@@ -62,9 +62,9 @@ def employmentLayout(DataReader,inputDict):
         df = df.sort_values(var1,ascending=True)
         x = list(np.round(df[var1].values,1))
         y = list(df["State"].values)
-        fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=list(df[var1].values),
+        fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=["Rs."+str(int(i)) for i in x],
                                textposition='inside',marker=dict(color=x,colorscale='turbo_r')))
-        fig.update_layout(title={"text":"<b>{} : {} </b>".format(var1,int(np.mean(df[var1])))},
+        fig.update_layout(title={"text":"<b> {} : Rs.{} </b>".format(var1,int(np.mean(df[var1])))},
                           margin=dict(l=0, r=0, t=25, b=0),height=1000)
         fig.add_vline(x=np.mean(df[var1]), line_width=3, line_dash="dash", line_color="black")
     
@@ -140,7 +140,7 @@ def employmentLayout(DataReader,inputDict):
                                             maxHeight=175)
 
     state_wise_metric_dropdown = dcc.Dropdown(options=[
-                                            {"label":"Average Salary","value":"average_salary"},
+                                            {"label":"Average Monthly Salary","value":"average_salary"},
                                             {"label":"Unemployment Rate By Age","value":"unemployment_rate_age"},
                                             {"label":"Unemployment Rate By employment Level","value":"unemployment_rate_employment"}],                                       
                                            value=inputDict["value_employment_state_wise_metric_dropdown"],

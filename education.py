@@ -51,7 +51,7 @@ def education_participation_layout(DataReader,inputDict):
         y = list(df["State"].values)
         
         fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=list(df["Attendance ratio"].values),
-                               textposition='inside',marker=dict(color=x,colorscale='turbo')))
+                               textposition='inside',marker=dict(color=x,colorscale='turbo_r')))
         fig.update_layout(title={"text":"<b>Average Attendance Ratio : {} %</b>".format(int(np.mean(df["Attendance ratio"])))},
                           margin=dict(l=0, r=0, t=25, b=0),height=1000)
         fig.add_vline(x=np.mean(df["Attendance ratio"]), line_width=3, line_dash="dash", line_color="black")
@@ -69,7 +69,7 @@ def education_participation_layout(DataReader,inputDict):
         y = list(df["State"].values)
         
         fig = go.Figure(go.Bar(x=x,y=y,orientation='h',text=list(df["Gross enrolment ratio ( ger )"].values),
-                               textposition='inside',marker=dict(color=x,colorscale='turbo')))
+                               textposition='inside',marker=dict(color=x,colorscale='turbo_r')))
         fig.update_layout(title={"text":"<b>Average Gross Enrolment : {} %</b>".format(int(np.mean(df["Gross enrolment ratio ( ger )"])))},
                           margin=dict(l=0, r=0, t=25, b=0),height=1000)
         fig.add_vline(x=np.mean(df["Gross enrolment ratio ( ger )"]), line_width=3, line_dash="dash", line_color="black")

@@ -10,3 +10,5 @@ openpyxl
 matplotlib
 seaborn
 dash_extensions
+boto3
+gunicorn

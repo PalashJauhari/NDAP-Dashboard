@@ -168,7 +168,8 @@ def socioeconomicLayout(DataReader,inputDict):
 
         df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
         df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
-        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        #df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        df_state_all = df[df["Residence_Type"]=="All"]
 
         labels = ["Normal Households %","Institutional Households %","Houseless Households %"]
 
@@ -197,7 +198,8 @@ def socioeconomicLayout(DataReader,inputDict):
 
         df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
         df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
-        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        #df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        df_state_all = df[df["Residence_Type"]=="All"]
 
         labels = ["Electricity & Toilets %","Only Electricity %","Only Toilets %","None %"]
 
@@ -225,7 +227,8 @@ def socioeconomicLayout(DataReader,inputDict):
 
         df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
         df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
-        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        #df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        df_state_all = df[df["Residence_Type"]=="All"]
 
         labels = ['Gas Cylinder %','Cowdung/Coal/Wood %','Kerosene %','Others %']
 
@@ -254,7 +257,9 @@ def socioeconomicLayout(DataReader,inputDict):
 
         df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
         df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
-        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        #df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        df_state_all = df[df["Residence_Type"]=="All"]
+        
         labels = ['Bank Account %','Post Office Account %','No Deposit Account %']
 
         values,y_urban,y_rural,y_country_mean = [],[],[],[]
@@ -281,7 +286,8 @@ def socioeconomicLayout(DataReader,inputDict):
 
         df_state_urban = df_state[df_state["Residence_Type"]=="Urban"]
         df_state_rural = df_state[df_state["Residence_Type"]=="Rural"]
-        df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        #df_state_all = df_state[df_state["Residence_Type"]=="All"]
+        df_state_all = df[df["Residence_Type"]=="All"]
 
         labels = ["Gini's coefficient"]
 
