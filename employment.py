@@ -142,7 +142,7 @@ def employmentLayout(DataReader,inputDict):
     state_wise_metric_dropdown = dcc.Dropdown(options=[
                                             {"label":"Average Monthly Salary","value":"average_salary"},
                                             {"label":"Unemployment Rate By Age","value":"unemployment_rate_age"},
-                                            {"label":"Unemployment Rate By employment Level","value":"unemployment_rate_employment"}],                                       
+                                            {"label":"Unemployment Rate By Education Level","value":"unemployment_rate_employment"}],                                       
                                            value=inputDict["value_employment_state_wise_metric_dropdown"],
                                            id="employment_state_wise_metric_dropdown",
                                            maxHeight=175)
